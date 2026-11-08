@@ -1,0 +1,40 @@
+id: gazal-189
+category: gazal
+number: 189
+firstLine:
+  fa: طایرِ دولت اَگر باز گذاری بکند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - طایرِ دولت اَگر باز گذاری بکند
+      - یار باز آید و با وصل، قراری بکند
+    - - دیده را دستگهِ دُرّ و گهر، گرچه نمانْد
+      - بخورد خونی و تدبیرِ نثاری بکند
+    - - 'دوش گفتم: «بکند لعلِ لبش، چارهٔ من؟»'
+      - 'هاتفِ غیب، ندا داد که: «آری! بکند»'
+    - - کس نیارد برِ او دم زند از قصّهٔ ما
+      - مگرش بادِ صبا گوش گذاری بکند
+    - - داده‌ام بازِ نظر را به تَذَرْوی پرواز
+      - بازخواند مگرش نقش و شکاری بکند
+    - - شهر خالیست ز عشّاق؛ بود کز طرفی
+      - مردی از خویش برون آید و کاری بکند
+    - - کو کریمی که ز بزم طربش، غم‌زده‌ای
+      - جرعه‌ای درکشد و دفع خُماری بکند؟
+    - - یا وفا، یا خبرِ وصل تو، یا مرگ رقیب
+      - بود آیا که فلک، زین دو سه، کاری بکند؟
+    - - «حافظا»! گر نروی از در او، هم روزی
+      - گذری بر سرت از گوشه کناری بکند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 189
+    url: https://ganjoor.net/hafez/ghazal/sh189
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 189
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

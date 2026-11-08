@@ -1,0 +1,36 @@
+id: gazal-083
+category: gazal
+number: 83
+firstLine:
+  fa: گر ز دستِ زلفِ مُشکینت خطایی رفت رفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر ز دستِ زلفِ مُشکینت خطایی رفت رفت
+      - ور ز هندویِ شما بر ما جفایی رفت رفت
+    - - برقِ عشق ار خرمنِ پشمینه پوشی سوخت سوخت
+      - جورِ شاه کامران گر بر گدایی رفت رفت
+    - - در طریقت رنجشِ خاطر نباشد می بیار
+      - هر کدورت را که بینی چون صفایی رفت رفت
+    - - عشقبازی را تحمل باید ای دل، پای دار
+      - گر ملالی بود بود و گر خطایی رفت رفت
+    - - گر دلی از غمزهٔ دلدار باری برد برد
+      - ور میان جان و جانان ماجرایی رفت رفت
+    - - از سخن چینان ملالت‌ها پدید آمد ولی
+      - گر میانِ همنشینان ناسزایی رفت رفت
+    - - عیبِ حافظ گو مکن واعظ که رفت از خانقاه
+      - پای آزادی چه بندی؟ گر به جایی رفت رفت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 83
+    url: https://ganjoor.net/hafez/ghazal/sh83
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 83
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

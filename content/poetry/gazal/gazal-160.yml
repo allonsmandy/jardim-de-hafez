@@ -1,0 +1,36 @@
+id: gazal-160
+category: gazal
+number: 160
+firstLine:
+  fa: خوش است خلوت اگر یار یارِ من باشد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خوش است خلوت اگر یار یارِ من باشد
+      - نه من بسوزم و او شمعِ انجمن باشد
+    - - من آن نگینِ سلیمان به هیچ نَسْتانَم
+      - که گاه گاه بر او دستِ اهرمن باشد
+    - - روا مدار خدایا که در حریمِ وصال
+      - رقیب محرم و حِرمان نصیبِ من باشد
+    - - هُمای گو مَفِکَن سایهٔ شرف هرگز
+      - در آن دیار که طوطی کم از زَغَن باشد
+    - - بیانِ شوق چه حاجت؟ که سوز آتش دل
+      - توان شناخت ز سوزی که در سخن باشد
+    - - هوایِ کویِ تو از سر نمی‌رود آری
+      - غریب را دلِ سرگشته با وطن باشد
+    - - به سانِ سوسن اگر دَه‌زبان شود حافظ
+      - چو غنچه پیشِ تواش مُهر بر دهن باشد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 160
+    url: https://ganjoor.net/hafez/ghazal/sh160
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 160
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

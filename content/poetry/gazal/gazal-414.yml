@@ -1,0 +1,36 @@
+id: gazal-414
+category: gazal
+number: 414
+firstLine:
+  fa: گلبن عیش می‌دمد ساقی گل‌عذار کو؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گلبن عیش می‌دمد ساقی گل‌عذار کو؟
+      - باد بهار می‌وزد بادهٔ خوش‌گوار کو؟
+    - - هر گل نو ز گل‌رخی یاد همی کند ولی
+      - گوش سخن‌شنو کجا؟ دیدهٔ اعتبار کو؟
+    - - مجلس بزم عیش را غالیهٔ مراد نیست
+      - ای دمِ صبحِ خوش‌نفس نافهٔ زلف یار کو؟
+    - - حُسن‌فروشیِ گلم نیست تحمل ای صبا
+      - دست زدم به خون دل بهر خدا نگار کو؟
+    - - شمع سحرگهی اگر لاف ز عارض تو زد
+      - خصم زبان دراز شد خنجر آبدار کو؟
+    - - گفت «مگر ز لعل من بوسه نداری آرزو؟»
+      - مُردم از این هوس ولی قدرت و اختیار کو؟
+    - - حافظ اگر چه در سخن خازن گنج حکمت است
+      - از غم روزگارِ دون، طبعِ سخن‌گزار کو؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 414
+    url: https://ganjoor.net/hafez/ghazal/sh414
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 414
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

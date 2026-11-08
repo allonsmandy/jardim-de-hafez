@@ -1,0 +1,36 @@
+id: gazal-157
+category: gazal
+number: 157
+firstLine:
+  fa: هر که را با خطِ سبزت سرِ سودا باشد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هر که را با خطِ سبزت سرِ سودا باشد
+      - پای از این دایره بیرون نَنِهَد تا باشد
+    - - من چو از خاکِ لحد لاله‌صفت برخیزم
+      - داغِ سودای توام سِرِّ سُویدا باشد
+    - - تو خود ای گوهرِ یک‌دانه کجایی آخِر
+      - کز غمت دیدهٔ مردم همه دریا باشد
+    - - از بُنِ هر مژه‌ام آب روان است بیا
+      - اگرت میلِ لبِ جوی و تماشا باشد
+    - - چون گل و مِی دمی از پرده برون آی و درآ
+      - که دگرباره ملاقات نه پیدا باشد
+    - - ظِلِّ مَمدودِ خَمِ زلفِ توام بر سر باد
+      - کاندر این سایه قرارِ دلِ شیدا باشد
+    - - چشمت از ناز به حافظ نکند میل آری
+      - سرگرانی صفتِ نرگسِ رعنا باشد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 157
+    url: https://ganjoor.net/hafez/ghazal/sh157
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 157
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

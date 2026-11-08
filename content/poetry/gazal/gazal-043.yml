@@ -1,0 +1,36 @@
+id: gazal-043
+category: gazal
+number: 43
+firstLine:
+  fa: صَحنِ بُستان ذوق‌بخش و صحبتِ یاران خوش است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صَحنِ بُستان ذوق‌بخش و صحبتِ یاران خوش است
+      - وقتِ گل خوش باد کز وی وقتِ می‌خواران خوش است
+    - - از صبا هر دم مشامِ جانِ ما خوش می‌شود
+      - آری آری طیبِ اَنفاسِ هواداران خوش است
+    - - ناگشوده گُل نِقاب، آهنگِ رحلت ساز کرد
+      - ناله‌ کن بلبل که گلبانگِ دل‌اَفکاران خوش است
+    - - مرغِ خوشخوان را بشارت باد کاندر راهِ عشق
+      - دوست را با نالهٔ شب‌های بیداران خوش است
+    - - نیست در بازارِ عالَم خوشدلی ور زان که هست
+      - شیوهٔ رندی و خوش‌باشیِ عیاران خوش است
+    - - از زبانِ سوسنِ آزاده‌ام آمد به گوش
+      - کاندر این دِیرِ کهن، کارِ سبکباران خوش است
+    - - حافظا! تَرکِ جهان گفتن طریقِ خوشدلیست
+      - تا نپنداری که احوالِ جهان‌داران خوش است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 43
+    url: https://ganjoor.net/hafez/ghazal/sh43
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 43
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

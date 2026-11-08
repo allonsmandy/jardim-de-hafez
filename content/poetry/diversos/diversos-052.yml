@@ -1,0 +1,26 @@
+id: diversos-052
+category: diversos
+number: 52
+firstLine:
+  fa: شب رفت به پایان و حکایت باقیست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شب رفت به پایان و حکایت باقیست
+      - شکر تو نگفتیم و شکایت باقیست
+    - - گستاخی ما ز حد برون رفت ولی
+      - المنة لله که حکایت باقیست
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 52
+    url: https://ganjoor.net/hafez/montasab/sh52
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 52
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-380
+category: gazal
+number: 380
+firstLine:
+  fa: بارها گفته‌ام و بار دگر می‌گویم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بارها گفته‌ام و بار دگر می‌گویم
+      - که منِ دل‌شده این ره، نه به خود می‌پویم
+    - - در پس آینه، طوطی‌صفتم داشته‌اند
+      - آن چه استاد ازل گفت بگو، می‌گویم
+    - - من اگر خارم و گر گل چمن‌آرایی هست
+      - که از آن دست که او می‌کِشدم، می‌رویم
+    - - دوستان! عیب من بی‌دل حیران مکنید
+      - گوهری دارم و صاحب نظری می‌جویم
+    - - گر چه با دلق ملمع، مِیِ گلگون عیب است
+      - مکنم عیب کَزو رنگِ ریا می‌شویم
+    - - خنده و گریه عشاق ز جایی دگر است
+      - می‌سرایم به شب و وقت سحر می‌مویم
+    - - حافظم گفت که «خاک در میخانه مبوی»
+      - گو «مکن عیب که من مشک ختن می‌بویم»
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 380
+    url: https://ganjoor.net/hafez/ghazal/sh380
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 380
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

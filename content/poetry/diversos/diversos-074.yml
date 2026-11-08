@@ -1,0 +1,26 @@
+id: diversos-074
+category: diversos
+number: 74
+firstLine:
+  fa: خیر مقدم مرحبا ای طایر میمون قدم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خیر مقدم مرحبا ای طایر میمون قدم
+      - تا چه داری مژدهٔ اقبال آن صاحب کرم
+    - - دور تا با دور گردون همعنان باد آنچنان
+      - گر محاسب بشمرد حرفی نیابد بیش و کم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 74
+    url: https://ganjoor.net/hafez/montasab/sh74
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 74
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

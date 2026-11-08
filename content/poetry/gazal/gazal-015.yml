@@ -1,0 +1,166 @@
+id: gazal-015
+category: gazal
+number: 15
+firstLine:
+  fa: ای شاهد قدسی، کِه کَشَد بند نقابت؟
+  pt: Ó beleza sagrada, quem desata o laço do teu véu?
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای شاهد قدسی، کِه کَشَد بند نقابت؟
+      - وی مرغ بهشتی، که دهد دانه و آبت؟
+    - - خوابم بشد از دیده در این فکر جگرسوز
+      - کآغوشِ که شد منزل آسایش و خوابت؟
+    - - درویش نمی‌پرسی و ترسم که نباشد
+      - اندیشهٔ آمرزش و پروای ثوابت
+    - - راه دل عشّاق زد آن چشم خماری
+      - پیداست از این شیوه که مست است شرابت
+    - - تیری که زدی بر دلم از غمزه خطا رفت
+      - تا باز چه اندیشه کند رأی صوابت
+    - - هر ناله و فریاد که کردم نشنیدی
+      - پیداست نگارا که بلند است جَنابت
+    - - دور است سر آب از این بادیه، هشدار
+      - تا غول بیابان نفریبد به سرابت
+    - - تا در ره پیری به چه آیین رَوی ای دل
+      - باری به غلط صرف شد ایّامِ شبابت
+    - - ای قصرِ دل‌افروز که منزلگهِ انسی
+      - یا رب مَکُناد آفتِ ایّام، خرابت
+    - - حافظ نه غلامیست که از خواجه گریزد
+      - صلحی کن و بازآ که خرابم ز عِتابت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 15
+    url: https://ganjoor.net/hafez/ghazal/sh15
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Ó beleza sagrada, quem desata o laço do teu véu?
+      - Ó pássaro do paraíso, quem te dá o grão e a água?
+    - - 'Fugiu o sono dos meus olhos com este pensamento que me queima por dentro:'
+      - de quem é o abraço que virou a morada do teu descanso e do teu sono?
+    - - Não perguntas pelo dervixe, e temo que não tenhas
+      - nem pensamento de perdão, nem cuidado com a recompensa divina.
+    - - Aquele olhar lânguido assaltou o caminho do coração dos amantes;
+      - por esse jeito se vê que o teu vinho é forte.
+    - - A flecha que me lançaste ao coração com um olhar errou o alvo;
+      - vejamos agora o que pensa o teu juízo certeiro.
+    - - A cada gemido e grito que dei, não me ouviste;
+      - é evidente, ó bela, que a tua posição é alta demais.
+    - - 'A fonte d’água está longe deste deserto: cuidado,'
+      - que o demônio do deserto não te engane com uma miragem.
+    - - Vejamos como seguirás no caminho da velhice, ó coração;
+      - afinal, por engano, gastaste os dias da tua juventude.
+    - - Ó palácio que alegras o coração, morada da intimidade,
+      - meu Deus, que as desgraças dos dias não te arruínem.
+    - - Hafez não é um escravo que fuja do seu senhor;
+      - faz as pazes e volta, que estou arruinado pela tua repreensão.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 15
+themes:
+  - Uma beleza vinda do céu
+  - Ciúme e insônia
+  - Não se iludir com miragens
+  - Fazer as pazes
+introduction:
+  - 'O poeta se dirige a uma beleza tão perfeita que parece vinda do paraíso, e passa por muitos
+    sentimentos: admiração, ciúme, queixa por não ser ouvido, um aviso sobre as ilusões da vida e,
+    no fim, um pedido de reconciliação.'
+  - Todas as rimas terminam em "-t" ("teu, tua" em persa), então o poema inteiro é uma conversa com
+    "você".
+stanzaNotes:
+  - stanza: 1
+    plain:
+      Você é tão linda que parece um anjo. Quem tem a sorte de ver seu rosto sem véu? Quem cuida de
+      você?
+    meaning:
+      '"Shāhed-e qodsi" é a beleza sagrada, celestial. Na leitura espiritual, é a própria beleza
+      divina, que se esconde atrás de véus. O "pássaro do paraíso" depende de alguém que o alimente:
+      o poeta quer saber quem tem esse privilégio.'
+    choices: '"Shāhed" (testemunha, beleza) foi traduzido como "beleza" para manter o verso simples.'
+  - stanza: 2
+    plain: 'Não consigo dormir pensando: nos braços de quem você está dormindo agora?'
+    meaning: 'Ciúme puro. "Jegar-suz" é "que queima o fígado": na cultura persa, o fígado (e não o
+      coração) é o lugar da dor profunda.'
+    choices:
+      Trocamos "que queima o fígado" por "que me queima por dentro", porque em português o fígado
+      não tem esse sentido emocional.
+  - stanza: 3
+    plain: Você nem pergunta como eu, coitado, estou. Parece que não se importa em fazer o bem — nem
+      pensando na recompensa de Deus.
+    meaning: Fazer caridade ao pobre (o dervixe) traz perdão e recompensa no outro mundo (savāb). O
+      poeta lembra, meio brincando, que cuidar dele é uma boa ação.
+    choices: '"Savāb" é o mérito religioso pelas boas ações; "recompensa divina" deixa claro o sentido.'
+  - stanza: 4
+    plain: Esse seu olhar sonolento rouba o coração de todo mundo. Dá para ver que você está
+      "embriagando" as pessoas.
+    meaning:
+      '"Rāh zadan" é assaltar viajantes na estrada. O olhar lânguido (como de quem bebeu) é um
+      bandido que rouba corações.'
+    choices:
+      '"Mast ast sharābat" (teu vinho está embriagado) é uma expressão estranha também em persa;
+      a leitura comum é "teu vinho é forte".'
+  - stanza: 5
+    plain: Você tentou me acertar com um olhar e errou. Vamos ver o que você vai inventar agora.
+    meaning:
+      'Jogo de opostos: "khatā" (erro, errar o alvo) e "savāb" (acerto, juízo correto). O olhar
+      (ghamze) é flecha.'
+    choices: Reproduzimos o contraste com "errou o alvo / juízo certeiro".
+  - stanza: 6
+    plain: 'Gritei e chorei, e você não ouviu nada. Claro: você está num lugar alto demais para me
+      escutar.'
+    meaning: '"Jenāb" é o lugar elevado, a dignidade. Ironia: o amado está "tão acima" que nem escuta.'
+    choices: Mantivemos a ironia sem explicitá-la no verso.
+  - stanza: 7
+    plain: Ainda falta muito para encontrar água neste deserto. Cuidado para não ser enganado por
+      miragens.
+    meaning:
+      O "ghul" é um demônio do deserto das lendas árabes e persas, que engana viajantes e os faz
+      se perder (daí vem a palavra inglesa "ghoul"). É um aviso sobre as ilusões da vida.
+    choices: Traduzimos "ghul" como "demônio do deserto" e explicamos a lenda.
+  - stanza: 8
+    plain: Coração, você desperdiçou a juventude. Pelo menos na velhice, tente fazer as coisas direito.
+    meaning:
+      Um balanço de vida, tema frequente em Hafez. O verso deixa no ar se o "engano" foi o amor
+      ou foi justamente não ter amado o suficiente.
+    choices: '"Bāri" (afinal, de qualquer modo) dá um tom de resignação que tentamos manter.'
+  - stanza: 9
+    plain: 'Você, lugar onde meu coração se sente em casa: que nada de ruim aconteça com você.'
+    meaning:
+      O "palácio" pode ser o coração do amado, a casa onde o poeta foi feliz ou um lugar real. A
+      prece é para que o tempo não destrua o que é bom.
+    choices: Mantivemos a ambiguidade do "palácio".
+  - stanza: 10
+    plain: Hafez não vai fugir de você. Vamos fazer as pazes — essa bronca está acabando comigo.
+    meaning: 'O poema termina com reconciliação: o amante fiel não abandona o amado, mesmo depois de
+      brigas.'
+    choices: '"''Etāb" é a repreensão entre íntimos (a mesma palavra do gazel 2).'
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - dervixe
+  - amado
+  - vinho
+  - takhallos
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

@@ -1,0 +1,40 @@
+id: gazal-387
+category: gazal
+number: 387
+firstLine:
+  fa: شاه شمشادقدان، خسرو شیرین‌دهنان
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شاه شمشادقدان، خسرو شیرین‌دهنان
+      - که به مژگان شکند قلب همه صف‌شکنان
+    - - مست بگذشت و نظر بر من درویش انداخت
+      - 'گفت: ای چشم و چراغ همه شیرین‌سخنان'
+    - - تا کی از سیم و زرت کیسه تهی خواهد بود؟
+      - بندهٔ من شو و برخور ز همه سیم‌تنان
+    - - کمتر از ذره نه‌ای، پست مشو، مهر بورز
+      - تا به خلوتگه خورشید رسی چرخ‌زنان
+    - - بر جهان تکیه مکن ور قدحی مِی‌ داری
+      - شادی زهره‌جبینان خور و نازک‌بدنان
+    - - پیر پیمانه‌کش من که روانش خوش باد
+      - 'گفت: پرهیز کن از صحبت پیمان‌شکنان'
+    - - دامن دوست به دست آر و ز دشمن بگسل
+      - مرد یزدان شو و فارغ گذر از اهرمنان
+    - - با صبا در چمن لاله سحر می‌گفتم
+      - که شهیدانِ که‌اند این همه خونین‌کفنان
+    - - 'گفت: حافظ! من و تو محرم این راز نه‌ایم'
+      - از می لعل حکایت کن و شیرین‌دهنان
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 387
+    url: https://ganjoor.net/hafez/ghazal/sh387
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 387
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,26 @@
+id: qete-006
+category: qete
+number: 6
+firstLine:
+  fa: رحمان لایموت چو آن پادشاه را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - رحمان لایموت چو آن پادشاه را
+      - دید آن چنان کز او عمل الخیر لایفوت
+    - - جانش غریق رحمت خود کرد تا بود
+      - تاریخ این معامله رحمان لایموت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 6
+    url: https://ganjoor.net/hafez/ghete/sh6
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 6
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

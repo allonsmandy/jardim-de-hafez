@@ -1,0 +1,182 @@
+id: gazal-011
+category: gazal
+number: 11
+firstLine:
+  fa: ساقی به نورِ باده برافروز جامِ ما
+  pt: Copeiro, acende a nossa taça com a luz do vinho
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقی به نورِ باده برافروز جامِ ما
+      - مطرب بگو که کارِ جهان شُد به کامِ ما
+    - - ما در پیاله عکس رخِ یار دیده‌ایم
+      - ای بی‌خبر ز لَذَّتِ شُربِ مُدامِ ما
+    - - هرگز نمیرد آن که دلش زنده شد به عشق
+      - ثبت است بر جَریدهٔ عالم دوامِ ما
+    - - چندان بُوَد کرشمه و نازِ سَهی‌قدان
+      - کآید به جلوه سروِ صنوبرخَرامِ ما
+    - - ای باد اگر به گُلشنِ اَحباب بُگذری
+      - زِنهار، عَرضه دِه بَرِ جانان پیامِ ما
+    - - گو نامِ ما زِ یاد به عمدا چه می‌بری؟
+      - خود آید آن که یاد نیاری ز نامِ ما
+    - - مستی به چشمِ شاهدِ دلبندِ ما خوش است
+      - زآن رو سپرده‌اند به مستی زمامِ ما
+    - - ترسم که صَرفه‌ای نَبَرَد روزِ بازخواست
+      - نانِ حلالِ شیخ ز آبِ حرامِ ما
+    - - حافظ ز دیده دانهٔ اشکی همی‌فشان
+      - باشد که مُرغِ وصل کُند قصدِ دامِ ما
+    - - دریای اَخضَرِ فَلَک و کَشتی هِلال
+      - هستند غرقِ نعمتِ حاجی‌قوامِ ما
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 11
+    url: https://ganjoor.net/hafez/ghazal/sh11
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Copeiro, acende a nossa taça com a luz do vinho;
+      - 'cantor, canta: o mundo agora anda como queremos.'
+    - - Nós vimos na taça o reflexo do rosto do amado —
+      - ó tu, que nada sabes do prazer do nosso beber sem fim!
+    - - 'Jamais morre aquele cujo coração foi vivificado pelo amor:'
+      - está inscrita no registro do mundo a nossa permanência.
+    - - Só dura o charme e o dengo dos de porte esbelto
+      - até que surja, em todo o seu brilho, o nosso cipreste de andar elegante.
+    - - Ó vento, se passares pelo roseiral dos amigos,
+      - por favor, leva ao amado a nossa mensagem.
+    - - 'Dize: por que apagas de propósito o nosso nome da memória?'
+      - Virá por si o dia em que não lembrarás o nosso nome.
+    - - A embriaguez fica bem nos olhos da beldade que nos prende o coração;
+      - por isso confiaram à embriaguez as nossas rédeas.
+    - - Temo que, no Dia do Juízo, não leve nenhuma vantagem
+      - o pão honesto do xeque sobre a nossa água proibida.
+    - - 'Hafez, derrama dos olhos grãos de lágrimas:'
+      - quem sabe o pássaro da união venha cair na nossa armadilha.
+    - - O mar verde do céu e o barco da lua nova
+      - estão mergulhados na generosidade do nosso Haji Qavam.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 11
+themes:
+  - Quem ama não morre
+  - O rosto do amado na taça
+  - Um elogio a um protetor
+introduction:
+  - 'Um gazel alegre e confiante. Tem um dos versos mais citados de Hafez: "Jamais morre aquele cujo
+    coração foi vivificado pelo amor".'
+  - 'No fim, o poeta elogia uma pessoa real: Haji Qavam, um ministro de Shiraz que protegia Hafez.
+    Na época, os poetas dependiam desses protetores (mecenas), e era comum homenageá-los no último
+    verso.'
+stanzaNotes:
+  - stanza: 1
+    plain:
+      'Copeiro, encha meu copo de vinho brilhante! Músico, cante: hoje tudo está dando certo para
+      nós.'
+    meaning: O vinho brilha como fogo dentro da taça. O tom é de celebração; o "cantor" (motreb) é o
+      músico das festas.
+    choices: '"Kār-e jahān shod be kām-e mā" é "o assunto do mundo ficou segundo o nosso desejo";
+      simplificamos para "o mundo agora anda como queremos".'
+  - stanza: 2
+    plain:
+      Quando olho dentro do copo, vejo o rosto de quem eu amo. Você, que não bebe, não faz ideia do
+      que é isso.
+    meaning:
+      'A taça como espelho: na leitura espiritual, quem tem o coração puro vê nele o reflexo de
+      Deus. O poeta fala com quem critica sem entender.'
+    choices:
+      '"Modām" quer dizer "contínuo" e também "vinho"; "beber sem fim" mantém o primeiro sentido
+      e sugere o segundo.'
+  - stanza: 3
+    plain: Quem ama de verdade nunca morre. Nosso nome fica escrito para sempre na história do mundo.
+    meaning:
+      Um dos versos mais famosos de Hafez. O amor dá uma vida que vai além da morte do corpo. Na
+      leitura sufi, quem morre para o ego e vive pelo amor de Deus se torna eterno.
+    choices: '"Jaride-ye ''ālam" é "o registro/livro do mundo"; mantivemos "registro" para
+      conservar a imagem de algo escrito oficialmente.'
+  - stanza: 4
+    plain:
+      As outras pessoas bonitas só fazem charme até o meu amor aparecer. Quando ele surge, ninguém
+      mais chama atenção.
+    meaning: O cipreste é o símbolo do corpo esbelto. Os outros belos são ciprestes também, mas o do
+      poeta é incomparável.
+    choices:
+      '"Sanowbar-kharām" é "de andar de pinheiro", isto é, de passo altivo e elegante; "de andar
+      elegante" é mais claro.'
+  - stanza: 5
+    plain: Vento, se passar pelo jardim onde estão meus amigos, entregue meu recado a quem eu amo.
+    meaning: De novo o vento como carteiro dos apaixonados.
+    choices: '"Zenhār" é um pedido enfático ("por favor, não deixes de"); "por favor" basta.'
+  - stanza: 6
+    plain:
+      'Diga a ele(a): para que se esforçar para me esquecer? Logo, logo você vai me esquecer sem
+      querer.'
+    meaning: 'Um verso triste e irônico: não precisa tentar esquecer, o tempo (ou a morte) fará isso
+      sozinho.'
+    choices: Mantivemos a construção do original, em que o segundo verso responde ao primeiro.
+  - stanza: 7
+    plain: Os olhos de quem eu amo parecem embriagados — e ficam lindos assim. Por isso eu também me
+      deixo levar pela embriaguez.
+    meaning:
+      '"Olhos embriagados" (lânguidos, meio fechados) eram um ideal de beleza. O poeta justifica
+      a própria embriaguez: ele só imita o amado.'
+    choices:
+      '"Shāhed" é "a testemunha" e, na poesia, a pessoa bela que "testemunha" a beleza divina;
+      "beldade" é o sentido principal.'
+  - stanza: 8
+    plain:
+      Tenho a impressão de que, no Juízo Final, o religioso certinho não vai se sair melhor do que
+      nós, que bebemos.
+    meaning:
+      '"Halāl" é o que a religião permite, "harām" o que ela proíbe. O pão do xeque é "halāl"; o
+      vinho do poeta é "harām". Mas talvez Deus julgue pela sinceridade, não pelas aparências — e o
+      xeque pode ter ganhado o pão com hipocrisia.'
+    choices:
+      '"Āb-e harām" (água proibida) é o vinho; mantivemos "água" para preservar o contraste com o
+      pão.'
+  - stanza: 9
+    plain:
+      'Hafez, continue chorando: suas lágrimas são como migalhas que atraem um passarinho — quem
+      sabe assim o reencontro com o amado acontece.'
+    meaning: As lágrimas são os grãos espalhados como isca, e o encontro com o amado é um pássaro
+      difícil de pegar.
+    choices: Tradução literal; a imagem é clara.
+  - stanza: 10
+    plain: Até o céu e a lua parecem mergulhados na generosidade do meu protetor, Haji Qavam.
+    meaning:
+      Haji Qavam al-Din Hasan foi um ministro em Shiraz, protetor de Hafez, que morreu em 1353. O
+      céu é um mar verde e a lua crescente é um barquinho — e até eles estariam "inundados" pela
+      generosidade do mecenas. É um elogio exagerado, comum na época.
+    choices: '"Hilāl" é a lua crescente, fina como um barco; "lua nova" é a forma popular em português.'
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - saqi
+  - vinho
+  - amado
+  - saba
+  - xeque
+  - islam
+  - takhallos
+  - cipreste
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

@@ -1,0 +1,93 @@
+# MODELO de poema traduzido — copie os blocos marcados com «NOVO» para o arquivo pendente.
+# Os blocos marcados com «JÁ EXISTE» vieram do importador: não os altere.
+# Exemplo real completo: content/poetry/gazal/gazal-001.yml
+
+id: rubai-001 # «JÁ EXISTE»
+category: rubai # «JÁ EXISTE»
+number: 1 # «JÁ EXISTE»
+firstLine:
+  fa: جز نقش تو در نظر نیامد ما را # «JÁ EXISTE»
+  pt: Além da tua imagem, nada mais nos veio aos olhos # «NOVO» primeiro verso traduzido
+originalLanguage: fa
+original: # «JÁ EXISTE» — nunca editar
+  language: fa
+  stanzas:
+    - - جز نقش تو در نظر نیامد ما را
+      - جز کوی تو رهگذر نیامد ما را
+    - - خواب ار چه خوش آمد همه را در عهدت
+      - حقّا که به چشم دَر نیامد ما را
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 1
+    url: https://ganjoor.net/hafez/robaee2/sh1
+
+# «NOVO» ────────────────────────────────────────────────────────────────
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas: # mesmo número de estrofes E de versos que original.stanzas
+    - - Além da tua imagem, nada mais nos veio aos olhos;
+      - além da tua rua, nenhum caminho nos veio aos pés.
+    - - Embora o sono tenha sido doce a todos no teu tempo,
+      - em verdade, aos nossos olhos ele não veio.
+  translators:
+    - Codex (IA, OpenAI)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft # era "pending"
+publicationAuthorized: true # era "false"
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-08 # data de hoje
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+
+references: # «JÁ EXISTE» — pode acrescentar fontes consultadas
+  - source: qazvini-ghani
+    locator: Rubai 1
+
+themes: # «NOVO» 2 a 4 temas em linguagem simples
+  - Só ter olhos para quem se ama
+  - A insônia do apaixonado
+
+introduction: # «NOVO» 2 a 3 parágrafos para quem nunca leu poesia persa
+  - Um rubai é uma quadra — quatro versos — que diz tudo de uma vez, como um bilhete. Neste, o
+    poeta confessa que, desde que se apaixonou, não enxerga mais nada nem consegue dormir.
+  - 'Curiosidade: os rubaiyat atribuídos a Hafez são poucos, e os estudiosos têm menos certeza
+    sobre a autoria deles do que sobre os gazéis.'
+
+stanzaNotes: # «NOVO» UM item para CADA estrofe (stanza começa em 1)
+  - stanza: 1
+    plain: Desde que te conheci, só penso em você e só quero ir aonde você está.
+    meaning: >-
+      "Imagem" (naqsh) é também pintura, desenho: o rosto do amado ficou pintado nos olhos do
+      poeta. A "rua do amado" é imagem clássica da poesia persa: o amante ronda a rua de quem ama
+      na esperança de vê-lo. Na leitura mística, é a alma que só vê Deus em tudo.
+    literal: Exceto a imagem de ti, em vista não veio a nós / exceto a rua de ti, passante não veio a nós.
+    choices: >-
+      "Rahgozar" é ao mesmo tempo "caminho" e "quem passa"; escolhemos "caminho… aos pés" para
+      manter o paralelismo com "aos olhos" do primeiro verso.
+  - stanza: 2
+    plain: Todo mundo dorme tranquilo, menos eu — de tanto pensar em você.
+    meaning: >-
+      A insônia do amante é tema antigo: enquanto o mundo dorme, quem ama vigia. "No teu tempo"
+      pode ser também "sob o teu reinado", tratando o amado como um rei.
+    literal: O sono, embora agradável tenha vindo a todos no teu tempo, / na verdade, ao olho não entrou para nós.
+    choices: >-
+      "Ahd" é "época" e também "pacto, reinado"; ficamos com "no teu tempo" e explicamos o duplo
+      sentido aqui.
+
+glossary: [rubai, amado] # «NOVO» ids de content/glossary.yml (crie os que faltarem)
+
+culturalNotes: # «NOVO» opcional, 1 a 3 notas sobre o poema inteiro
+  - title: A rua do amado
+    body: Na poesia persa, o amante passa os dias na rua de quem ama, como um mendigo à porta.
+      Hafez volta a essa imagem dezenas de vezes no Divã.
+
+editorialNotes: # «JÁ EXISTE»
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08 # «NOVO» data de hoje

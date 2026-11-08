@@ -1,0 +1,34 @@
+id: gazal-113
+category: gazal
+number: 113
+firstLine:
+  fa: بنفشه دوش به گل گفت و خوش نشانی داد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بنفشه دوش به گل گفت و خوش نشانی داد
+      - که تابِ من به جهان، طُرِّهٔ فلانی داد
+    - - دلم خزانهٔ اسرار بود و دستِ قضا
+      - درش بِبَست و کلیدش به دل‌سِتانی داد
+    - - شکسته‌وار به درگاهت آمدم، که طبیب
+      - به مومیاییِ لطفِ توام، نشانی داد
+    - - تنش درست و دلش شاد باد و خاطر خوش
+      - که دست دادش و یاریِ ناتوانی داد
+    - - برو معالجهٔ خود کن ای نصیحت‌گو
+      - شراب و شاهدِ شیرین، که را زیانی داد؟
+    - - گذشت بر منِ مسکین و با رقیبان گفت
+      - دریغ، حافظِ مسکینِ من، چه جانی داد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 113
+    url: https://ganjoor.net/hafez/ghazal/sh113
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 113
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

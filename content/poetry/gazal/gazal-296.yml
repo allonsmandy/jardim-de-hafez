@@ -1,0 +1,40 @@
+id: gazal-296
+category: gazal
+number: 296
+firstLine:
+  fa: طالع اگر مدد دهد، دامنَش آوَرَم به کف
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - طالع اگر مدد دهد، دامنَش آوَرَم به کف
+      - گر بکِشم زهی طرب، ور بکُشد زهی شرف
+    - - طرْفِ کرَم ز کَس نبست، این دلِ پُر امیدِ من
+      - گر چه سخن همی بَرَد، قصهٔ من به هر طرف
+    - - از خَمِ ابرویِ توام، هیچ گشایشی نشد
+      - وَه که در این خیالِ کَج، عمرِ عزیز شد تلف
+    - - ابرویِ دوست کِی شود، دست‌کشِ خیالِ من؟
+      - کس نزده‌ست از این کمان، تیرِ مراد بر هدف
+    - - چند به ناز پرورم، مِهرِ بُتانِ سنگ‌دل
+      - یادِ پدر نمی‌کنند، این پسرانِ ناخلف
+    - - من به خیالِ زاهدی، گوشه‌نشین و طُرفه آنک
+      - مُغْبَچه‌ای ز هر طرف، می‌زندم به چنگ و دف
+    - - بی‌خبرند زاهدان، نقش بخوان و لاتَقُل
+      - مستِ ریاسْت محتسب، باده بده و لاتَخَف
+    - - صوفی شهر بین که چون لقمهٔ شُبهه می‌خورد
+      - پاردُمَش دراز باد، آن حَیَوانِ خوش علف
+    - - حافظ اگر قدم زنی، در رَهِ خاندان به صِدق
+      - بدرقهٔ رهت شود، همتِ شَحنِهٔ نجف
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 296
+    url: https://ganjoor.net/hafez/ghazal/sh296
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 296
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

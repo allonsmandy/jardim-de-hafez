@@ -1,0 +1,26 @@
+id: rubai-031
+category: rubai
+number: 31
+firstLine:
+  fa: من حاصل عمر خود ندارم جز غم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من حاصل عمر خود ندارم جز غم
+      - در عشق، ز نیک و بد ندارم جز غم
+    - - یک همدم باوفا ندیدم جز درد
+      - یک مونس نامزد ندارم جز غم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 31
+    url: https://ganjoor.net/hafez/robaee2/sh31
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 31
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

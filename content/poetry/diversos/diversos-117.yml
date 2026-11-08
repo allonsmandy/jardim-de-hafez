@@ -1,0 +1,26 @@
+id: diversos-117
+category: diversos
+number: 117
+firstLine:
+  fa: کم گوی به جز مصلحت خویش مگوی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - کم گوی به جز مصلحت خویش مگوی
+      - چیزی که نپرسند تو خود پیش مگوی
+    - - گوشِ تو دو دادند و زبانِ تو یکی
+      - یعنی که دو بشنو و یکی بیش مگوی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 117
+    url: https://ganjoor.net/hafez/montasab/sh117
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 117
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,26 @@
+id: qete-001
+category: qete
+number: 1
+firstLine:
+  fa: تو نیک و بد خود هم از خود بپرس
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تو نیک و بد خود هم از خود بپرس
+      - چرا بایدت دیگری محتسب
+    - - وَ مَنْ یَتَّقِ اللهَ یَجْعَلْ لَهُ
+      - وَ یَرْزُقْهُ مِنْ حَیْثُ لا یَحْتَسِب
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 1
+    url: https://ganjoor.net/hafez/ghete/sh1
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 1
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

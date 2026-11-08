@@ -1,0 +1,38 @@
+id: gazal-236
+category: gazal
+number: 236
+firstLine:
+  fa: اگر آن طایرِ قدسی ز دَرَم بازآید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر آن طایرِ قدسی ز دَرَم بازآید
+      - عمرِ بگذشته به پیرانه سرم بازآید
+    - - دارم امّید بر این اشکِ چو باران که دگر
+      - برقِ دولت که بِرَفت از نظرم بازآید
+    - - آن که تاجِ سرِ من خاکِ کفِ پایش بود
+      - از خدا می‌طلبم تا به سرم بازآید
+    - - خواهم اندر عقبش رفت به یاران عزیز
+      - شخصم ار بازنیاید خبرم بازآید
+    - - گر نثارِ قدمِ یارِ گرامی نکنم
+      - گوهرِ جان به چه کار دگرم بازآید؟
+    - - کوسِ نو دولتی از بامِ سعادت بزنم
+      - گر ببینم که مَهِ نوسفرم بازآید
+    - - مانِعَش غلغلِ چنگ است و شکرخوابِ صَبوح
+      - ور نه گر بشنود آهِ سحرم بازآید
+    - - آرزومندِ رخِ شاهِ چو ماهم حافظ
+      - همتی تا به سلامت ز درم بازآید
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 236
+    url: https://ganjoor.net/hafez/ghazal/sh236
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 236
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

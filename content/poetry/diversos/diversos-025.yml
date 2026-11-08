@@ -1,0 +1,46 @@
+id: diversos-025
+category: diversos
+number: 25
+firstLine:
+  fa: ای ز شرم عارضت گل کرده خوی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای ز شرم عارضت گل کرده خوی
+      - بر عرق پیش عقیقت جام می
+    - - ژاله بر لاله است یا بر گل گلاب
+      - یا بر آتش آب یا بر روت خوی
+    - - میشد از چشم آن کمان ابرو و دل
+      - از پی اش می رفت و گم می کرد پی
+    - - امشب از زلفت نخواهم داشت دست
+      - رو موذن بانگ می زن گو که حی
+    - - چون بنی عامر بسی مجنون شوند
+      - گر برون آید شبی لیلی زحی
+    - - نی دمی لب بر لب مطرب نهاد
+      - چنگ را در زیر ناخن کرد پی
+    - - چنگ را بر دست مطرب نه دمی
+      - گو رگش بخراش و بخروشش ز پی
+    - - عود بر آتش نه و منقل بسوز
+      - غم مدار از شدت سرمای دی
+    - - آنکه بهر جرعه ای جان می دهد
+      - جامه زو بستان و جامی ده به وی
+    - - با تو زین پس گر فلک خواری کند
+      - باز گو در حضرت دارای ری
+    - - خسرو آفاق بخش آن کز سخاش
+      - نامه حاتم ز نامش گشت طی
+    - - جام می پیش آرو چون حافظ مخور
+      - غم که جم کی بود یا کاووس کی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 25
+    url: https://ganjoor.net/hafez/montasab/sh25
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 25
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

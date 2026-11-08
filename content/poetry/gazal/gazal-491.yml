@@ -1,0 +1,42 @@
+id: gazal-491
+category: gazal
+number: 491
+firstLine:
+  fa: به چشم کرده‌ام ابرویِ ماه‌سیمایی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به چشم کرده‌ام ابرویِ ماه‌سیمایی
+      - خیالِ سبزخطی، نقش بسته‌ام جایی
+    - - امید هست که منشورِ عشق‌بازیِ من
+      - از آن کمانچهٔ ابرو رسد به طُغرایی
+    - - سَرم زِ دست بشد، چشم از انتظار بسوخت
+      - در آرزویِ سر و چشمِ مجلس‌آرایی
+    - - مُکدّر است دِل، آتش به خرقه خواهم زد
+      - بیا! ببین! که کِرا می‌کُند تماشایی
+    - - به روزِ واقعه، تابوتِ ما زِ سرو کنید
+      - که می‌رَویم به داغِ بلندبالایی
+    - - زمامِ دِل به کسی دادِه‌ام منِ دَرویش
+      - که نیستش به کس از تاج و تخت، پروایی
+    - - در آن مَقام که خوبان ز غَمزه، تیغ زنند
+      - عجب مدار سَری اوفتاده در پایی
+    - - مرا که از رخِ او، ماه در شبستان است
+      - کجا بود به فروغِ ستاره، پروایی؟
+    - - فراق و وصل چه باشد؟ رضایِ دوست طلب
+      - که حیف باشد از او، غیرِ او، تمنایی
+    - - دُرَر ز شوق برآرند ماهیان به نثار
+      - اگر سفینهٔ حافظ رسد به دریایی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 491
+    url: https://ganjoor.net/hafez/ghazal/sh491
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 491
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

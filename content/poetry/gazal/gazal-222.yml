@@ -1,0 +1,36 @@
+id: gazal-222
+category: gazal
+number: 222
+firstLine:
+  fa: از سرِ کویِ تو هر کو به ملالت برود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از سرِ کویِ تو هر کو به ملالت برود
+      - نرود کارش و آخِر به خجالت برود
+    - - کاروانی که بُوَد بدرقه‌اش حفظِ خدا
+      - به تَجَمُّل بنشیند، به جَلالت برود
+    - - سالک از نورِ هدایت بِبَرَد راه به دوست
+      - که به جایی نرسد گر به ضَلالت برود
+    - - کامِ خود آخرِ عمر از مِی و معشوق بگیر
+      - حیفِ اوقات که یک سر به بطالت برود
+    - - ای دلیلِ دلِ گم‌گشته! خدا را مددی
+      - که غریب اَر نَبَرَد رَه، به دلالت برود
+    - - حکمِ مستوری و مستی همه بر خاتِمَت است
+      - کس ندانست که آخِر به چه حالت برود
+    - - حافظ از چشمهٔ حکمت به کف آور جامی
+      - بو که از لوحِ دلت نقشِ جهالت برود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 222
+    url: https://ganjoor.net/hafez/ghazal/sh222
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 222
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

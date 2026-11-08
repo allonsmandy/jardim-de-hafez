@@ -1,0 +1,26 @@
+id: rubai-042
+category: rubai
+number: 42
+firstLine:
+  fa: گر همچو من افتادهٔ این دام شوی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر همچو من افتادهٔ این دام شوی
+      - ای بس که خراب باده و جام شوی
+    - - ما عاشق و رند و مست و عالَم‌سوزیم
+      - با ما منشین اگر نه بدنام شوی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 42
+    url: https://ganjoor.net/hafez/robaee2/sh42
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 42
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

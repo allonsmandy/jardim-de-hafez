@@ -1,0 +1,26 @@
+id: diversos-101
+category: diversos
+number: 101
+firstLine:
+  fa: یاران چو به هم دست در آغوش کنید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یاران چو به هم دست در آغوش کنید
+      - این گردش چرخ را فراموش کنید
+    - - چون دور به من رسد نباشم بر جای
+      - بر یاد من این دور مرا نوش کنید
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 101
+    url: https://ganjoor.net/hafez/montasab/sh101
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 101
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

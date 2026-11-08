@@ -1,0 +1,36 @@
+id: gazal-109
+category: gazal
+number: 109
+firstLine:
+  fa: دیر است که دل‌دار پیامی نفرستاد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دیر است که دل‌دار پیامی نفرستاد
+      - ننوشت سلامی و کلامی نفرستاد
+    - - صد نامه فرستادم و آن شاهِ سواران
+      - پیکی نَدوانید و سلامی نفرستاد
+    - - سویِ منِ وحشی‌صفتِ عقل‌رمیده
+      - آهو رَوشی، کبک خرامی نفرستاد
+    - - دانست که خواهد شُدنم مرغِ دل از دست
+      - وز آن خطِ چون سلسله دامی نفرستاد
+    - - فریاد که آن ساقیِ شِکَّر لبِ سرمست
+      - دانست که مخمورم و جامی نفرستاد
+    - - چندان که زدم لافِ کرامات و مقامات
+      - هیچم خبر از هیچ مقامی نفرستاد
+    - - حافظ به ادب باش که واخواست نباشد
+      - گر شاه پیامی به غلامی نفرستاد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 109
+    url: https://ganjoor.net/hafez/ghazal/sh109
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 109
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

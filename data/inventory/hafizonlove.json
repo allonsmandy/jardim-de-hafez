@@ -1,0 +1,3510 @@
+{
+  "generatedAt": "2026-11-08T00:38:40.061Z",
+  "origin": "https://www.hafizonlove.com",
+  "method": "Rastreamento BFS de páginas HTML públicas a partir da home; sem robots.txt (404); intervalo de 800 ms.",
+  "license": "© 1999–2025 Shahriar Shahriari. \"Non-commercial use permitted with full credit and hyperlink.\" Ver docs/copyright-and-sources.md.",
+  "summary": {
+    "htmlPages": 151,
+    "byType": {
+      "home": 2,
+      "ghazal-group-index": 10,
+      "poetry-index": 1,
+      "ghazal": 128,
+      "other-work": 4,
+      "artwork-gallery": 1,
+      "credits": 1,
+      "disclaimer": 1,
+      "fal": 1,
+      "biography": 1,
+      "about-translator": 1
+    },
+    "ghazalsWithPage": 128,
+    "ghazalsWithoutPage": 367,
+    "falPoolMatchesGhazalPages": true,
+    "assets": 51,
+    "failures": 0
+  },
+  "ghazalNumbersWithPage": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    11,
+    12,
+    22,
+    26,
+    32,
+    33,
+    35,
+    41,
+    42,
+    46,
+    47,
+    51,
+    53,
+    57,
+    59,
+    60,
+    62,
+    67,
+    71,
+    73,
+    79,
+    80,
+    107,
+    108,
+    109,
+    112,
+    113,
+    118,
+    122,
+    132,
+    133,
+    140,
+    141,
+    142,
+    152,
+    164,
+    169,
+    177,
+    178,
+    181,
+    183,
+    184,
+    187,
+    194,
+    196,
+    197,
+    198,
+    199,
+    203,
+    204,
+    205,
+    208,
+    231,
+    233,
+    234,
+    237,
+    239,
+    240,
+    243,
+    244,
+    245,
+    254,
+    270,
+    271,
+    279,
+    282,
+    293,
+    294,
+    295,
+    298,
+    299,
+    300,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    331,
+    333,
+    335,
+    336,
+    349,
+    351,
+    353,
+    354,
+    357,
+    358,
+    360,
+    367,
+    369,
+    374,
+    380,
+    390,
+    393,
+    398,
+    407,
+    415,
+    417,
+    418,
+    419,
+    420,
+    424,
+    427,
+    428,
+    432,
+    449,
+    450,
+    453,
+    456,
+    464,
+    482,
+    483,
+    490,
+    492,
+    495
+  ],
+  "ghazalNumbersWithoutPage": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40,
+    43,
+    44,
+    45,
+    48,
+    49,
+    50,
+    52,
+    54,
+    55,
+    56,
+    58,
+    61,
+    63,
+    64,
+    65,
+    66,
+    68,
+    69,
+    70,
+    72,
+    74,
+    75,
+    76,
+    77,
+    78,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    110,
+    111,
+    114,
+    115,
+    116,
+    117,
+    119,
+    120,
+    121,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    165,
+    166,
+    167,
+    168,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    179,
+    180,
+    182,
+    185,
+    186,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    195,
+    200,
+    201,
+    202,
+    206,
+    207,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    232,
+    235,
+    236,
+    238,
+    241,
+    242,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    280,
+    281,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    296,
+    297,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    328,
+    329,
+    330,
+    332,
+    334,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    350,
+    352,
+    355,
+    356,
+    359,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    368,
+    370,
+    371,
+    372,
+    373,
+    375,
+    376,
+    377,
+    378,
+    379,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    391,
+    392,
+    394,
+    395,
+    396,
+    397,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    416,
+    421,
+    422,
+    423,
+    425,
+    426,
+    429,
+    430,
+    431,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    451,
+    452,
+    454,
+    455,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    491,
+    493,
+    494
+  ],
+  "pages": [
+    {
+      "url": "https://www.hafizonlove.com/",
+      "path": "/",
+      "type": "home",
+      "title": "Hafiz — حافظ شیرازی — Hafiz",
+      "heading": null,
+      "persianHeading": null,
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 1
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-01.html",
+      "path": "/divan/index-01.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 1–50 — Hafiz",
+      "heading": "Ghazals 1–50",
+      "persianHeading": "غزل ۱ تا ۵۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-02.html",
+      "path": "/divan/index-02.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 51–100 — Hafiz",
+      "heading": "Ghazals 51–100",
+      "persianHeading": "غزل ۵۱ تا ۱۰۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-03.html",
+      "path": "/divan/index-03.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 101–150 — Hafiz",
+      "heading": "Ghazals 101–150",
+      "persianHeading": "غزل ۱۰۱ تا ۱۵۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-04.html",
+      "path": "/divan/index-04.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 151–200 — Hafiz",
+      "heading": "Ghazals 151–200",
+      "persianHeading": "غزل ۱۵۱ تا ۲۰۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-05.html",
+      "path": "/divan/index-05.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 201–250 — Hafiz",
+      "heading": "Ghazals 201–250",
+      "persianHeading": "غزل ۲۰۱ تا ۲۵۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-06.html",
+      "path": "/divan/index-06.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 251–300 — Hafiz",
+      "heading": "Ghazals 251–300",
+      "persianHeading": "غزل ۲۵۱ تا ۳۰۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-07.html",
+      "path": "/divan/index-07.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 301–350 — Hafiz",
+      "heading": "Ghazals 301–350",
+      "persianHeading": "غزل ۳۰۱ تا ۳۵۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-08.html",
+      "path": "/divan/index-08.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 351–400 — Hafiz",
+      "heading": "Ghazals 351–400",
+      "persianHeading": "غزل ۳۵۱ تا ۴۰۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-09.html",
+      "path": "/divan/index-09.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 401–450 — Hafiz",
+      "heading": "Ghazals 401–450",
+      "persianHeading": "غزل ۴۰۱ تا ۴۵۰",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index-10.html",
+      "path": "/divan/index-10.html",
+      "type": "ghazal-group-index",
+      "title": "Ghazals 451–495 — Hafiz",
+      "heading": "Ghazals 451–495",
+      "persianHeading": "غزل ۴۵۱ تا ۴۹۵",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/index.html",
+      "path": "/divan/index.html",
+      "type": "poetry-index",
+      "title": "Poetry — Hafiz",
+      "heading": "Poetry",
+      "persianHeading": "دیوان حافظ",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-001.html",
+      "path": "/divan/p_ghazal-001.html",
+      "type": "ghazal",
+      "title": "Ghazal 1 — Hafiz",
+      "heading": "Ghazal 1",
+      "persianHeading": "غزل ۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 1,
+      "translationDate": "April 9, 1999",
+      "firstLineFa": "الا یا ایها الـساقی ادر کاسا و ناولـها"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-002.html",
+      "path": "/divan/p_ghazal-002.html",
+      "type": "ghazal",
+      "title": "Ghazal 2 — Hafiz",
+      "heading": "Ghazal 2",
+      "persianHeading": "غزل ۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 2,
+      "translationDate": "Februaru 1, 2000",
+      "firstLineFa": "صـلاح کار کـجا و مـن خراب کـجا"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-003.html",
+      "path": "/divan/p_ghazal-003.html",
+      "type": "ghazal",
+      "title": "Ghazal 3 — Hafiz",
+      "heading": "Ghazal 3",
+      "persianHeading": "غزل ۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 3,
+      "translationDate": "October 18, 1999",
+      "firstLineFa": "اگر آن ترک شیرازی بـه دسـت آرد دل ما را"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-004.html",
+      "path": "/divan/p_ghazal-004.html",
+      "type": "ghazal",
+      "title": "Ghazal 4 — Hafiz",
+      "heading": "Ghazal 4",
+      "persianHeading": "غزل ۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 4,
+      "translationDate": "March 17, 2004",
+      "firstLineFa": "صـبا بـه لطـف بگو آن غزال رعنا را"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-005.html",
+      "path": "/divan/p_ghazal-005.html",
+      "type": "ghazal",
+      "title": "Ghazal 5 — Hafiz",
+      "heading": "Ghazal 5",
+      "persianHeading": "غزل ۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 13,
+      "number": 5,
+      "translationDate": "April 2, 1999",
+      "firstLineFa": "دل می‌رود ز دستـم صاحـب دلان خدا را"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-011.html",
+      "path": "/divan/p_ghazal-011.html",
+      "type": "ghazal",
+      "title": "Ghazal 11 — Hafiz",
+      "heading": "Ghazal 11",
+      "persianHeading": "غزل ۱۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 11,
+      "translationDate": "October 19, 1999",
+      "firstLineFa": "ساقی بـه نور باده برافروز جام ما"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-012.html",
+      "path": "/divan/p_ghazal-012.html",
+      "type": "ghazal",
+      "title": "Ghazal 12 — Hafiz",
+      "heading": "Ghazal 12",
+      "persianHeading": "غزل ۱۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 13,
+      "number": 12,
+      "translationDate": "January 17, 2000",
+      "firstLineFa": "ای فروغ ماه حـسـن از روی رخـشان شـما"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-022.html",
+      "path": "/divan/p_ghazal-022.html",
+      "type": "ghazal",
+      "title": "Ghazal 22 — Hafiz",
+      "heading": "Ghazal 22",
+      "persianHeading": "غزل ۲۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 22,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "چو بشنوی سخن اهل دل مگو که خطاست"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-026.html",
+      "path": "/divan/p_ghazal-026.html",
+      "type": "ghazal",
+      "title": "Ghazal 26 — Hafiz",
+      "heading": "Ghazal 26",
+      "persianHeading": "غزل ۲۶",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 26,
+      "translationDate": "December 22, 2001",
+      "firstLineFa": "زلف آشفته و خوی کرده و خندان لب و مست"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-032.html",
+      "path": "/divan/p_ghazal-032.html",
+      "type": "ghazal",
+      "title": "Ghazal 32 — Hafiz",
+      "heading": "Ghazal 32",
+      "persianHeading": "غزل ۳۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 32,
+      "translationDate": "January 18, 2000",
+      "firstLineFa": "خدا چو صورت ابروی دلگشای تو بـسـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-033.html",
+      "path": "/divan/p_ghazal-033.html",
+      "type": "ghazal",
+      "title": "Ghazal 33 — Hafiz",
+      "heading": "Ghazal 33",
+      "persianHeading": "غزل ۳۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 33,
+      "translationDate": "March 25, 2004",
+      "firstLineFa": "خـلوت گزیده را به تماشا چه حاجـت اسـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-035.html",
+      "path": "/divan/p_ghazal-035.html",
+      "type": "ghazal",
+      "title": "Ghazal 35 — Hafiz",
+      "heading": "Ghazal 35",
+      "persianHeading": "غزل ۳۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 35,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "برو به کار خود ای واعظ این چه فریادست"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-041.html",
+      "path": "/divan/p_ghazal-041.html",
+      "type": "ghazal",
+      "title": "Ghazal 41 — Hafiz",
+      "heading": "Ghazal 41",
+      "persianHeading": "غزل ۴۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 41,
+      "translationDate": "January 27, 2000",
+      "firstLineFa": "اگر چـه باده فرح بخش و باد گل‌بیز اسـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-042.html",
+      "path": "/divan/p_ghazal-042.html",
+      "type": "ghazal",
+      "title": "Ghazal 42 — Hafiz",
+      "heading": "Ghazal 42",
+      "persianHeading": "غزل ۴۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 42,
+      "translationDate": "April 14, 1999",
+      "firstLineFa": "حال دل با تو گفتنم هوس است"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-046.html",
+      "path": "/divan/p_ghazal-046.html",
+      "type": "ghazal",
+      "title": "Ghazal 46 — Hafiz",
+      "heading": "Ghazal 46",
+      "persianHeading": "غزل ۴۶",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 46,
+      "translationDate": "October 20, 1999",
+      "firstLineFa": "گـل در بر و می در کف و معشوق به کام است"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-047.html",
+      "path": "/divan/p_ghazal-047.html",
+      "type": "ghazal",
+      "title": "Ghazal 47 — Hafiz",
+      "heading": "Ghazal 47",
+      "persianHeading": "غزل ۴۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 47,
+      "translationDate": "April 2, 1999",
+      "firstLineFa": "به کوی میکده هر سالکی که ره دانست"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-051.html",
+      "path": "/divan/p_ghazal-051.html",
+      "type": "ghazal",
+      "title": "Ghazal 51 — Hafiz",
+      "heading": "Ghazal 51",
+      "persianHeading": "غزل ۵۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 51,
+      "translationDate": "October 20, 1999",
+      "firstLineFa": "لعل سیراب به خون تشنه لب یار من است"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-053.html",
+      "path": "/divan/p_ghazal-053.html",
+      "type": "ghazal",
+      "title": "Ghazal 53 — Hafiz",
+      "heading": "Ghazal 53",
+      "persianHeading": "غزل ۵۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 53,
+      "translationDate": "October 20, 1999",
+      "firstLineFa": "منـم که گوشه میخانه خانقاه من است"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-057.html",
+      "path": "/divan/p_ghazal-057.html",
+      "type": "ghazal",
+      "title": "Ghazal 57 — Hafiz",
+      "heading": "Ghazal 57",
+      "persianHeading": "غزل ۵۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 57,
+      "translationDate": "October 22, 1999",
+      "firstLineFa": "آن سیه چرده که شیرینی عالم با اوسـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-059.html",
+      "path": "/divan/p_ghazal-059.html",
+      "type": "ghazal",
+      "title": "Ghazal 59 — Hafiz",
+      "heading": "Ghazal 59",
+      "persianHeading": "غزل ۵۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 59,
+      "translationDate": "March 18, 2004",
+      "firstLineFa": "دارم امید عاطـفـتی از جانـب دوسـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-060.html",
+      "path": "/divan/p_ghazal-060.html",
+      "type": "ghazal",
+      "title": "Ghazal 60 — Hafiz",
+      "heading": "Ghazal 60",
+      "persianHeading": "غزل ۶۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 60,
+      "translationDate": "January 14, 2000",
+      "firstLineFa": "آن پیک نامور که رسید از دیار دوسـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-062.html",
+      "path": "/divan/p_ghazal-062.html",
+      "type": "ghazal",
+      "title": "Ghazal 62 — Hafiz",
+      "heading": "Ghazal 62",
+      "persianHeading": "غزل ۶۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 62,
+      "translationDate": "January 8, 2000",
+      "firstLineFa": "مرحـبا ای پیک مـشـتاقان بده پیغام دوسـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-067.html",
+      "path": "/divan/p_ghazal-067.html",
+      "type": "ghazal",
+      "title": "Ghazal 67 — Hafiz",
+      "heading": "Ghazal 67",
+      "persianHeading": "غزل ۶۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 67,
+      "translationDate": "January 17, 2000",
+      "firstLineFa": "یا رب این شمع دل افروز ز کاشانه کیست"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-071.html",
+      "path": "/divan/p_ghazal-071.html",
+      "type": "ghazal",
+      "title": "Ghazal 71 — Hafiz",
+      "heading": "Ghazal 71",
+      "persianHeading": "غزل ۷۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 71,
+      "translationDate": "January 9, 2000",
+      "firstLineFa": "زاهد ظاهرپرسـت از حال ما آگاه نیسـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-073.html",
+      "path": "/divan/p_ghazal-073.html",
+      "type": "ghazal",
+      "title": "Ghazal 73 — Hafiz",
+      "heading": "Ghazal 73",
+      "persianHeading": "غزل ۷۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 12,
+      "number": 73,
+      "translationDate": "January 5, 2000",
+      "firstLineFa": "روشـن از پرتو رویت نظری نیست که نیست"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-079.html",
+      "path": "/divan/p_ghazal-079.html",
+      "type": "ghazal",
+      "title": "Ghazal 79 — Hafiz",
+      "heading": "Ghazal 79",
+      "persianHeading": "غزل ۷۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 79,
+      "translationDate": "April 14, 1999",
+      "firstLineFa": "کـنون که می‌دمد از بوستان نسیم بهشت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-080.html",
+      "path": "/divan/p_ghazal-080.html",
+      "type": "ghazal",
+      "title": "Ghazal 80 — Hafiz",
+      "heading": "Ghazal 80",
+      "persianHeading": "غزل ۸۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 80,
+      "translationDate": "April 14, 1999",
+      "firstLineFa": "عیب رندان مـکـن ای زاهد پاکیزه سرشـت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-107.html",
+      "path": "/divan/p_ghazal-107.html",
+      "type": "ghazal",
+      "title": "Ghazal 107 — Hafiz",
+      "heading": "Ghazal 107",
+      "persianHeading": "غزل ۱۰۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 107,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "حسـن تو همیشه در فزون باد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-108.html",
+      "path": "/divan/p_ghazal-108.html",
+      "type": "ghazal",
+      "title": "Ghazal 108 — Hafiz",
+      "heading": "Ghazal 108",
+      "persianHeading": "غزل ۱۰۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 5,
+      "number": 108,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "خـسروا گوی فلک در خم چوگان تو باد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-109.html",
+      "path": "/divan/p_ghazal-109.html",
+      "type": "ghazal",
+      "title": "Ghazal 109 — Hafiz",
+      "heading": "Ghazal 109",
+      "persianHeading": "غزل ۱۰۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 109,
+      "translationDate": "March 23, 2004",
+      "firstLineFa": "دیر اسـت کـه دلدار پیامی نفرسـتاد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-112.html",
+      "path": "/divan/p_ghazal-112.html",
+      "type": "ghazal",
+      "title": "Ghazal 112 — Hafiz",
+      "heading": "Ghazal 112",
+      "persianHeading": "غزل ۱۱۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 112,
+      "translationDate": "January 23, 2000",
+      "firstLineFa": "آن که رخسار تو را رنگ گل و نـسرین داد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-113.html",
+      "path": "/divan/p_ghazal-113.html",
+      "type": "ghazal",
+      "title": "Ghazal 113 — Hafiz",
+      "heading": "Ghazal 113",
+      "persianHeading": "غزل ۱۱۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 6,
+      "number": 113,
+      "translationDate": "January 23, 2000",
+      "firstLineFa": "بنفشه دوش به گل گفت و خوش نشانی داد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-118.html",
+      "path": "/divan/p_ghazal-118.html",
+      "type": "ghazal",
+      "title": "Ghazal 118 — Hafiz",
+      "heading": "Ghazal 118",
+      "persianHeading": "غزل ۱۱۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 118,
+      "translationDate": "April 6, 1999",
+      "firstLineFa": "آن کس که به دست جام دارد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-122.html",
+      "path": "/divan/p_ghazal-122.html",
+      "type": "ghazal",
+      "title": "Ghazal 122 — Hafiz",
+      "heading": "Ghazal 122",
+      "persianHeading": "غزل ۱۲۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 122,
+      "translationDate": "April 2, 1999",
+      "firstLineFa": "هر آن کـه جانب اهل خدا نـگـه دارد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-132.html",
+      "path": "/divan/p_ghazal-132.html",
+      "type": "ghazal",
+      "title": "Ghazal 132 — Hafiz",
+      "heading": "Ghazal 132",
+      "persianHeading": "غزل ۱۳۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 6,
+      "number": 132,
+      "translationDate": "January 11, 2000",
+      "firstLineFa": "به آب روشن می عارفی طهارت کرد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-133.html",
+      "path": "/divan/p_ghazal-133.html",
+      "type": "ghazal",
+      "title": "Ghazal 133 — Hafiz",
+      "heading": "Ghazal 133",
+      "persianHeading": "غزل ۱۳۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 133,
+      "translationDate": "January 11, 2000",
+      "firstLineFa": "صوفی نـهاد دام و سر حـقـه باز کرد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-140.html",
+      "path": "/divan/p_ghazal-140.html",
+      "type": "ghazal",
+      "title": "Ghazal 140 — Hafiz",
+      "heading": "Ghazal 140",
+      "persianHeading": "غزل ۱۴۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 140,
+      "translationDate": "January 20, 2000",
+      "firstLineFa": "دیدی ای دل که غم عشق دگربار چـه کرد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-141.html",
+      "path": "/divan/p_ghazal-141.html",
+      "type": "ghazal",
+      "title": "Ghazal 141 — Hafiz",
+      "heading": "Ghazal 141",
+      "persianHeading": "غزل ۱۴۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 6,
+      "number": 141,
+      "translationDate": "April 7, 1999",
+      "firstLineFa": "دوسـتان دخـتر رز توبه ز مستوری کرد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-142.html",
+      "path": "/divan/p_ghazal-142.html",
+      "type": "ghazal",
+      "title": "Ghazal 142 — Hafiz",
+      "heading": "Ghazal 142",
+      "persianHeading": "غزل ۱۴۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 142,
+      "translationDate": "April 1, 1999",
+      "firstLineFa": "سال‌ها دل طلـب جام جـم از ما می‌کرد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-152.html",
+      "path": "/divan/p_ghazal-152.html",
+      "type": "ghazal",
+      "title": "Ghazal 152 — Hafiz",
+      "heading": "Ghazal 152",
+      "persianHeading": "غزل ۱۵۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 152,
+      "translationDate": "December 24, 2001",
+      "firstLineFa": "در ازل پرتو حسنـت ز تـجـلی دم زد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-164.html",
+      "path": "/divan/p_ghazal-164.html",
+      "type": "ghazal",
+      "title": "Ghazal 164 — Hafiz",
+      "heading": "Ghazal 164",
+      "persianHeading": "غزل ۱۶۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 164,
+      "translationDate": "January 5, 2000",
+      "firstLineFa": "نـفـس باد صبا مشک فشان خواهد شد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-169.html",
+      "path": "/divan/p_ghazal-169.html",
+      "type": "ghazal",
+      "title": "Ghazal 169 — Hafiz",
+      "heading": "Ghazal 169",
+      "persianHeading": "غزل ۱۶۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 169,
+      "translationDate": "July 4, 2003",
+      "firstLineFa": "یاری اندر کـس نـمی‌بینیم یاران را چـه شد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-177.html",
+      "path": "/divan/p_ghazal-177.html",
+      "type": "ghazal",
+      "title": "Ghazal 177 — Hafiz",
+      "heading": "Ghazal 177",
+      "persianHeading": "غزل ۱۷۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 177,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "نـه هر کـه چهره برافروخت دلـبری داند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-178.html",
+      "path": "/divan/p_ghazal-178.html",
+      "type": "ghazal",
+      "title": "Ghazal 178 — Hafiz",
+      "heading": "Ghazal 178",
+      "persianHeading": "غزل ۱۷۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 178,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "هر کـه شد محرم دل در حرم یار بـماند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-181.html",
+      "path": "/divan/p_ghazal-181.html",
+      "type": "ghazal",
+      "title": "Ghazal 181 — Hafiz",
+      "heading": "Ghazal 181",
+      "persianHeading": "غزل ۱۸۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 181,
+      "translationDate": "January 22, 2000",
+      "firstLineFa": "بـعد از این دست من و دامن آن سرو بلند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-183.html",
+      "path": "/divan/p_ghazal-183.html",
+      "type": "ghazal",
+      "title": "Ghazal 183 — Hafiz",
+      "heading": "Ghazal 183",
+      "persianHeading": "غزل ۱۸۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 183,
+      "translationDate": "March 28, 1999",
+      "firstLineFa": "دوش وقـت سحر از غصه نجاتـم دادند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-184.html",
+      "path": "/divan/p_ghazal-184.html",
+      "type": "ghazal",
+      "title": "Ghazal 184 — Hafiz",
+      "heading": "Ghazal 184",
+      "persianHeading": "غزل ۱۸۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 184,
+      "translationDate": "October 23, 1998",
+      "firstLineFa": "دوش دیدم که مـلایک در میخانـه زدند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-187.html",
+      "path": "/divan/p_ghazal-187.html",
+      "type": "ghazal",
+      "title": "Ghazal 187 — Hafiz",
+      "heading": "Ghazal 187",
+      "persianHeading": "غزل ۱۸۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 187,
+      "translationDate": "July 4, 2003",
+      "firstLineFa": "دلا بـسوز کـه سوز تو کارها بـکـند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-194.html",
+      "path": "/divan/p_ghazal-194.html",
+      "type": "ghazal",
+      "title": "Ghazal 194 — Hafiz",
+      "heading": "Ghazal 194",
+      "persianHeading": "غزل ۱۹۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 194,
+      "translationDate": "October 16, 1999",
+      "firstLineFa": "سمـن بویان غبار غم چو بنشینند بنشانند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-196.html",
+      "path": "/divan/p_ghazal-196.html",
+      "type": "ghazal",
+      "title": "Ghazal 196 — Hafiz",
+      "heading": "Ghazal 196",
+      "persianHeading": "غزل ۱۹۶",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 12,
+      "number": 196,
+      "translationDate": "April 13, 1999",
+      "firstLineFa": "آنان کـه خاک را به نظر کیمیا کـنـند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-197.html",
+      "path": "/divan/p_ghazal-197.html",
+      "type": "ghazal",
+      "title": "Ghazal 197 — Hafiz",
+      "heading": "Ghazal 197",
+      "persianHeading": "غزل ۱۹۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 197,
+      "translationDate": "April 13, 1999",
+      "firstLineFa": "شاهدان گر دلبری زین سان کنـند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-198.html",
+      "path": "/divan/p_ghazal-198.html",
+      "type": "ghazal",
+      "title": "Ghazal 198 — Hafiz",
+      "heading": "Ghazal 198",
+      "persianHeading": "غزل ۱۹۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 198,
+      "translationDate": "April 13, 1999",
+      "firstLineFa": "گفـتـم کی ام دهان و لبت کامران کنند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-199.html",
+      "path": "/divan/p_ghazal-199.html",
+      "type": "ghazal",
+      "title": "Ghazal 199 — Hafiz",
+      "heading": "Ghazal 199",
+      "persianHeading": "غزل ۱۹۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 199,
+      "translationDate": "October 21, 1999",
+      "firstLineFa": "واعظان کاین جلوه در محراب و منبر می‌کنند"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-203.html",
+      "path": "/divan/p_ghazal-203.html",
+      "type": "ghazal",
+      "title": "Ghazal 203 — Hafiz",
+      "heading": "Ghazal 203",
+      "persianHeading": "غزل ۲۰۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 203,
+      "translationDate": "October 22, 1999",
+      "firstLineFa": "سال‌ها دفـتر ما در گرو صـهـبا بود"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-204.html",
+      "path": "/divan/p_ghazal-204.html",
+      "type": "ghazal",
+      "title": "Ghazal 204 — Hafiz",
+      "heading": "Ghazal 204",
+      "persianHeading": "غزل ۲۰۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 204,
+      "translationDate": "April 14, 1999",
+      "firstLineFa": "یاد باد آن کـه نـهانـت نـظری با ما بود"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-205.html",
+      "path": "/divan/p_ghazal-205.html",
+      "type": "ghazal",
+      "title": "Ghazal 205 — Hafiz",
+      "heading": "Ghazal 205",
+      "persianHeading": "غزل ۲۰۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 205,
+      "translationDate": "April 13, 1999",
+      "firstLineFa": "تا ز میخانه و می نام و نـشان خواهد بود"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-208.html",
+      "path": "/divan/p_ghazal-208.html",
+      "type": "ghazal",
+      "title": "Ghazal 208 — Hafiz",
+      "heading": "Ghazal 208",
+      "persianHeading": "غزل ۲۰۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 208,
+      "translationDate": "April 14, 1999",
+      "firstLineFa": "خستـگان را چو طلب باشد و قوت نبود"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-231.html",
+      "path": "/divan/p_ghazal-231.html",
+      "type": "ghazal",
+      "title": "Ghazal 231 — Hafiz",
+      "heading": "Ghazal 231",
+      "persianHeading": "غزل ۲۳۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 231,
+      "translationDate": "January 4, 2000",
+      "firstLineFa": "گفتـم غـم تو دارم گفتا غمت سر آید"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-233.html",
+      "path": "/divan/p_ghazal-233.html",
+      "type": "ghazal",
+      "title": "Ghazal 233 — Hafiz",
+      "heading": "Ghazal 233",
+      "persianHeading": "غزل ۲۳۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 6,
+      "number": 233,
+      "translationDate": "October 20, 1999",
+      "firstLineFa": "دسـت از طـلـب ندارم تا کام مـن برآید"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-234.html",
+      "path": "/divan/p_ghazal-234.html",
+      "type": "ghazal",
+      "title": "Ghazal 234 — Hafiz",
+      "heading": "Ghazal 234",
+      "persianHeading": "غزل ۲۳۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 234,
+      "translationDate": "January 12, 2000",
+      "firstLineFa": "چو آفـتاب می از مـشرق پیالـه برآید"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-237.html",
+      "path": "/divan/p_ghazal-237.html",
+      "type": "ghazal",
+      "title": "Ghazal 237 — Hafiz",
+      "heading": "Ghazal 237",
+      "persianHeading": "غزل ۲۳۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 237,
+      "translationDate": "January 31, 2000",
+      "firstLineFa": "نـفـس برآمد و کام از تو بر نـمی‌آید"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-239.html",
+      "path": "/divan/p_ghazal-239.html",
+      "type": "ghazal",
+      "title": "Ghazal 239 — Hafiz",
+      "heading": "Ghazal 239",
+      "persianHeading": "غزل ۲۳۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 239,
+      "translationDate": "January 31, 2000",
+      "firstLineFa": "رسید مژده که آمد بـهار و سـبزه دمید"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-240.html",
+      "path": "/divan/p_ghazal-240.html",
+      "type": "ghazal",
+      "title": "Ghazal 240 — Hafiz",
+      "heading": "Ghazal 240",
+      "persianHeading": "غزل ۲۴۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 240,
+      "translationDate": "January 31, 2000",
+      "firstLineFa": "ابر آذاری برآمد باد نوروزی وزید"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-243.html",
+      "path": "/divan/p_ghazal-243.html",
+      "type": "ghazal",
+      "title": "Ghazal 243 — Hafiz",
+      "heading": "Ghazal 243",
+      "persianHeading": "غزل ۲۴۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 12,
+      "number": 243,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "بوی خوش تو هر کـه ز باد صـبا شـنید"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-244.html",
+      "path": "/divan/p_ghazal-244.html",
+      "type": "ghazal",
+      "title": "Ghazal 244 — Hafiz",
+      "heading": "Ghazal 244",
+      "persianHeading": "غزل ۲۴۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 244,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "مـعاشران گره از زلـف یار باز کـنید"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-245.html",
+      "path": "/divan/p_ghazal-245.html",
+      "type": "ghazal",
+      "title": "Ghazal 245 — Hafiz",
+      "heading": "Ghazal 245",
+      "persianHeading": "غزل ۲۴۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 12,
+      "number": 245,
+      "translationDate": "March 29, 1999",
+      "firstLineFa": "الا ای طوطی گویای اسرار"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-254.html",
+      "path": "/divan/p_ghazal-254.html",
+      "type": "ghazal",
+      "title": "Ghazal 254 — Hafiz",
+      "heading": "Ghazal 254",
+      "persianHeading": "غزل ۲۵۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 254,
+      "translationDate": "April 13, 1999",
+      "firstLineFa": "دیگر ز شاخ سرو سهی بـلـبـل صـبور"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-270.html",
+      "path": "/divan/p_ghazal-270.html",
+      "type": "ghazal",
+      "title": "Ghazal 270 — Hafiz",
+      "heading": "Ghazal 270",
+      "persianHeading": "غزل ۲۷۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 270,
+      "translationDate": "January 23, 2000",
+      "firstLineFa": "درد عشقی کشیده‌ام که مـپرس"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-271.html",
+      "path": "/divan/p_ghazal-271.html",
+      "type": "ghazal",
+      "title": "Ghazal 271 — Hafiz",
+      "heading": "Ghazal 271",
+      "persianHeading": "غزل ۲۷۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 271,
+      "translationDate": "January 23, 2000",
+      "firstLineFa": "دارم از زلف سیاهش گله چندان کـه مـپرس"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-279.html",
+      "path": "/divan/p_ghazal-279.html",
+      "type": "ghazal",
+      "title": "Ghazal 279 — Hafiz",
+      "heading": "Ghazal 279",
+      "persianHeading": "غزل ۲۷۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 279,
+      "translationDate": "January 23, 2000",
+      "firstLineFa": "خوشا شیراز و وضع بی‌مثالـش"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-282.html",
+      "path": "/divan/p_ghazal-282.html",
+      "type": "ghazal",
+      "title": "Ghazal 282 — Hafiz",
+      "heading": "Ghazal 282",
+      "persianHeading": "غزل ۲۸۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 282,
+      "translationDate": "April 6, 1999",
+      "firstLineFa": "بـبرد از من قرار و طاقت و هوش"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-293.html",
+      "path": "/divan/p_ghazal-293.html",
+      "type": "ghazal",
+      "title": "Ghazal 293 — Hafiz",
+      "heading": "Ghazal 293",
+      "persianHeading": "غزل ۲۹۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 293,
+      "translationDate": "April 6, 1999",
+      "firstLineFa": "بامدادان کـه ز خـلوتـگـه کاخ ابداع"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-294.html",
+      "path": "/divan/p_ghazal-294.html",
+      "type": "ghazal",
+      "title": "Ghazal 294 — Hafiz",
+      "heading": "Ghazal 294",
+      "persianHeading": "غزل ۲۹۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 294,
+      "translationDate": "January 28, 2000",
+      "firstLineFa": "در وفای عشق تو مشهور خوبانم چو شمـع"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-295.html",
+      "path": "/divan/p_ghazal-295.html",
+      "type": "ghazal",
+      "title": "Ghazal 295 — Hafiz",
+      "heading": "Ghazal 295",
+      "persianHeading": "غزل ۲۹۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 295,
+      "translationDate": "April 11, 1999",
+      "firstLineFa": "سـحر به بوی گلستان دمی شدم در باغ"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-298.html",
+      "path": "/divan/p_ghazal-298.html",
+      "type": "ghazal",
+      "title": "Ghazal 298 — Hafiz",
+      "heading": "Ghazal 298",
+      "persianHeading": "غزل ۲۹۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 298,
+      "translationDate": "April 6, 1999",
+      "firstLineFa": "مـقام امن و می بی‌غش و رفیق شفیق"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-299.html",
+      "path": "/divan/p_ghazal-299.html",
+      "type": "ghazal",
+      "title": "Ghazal 299 — Hafiz",
+      "heading": "Ghazal 299",
+      "persianHeading": "غزل ۲۹۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 299,
+      "translationDate": "April 11, 1999",
+      "firstLineFa": "اگر شراب خوری جرعه‌ای فشان بر خاک"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-300.html",
+      "path": "/divan/p_ghazal-300.html",
+      "type": "ghazal",
+      "title": "Ghazal 300 — Hafiz",
+      "heading": "Ghazal 300",
+      "persianHeading": "غزل ۳۰۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 300,
+      "translationDate": "January 18, 2000",
+      "firstLineFa": "هزار دشمنـم ار می‌کنند قصد هـلاک"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-315.html",
+      "path": "/divan/p_ghazal-315.html",
+      "type": "ghazal",
+      "title": "Ghazal 315 — Hafiz",
+      "heading": "Ghazal 315",
+      "persianHeading": "غزل ۳۱۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 315,
+      "translationDate": "April 5, 1999",
+      "firstLineFa": "به غیر از آن که بشد دین و دانش از دستم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-316.html",
+      "path": "/divan/p_ghazal-316.html",
+      "type": "ghazal",
+      "title": "Ghazal 316 — Hafiz",
+      "heading": "Ghazal 316",
+      "persianHeading": "غزل ۳۱۶",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 316,
+      "translationDate": "April 13, 1999",
+      "firstLineFa": "زلـف بر باد مده تا ندهی بر بادم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-317.html",
+      "path": "/divan/p_ghazal-317.html",
+      "type": "ghazal",
+      "title": "Ghazal 317 — Hafiz",
+      "heading": "Ghazal 317",
+      "persianHeading": "غزل ۳۱۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 317,
+      "translationDate": "April 12, 1999",
+      "firstLineFa": "فاش می‌گویم و از گفته خود دلـشادم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-318.html",
+      "path": "/divan/p_ghazal-318.html",
+      "type": "ghazal",
+      "title": "Ghazal 318 — Hafiz",
+      "heading": "Ghazal 318",
+      "persianHeading": "غزل ۳۱۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 318,
+      "translationDate": "April 12, 1999",
+      "firstLineFa": "مرا می‌بینی و هر دم زیادت می‌کـنی دردم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-319.html",
+      "path": "/divan/p_ghazal-319.html",
+      "type": "ghazal",
+      "title": "Ghazal 319 — Hafiz",
+      "heading": "Ghazal 319",
+      "persianHeading": "غزل ۳۱۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 319,
+      "translationDate": "April 13, 1999",
+      "firstLineFa": "سال‌ها پیروی مذهـب رندان کردم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-320.html",
+      "path": "/divan/p_ghazal-320.html",
+      "type": "ghazal",
+      "title": "Ghazal 320 — Hafiz",
+      "heading": "Ghazal 320",
+      "persianHeading": "غزل ۳۲۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 320,
+      "translationDate": "January 8, 2000",
+      "firstLineFa": "دیشـب بـه سیل اشک ره خواب می‌زدم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-321.html",
+      "path": "/divan/p_ghazal-321.html",
+      "type": "ghazal",
+      "title": "Ghazal 321 — Hafiz",
+      "heading": "Ghazal 321",
+      "persianHeading": "غزل ۳۲۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 321,
+      "translationDate": "April 5, 1999",
+      "firstLineFa": "هر چند پیر و خستـه دل و ناتوان شدم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-322.html",
+      "path": "/divan/p_ghazal-322.html",
+      "type": "ghazal",
+      "title": "Ghazal 322 — Hafiz",
+      "heading": "Ghazal 322",
+      "persianHeading": "غزل ۳۲۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 322,
+      "translationDate": "April 5, 1999",
+      "firstLineFa": "خیال نـقـش تو در کارگاه دیده کـشیدم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-323.html",
+      "path": "/divan/p_ghazal-323.html",
+      "type": "ghazal",
+      "title": "Ghazal 323 — Hafiz",
+      "heading": "Ghazal 323",
+      "persianHeading": "غزل ۳۲۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 323,
+      "translationDate": "April 5, 1999",
+      "firstLineFa": "ز دسـت کوتـه خود زیر بارم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-324.html",
+      "path": "/divan/p_ghazal-324.html",
+      "type": "ghazal",
+      "title": "Ghazal 324 — Hafiz",
+      "heading": "Ghazal 324",
+      "persianHeading": "غزل ۳۲۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 324,
+      "translationDate": "January 22, 2000",
+      "firstLineFa": "گر چـه افـتاد ز زلـفـش گرهی در کارم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-325.html",
+      "path": "/divan/p_ghazal-325.html",
+      "type": "ghazal",
+      "title": "Ghazal 325 — Hafiz",
+      "heading": "Ghazal 325",
+      "persianHeading": "غزل ۳۲۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 325,
+      "translationDate": "January 22, 2000",
+      "firstLineFa": "گر دسـت دهد خاک کـف پای نـگارم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-326.html",
+      "path": "/divan/p_ghazal-326.html",
+      "type": "ghazal",
+      "title": "Ghazal 326 — Hafiz",
+      "heading": "Ghazal 326",
+      "persianHeading": "غزل ۳۲۶",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 326,
+      "translationDate": "February 2, 2000",
+      "firstLineFa": "در نهانخانـه عشرت صنـمی خوش دارم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-327.html",
+      "path": "/divan/p_ghazal-327.html",
+      "type": "ghazal",
+      "title": "Ghazal 327 — Hafiz",
+      "heading": "Ghazal 327",
+      "persianHeading": "غزل ۳۲۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 327,
+      "translationDate": "January 14, 2000",
+      "firstLineFa": "مرا عهدیست با جانان کـه تا جان در بدن دارم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-331.html",
+      "path": "/divan/p_ghazal-331.html",
+      "type": "ghazal",
+      "title": "Ghazal 331 — Hafiz",
+      "heading": "Ghazal 331",
+      "persianHeading": "غزل ۳۳۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 331,
+      "translationDate": "January 29, 2000",
+      "firstLineFa": "بـه تیغم گر کشد دستش نگیرم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-333.html",
+      "path": "/divan/p_ghazal-333.html",
+      "type": "ghazal",
+      "title": "Ghazal 333 — Hafiz",
+      "heading": "Ghazal 333",
+      "persianHeading": "غزل ۳۳۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 333,
+      "translationDate": "January 27, 2000",
+      "firstLineFa": "نـماز شام غریبان چو گریه آغازم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-335.html",
+      "path": "/divan/p_ghazal-335.html",
+      "type": "ghazal",
+      "title": "Ghazal 335 — Hafiz",
+      "heading": "Ghazal 335",
+      "persianHeading": "غزل ۳۳۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 335,
+      "translationDate": "April 10, 1999",
+      "firstLineFa": "در خرابات مـغان گر گذر افـتد بازم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-336.html",
+      "path": "/divan/p_ghazal-336.html",
+      "type": "ghazal",
+      "title": "Ghazal 336 — Hafiz",
+      "heading": "Ghazal 336",
+      "persianHeading": "غزل ۳۳۶",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 336,
+      "translationDate": "April 10, 1999",
+      "firstLineFa": "مژده وصـل تو کو کز سر جان برخیزم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-349.html",
+      "path": "/divan/p_ghazal-349.html",
+      "type": "ghazal",
+      "title": "Ghazal 349 — Hafiz",
+      "heading": "Ghazal 349",
+      "persianHeading": "غزل ۳۴۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 349,
+      "translationDate": "April 5, 1999",
+      "firstLineFa": "دوش سودای رخش گفتم ز سر بیرون کـنـم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-351.html",
+      "path": "/divan/p_ghazal-351.html",
+      "type": "ghazal",
+      "title": "Ghazal 351 — Hafiz",
+      "heading": "Ghazal 351",
+      "persianHeading": "غزل ۳۵۱",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 351,
+      "translationDate": "April 4, 1999",
+      "firstLineFa": "حاشا که من به موسم گل ترک می کنم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-353.html",
+      "path": "/divan/p_ghazal-353.html",
+      "type": "ghazal",
+      "title": "Ghazal 353 — Hafiz",
+      "heading": "Ghazal 353",
+      "persianHeading": "غزل ۳۵۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 353,
+      "translationDate": "April 3, 1999",
+      "firstLineFa": "من ترک عشق شاهد و ساغر نمی‌کنم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-354.html",
+      "path": "/divan/p_ghazal-354.html",
+      "type": "ghazal",
+      "title": "Ghazal 354 — Hafiz",
+      "heading": "Ghazal 354",
+      "persianHeading": "غزل ۳۵۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 354,
+      "translationDate": "January 27, 2000",
+      "firstLineFa": "بـه مژگان سیه کردی هزاران رخنه در دینـم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-357.html",
+      "path": "/divan/p_ghazal-357.html",
+      "type": "ghazal",
+      "title": "Ghazal 357 — Hafiz",
+      "heading": "Ghazal 357",
+      "persianHeading": "غزل ۳۵۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 357,
+      "translationDate": "April 4, 1999",
+      "firstLineFa": "در خرابات مـغان نور خدا می‌بینـم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-358.html",
+      "path": "/divan/p_ghazal-358.html",
+      "type": "ghazal",
+      "title": "Ghazal 358 — Hafiz",
+      "heading": "Ghazal 358",
+      "persianHeading": "غزل ۳۵۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 358,
+      "translationDate": "October 21, 1999",
+      "firstLineFa": "غـم زمانه که هیچش کران نمی‌بینم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-360.html",
+      "path": "/divan/p_ghazal-360.html",
+      "type": "ghazal",
+      "title": "Ghazal 360 — Hafiz",
+      "heading": "Ghazal 360",
+      "persianHeading": "غزل ۳۶۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 360,
+      "translationDate": "April 5, 1999",
+      "firstLineFa": "گر از این مـنزل ویران بـه سوی خانـه روم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-367.html",
+      "path": "/divan/p_ghazal-367.html",
+      "type": "ghazal",
+      "title": "Ghazal 367 — Hafiz",
+      "heading": "Ghazal 367",
+      "persianHeading": "غزل ۳۶۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 367,
+      "translationDate": "January 17, 2000",
+      "firstLineFa": "فـتوی پیر مـغان دارم و قولیسـت قدیم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-369.html",
+      "path": "/divan/p_ghazal-369.html",
+      "type": "ghazal",
+      "title": "Ghazal 369 — Hafiz",
+      "heading": "Ghazal 369",
+      "persianHeading": "غزل ۳۶۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 369,
+      "translationDate": "January 29, 2000",
+      "firstLineFa": "ما ز یاران چشم یاری داشـتیم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-374.html",
+      "path": "/divan/p_ghazal-374.html",
+      "type": "ghazal",
+      "title": "Ghazal 374 — Hafiz",
+      "heading": "Ghazal 374",
+      "persianHeading": "غزل ۳۷۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 374,
+      "translationDate": "January 13, 2000",
+      "firstLineFa": "بیا تا گـل برافـشانیم و می در ساغر اندازیم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-380.html",
+      "path": "/divan/p_ghazal-380.html",
+      "type": "ghazal",
+      "title": "Ghazal 380 — Hafiz",
+      "heading": "Ghazal 380",
+      "persianHeading": "غزل ۳۸۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 380,
+      "translationDate": "April 2, 1999",
+      "firstLineFa": "بارها گـفـتـه‌ام و بار دگر می‌گویم"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-390.html",
+      "path": "/divan/p_ghazal-390.html",
+      "type": "ghazal",
+      "title": "Ghazal 390 — Hafiz",
+      "heading": "Ghazal 390",
+      "persianHeading": "غزل ۳۹۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 390,
+      "translationDate": "January 12, 2000",
+      "firstLineFa": "افـسر سلـطان گـل پیدا شد از طرف چمن"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-393.html",
+      "path": "/divan/p_ghazal-393.html",
+      "type": "ghazal",
+      "title": "Ghazal 393 — Hafiz",
+      "heading": "Ghazal 393",
+      "persianHeading": "غزل ۳۹۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 393,
+      "translationDate": "April 8, 1999",
+      "firstLineFa": "منـم کـه شهره شهرم به عشق ورزیدن"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-398.html",
+      "path": "/divan/p_ghazal-398.html",
+      "type": "ghazal",
+      "title": "Ghazal 398 — Hafiz",
+      "heading": "Ghazal 398",
+      "persianHeading": "غزل ۳۹۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 398,
+      "translationDate": "January 5, 2000",
+      "firstLineFa": "ای نور چشم من سخنی هست گوش کن"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-407.html",
+      "path": "/divan/p_ghazal-407.html",
+      "type": "ghazal",
+      "title": "Ghazal 407 — Hafiz",
+      "heading": "Ghazal 407",
+      "persianHeading": "غزل ۴۰۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 407,
+      "translationDate": "April 15, 1999",
+      "firstLineFa": "مزرع سـبز فلـک دیدم و داس مـه نو"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-415.html",
+      "path": "/divan/p_ghazal-415.html",
+      "type": "ghazal",
+      "title": "Ghazal 415 — Hafiz",
+      "heading": "Ghazal 415",
+      "persianHeading": "غزل ۴۱۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 415,
+      "translationDate": "January 30, 2000",
+      "firstLineFa": "ای پیک راسـتان خـبر یار ما بـگو"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-417.html",
+      "path": "/divan/p_ghazal-417.html",
+      "type": "ghazal",
+      "title": "Ghazal 417 — Hafiz",
+      "heading": "Ghazal 417",
+      "persianHeading": "غزل ۴۱۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 417,
+      "translationDate": "January 21, 2000",
+      "firstLineFa": "عیشم مدام است از لعل دلخواه"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-418.html",
+      "path": "/divan/p_ghazal-418.html",
+      "type": "ghazal",
+      "title": "Ghazal 418 — Hafiz",
+      "heading": "Ghazal 418",
+      "persianHeading": "غزل ۴۱۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 418,
+      "translationDate": "January 27, 2000",
+      "firstLineFa": "گر تیغ بارد در کوی آن ماه"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-419.html",
+      "path": "/divan/p_ghazal-419.html",
+      "type": "ghazal",
+      "title": "Ghazal 419 — Hafiz",
+      "heading": "Ghazal 419",
+      "persianHeading": "غزل ۴۱۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 419,
+      "translationDate": "October 23, 1999",
+      "firstLineFa": "وصال او ز عـمر جاودان بـه"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-420.html",
+      "path": "/divan/p_ghazal-420.html",
+      "type": "ghazal",
+      "title": "Ghazal 420 — Hafiz",
+      "heading": "Ghazal 420",
+      "persianHeading": "غزل ۴۲۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 420,
+      "translationDate": "October 25, 1999",
+      "firstLineFa": "ناگـهان پرده برانداختـه‌ای یعنی چـه"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-424.html",
+      "path": "/divan/p_ghazal-424.html",
+      "type": "ghazal",
+      "title": "Ghazal 424 — Hafiz",
+      "heading": "Ghazal 424",
+      "persianHeading": "غزل ۴۲۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 5,
+      "number": 424,
+      "translationDate": "April 6, 1999",
+      "firstLineFa": "از مـن جدا مشو کـه توام نور دیده‌ای"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-427.html",
+      "path": "/divan/p_ghazal-427.html",
+      "type": "ghazal",
+      "title": "Ghazal 427 — Hafiz",
+      "heading": "Ghazal 427",
+      "persianHeading": "غزل ۴۲۷",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 9,
+      "number": 427,
+      "translationDate": "May 8, 2005",
+      "firstLineFa": "چراغ روی تو را شمع گـشـت پروانـه"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-428.html",
+      "path": "/divan/p_ghazal-428.html",
+      "type": "ghazal",
+      "title": "Ghazal 428 — Hafiz",
+      "heading": "Ghazal 428",
+      "persianHeading": "غزل ۴۲۸",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 428,
+      "translationDate": "January 17, 2000",
+      "firstLineFa": "سـحرگاهان کـه مخـمور شبانه"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-432.html",
+      "path": "/divan/p_ghazal-432.html",
+      "type": "ghazal",
+      "title": "Ghazal 432 — Hafiz",
+      "heading": "Ghazal 432",
+      "persianHeading": "غزل ۴۳۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 6,
+      "number": 432,
+      "translationDate": "October 23, 1999",
+      "firstLineFa": "مخمور جام عشقم ساقی بده شرابی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-449.html",
+      "path": "/divan/p_ghazal-449.html",
+      "type": "ghazal",
+      "title": "Ghazal 449 — Hafiz",
+      "heading": "Ghazal 449",
+      "persianHeading": "غزل ۴۴۹",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 449,
+      "translationDate": "February 1, 2000",
+      "firstLineFa": "ای کـه مهـجوری عـشاق روا می‌داری"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-450.html",
+      "path": "/divan/p_ghazal-450.html",
+      "type": "ghazal",
+      "title": "Ghazal 450 — Hafiz",
+      "heading": "Ghazal 450",
+      "persianHeading": "غزل ۴۵۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 450,
+      "translationDate": "February 1, 2000",
+      "firstLineFa": "روزگاریسـت کـه ما را نـگران می‌داری"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-453.html",
+      "path": "/divan/p_ghazal-453.html",
+      "type": "ghazal",
+      "title": "Ghazal 453 — Hafiz",
+      "heading": "Ghazal 453",
+      "persianHeading": "غزل ۴۵۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 5,
+      "number": 453,
+      "translationDate": "October 23, 1999",
+      "firstLineFa": "ای که دایم به خویش مغروری"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-456.html",
+      "path": "/divan/p_ghazal-456.html",
+      "type": "ghazal",
+      "title": "Ghazal 456 — Hafiz",
+      "heading": "Ghazal 456",
+      "persianHeading": "غزل ۴۵۶",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 456,
+      "translationDate": "October 16, 1999",
+      "firstLineFa": "نوبهار است در آن کوش که خوشدل باشی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-464.html",
+      "path": "/divan/p_ghazal-464.html",
+      "type": "ghazal",
+      "title": "Ghazal 464 — Hafiz",
+      "heading": "Ghazal 464",
+      "persianHeading": "غزل ۴۶۴",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 7,
+      "number": 464,
+      "translationDate": "February 1, 2000",
+      "firstLineFa": "بـگرفـت کار حسنت چون عشق من کمالی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-482.html",
+      "path": "/divan/p_ghazal-482.html",
+      "type": "ghazal",
+      "title": "Ghazal 482 — Hafiz",
+      "heading": "Ghazal 482",
+      "persianHeading": "غزل ۴۸۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 482,
+      "translationDate": "January 18, 2000",
+      "firstLineFa": "ای دل به کوی عشق گذاری نمی‌کـنی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-483.html",
+      "path": "/divan/p_ghazal-483.html",
+      "type": "ghazal",
+      "title": "Ghazal 483 — Hafiz",
+      "heading": "Ghazal 483",
+      "persianHeading": "غزل ۴۸۳",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 483,
+      "translationDate": "April 15, 1999",
+      "firstLineFa": "سـحرگـه ره روی در سرزمینی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-490.html",
+      "path": "/divan/p_ghazal-490.html",
+      "type": "ghazal",
+      "title": "Ghazal 490 — Hafiz",
+      "heading": "Ghazal 490",
+      "persianHeading": "غزل ۴۹۰",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 10,
+      "number": 490,
+      "translationDate": "October 25, 1999",
+      "firstLineFa": "در همه دیر مغان نیست چو مـن شیدایی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-492.html",
+      "path": "/divan/p_ghazal-492.html",
+      "type": "ghazal",
+      "title": "Ghazal 492 — Hafiz",
+      "heading": "Ghazal 492",
+      "persianHeading": "غزل ۴۹۲",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 11,
+      "number": 492,
+      "translationDate": "April 6, 1999",
+      "firstLineFa": "سـلامی چو بوی خوش آشـنایی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/p_ghazal-495.html",
+      "path": "/divan/p_ghazal-495.html",
+      "type": "ghazal",
+      "title": "Ghazal 495 — Hafiz",
+      "heading": "Ghazal 495",
+      "persianHeading": "غزل ۴۹۵",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 8,
+      "number": 495,
+      "translationDate": "January 19, 2000",
+      "firstLineFa": "می خواه و گل افشان کن از دهر چه می‌جویی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/po_miscellaneous.html",
+      "path": "/divan/po_miscellaneous.html",
+      "type": "other-work",
+      "title": "Miscellaneous — Hafiz",
+      "heading": "Miscellaneous",
+      "persianHeading": "ایضاًله",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 3,
+      "slug": "miscellaneous",
+      "firstLineFa": "سال و فال و مال و حال و اصل و نسل و تخت و بخت"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/po_rubaiyat.html",
+      "path": "/divan/po_rubaiyat.html",
+      "type": "other-work",
+      "title": "Rubaiyat — Hafiz",
+      "heading": "Rubaiyat",
+      "persianHeading": "رباعیات",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 42,
+      "slug": "rubaiyat",
+      "firstLineFa": "جز نـقـش تو در نـظر نیامد ما را"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/po_saghinameh.html",
+      "path": "/divan/po_saghinameh.html",
+      "type": "other-work",
+      "title": "Saghi-Nameh — Hafiz",
+      "heading": "Saghi-Nameh",
+      "persianHeading": "ساقی نامه",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 58,
+      "slug": "saghinameh",
+      "firstLineFa": "بیا ساقی آن می کـه حال آورد"
+    },
+    {
+      "url": "https://www.hafizonlove.com/divan/po_wilddeer.html",
+      "path": "/divan/po_wilddeer.html",
+      "type": "other-work",
+      "title": "Wild Deer — Hafiz",
+      "heading": "Wild Deer",
+      "persianHeading": "آهوی وحشی",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 29,
+      "slug": "wilddeer",
+      "firstLineFa": "الا ای آهوی وحـشی کـجایی"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/index.html",
+      "path": "/images/index.html",
+      "type": "artwork-gallery",
+      "title": "Artwork — Hafiz",
+      "heading": "Artwork",
+      "persianHeading": "هنر",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0,
+      "images": 36,
+      "imageMetadata": "Somente rótulos genéricos (\"Artwork N\"); sem autoria, data, acervo ou licença."
+    },
+    {
+      "url": "https://www.hafizonlove.com/index.html",
+      "path": "/index.html",
+      "type": "home",
+      "title": "Hafiz — حافظ شیرازی — Hafiz",
+      "heading": null,
+      "persianHeading": null,
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 1
+    },
+    {
+      "url": "https://www.hafizonlove.com/more/credits.html",
+      "path": "/more/credits.html",
+      "type": "credits",
+      "title": "Credits — Hafiz",
+      "heading": "Credits",
+      "persianHeading": null,
+      "languages": [],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/more/disclaimer.html",
+      "path": "/more/disclaimer.html",
+      "type": "disclaimer",
+      "title": "Disclaimer — Hafiz",
+      "heading": "Disclaimer",
+      "persianHeading": null,
+      "languages": [],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    },
+    {
+      "url": "https://www.hafizonlove.com/more/fal.html",
+      "path": "/more/fal.html",
+      "type": "fal",
+      "title": "Fal-e Hafiz — Hafiz",
+      "heading": "Fal-e Hafiz",
+      "persianHeading": "فال حافظ",
+      "languages": [
+        "fa"
+      ],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0,
+      "falPoolSize": 128,
+      "falPoolNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11,
+        12,
+        22,
+        26,
+        32,
+        33,
+        35,
+        41,
+        42,
+        46,
+        47,
+        51,
+        53,
+        57,
+        59,
+        60,
+        62,
+        67,
+        71,
+        73,
+        79,
+        80,
+        107,
+        108,
+        109,
+        112,
+        113,
+        118,
+        122,
+        132,
+        133,
+        140,
+        141,
+        142,
+        152,
+        164,
+        169,
+        177,
+        178,
+        181,
+        183,
+        184,
+        187,
+        194,
+        196,
+        197,
+        198,
+        199,
+        203,
+        204,
+        205,
+        208,
+        231,
+        233,
+        234,
+        237,
+        239,
+        240,
+        243,
+        244,
+        245,
+        254,
+        270,
+        271,
+        279,
+        282,
+        293,
+        294,
+        295,
+        298,
+        299,
+        300,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        331,
+        333,
+        335,
+        336,
+        349,
+        351,
+        353,
+        354,
+        357,
+        358,
+        360,
+        367,
+        369,
+        374,
+        380,
+        390,
+        393,
+        398,
+        407,
+        415,
+        417,
+        418,
+        419,
+        420,
+        424,
+        427,
+        428,
+        432,
+        449,
+        450,
+        453,
+        456,
+        464,
+        482,
+        483,
+        490,
+        492,
+        495
+      ],
+      "falAlgorithm": "Math.floor(Math.random() * falData.length) — sorteio uniforme sobre os gazéis traduzidos"
+    },
+    {
+      "url": "https://www.hafizonlove.com/more/index.html",
+      "path": "/more/index.html",
+      "type": "biography",
+      "title": "Biography — Hafiz",
+      "heading": "Biography",
+      "persianHeading": "زندگی حافظ",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "hasPersianText": true,
+      "hasEnglishTranslation": true,
+      "units": 1
+    },
+    {
+      "url": "https://www.hafizonlove.com/more/shahriar.html",
+      "path": "/more/shahriar.html",
+      "type": "about-translator",
+      "title": "Hafiz and I — Hafiz",
+      "heading": "Hafiz and I",
+      "persianHeading": null,
+      "languages": [],
+      "hasPersianText": false,
+      "hasEnglishTranslation": false,
+      "units": 0
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://www.hafizonlove.com/hafiz.css",
+      "kind": "css"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/portrait.gif",
+      "kind": "gif"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/poems4.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/poems3.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/arts4.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/arts3.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/bio4.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/bio3.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/fal4.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/fal3.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/data/Hafiz_Divan_Compact.pdf",
+      "kind": "pdf"
+    },
+    {
+      "url": "https://www.hafizonlove.com/data/Hafiz_Divan.pdf",
+      "kind": "pdf"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/01sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/02sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/03sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/04sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/05sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/06sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/07sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/08sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/09sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/10sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/11sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/12sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/13sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/14sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/15sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/16sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/17sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/18sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/19sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/20sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/21sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/22sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/23sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/24sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/25sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/26sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/27sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/28sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/29sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/30sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/31sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/32sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/33sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/34sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/35sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/hafezieh1sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/hafezieh2sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/hafezieh3sm.jpg",
+      "kind": "jpg"
+    },
+    {
+      "url": "https://www.hafizonlove.com/images/hafezieh4sm.jpg",
+      "kind": "jpg"
+    }
+  ],
+  "externalLinks": [
+    "http://www.okonlife.com/",
+    "http://www.rumionfire.com/",
+    "http://www.shahriari.com/",
+    "http://www.zarathushtra.com/"
+  ],
+  "failures": []
+}

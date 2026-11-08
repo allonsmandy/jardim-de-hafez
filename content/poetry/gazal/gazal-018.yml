@@ -1,0 +1,36 @@
+id: gazal-018
+category: gazal
+number: 18
+firstLine:
+  fa: ساقیا آمدنِ عید مبارک بادت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقیا آمدنِ عید مبارک بادت
+      - وان مَواعید که کردی مَرَوَد از یادت
+    - - در شگفتم که در این مدّتِ ایّامِ فِراق
+      - برگرفتی ز حریفان دل و دل می‌دادت
+    - - برسان بندگیِ دختر رَز، گو به درآی
+      - که دَم و همّت ما کرد ز بند، آزادت
+    - - شادی مجلسیان در قدم و مقدم توست
+      - جای غم باد، مَر آن دل که نخواهد شادت
+    - - شکر ایزد که ز تاراجِ خزان رخنه نیافت
+      - بوستانِ سمن و سرو و گل و شمشادت
+    - - چشمِ بد دور کز آن تفرقه‌ات بازآورد
+      - طالعِ ناموَر و دولتِ مادرزادت
+    - - حافظ از دست مده دولت این کشتی نوح
+      - ور نه طوفانِ حوادث بِبَرَد بُنیادت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 18
+    url: https://ganjoor.net/hafez/ghazal/sh18
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 18
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

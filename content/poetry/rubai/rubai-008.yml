@@ -1,0 +1,26 @@
+id: rubai-008
+category: rubai
+number: 8
+firstLine:
+  fa: ماهم که رخش روشنی خور بگرفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ماهم که رخش روشنی خور بگرفت
+      - گرد خط او چشمهٔ کوثر بگرفت
+    - - دل‌ها همه در چاه زنخدان انداخت
+      - وآنگه سر چاه را به عنبر بگرفت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 8
+    url: https://ganjoor.net/hafez/robaee2/sh8
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 8
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

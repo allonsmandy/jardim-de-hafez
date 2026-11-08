@@ -1,0 +1,26 @@
+id: diversos-096
+category: diversos
+number: 96
+firstLine:
+  fa: بردار دل از مادر دهر ای فرزند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بردار دل از مادر دهر ای فرزند
+      - با نصف اخیر شوهرش در پیوند
+    - - بی قلب ندانی که چنین نقادی
+      - چون حافظ اگر شوی به رویش خرسند
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 96
+    url: https://ganjoor.net/hafez/montasab/sh96
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 96
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

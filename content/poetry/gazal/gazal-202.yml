@@ -1,0 +1,36 @@
+id: gazal-202
+category: gazal
+number: 202
+firstLine:
+  fa: بُوَد آیا که درِ میکده‌ها بگشایند؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بُوَد آیا که درِ میکده‌ها بگشایند؟
+      - گره از کارِ فروبستهٔ ما بگشایند؟
+    - - اگر از بهرِ دلِ زاهدِ خودبین بستند
+      - دل قوی دار که از بهرِ خدا بگشایند
+    - - به صفایِ دلِ رندانِ صَبوحی‌زدگان
+      - بس درِ بسته به مِفْتاحِ دعا بگشایند
+    - - نامهٔ تَعزیَتِ دختر رَز بِنْویسید
+      - تا همه مُغبَچِگان زلفِ دوتا بگشایند
+    - - گیسوی چنگ بِبُرّید به مرگِ مِیِ ناب
+      - تا حریفان همه خون از مژه‌ها بگشایند
+    - - درِ میخانه ببستند خدایا مپسند
+      - که درِ خانهٔ تزویر و ریا بگشایند
+    - - حافظ این خرقه که داری تو ببینی فردا
+      - که چه زُنّار ز زیرش به دَغا بگشایند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 202
+    url: https://ganjoor.net/hafez/ghazal/sh202
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 202
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

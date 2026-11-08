@@ -1,0 +1,26 @@
+id: diversos-084
+category: diversos
+number: 84
+firstLine:
+  fa: دل منه ای جان من بر خواجه و شاه و وزیر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دل منه ای جان من بر خواجه و شاه و وزیر
+      - کس نمی‌داند که کارش از کجا خواهد گشاد
+    - - کار شاهان اینچنین باشد تو ای حافظ مرنج
+      - داور روزی‌رسان توفیق و نصرتشان دهاد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 84
+    url: https://ganjoor.net/hafez/montasab/sh84
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 84
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

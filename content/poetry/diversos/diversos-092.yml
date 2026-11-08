@@ -1,0 +1,26 @@
+id: diversos-092
+category: diversos
+number: 92
+firstLine:
+  fa: در خوبی و دلبری بت من طاق است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در خوبی و دلبری بت من طاق است
+      - بیچاره دلم به وصل او مشتاق است
+    - - نازک بدن و لاله رخ و سنگین دل
+      - شیرین سخن و لطیف و سیمین ساق است
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 92
+    url: https://ganjoor.net/hafez/montasab/sh92
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 92
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

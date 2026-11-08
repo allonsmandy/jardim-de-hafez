@@ -1,0 +1,36 @@
+id: gazal-328
+category: gazal
+number: 328
+firstLine:
+  fa: من که باشم که بر آن خاطرِ عاطِر گذرم؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من که باشم که بر آن خاطرِ عاطِر گذرم؟
+      - لطف‌ها می‌کنی ای خاکِ دَرَت، تاجِ سرم
+    - - دلبرا بنده نوازیت که آموخت؟ بگو
+      - که من این ظَن، به رقیبانِ تو هرگز نَبَرم
+    - - همتم بدرقهٔ راه کن ای طایرِ قدس
+      - که دراز است رَهِ مقصد و من نوسفرم
+    - - ای نسیمِ سحری بندگیِ من برسان
+      - که فراموش مکن وقتِ دعایِ سحرم
+    - - خُرَم آن روز کز این مرحله بَربَندَم بار
+      - و از سرِ کوی تو پرسند رفیقان خبرم
+    - - حافظا شاید اگر در طلبِ گوهرِ وصل
+      - دیده دریا کُنم از اشک و در او غوطه خورم
+    - - پایهٔ نظم بلند است و جهان گیر بگو
+      - تا کُند پادشهِ بحر دهان پُر گهرم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 328
+    url: https://ganjoor.net/hafez/ghazal/sh328
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 328
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

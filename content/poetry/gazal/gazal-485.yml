@@ -1,0 +1,38 @@
+id: gazal-485
+category: gazal
+number: 485
+firstLine:
+  fa: ساقیا سایهٔ ابر است و بهار و لب جوی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقیا سایهٔ ابر است و بهار و لب جوی
+      - من نگویم چه کن ار اهل دلی خود تو بگوی
+    - - بوی یک‌رنگی از این نقش نمی‌آید خیز
+      - دلق آلودهٔ صوفی به می ناب بشوی
+    - - سفله‌طبع است جهان، بر کَرَمَش تکیه مکن
+      - ای جهان‌دیده! ثباتِ قدم از سفله مجوی
+    - - دو نصیحت کنمت بشنو و صد گنج ببر
+      - «از در عیش درآ و به ره عیب مپوی»
+    - - شکر آن را که دگربار رسیدی به بهار
+      - بیخ نیکی بنشان و ره تحقیق بجوی
+    - - روی جانان طلبی، آینه را قابل ساز
+      - ور نه هرگز گل و نسرین ندمد ز آهن و روی
+    - - گوش بگشای که بلبل به فغان می‌گوید
+      - خواجه تقصیر مفرما گل توفیق ببوی
+    - - گفتی از حافظِ ما بوی ریا می‌آید
+      - آفرین بر نفست باد که خوش بردی بوی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 485
+    url: https://ganjoor.net/hafez/ghazal/sh485
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 485
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

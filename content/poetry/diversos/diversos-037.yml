@@ -1,0 +1,38 @@
+id: diversos-037
+category: diversos
+number: 37
+firstLine:
+  fa: ای باد نسیم یار داری
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای باد نسیم یار داری
+      - زآن نفحهٔ مشکبار داری
+    - - زنهار! مکن درازدستی
+      - با طرهٔ او چه کار داری؟
+    - - ای گل! تو کجا و روی زیباش
+      - او مشک و تو بار خار داری
+    - - نرگس! تو کجا و چشم مستش
+      - او سرخوش و تو خمار داری
+    - - ریحان! تو کجا و خط سبزش
+      - او تازه و تو غبار داری
+    - - ای سرو! تو با قد بلندش
+      - در باغ چه اعتبار داری
+    - - ای عقل! تو با وجود عشقش
+      - در دست چه اختیار داری؟
+    - - روزی برسی به وصل! حافظ
+      - گر طاقت انتظار داری!
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 37
+    url: https://ganjoor.net/hafez/montasab/sh37
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 37
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

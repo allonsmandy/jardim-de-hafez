@@ -1,0 +1,40 @@
+id: gazal-423
+category: gazal
+number: 423
+firstLine:
+  fa: دوش رفتم به در میکده خواب‌آلوده
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دوش رفتم به در میکده خواب‌آلوده
+      - خرقه تر دامن و سجّاده شراب‌آلوده
+    - - آمد افسوس‌کنان مغبچهٔ باده‌فروش
+      - گفت بیدار شو ای رهرو خواب‌آلوده
+    - - شست و شویی کن و آن‌گه به خرابات خِرام
+      - تا نگردد ز تو این دیر خراب آلوده
+    - - به هوای لب شیرین پسران چند کنی
+      - جوهر روح به یاقوت مذاب آلوده
+    - - به طهارت گذران منزل پیری و مکن
+      - خلعت شیب چو تشریف شباب آلوده
+    - - پاک و صافی شو و از چاه طبیعت به در آی
+      - که صفایی ندهد آب تراب‌آلوده
+    - - گفتم ای جان جهان دفتر گل عیبی نیست
+      - که شود فصل بهار از می ناب آلوده
+    - - آشنایانِ رهِ عشق در این بحر عمیق
+      - غرقه گشتند و نگشتند به آب آلوده
+    - - گفت حافظ لغز و نکته به یاران مفروش
+      - آه از این لطف به انواع عتاب آلوده
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 423
+    url: https://ganjoor.net/hafez/ghazal/sh423
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 423
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

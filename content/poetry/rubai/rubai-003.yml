@@ -1,0 +1,26 @@
+id: rubai-003
+category: rubai
+number: 3
+firstLine:
+  fa: گفتم که لبت، گفت لبم آب حیات
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفتم که لبت، گفت لبم آب حیات
+      - گفتم دهنت، گفت زهی حَبّ نبات
+    - - گفتم سخن تو، گفت حافظ گفتا
+      - شادیِ همه لطیفه‌گویان صلوات
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 3
+    url: https://ganjoor.net/hafez/robaee2/sh3
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 3
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

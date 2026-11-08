@@ -1,0 +1,26 @@
+id: diversos-104
+category: diversos
+number: 104
+firstLine:
+  fa: بنگر به چمن جمال فرخندهٔ گل
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بنگر به چمن جمال فرخندهٔ گل
+      - گه گریهٔ ابر بین و گه خندهٔ گل
+    - - سرو ار چه به آزادی خود می‌نازد
+      - از راستیی که داشت شد بندهٔ گل
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 104
+    url: https://ganjoor.net/hafez/montasab/sh104
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 104
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

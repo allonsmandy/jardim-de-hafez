@@ -1,0 +1,38 @@
+id: gazal-494
+category: gazal
+number: 494
+firstLine:
+  fa: اِی دِل! گَر از آن چاهِ زَنَخْدان به دَرآیی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اِی دِل! گَر از آن چاهِ زَنَخْدان به دَرآیی
+      - هر جا که رَوی، زود، پَشیمان به دَرآیی
+    - - هُش دار که گَر وَسْوَسِهٔ عَقْل کُنی گوش
+      - آدَم‌صِفَت از روضِهٔ رِضْوان به دَرآیی
+    - - شایَد که به آبی، فَلَکَت، دَسْت نَگیرد
+      - گر تِشْنِه‌لَب از چَشْمِهٔ حِیوان به دَرآیی
+    - - جان می‌دَهم از حَسْرَتِ دیدارِ تو، چون صُبْح
+      - باشَد که چو خورشید درخشان به دَرآیی
+    - - چَنْدان، چو صَبا بَر تو گُمارم دَمِ هِمَّت
+      - کز غُنْچِه چو گُل، خُرَّم و خَنْدان به دَرآیی
+    - - در تیره‌شَبِ هِجْرِ تو، جانَم به لَب آمَد
+      - وَقْت است که همچون مَهِ تابان به دَرآیی
+    - - بَر رَهْگُذَرَت بَسْتِه‌ام از دیده، دو صَد جوی
+      - تا بو که تو چون سَرْوِ خُرامان به دَرآیی
+    - - حافِظ! مَکُن اَنْدیشِه که آن یوسُفِ مَه‌رو
+      - بازآیَد و از کُلْبِهٔ اَحْزان به دَرآیی!
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 494
+    url: https://ganjoor.net/hafez/ghazal/sh494
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 494
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

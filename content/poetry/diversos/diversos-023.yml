@@ -1,0 +1,38 @@
+id: diversos-023
+category: diversos
+number: 23
+firstLine:
+  fa: ببین هلالِ محرّم بخواه ساغر راح
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ببین هلالِ محرّم بخواه ساغر راح
+      - که ماه اَمن و اَمان است و سال صلح و صلاح
+    - - نزاع بر سر دنیای دون گدا نکند
+      - به پادشه بِنه ای نور دیده کوی فلاح
+    - - عزیز دار زمانِ وصال را، کـ‌آن دَم
+      - مقابلِ شبِ‌قدر است و روزِ اِستِفتاح
+    - - بیار باده که روزش به خیر خواهد بود
+      - هر آن که جام صبوحی نهد چراغ صباح
+    - - کدام طاعتِ شایسته آید از من مست
+      - که بانگِ شام ندانم ز فالق الاصباح
+    - - دلا تو غافلی از کار خویش و می‌ترسم
+      - که کس درت نگشاید چو گم کنی مفتاح
+    - - به بوی وصل چو حافظ شبی به روز آور
+      - که بشکفد گل بختت ز جانبِ فتّاح
+    - - زمان شاه شجاع است و دور حکمت و شرع
+      - به راحت دل و جان کوش در صباح و رواح
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 23
+    url: https://ganjoor.net/hafez/montasab/sh23
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 23
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

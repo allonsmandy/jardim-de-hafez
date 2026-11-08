@@ -1,0 +1,36 @@
+id: qete-007
+category: qete
+number: 7
+firstLine:
+  fa: به عهد سلطنت شاه شیخ ابواسحاق
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به عهد سلطنت شاه شیخ ابواسحاق
+      - به پنج شخص عجب ملک فارس بود آباد
+    - - نخست پادشهی همچو او ولایت‌بخش
+      - که جان خویش بپرورد و دادِ عیش بداد
+    - - دگر مربی اسلام شیخ مجدالدین
+      - که قاضی‌ای بِه از او آسمان ندارد یاد
+    - - دگر بقیهٔ ابدال شیخ امین الدین
+      - که یمن همت او کارهای بسته گشاد
+    - - دگر شهنشه دانش عضد که در تصنیف
+      - بنای کار مواقف به نام شاه نهاد
+    - - دگر کریم چو حاجی قوام دریادل
+      - که نام نیک ببرد از جهان به بخشش و داد
+    - - نظیر خویش بنگذاشتند و بگذشتند
+      - خدای عز و جل جمله را بیامرزاد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 7
+    url: https://ganjoor.net/hafez/ghete/sh7
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 7
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

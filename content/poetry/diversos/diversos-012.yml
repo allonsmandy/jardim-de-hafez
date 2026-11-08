@@ -1,0 +1,36 @@
+id: diversos-012
+category: diversos
+number: 12
+firstLine:
+  fa: دلا چندَم بریزی خون؟ ز دیده شرم دار آخر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دلا چندَم بریزی خون؟ ز دیده شرم دار آخر
+      - تو نیز ای دیده خوابی کن، مراد دل بر آر آخر
+    - - منم یا رب که جانان را ز ساعد بوسه می‌چینم
+      - دعای صبحدم دیدی که چون آمد به کار آخر؟
+    - - مراد دنییٖ و عُقبیٖ به من بخشید روزی‌بخش
+      - به گوشم قول چنگ اولی، به دستم زلف یار آخر
+    - - چو باد از خرمنِ دونان، ربودن خوشه‌ای تا چند؟
+      - ز همت توشه‌ای بردار و خود تخمی بکار آخر
+    - - نگارستان چین دانم، نخواهد شد سَرایت لیک
+      - به نوکِ کِلکِ رنگ‌آمیز، نقشی می‌نگار آخر
+    - - دلا در مُلک شبخیزی، گر از اندوه نگریزی
+      - دَم صُبحت بشارتها، بیارَد ز آن دیار آخر
+    - - بُتی چون ماه زانو زد، میی چون لعل پیش آورد
+      - تو گویی تائبم حافظ، ز ساقی شرم دار آخر
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 12
+    url: https://ganjoor.net/hafez/montasab/sh12
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 12
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

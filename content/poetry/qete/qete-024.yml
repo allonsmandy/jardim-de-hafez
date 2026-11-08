@@ -1,0 +1,26 @@
+id: qete-024
+category: qete
+number: 24
+firstLine:
+  fa: در این ظلمت‌سرا تا کی، به بوی دوست بنشینم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در این ظلمت‌سرا تا کی، به بوی دوست بنشینم
+      - گهی انگشت بر دندان، گهی سر بر سر زانو
+    - - بیا ای طایر دولت، بیاور مژدهٔ وصلی
+      - عَسَی الْاَیّامُ اَنْ یَرْجِعْنَ قَوْماً کَالَّذی کانوا
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 24
+    url: https://ganjoor.net/hafez/ghete/sh24
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 24
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

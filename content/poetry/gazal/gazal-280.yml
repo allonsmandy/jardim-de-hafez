@@ -1,0 +1,36 @@
+id: gazal-280
+category: gazal
+number: 280
+firstLine:
+  fa: چو بر شکست صبا زلفِ عنبرافشانش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چو بر شکست صبا زلفِ عنبرافشانش
+      - به هر شکسته که پیوست، تازه شد جانش
+    - - کجاست همنفسی؟ تا به شرح عرضه دَهَم
+      - که دل چه می‌کشد از روزگارِ هجرانش
+    - - زمانه از ورقِ گُل، مثالِ رویِ تو بست
+      - ولی ز شرمِ تو در غنچه کرد پنهانش
+    - - تو خفته‌ای و نشد عشق را کرانه پدید
+      - تبارک الله از این رَه که نیست پایانش
+    - - جمالِ کعبه مگر عذرِ رهروان خواهد؟
+      - که جانِ زنده‌دلان سوخت در بیابانش
+    - - بدین شکستهٔ بیت الحزن که می‌آرد
+      - نشان یوسفِ دل از چَهِ زَنَخدانَش؟
+    - - بگیرم آن سرِ زلف و به دستِ خواجه دهم
+      - که سوخت حافظِ بی‌دل ز مکر و دستانش
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 280
+    url: https://ganjoor.net/hafez/ghazal/sh280
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 280
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

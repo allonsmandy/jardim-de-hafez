@@ -1,0 +1,38 @@
+id: diversos-034
+category: diversos
+number: 34
+firstLine:
+  fa: مباد کس چو من خسته مبتلای فراق
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مباد کس چو من خسته مبتلای فراق
+      - که عمر من همه بگذشت در بلای فراق
+    - - غریب و عاشق و بیدل غریب و سرگردان
+      - کشیده محنت ایام و داغهای فراق
+    - - اگر به دست من افتد فراق را بکشم
+      - به آب دیده دهم باز خونبهای فراق
+    - - کجا روم؟ چه کنم؟ حال دل که را گویم؟
+      - که داد من بستاند دهد جزای فراق
+    - - ز درد هجر فراقم دمی خلاصی نیست
+      - خدای را بستان داد و ده سزای فراق
+    - - فراق را به فراق تو مبتلا سازم
+      - چنان که خون بچکانم ز دیده‌های فراق
+    - - من از کجا و فراق از کجا و غم ز کجا
+      - مگر که زاد مرا مادر از برای فراق
+    - - به داغ عشق تو حافظ چو بلبل سحری
+      - زند به روز و شبان خون فشان نوای فراق
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 34
+    url: https://ganjoor.net/hafez/montasab/sh34
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 34
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

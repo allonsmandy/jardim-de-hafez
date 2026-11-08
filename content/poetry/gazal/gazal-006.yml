@@ -1,0 +1,158 @@
+id: gazal-006
+category: gazal
+number: 6
+firstLine:
+  fa: به مُلازِمانِ سلطان، که رساند این دعا را؟
+  pt: Quem levará esta prece aos que servem o sultão
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به مُلازِمانِ سلطان، که رساند این دعا را؟
+      - که به شُکرِ پادشاهی، زِ نظر مَران گدا را
+    - - ز رقیبِ دیوسیرت، به خدای خود پناهم
+      - مَگَر آن شهابِ ثاقِب مددی دهد، خدا را!
+    - - مُژِه‌یِ سیاهت اَرْ کرد به خونِ ما اشارت
+      - ز فریبِ او بیندیش و غلط مکن، نگارا
+    - - دلِ عالمی بِسوزی چُو عِذار بَرفُروزی
+      - تو از این چه سود داری، که نمی‌کنی مدارا؟
+    - - همه‌شب در این اُمیدم که نسیمِ صبحگاهی
+      - به پیام آشنایان، بنوازد آشنا را
+    - - چه قیامت است جانا، که به عاشقان نمودی؟
+      - دل و جان فدای رویت، بِنَما عِذار ما را
+    - - به خدا، که جرعه‌ای دِه تو به حافظِ سحرخیز
+      - که دعایِ صبحگاهی، اثری کند شما را
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 6
+    url: https://ganjoor.net/hafez/ghazal/sh6
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - 'Quem levará esta prece aos que servem o sultão:'
+      - “Em gratidão por seres rei, não expulses o mendigo do teu olhar”?
+    - - Do rival de alma demoníaca busco refúgio no meu Deus;
+      - talvez aquela estrela cadente venha me socorrer — por Deus!
+    - - Se teus cílios negros fizeram sinal para o nosso sangue,
+      - cuidado com a astúcia deles, e não cometas esse erro, ó bela.
+    - - Incendeias o coração de um mundo inteiro quando acendes o rosto;
+      - que ganhas com isso, se não mostras nenhuma brandura?
+    - - 'A noite inteira vivo nesta esperança: que a brisa da manhã'
+      - com a mensagem dos amigos venha acariciar o amigo.
+    - - Que juízo final é este, ó alma, que mostraste aos amantes?
+      - Coração e vida em oferenda ao teu rosto — mostra-nos a face!
+    - - Por Deus, dá um gole a Hafez, que se levanta de madrugada,
+      - pois a prece do amanhecer há de trazer-te algum bem.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 6
+themes:
+  - Um pedido ao poderoso
+  - O rival invejoso
+  - Esperar a mensagem da manhã
+introduction:
+  - Um poema de súplica. O poeta se coloca como um mendigo diante de um rei — que pode ser a pessoa
+    amada, um governante real ou Deus — e pede apenas um olhar, uma atenção.
+  - 'Há um vilão: o "rival", figura comum na poesia persa, o invejoso que tenta afastar o amante do
+    amado. E há a esperança de sempre: que o vento da manhã traga notícias de quem se ama.'
+stanzaNotes:
+  - stanza: 1
+    plain:
+      'Alguém pode, por favor, levar meu recado a quem está perto do rei? Digo: você que tem tudo,
+      não me ignore só porque eu não tenho nada.'
+    meaning:
+      'O "sultão" é a pessoa amada, tratada como um rei; o poeta é o mendigo que não tem acesso
+      direto e precisa de intermediários. Na poesia persa é comum falar do amor com a linguagem da
+      corte: o amado reina, o amante serve.'
+    literal: 'Aos acompanhantes do sultão, quem fará chegar esta prece: / que em agradecimento pela
+      realeza, do olhar não expulses o mendigo.'
+    choices:
+      '"Molāzemān" são os que estão sempre junto do rei, os cortesãos; "os que servem o sultão" é
+      mais claro. Colocamos a prece entre aspas para deixar evidente quem fala.'
+  - stanza: 2
+    plain:
+      Esse rival invejoso é um verdadeiro demônio. Só Deus me protege dele — tomara que uma estrela
+      caia do céu e o espante!
+    meaning: 'Segundo o Alcorão, as estrelas cadentes são lançadas pelos anjos para afugentar os
+      demônios que tentam ouvir os segredos do céu. Hafez usa essa imagem com humor: se o rival é um
+      demônio, só uma estrela cadente resolve.'
+    literal: Do rival de natureza de demônio, em meu Deus (tenho) refúgio; / talvez aquele meteoro
+      penetrante dê uma ajuda, por Deus!
+    choices:
+      '"Shahāb-e sāqeb" (o meteoro que perfura) é expressão corânica; "estrela cadente" é como o
+      leitor brasileiro conhece o fenômeno.'
+  - stanza: 3
+    plain:
+      'Seus olhos parecem querer me matar. Mas cuidado: não se deixe levar por eles — não cometa
+      esse erro comigo.'
+    meaning: Na poesia persa, os cílios do amado são flechas ou punhais, e um olhar pode "matar" o
+      apaixonado. Aqui o poeta pede, meio brincando, que o amado não obedeça aos próprios olhos
+      assassinos.
+    literal: Teu cílio negro, se fez sinal ao nosso sangue, / da enganação dele pensa e não erres, ó ídolo.
+    choices:
+      '"Negārā" é "ó pintura, ó imagem" — um vocativo para alguém belo como uma figura pintada.
+      "Ó bela" é a forma natural, embora o persa não marque gênero.'
+  - stanza: 4
+    plain:
+      Quando você aparece com o rosto brilhando, todo mundo se apaixona e sofre. De que adianta, se
+      você não tem pena de ninguém?
+    meaning:
+      'O rosto do amado é como um fogo: ilumina e queima. A pergunta é uma queixa carinhosa: de
+      que serve tanta beleza se ela só faz sofrer?'
+    choices: '"Modārā" é tolerância, gentileza no trato — a mesma palavra do provérbio do gazel 5.
+      "Brandura" mantém a ideia de suavidade.'
+  - stanza: 5
+    plain: Passo a noite acordado esperando que o vento da manhã me traga notícias de quem eu amo.
+    meaning: A brisa da manhã é a mensageira dos apaixonados. Passar a noite em claro esperando o
+      amanhecer é o retrato clássico do amante.
+    choices:
+      'O original repete "āshnā" (o conhecido, o íntimo) em dois sentidos: os amigos que mandam a
+      mensagem e o amigo que a recebe. Mantivemos a repetição "amigos / amigo".'
+  - stanza: 6
+    plain:
+      Sua beleza causou um verdadeiro fim do mundo entre os apaixonados. Dou minha vida por você —
+      só me deixe ver seu rosto!
+    meaning:
+      '"Qiyāmat" é o Dia do Juízo Final, quando tudo vira de ponta-cabeça; em persa também quer
+      dizer "tumulto, confusão". Há ainda um jogo com "qāmat" (a estatura, o porte do amado): o
+      corpo dele, quando se ergue, provoca um "juízo final".'
+    choices:
+      Escolhemos "juízo final" para manter a força religiosa da imagem; o trocadilho com "porte"
+      não tem equivalente e fica explicado aqui.
+  - stanza: 7
+    plain:
+      Por favor, dê um gole de vinho a Hafez, que acorda cedo para rezar — as orações dele de manhã
+      vão te trazer sorte.
+    meaning: 'Rezar de madrugada era considerado muito poderoso. Hafez faz uma troca bem-humorada: o
+      amado dá vinho, e o poeta paga com orações. Mistura, de novo, o sagrado e o proibido.'
+    choices:
+      '"Sahar-khiz" é "o que se levanta na aurora" (para orar). "Atari konad" é "terá efeito";
+      "há de trazer-te algum bem" deixa o sentido explícito.'
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - amado
+  - saba
+  - alcorao
+  - takhallos
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

@@ -1,0 +1,38 @@
+id: gazal-227
+category: gazal
+number: 227
+firstLine:
+  fa: گر چه بر واعظِ شهر این سخن آسان نشود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر چه بر واعظِ شهر این سخن آسان نشود
+      - تا ریا وَرزَد و سالوس مسلمان نشود
+    - - رِندی آموز و کَرَم کُن که نه چندان هنر است
+      - حَیَوانی که ننوشد مِی و انسان نشود
+    - - گوهرِ پاک بِباید که شود قابلِ فیض
+      - وَر نه هر سنگ و گِلی، لؤلؤ و مرجان نشود
+    - - اسمِ اعظم بِکُنَد کارِ خود ای دل! خوش باش
+      - که به تَلبیس و حِیَل، دیو مسلمان نشود
+    - - عشق می‌ورزم و امّید که این فَنِّ شریف
+      - چون هنرهایِ دگر، موجب حِرمان نشود
+    - - دوش می‌گفت که «فردا بدهم کامِ دلت»
+      - سببی ساز خدایا که پشیمان نشود
+    - - حُسنِ خُلقی زِ خدا می‌طلبم خویِ تو را
+      - تا دگر خاطرِ ما از تو پریشان نشود
+    - - ذره را تا نَبوَد همّتِ عالی حافظ
+      - طالبِ چشمهٔ خورشیدِ درخشان نشود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 227
+    url: https://ganjoor.net/hafez/ghazal/sh227
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 227
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

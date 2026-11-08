@@ -1,0 +1,36 @@
+id: diversos-046
+category: diversos
+number: 46
+firstLine:
+  fa: برو ای طبیبم از سر که خبر ز سر ندارم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - برو ای طبیبم از سر که خبر ز سر ندارم
+      - به خدا رها کنم جان که ز جان خبر ندارم
+    - - به عیادتم قدم نه که ز بی‌خودی شوم به
+      - می ناب نوش و هم ده که غم دگر ندارم
+    - - غمم ار خوری از این پس نکنم ز غم خوری بس
+      - نظری به جز تو با کس به کسی دگر ندارم
+    - - ز زَرت کنند زیور به زرت کشند در بر
+      - من بی‌نوای مضطر چه کنم که زر ندارم
+    - - دگرم مگو که خواهم که ز درگهت برانم
+      - تو بر این و من بر آنم که دل از تو برندارم
+    - - به من ار چه میْ ‌پرستم مدهید می به دستم
+      - مبرید دل ز دستم که دل دگر ندارم
+    - - دل حافظ ار بجویی غم دل ز تندخویی
+      - چو بگویمت،  بگویی سر دردسر ندارم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 46
+    url: https://ganjoor.net/hafez/montasab/sh46
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 46
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

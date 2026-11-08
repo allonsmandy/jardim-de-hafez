@@ -1,0 +1,36 @@
+id: gazal-305
+category: gazal
+number: 305
+firstLine:
+  fa: به وقت گُل شدم از توبهٔ شراب خجِل
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به وقت گُل شدم از توبهٔ شراب خجِل
+      - که کَس مباد ز کِردارِ ناصَواب خجِل
+    - - صلاحِ ما همه دامِ رَه است و من زین بحث
+      - نی‌ام ز شاهد و ساقی به هیچ باب خجِل
+    - - بوَد که یار نرنجد ز ما به خُلقِ کریم
+      - که از سؤال ملولیم و از جواب خجِل
+    - - ز خون که رفت شبِ دوش از سراچهٔ چشم
+      - شدیم در نظر رَهرُوانِ خواب خجِل
+    - - رواست نرگسِ مست ار فِکند سر در پیش
+      - که شد ز شیوهٔ آن چشمِ پُر عِتاب خجِل
+    - - تویی که خوب‌تری ز آفتاب و شُکرِ خدا
+      - که نیستم ز تو در رویِ آفتاب خجِل
+    - - حجابِ ظلمت از آن بست آبِ خضر که گشت
+      - ز شعرِ حافظ و آن طَبعِ همچو آب خجِل
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 305
+    url: https://ganjoor.net/hafez/ghazal/sh305
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 305
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

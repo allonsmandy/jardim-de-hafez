@@ -1,0 +1,26 @@
+id: rubai-013
+category: rubai
+number: 13
+firstLine:
+  fa: هر دوست که دَم زد زِ وفا، دشمن شد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هر دوست که دَم زد زِ وفا، دشمن شد
+      - هر پاک‌رُوی که بود، تَردامن شد
+    - - گویند شب آبِستَن و این است عجب
+      - کـ‌او مَرد ندید، از چه آبستن شد؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 13
+    url: https://ganjoor.net/hafez/robaee2/sh13
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 13
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

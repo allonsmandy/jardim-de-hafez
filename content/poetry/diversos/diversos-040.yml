@@ -1,0 +1,36 @@
+id: diversos-040
+category: diversos
+number: 40
+firstLine:
+  fa: شب از مطرب که دل خوش باد وی را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شب از مطرب که دل خوش باد وی را
+      - شنیدم نالهٔ جانسوز نى را
+    - - چنان در سوز من سازش اثر کرد
+      - که بى‌رقّت ندیدم هیچ شی را
+    - - حریفى بد مرا ساقى که در شب
+      - ز زلف و رخ نمودى شمس و فى را
+    - - چو شوقم دید در ساغر مى‌ افزود
+      - بگفتم ساقى فرخنده پى را
+    - - رهانیدى مرا از قید هستى
+      - چو پیمودى پیاپى جام مى را
+    - - حماک الله عن شرّ النوائب
+      - جزاک الله فى الدّارین خیرا
+    - - چو بی‌خود گشت حافظ کى شمارد
+      - به یک جو ملکت کاووس کى را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 40
+    url: https://ganjoor.net/hafez/montasab/sh40
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 40
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

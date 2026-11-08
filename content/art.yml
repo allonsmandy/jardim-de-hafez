@@ -1,0 +1,308 @@
+# Galeria Arte Persa — só obras com origem e licença verificadas.
+# Fonte de todas as obras abaixo: The Metropolitan Museum of Art, programa Open Access
+# (imagens de obras em domínio público, liberadas sob CC0). Dados conferidos na API oficial
+# do museu (collectionapi.metmuseum.org) em 2026-11-08. "originalTitle", data, lugar, técnica e
+# número de inventário são copiados da ficha do museu; títulos em português, descrições e
+# conexões com Hafez são textos do projeto.
+
+# ── Sala 1: o Divã nas mãos dos leitores ──
+
+- id: dervixes-dancando
+  room: diva
+  title: Dervixes dançando
+  originalTitle: '"Dancing Dervishes", Folio from a Divan of Hafiz'
+  date: c. 1480
+  place: Herat (atual Afeganistão)
+  maker: Hafez (autor do texto)
+  medium: Aquarela opaca e ouro sobre papel
+  size: 'Pintura: 16 × 10,8 cm · Página: 29,9 × 18,9 cm'
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 17.81.4
+    creditLine: Rogers Fund, 1917
+    url: https://www.metmuseum.org/art/collection/search/446892
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP231332.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP231332.jpg
+    alt: Página de um manuscrito do Divã de Hafez com uma pintura de dervixes dançando.
+  description: >-
+    Uma página arrancada de um manuscrito do Divã de Hafez, copiado e pintado em Herat por volta de
+    1480, menos de cem anos depois da morte do poeta. Herat era então a capital cultural dos
+    Timúridas, descendentes de Tamerlão, e o centro mais refinado da pintura persa.
+  connection: >-
+    É uma ilustração para um poema do próprio Hafez. O pintor escolheu mostrar dervixes em dança
+    extática — sinal de que, já no século XV, muitos leitores liam Hafez como poeta místico sufi.
+  glossary: [dervixe, sufi, divan]
+
+- id: antologia-de-bolso
+  room: diva
+  title: Antologia de poesia persa
+  originalTitle: Anthology of Persian Poetry
+  date: Século XVII
+  place: Irã
+  maker: Hafez (entre os autores)
+  medium: Tinta, aquarela opaca e ouro sobre papel; encadernação pintada e dourada sobre couro
+  size: 15,2 × 9,8 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 89.2.2153
+    creditLine: Gift of Joseph W. Drexel, 1889
+    url: https://www.metmuseum.org/art/collection/search/443198
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP262516.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP262516.jpg
+    alt: Pequeno livro persa de poesia aberto, com as páginas de texto emolduradas em ouro.
+  description: >-
+    Um livrinho de 15 centímetros, com capa de couro pintada e dourada, reunindo poemas de vários
+    poetas persas, entre eles Hafez.
+  connection: >-
+    Mostra como Hafez era lido: não só em grandes manuscritos de luxo, mas em livros pequenos,
+    para levar no bolso e reler — como até hoje se carrega o Divã no Irã.
+  glossary: [hafez]
+
+- id: diva-da-india
+  room: diva
+  title: Um Divã de Hafez feito na Índia
+  originalTitle: Divan (Anthology) of Hafiz
+  date: Último quarto do século XVIII
+  place: Índia
+  medium: Aquarela opaca, ouro e tinta sobre papel
+  size: 18,4 × 10,8 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 13.228.15
+    creditLine: Gift of Alexander Smith Cochran, 1913
+    url: https://www.metmuseum.org/art/collection/search/446549
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP155766.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP155766.jpg
+    alt: Manuscrito do Divã de Hafez produzido na Índia, decorado com ouro e pintura.
+  description: >-
+    Um manuscrito do Divã copiado e decorado na Índia, quase quatrocentos anos depois de Hafez. Por
+    séculos, o persa foi a língua da corte e da literatura no norte da Índia.
+  connection: >-
+    A fama de Hafez atravessou fronteiras muito antes de chegar ao Ocidente: na Índia ele era lido,
+    copiado e citado como no Irã.
+  glossary: [divan]
+
+- id: caligrafia-saadi-hafez
+  room: diva
+  title: Página de caligrafia com poemas de Saadi e Hafez
+  originalTitle: Page of Calligraphy from an Anthology of Poetry by Sa`di and Hafiz
+  date: Fim do século XV
+  place: Herat (atual Afeganistão)
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 30,2 × 19 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 11.84.1
+    creditLine: Frederick C. Hewitt Fund, 1911
+    url: https://www.metmuseum.org/art/collection/search/446168
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP369442.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP369442.jpg
+    alt: Página de caligrafia persa com versos e margens decoradas com animais e pássaros.
+  description: >-
+    Uma página de uma antologia com poemas de Saadi e Hafez, os dois grandes poetas de Shiraz. Na
+    caligrafia persa, a beleza da letra é parte do poema: copiar versos era uma arte tão respeitada
+    quanto pintar.
+  connection: >-
+    Saadi e Hafez lado a lado, como os iranianos os veem até hoje — os dois estão enterrados em
+    jardins de Shiraz, a poucos quilômetros um do outro.
+  glossary: [saadi, shiraz]
+
+# ── Sala 2: Shiraz no tempo de Hafez ──
+
+- id: shahnama-rustam-isfandiyar
+  room: shiraz
+  title: Rustam conversa com Isfandiyar
+  originalTitle: '"Rustam Discoursing with Isfandiyar", Folio from a Shahnama (Book of Kings)'
+  date: 1341 (741 do calendário islâmico)
+  place: Shiraz, Irã
+  maker: Ferdowsi (autor do texto)
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 'Página: 37,1 × 29,8 cm'
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 29.160.21
+    creditLine: H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929
+    url: https://www.metmuseum.org/art/collection/search/448279
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP215881.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP215881.jpg
+    alt: Página do Shahnama de Shiraz de 1341, com dois heróis conversando.
+  description: >-
+    Uma página do Shahnama, o "Livro dos Reis" de Ferdowsi, a grande epopeia do Irã. Este exemplar
+    foi copiado e pintado em Shiraz em 1341, quando a cidade era governada pela família Inju.
+  connection: >-
+    Este manuscrito foi encomendado por Haji Qavam al-Din Hasan, o vizir que Hafez elogia pelo nome
+    no Divã. Hafez tinha uns vinte anos: é arte feita na mesma cidade, para o mesmo protetor, no
+    mesmo momento em que ele começava a escrever.
+  glossary: [shiraz, haji-qavam, abu-eshaq, vizir]
+  link: { to: /o-poeta, label: Ver a vida de Hafez }
+
+- id: shahnama-quatro-cavaleiros
+  room: shiraz
+  title: Os quatro cavaleiros de Kai Khusrau nas montanhas
+  originalTitle: '"The Four Knights of Kai Khusrau in the Mountains", Folio from a Shahnama (Book of Kings)'
+  date: 1341 (741 do calendário islâmico)
+  place: Shiraz, Irã
+  maker: Ferdowsi (autor do texto)
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 'Pintura: 16,2 × 23,6 cm · Página: 36,8 × 28,7 cm'
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 36.113.2
+    creditLine: Rogers Fund, 1936
+    url: https://www.metmuseum.org/art/collection/search/449107
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DT11800.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DT11800.jpg
+    alt: Página do Shahnama de Shiraz de 1341, com cavaleiros nas montanhas.
+  description: >-
+    Outra página do mesmo Shahnama de 1341. O manuscrito foi desmontado no começo do século XX, e
+    suas páginas hoje estão espalhadas por museus de vários países.
+  connection: >-
+    É um dos raros testemunhos visuais da Shiraz da juventude de Hafez — a corte festiva dos Inju,
+    antes da chegada do governante severo que fechou as tavernas.
+  glossary: [shiraz, mobarez]
+
+# ── Sala 3: o mundo dos poemas ──
+
+- id: principe-no-jardim
+  room: imagens
+  title: Príncipe num pátio-jardim
+  originalTitle: Prince in a Garden Courtyard
+  date: 1525–1530
+  place: Tabriz, Irã
+  medium: Aquarela opaca, tinta, ouro e prata sobre papel
+  size: 'Pintura: 21,6 × 12,1 cm'
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 11.39.1
+    creditLine: Rogers Fund, 1911
+    url: https://www.metmuseum.org/art/collection/search/446160
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DT4783.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DT4783.jpg
+    alt: Pintura persa de um príncipe num pátio com jardim e músicos.
+  description: >-
+    Uma cena de corte num pátio ajardinado, pintada em Tabriz no início da dinastia Safávida, com
+    músicos e instrumentos.
+  connection: >-
+    É o cenário de muitos gazéis: o jardim, a música, a reunião de amigos em volta da taça. Ver a
+    cena ajuda a imaginar o mundo de que Hafez fala.
+  glossary: [chahar-bagh, saqi]
+
+- id: tapete-jardim
+  room: imagens
+  title: Tapete-jardim
+  originalTitle: Garden Carpet
+  date: Segunda metade do século XVIII
+  place: Irã
+  medium: Algodão (urdidura e trama) e lã (pelo); nó simétrico
+  size: cerca de 3,1 × 1,9 m
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 22.100.128
+    creditLine: The James F. Ballard Collection, Gift of James F. Ballard, 1922
+    url: https://www.metmuseum.org/art/collection/search/447583
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP217878.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP217878.jpg
+    alt: Tapete persa que representa um jardim visto de cima, com canteiros e canais.
+  description: >-
+    Os tapetes-jardim levam o jardim persa para dentro de casa: vistos de cima, mostram canteiros,
+    árvores e canais de água, como num mapa.
+  connection: >-
+    É o chahar bagh, o jardim em quatro partes, que dá forma a este site — e o jardim de que Hafez
+    nunca para de falar.
+  glossary: [chahar-bagh, cipreste]
+  link: { to: /sobre, label: Por que um jardim? }
+
+- id: leila-e-majnun
+  room: imagens
+  title: Leila e Majnun na escola
+  originalTitle: '"Laila and Majnun in School", Folio 129 from a Khamsa (Quintet) of Nizami of Ganja'
+  date: 1524–1525 (931 do calendário islâmico)
+  place: Herat (atual Afeganistão)
+  maker: Nezami (autor do texto)
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 'Pintura: 19,1 × 11,4 cm · Página: 32,1 × 22,2 cm'
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 13.228.7.7
+    creditLine: Gift of Alexander Smith Cochran, 1913
+    url: https://www.metmuseum.org/art/collection/search/446603
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DT232547.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DT232547.jpg
+    alt: Pintura persa de uma escola, onde Leila e Majnun se conhecem entre outras crianças.
+  description: >-
+    Uma cena da história de Leila e Majnun, contada em verso por Nezami: os dois se apaixonam ainda
+    crianças, na escola. Separados pelas famílias, Majnun enlouquece de amor e vai viver no deserto.
+  connection: >-
+    Majnun é o modelo de todo amante na poesia persa. Quando Hafez se compara a ele, o leitor
+    iraniano reconhece na hora a história desta pintura.
+  glossary: [majnun, nezami, amado]
+
+- id: jose-e-zuleica
+  room: imagens
+  title: Zuleica compra José
+  originalTitle: '"Yusuf is Purchased by Zulaykha", Folio from a Yusuf and Zulaykha'
+  date: Século XVI
+  place: Irã
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 'Pintura: 16,8 × 12,7 cm · Página: 24,2 × 14,6 cm'
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 13.228.8.3
+    creditLine: Gift of Alexander Smith Cochran, 1913
+    url: https://www.metmuseum.org/art/collection/search/446597
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/sf13-228-8-f73-r.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/sf13-228-8-f73-r.jpg
+    alt: Pintura persa da cena em que José é comprado por Zuleica.
+  description: >-
+    A história de José (Yusuf), vendido como escravo no Egito e comprado por Zuleica, que se
+    apaixona por ele. Contada no Alcorão e recontada em longos poemas persas.
+  connection: >-
+    Para Hafez, José é o símbolo da beleza perfeita, e Zuleica, do amor que não desiste. A imagem
+    aparece em vários gazéis.
+  glossary: [jose-zuleica, alcorao]
+
+- id: um-dervixe
+  room: imagens
+  title: Um dervixe
+  originalTitle: A Dervish
+  date: Fim do século XVI – início do século XVII
+  place: Irã
+  medium: Tinta, aquarela opaca e ouro sobre papel
+  size: 21,3 × 13,6 cm
+  collection:
+    institution: The Metropolitan Museum of Art, Nova York
+    accession: 13.228.35
+    creditLine: Gift of Alexander Smith Cochran, 1913
+    url: https://www.metmuseum.org/art/collection/search/446569
+  license: { status: public-domain, label: Domínio público · Open Access (CC0) }
+  image:
+    src: https://images.metmuseum.org/CRDImages/is/web-large/DP299965.jpg
+    full: https://images.metmuseum.org/CRDImages/is/original/DP299965.jpg
+    alt: Retrato persa de um dervixe, figura isolada sobre fundo claro.
+  description: >-
+    Um retrato avulso de um dervixe, numa folha solta. Pinturas de uma única figura como esta se
+    tornaram muito populares no Irã por volta de 1600.
+  connection: >-
+    O dervixe — pobre, errante, devoto — aparece o tempo todo nos poemas de Hafez, às vezes com
+    admiração, às vezes com ironia, ao lado do manto remendado dos falsos devotos.
+  glossary: [dervixe, kherqe, sufi]

@@ -1,0 +1,34 @@
+id: qete-009
+category: qete
+number: 9
+firstLine:
+  fa: دادگرا تو را فلک جرعه کش پیاله باد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دادگرا تو را فلک جرعه کش پیاله باد
+      - دشمن دل سیاه تو غرقه به خون چو لاله باد
+    - - ذروهٔ کاخ رتبتت راست ز فرط ارتفاع
+      - راهروان وهم را راه هزار ساله باد
+    - - ای مه برج منزلت چشم و چراغ عالمی
+      - بادهٔ صاف دایمت در قدح و پیاله باد
+    - - چون به هوای مدحتت زهره شود ترانه‌ساز
+      - حاسدت از سماع آن محرم آه و ناله باد
+    - - نه طبق سپهر و آن قرصهٔ ماه و خور که هست
+      - بر لب خوان قسمتت سهلترین نواله باد
+    - - دختر فکر بکر من محرم مدحت تو شد
+      - مهر چنان عروس را هم به کفت حواله باد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 9
+    url: https://ganjoor.net/hafez/ghete/sh9
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 9
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

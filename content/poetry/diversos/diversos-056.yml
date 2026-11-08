@@ -1,0 +1,40 @@
+id: diversos-056
+category: diversos
+number: 56
+firstLine:
+  fa: آفتاب از روی او شد در حجاب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آفتاب از روی او شد در حجاب
+      - سایه را باشد حجاب از آفتاب
+    - - دست ماه و مهر بربندد به حسن
+      - ماه بی‌مهرم چو بردارد نقاب
+    - - از خیالم باز نشناسد کسی
+      - گر در آغوشت نبینم شب به خواب
+    - - خون دل در جام دیدیم از سرشک
+      - آب رو بر باد دادیم از شراب
+    - - شاهدان مستور و مستان بی‌شکیب
+      - خانقه معمور است و درویشان خراب
+    - - سوز مستان گر بداند محتسب
+      - در دم از می‌شان زند بر آتش آب
+    - - هر که را از دیده باران بینی اشک
+      - زیر دامن باده دارد چون سحاب
+    - - از برای باده می‌باید زدن
+      - محتسب را حد بی حد و حساب
+    - - حافظا واعظ نصیحت گو مکن
+      - تَرک ترکان ختا نبود صواب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 56
+    url: https://ganjoor.net/hafez/montasab/sh56
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 56
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

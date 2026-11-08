@@ -1,0 +1,201 @@
+id: gazal-002
+category: gazal
+number: 2
+firstLine:
+  fa: صلاحِ کار کجا و منِ خراب کجا؟
+  pt: Onde a retidão das coisas, e onde eu, arruinado?
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صلاحِ کار کجا و منِ خراب کجا؟
+      - ببین تفاوتِ رَه کز کجاست تا به کجا
+    - - دلم ز صومعه بگرفت و خِرقِهٔ سالوس
+      - کجاست دِیرِ مُغان و شرابِ ناب کجا؟
+    - - چه نسبت است به‌ رِندی صَلاح و تقوا را؟
+      - سماعِ وَعظ کجا نغمهٔ رَباب کجا؟
+    - - ز رویِ دوست دلِ دشمنان چه دریابد؟
+      - چراغِ مُرده کجا؟ شمعِ آفتاب کجا؟
+    - - چو کُحلِ بینشِ ما خاکِ آستانِ شماست
+      - کجا رَویم بفرما ازین جناب، کجا
+    - - مَبین به سیبِ زَنَخدان که چاه در راه است
+      - کجا همی‌ رَوی ای دل بدین شتاب کجا؟
+    - - بِشُد! که یادِ خوشش باد روزگارِ وصال
+      - خود آن کِرِشمه کجا رفت و آن عِتاب کجا؟
+    - - قرار و خواب ز حافظ طمع مدار ای دوست
+      - قرار چیست صبوری کدام و خواب کجا؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 2
+    url: https://ganjoor.net/hafez/ghazal/sh2
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Onde a retidão das coisas, e onde eu, arruinado?
+      - 'Vê a distância do caminho: de onde, até onde!'
+    - - Meu coração cansou-se do claustro e do manto da hipocrisia;
+      - onde fica o templo dos magos, e o vinho puro, onde?
+    - - Que têm a ver com o rend a retidão e a piedade?
+      - Ouvir o sermão — onde? E a melodia do alaúde — onde?
+    - - Do rosto do amigo, o que alcança o coração dos inimigos?
+      - Onde a lâmpada apagada? E a vela do sol, onde?
+    - - Já que o colírio dos nossos olhos é o pó da tua soleira,
+      - para onde iremos — dize — longe desta porta? Para onde?
+    - - Não olhes a maçã do queixo, que há um poço no caminho;
+      - para onde vais, ó coração, com tanta pressa, para onde?
+    - - Passou — que seja doce a sua lembrança — o tempo da união;
+      - aquele olhar faceiro, para onde foi? E aquela repreensão, onde?
+    - - 'Repouso e sono, não os esperes de Hafez, amigo:'
+      - que é repouso? que paciência? e o sono, onde?
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 2
+themes:
+  - Duas vidas que não combinam
+  - Contra a falsa religiosidade
+  - A saudade
+  - Noites sem dormir
+introduction:
+  - Um poema inteiro feito de perguntas. A palavra persa "kojā" (onde?) se repete no fim de todos os
+    pares de versos, como um refrão — e mantivemos "onde?" em todos eles na tradução.
+  - 'Hafez compara dois mundos: de um lado, a vida certinha, séria, de quem frequenta sermões; do
+    outro, a vida dele, de quem prefere a taverna, a música e o amor. Ele não pede desculpas: só
+    mostra que a distância entre os dois é enorme.'
+  - 'O primeiro verso virou expressão popular no Irã: "de onde até onde!" — usada para dizer que
+    duas coisas são completamente diferentes.'
+stanzaNotes:
+  - stanza: 1
+    plain: Eu e uma vida certinha? Não tem nada a ver. Olha a distância entre as duas coisas!
+    meaning: 'O poeta mede a distância entre a "retidão" — a conduta correta, prudente, socialmente
+      aprovada — e ele mesmo, "arruinado". Não há como aproximar as duas coisas. O tom não é de
+      arrependimento: é a constatação, meio irônica, de que ele está em outro caminho.'
+    literal:
+      Retidão do trabalho onde, e eu arruinado onde? / Vê a diferença do caminho, que é de onde
+      até onde.
+    choices: '"Kharab" significa arruinado, devastado, mas também, na gíria poética, embriagado
+      ("acabado" de tanto beber). Escolhemos "arruinado" porque cobre os dois sentidos em português.
+      "Salah-e kar" é "o bem/acerto das coisas": "a retidão das coisas" preserva o tom moral.'
+  - stanza: 2
+    plain: Cansei dos lugares de reza onde todo mundo finge ser santo. Quero a taverna e o vinho de
+      verdade.
+    meaning: O "claustro" (sowme'e) é a cela ou o convento dos sufis; o "manto" (kherqe) é a veste
+      remendada que os identificava. Hafez diz que se cansou dessa devoção de fachada e quer o
+      "templo dos magos" — a taverna — e o vinho puro, símbolo de uma experiência autêntica.
+    literal:
+      Meu coração se entediou do mosteiro e do manto da fraude; / onde está o templo dos magos e
+      onde o vinho puro?
+    choices: '"Salus" é o hipócrita que finge devoção; "o manto da hipocrisia" deixa claro o alvo da
+      crítica. "Deyr-e moghan" (literalmente "mosteiro dos magos") foi traduzido como "templo dos
+      magos" para manter o paralelo irônico com o claustro.'
+  - stanza: 3
+    plain: Quem vive livre como eu não combina com ser certinho e devoto. Uma coisa é ouvir sermão;
+      outra, bem diferente, é ouvir música.
+    meaning: 'O rend (ver glossário) não combina com a respeitabilidade e a piedade oficiais. Ouvir
+      sermões e ouvir a música do alaúde são coisas de mundos diferentes. Há uma ironia: "sama''"
+      (audição) é também o nome da prática sufi de ouvir música em busca do êxtase — Hafez sugere
+      que o êxtase está na música, não no sermão.'
+    literal:
+      Que relação há com a rendice para retidão e piedade? / Audição de sermão onde, melodia de
+      rabab onde?
+    choices: Mantivemos "rend" em vez de "libertino" ou "boêmio" (ver glossário). O "rabab" é um
+      instrumento de cordas tocado com arco ou dedilhado; "alaúde" é o equivalente mais próximo que
+      o leitor brasileiro reconhece. "Ouvir o sermão" traduz "sama'-e va'z" preservando o verbo de
+      escuta.
+  - stanza: 4
+    plain:
+      Quem não ama não consegue enxergar a beleza do amado. Seria como comparar uma lâmpada apagada
+      com o sol.
+    meaning: Os que não amam (os "inimigos", os rivais, os censores) não podem perceber a beleza do
+      amado, assim como uma lâmpada apagada não se compara ao sol. A luz do amado é tão grande que
+      só quem tem o coração "aceso" a vê.
+    literal:
+      Do rosto do amigo, o coração dos inimigos o que percebe? / Lâmpada morta onde? Vela do sol
+      onde?
+    choices: '"Dust" (amigo) é uma das palavras persas para o amado, sem gênero, e também um nome de
+      Deus na linguagem mística. "Cheragh-e morde" é literalmente "lâmpada morta" — "lâmpada
+      apagada" soa natural em português. "Vela do sol" é tradução literal de uma metáfora ousada que
+      preferimos não aplainar.'
+  - stanza: 5
+    plain:
+      'Só consigo enxergar direito quando estou na porta da sua casa. Então me diga: para onde eu
+      iria, longe daqui?'
+    meaning:
+      'O colírio (kohl, sorme) era aplicado nos olhos como remédio e cosmético. Dizer que o pó da
+      porta do amado é o colírio dos próprios olhos é dizer: só vejo bem quando estou à tua porta.
+      Por isso o amante não tem para onde ir.'
+    literal: Como o colírio da nossa visão é o pó da soleira de vós, / aonde iremos, ordena, desta
+      presença, aonde?
+    choices:
+      O original usa "shoma" (vós, tratamento respeitoso) e "jenab" (a soleira/presença de alguém
+      importante), marcas de reverência; o português "tua soleira" com "dize" mantém a intimidade e
+      o pedido. "Colírio dos nossos olhos" é mais compreensível que "colírio da nossa visão",
+      mantendo a imagem.
+  - stanza: 6
+    plain:
+      'Coração, cuidado com essa beleza que te atrai: tem uma armadilha no caminho. Por que tanta
+      pressa?'
+    meaning: O "poço do queixo" é a covinha; a "maçã do queixo", o queixo arredondado. Quem se deixa
+      atrair cai no poço — alusão a José (Yusuf), que foi jogado num poço pelos irmãos. O poeta
+      adverte o próprio coração, que corre apressado para a perdição da beleza.
+    literal:
+      Não olhes para a maçã do queixo, pois um poço está no caminho; / aonde vais, ó coração, com
+      esta pressa, aonde?
+    choices:
+      Mantivemos "maçã do queixo" e "poço", em vez de "covinha", porque o jogo de imagens (fruta
+      tentadora, poço-armadilha) é o centro do verso; a nota explica a referência física.
+  - stanza: 7
+    plain:
+      O tempo em que estávamos juntos acabou — que boa lembrança! Sinto falta até dos seus olhares
+      provocantes e das suas broncas.
+    meaning: 'O tempo em que os amantes estavam juntos passou. O poeta sente falta até das coisas
+      pequenas: os olhares provocantes e até as reprimendas do amado — tudo era sinal de
+      proximidade.'
+    literal:
+      Foi-se! Que sua lembrança seja boa — o tempo da união; / aquele coquetismo para onde foi, e
+      aquela repreensão para onde?
+    choices: '"Kereshme" é o gesto faceiro, o olhar de canto de olho com que o amado provoca; "olhar
+      faceiro" cobre o sentido. "''Etab" é a repreensão carinhosa ou zangada entre íntimos. "Que
+      seja doce a sua lembrança" traduz a fórmula persa "yad-ash khosh bad", usada para lembrar
+      algo ou alguém que se foi.'
+  - stanza: 8
+    plain: Meu amigo, não espere que Hafez tenha calma ou durma. Calma? Paciência? Sono? Isso já não
+      existe para mim.
+    meaning:
+      No dístico com a assinatura, o poeta declara que perdeu o sossego, a paciência e o sono —
+      os três sinais clássicos do amante na poesia persa. A série de perguntas sem resposta fecha o
+      poema no mesmo tom com que começou.
+    literal: Sossego e sono de Hafez não esperes, ó amigo; / sossego o que é, paciência qual, e sono onde?
+    choices: '"Qarar" é estabilidade, sossego, firmeza do coração; "repouso" mantém a sonoridade e o
+      sentido. Variamos as palavras interrogativas (que, que, onde) como o original (chist, kodam,
+      koja).'
+glossary:
+  - gazel
+  - radif
+  - rend
+  - kherqe
+  - pir-e-moghan
+  - vinho
+  - amado
+  - takhallos
+  - divan
+  - sufi
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

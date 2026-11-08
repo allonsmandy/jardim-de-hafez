@@ -1,0 +1,26 @@
+id: diversos-094
+category: diversos
+number: 94
+firstLine:
+  fa: نه جان تو با سر الهی پرداخت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نه جان تو با سر الهی پرداخت
+      - نه در طلب لایتناهی پرداخت
+    - - دردا که چنان به نقش مشغول شدی
+      - کز نقش به نقاش نخواهی پرداخت
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 94
+    url: https://ganjoor.net/hafez/montasab/sh94
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 94
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

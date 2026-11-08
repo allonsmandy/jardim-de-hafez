@@ -1,0 +1,26 @@
+id: rubai-028
+category: rubai
+number: 28
+firstLine:
+  fa: لب باز مگیر یک زمان از لب جام
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - لب باز مگیر یک زمان از لب جام
+      - تا بستانی کام جهان از لب جام
+    - - در جام جهان چو تلخ و شیرین به هم است
+      - این از لب یار خواه و آن از لب جام
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 28
+    url: https://ganjoor.net/hafez/robaee2/sh28
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 28
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

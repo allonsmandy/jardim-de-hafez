@@ -1,0 +1,36 @@
+id: diversos-050
+category: diversos
+number: 50
+firstLine:
+  fa: اکنون که ز گل باز چمن شد چو بهشتی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اکنون که ز گل باز چمن شد چو بهشتی
+      - ساقی می گلرنگ طلب بر لب کشتی
+    - - زنگ غمت از دل می خون‌رنگ برد پاک
+      - بشنو که چنین گفت مرا پاک سرشتی
+    - - گر محتسبت بر کدوی باده زند سنگ
+      - بشکن تو کدوی سر او نیز به خشتی
+    - - آمرزش نقد است کسی را که در اینجا
+      - یاریست چو حوری و سرایی چو بهشتی
+    - - جهل من و علم تو فلک را چه تفاوت
+      - آنجا که بصر نیست چه خوبی و چه زشتی
+    - - بر خاک در خواجه که ایوان جلال‌است
+      - گر بالش زر نیست بسازیم به خشتی
+    - - ترسا بچه‌ای دوش همی‌گفت که حافظ
+      - حیف است که هر دم کند آهنگ کنشتی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 50
+    url: https://ganjoor.net/hafez/montasab/sh50
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 50
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

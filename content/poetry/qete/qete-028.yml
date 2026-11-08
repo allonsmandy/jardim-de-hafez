@@ -1,0 +1,26 @@
+id: qete-028
+category: qete
+number: 28
+firstLine:
+  fa: به روز شنبهٔ سادس ز ماه ذی الحجّه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به روز شنبهٔ سادس ز ماه ذی الحجّه
+      - به سال هفتصد و شصت از جهان بشد ناگاه
+    - - ز شاهراه سعادت به باغ رضوان رفت
+      - وزیر کامل ابونصر خواجه فتح الله
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 28
+    url: https://ganjoor.net/hafez/ghete/sh28
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 28
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

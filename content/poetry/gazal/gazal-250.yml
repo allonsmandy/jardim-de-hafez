@@ -1,0 +1,40 @@
+id: gazal-250
+category: gazal
+number: 250
+firstLine:
+  fa: روی بِنْمای و وجودِ خودم از یاد بِبَر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - روی بِنْمای و وجودِ خودم از یاد بِبَر
+      - خَرمنِ سوختگان را همه گو باد بِبَر
+    - - ما چو دادیم دل و دیده به طوفانِ بلا
+      - گو «بیا سیلِ غم و خانه ز بنیاد بِبَر»
+    - - زلفِ چون عَنبَرِ خامَش که ببوید؟ هیهات
+      - ای دلِ خام‌طمع! این سخن از یاد بِبَر
+    - - سینه گو «شعلهٔ آتشکدهٔ فارس بِکُش»
+      - دیده گو «آبِ رخِ دجلهٔ بغداد بِبَر»
+    - - دولتِ پیرِ مُغان باد که باقی سهل است
+      - دیگری گو «برو و نامِ من از یاد بِبَر»
+    - - سعی‌نابرده در این راه به جایی نرسی
+      - مزد اگر می‌طلبی، طاعتِ استاد بِبَر
+    - - روزِ مرگم نفسی وعدهٔ دیدار بده
+      - وآن گَهَم تا به لَحَد فارغ و آزاد بِبَر
+    - - دوش می‌گفت «به مژگانِ درازت بِکُشم»
+      - یا رب از خاطرش اندیشهٔ بیداد بِبَر
+    - - حافظ اندیشه کن از نازکیِ خاطرِ یار
+      - برو از دَرگَهَش این ناله و فریاد بِبَر
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 250
+    url: https://ganjoor.net/hafez/ghazal/sh250
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 250
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

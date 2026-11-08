@@ -1,0 +1,34 @@
+id: diversos-024
+category: diversos
+number: 24
+firstLine:
+  fa: من ار زآن که گردم به مستی هلاک
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من ار زآن که گردم به مستی هلاک
+      - به آیین مستان بریدم به خاک
+    - - به تابوتی از چوب تاکم کنید
+      - به راه خرابات خاکم کنید
+    - - به آب خرابات غسلم دهید
+      - پس آنگاه بر دوش مستم نهید
+    - - مریزید بر گور من جز شراب
+      - میارید در ماتمم جز رباب
+    - - ولیکن به شرطی که در مرگ من
+      - ننالد به جز مطرب و چنگ زن
+    - - تو خود حافظا سر ز مستی متاب
+      - که سلطان نخواهد خراج از خراب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 24
+    url: https://ganjoor.net/hafez/montasab/sh24
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 24
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

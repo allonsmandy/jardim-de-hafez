@@ -1,0 +1,38 @@
+id: diversos-018
+category: diversos
+number: 18
+firstLine:
+  fa: ای در چمن خوبی رویت چو گل خودرو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای در چمن خوبی رویت چو گل خودرو
+      - چین شکن زلفت چون نافهٔ چین خوش بو
+    - - ماه است رخت یا روز؟ مشک است خطت یا شب؟
+      - سیم است برت یا عاج؟ سنگ است دلت یا رو؟
+    - - لعلت به در دندان بشکست لب پسته
+      - زلفت به خم چوگان بربود دلم چون گو
+    - - آن رایحهٔ زلف است یا لخلخهٔ عنبر؟
+      - یا غالیه می‌ساید در باغچه حسن او؟
+    - - گفتی سخن خود را با یار بباید گفت
+      - ای کاش توانستی گفتن سخنی با او
+    - - بدگوی تو آن باشد کز یار کند منعت
+      - گر یار نکو باشد مشنو سخن بدگو
+    - - با ما به از این می‌باش تا راز نگردد فاش
+      - نبود بد اگر باشی با دلشدگان نیکو
+    - - استاد سخن سعدیست پیش همه کس اما
+      - دارد سخن حافظ طرز سخن خواجو
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 18
+    url: https://ganjoor.net/hafez/montasab/sh18
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 18
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

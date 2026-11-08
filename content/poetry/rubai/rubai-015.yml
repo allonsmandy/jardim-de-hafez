@@ -1,0 +1,26 @@
+id: rubai-015
+category: rubai
+number: 15
+firstLine:
+  fa: با می به کنار جوی می‌باید بود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - با می به کنار جوی می‌باید بود
+      - وز غصّه کناره‌جوی می‌باید بود
+    - - این مدّت عمر ما چو گل ده روز است
+      - خندان لب و تازه‌روی می‌باید بود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 15
+    url: https://ganjoor.net/hafez/robaee2/sh15
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 15
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

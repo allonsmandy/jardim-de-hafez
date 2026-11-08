@@ -1,0 +1,36 @@
+id: gazal-287
+category: gazal
+number: 287
+firstLine:
+  fa: ای همه شکلِ تو مَطبوع و همه جایِ تو خوش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای همه شکلِ تو مَطبوع و همه جایِ تو خوش
+      - دلم از عشوهٔ شیرینِ شِکرخایِ تو خوش
+    - - همچو گلبرگِ طَری هست وجودِ تو لطیف
+      - همچو سروِ چمنِ خُلد سراپای تو خوش
+    - - شیوه و نازِ تو شیرین، خط و خالِ تو مَلیح
+      - چشم و ابرویِ تو زیبا، قد و بالایِ تو خوش
+    - - هم گلستانِ خیالم ز تو پُر نقش و نگار
+      - هم مَشامِ دلم از زلفِ سَمَن سایِ تو خوش
+    - - در رَهِ عشق که از سیلِ بلا نیست گذار
+      - کرده‌ام خاطرِ خود را به تمنایِ تو خوش
+    - - شُکرِ چشمِ تو چه گویم؟ که بِدان بیماری
+      - می‌کُنَد دَردِ مرا از رخِ زیبایِ تو خوش
+    - - در بیابانِ طلب گر چه ز هر سو خطری‌ست
+      - می‌رود حافظِ بی‌دل به تَوَلّایِ تو خوش
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 287
+    url: https://ganjoor.net/hafez/ghazal/sh287
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 287
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

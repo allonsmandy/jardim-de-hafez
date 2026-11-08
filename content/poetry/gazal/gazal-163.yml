@@ -1,0 +1,34 @@
+id: gazal-163
+category: gazal
+number: 163
+firstLine:
+  fa: گل بی‌رخِ یار خوش نباشد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گل بی‌رخِ یار خوش نباشد
+      - بی‌باده بهار خوش نباشد
+    - - طَرفِ چمن و طوافِ بستان
+      - بی‌لاله‌عذار خوش نباشد
+    - - رقصیدن سرو و حالتِ گُل
+      - بی‌صوتِ هَزار خوش نباشد
+    - - با یارِ شکرلبِ گل‌اندام
+      - بی‌بوس و کنار خوش نباشد
+    - - هر نقش که دستِ عقل بندد
+      - جز نقشِ نگار، خوش نباشد
+    - - جان نقدِ مُحَقَّر است حافظ
+      - از بهرِ نثار خوش نباشد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 163
+    url: https://ganjoor.net/hafez/ghazal/sh163
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 163
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

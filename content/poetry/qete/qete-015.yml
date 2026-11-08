@@ -1,0 +1,32 @@
+id: qete-015
+category: qete
+number: 15
+firstLine:
+  fa: بر سر بازار جانبازان منادی می‌زنند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بر سر بازار جانبازان منادی می‌زنند
+      - بشنوید ای ساکنان کوی رندی بشنوید
+    - - دختر رز چند روزی شد که از ما گم شده‌ست
+      - رفت تا گیرد سر خود، هان و هان حاضر شوید
+    - - جامه‌ای دارد ز لعل و نیمتاجی از حباب
+      - عقل و دانش بُرد و شد تا ایمن از وی نغنوید
+    - - هر که آن تلخم دهد حلوا بها جانش دهم
+      - ور بوُد پوشیده و پنهان به دوزخ در روید
+    - - دختری شبگردِ تندِ تلخِ گلرنگ است و مست
+      - گر بیابیدش به سوی خانهٔ حافظ بَرید
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 15
+    url: https://ganjoor.net/hafez/ghete/sh15
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 15
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

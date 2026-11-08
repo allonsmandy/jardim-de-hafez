@@ -1,0 +1,26 @@
+id: rubai-010
+category: rubai
+number: 10
+firstLine:
+  fa: نی قصهٔ آن شمع چگل بتوان گفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نی قصهٔ آن شمع چگل بتوان گفت
+      - نی حالِ دلِ سوخته‌دل بتوان گفت
+    - - غم در دلِ تنگِ من از آن است که نیست
+      - یک دوست که با او غمِ دل بتوان گفت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 10
+    url: https://ganjoor.net/hafez/robaee2/sh10
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 10
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

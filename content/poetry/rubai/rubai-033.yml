@@ -1,0 +1,26 @@
+id: rubai-033
+category: rubai
+number: 33
+firstLine:
+  fa: ای شَرم‌زده غنچه‌ی مَستور از تو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای شَرم‌زده غنچه‌ی مَستور از تو
+      - حیران و خِجِل، نرگسِ مَخمور از تو
+    - - گُل با تو برابری کجا یارَد کرد؟
+      - کـ‌او نور زِ مَه دارد و مَه نور از تو!
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 33
+    url: https://ganjoor.net/hafez/robaee2/sh33
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 33
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

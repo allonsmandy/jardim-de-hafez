@@ -1,0 +1,214 @@
+id: gazal-012
+category: gazal
+number: 12
+firstLine:
+  fa: ای فروغِ ماهِ حُسن‌، از روی رخشان شما
+  pt: Ó tu, de cujo rosto brilhante vem o fulgor da lua da beleza
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای فروغِ ماهِ حُسن‌، از روی رخشان شما
+      - آبِ‌روی خوبی از چاه زَنَخدان شما
+    - - عزم دیدار تو دارد جانِ بر لب آمده
+      - باز گردد یا برآید؟ چیست فرمان شما؟
+    - - کَس به دور نرگست طرفی نبست از عافیت
+      - بِه که نفروشند مستوری به مستان شما
+    - - بخت خواب‌آلود ما بیدار خواهد شد مگر
+      - زان که زد بر دیده آبی، روی رخشان شما
+    - - با صبا همراه بفرست از رخت گل دسته‌ای
+      - بو که بویی بشنویم از خاک بستان شما
+    - - عمرتان باد و مراد ای ساقیانِ بزمِ جم
+      - گرچه جام ما نشد پُر مِی به دوران شما
+    - - دل خرابی می‌کند، دلدار را آگه کنید
+      - زینهار ای دوستان‌، جان من و جان شما
+    - - کی دهد دست این غرض یا رب که همدستان شوند‌؟
+      - خاطر مجموع ما، زلف پریشان شما
+    - - دور دار از خاک و خون دامن، چو بر ما بگذری
+      - کَاندَر این ره کشته بسیارند، قربان شما
+    - - می‌کند حافظ دعایی، بشنو، آمینی بگو
+      - روزی ما باد لعل شَکَّرافشان شما
+    - - ای صبا با ساکنانِ شهرِ یزد از ما بگو
+      - کِای سر حق‌ناشناسان گوی چوگان شما
+    - - گرچه دوریم از بساط قُرب‌، همّت دور نیست
+      - بندهٔ شاه شماییم و ثناخوان شما
+    - - ای شَهنشاه بلند اختر‌، خدا را همّتی
+      - تا ببوسم همچو اختر خاک ایوان شما
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 12
+    url: https://ganjoor.net/hafez/ghazal/sh12
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Ó tu, de cujo rosto brilhante vem o fulgor da lua da beleza,
+      - do poço do teu queixo vem a honra da formosura.
+    - - 'Minha alma, que já me chegou aos lábios, quer ver-te:'
+      - deve voltar ou sair? Qual é a tua ordem?
+    - - No tempo dos teus olhos de narciso ninguém ficou a salvo;
+      - melhor não vender a castidade aos teus embriagados.
+    - - Nossa sorte sonolenta talvez desperte enfim,
+      - porque teu rosto brilhante jogou água nos olhos dela.
+    - - 'Manda com a brisa um buquê das rosas do teu rosto:'
+      - talvez sintamos um perfume da terra do teu jardim.
+    - - Que tenhais vida e êxito, ó copeiros do banquete de Jamshid,
+      - ainda que nossa taça não se tenha enchido de vinho no vosso tempo.
+    - - 'O coração anda fazendo estragos: avisem quem o roubou.'
+      - Cuidado, amigos — pela minha vida e pela vossa!
+    - - Quando, ó Deus, se cumprirá o desejo de que se aliem
+      - o meu espírito em ordem e os teus cabelos em desordem?
+    - - Afasta a barra das tuas vestes do pó e do sangue quando passares por nós,
+      - pois neste caminho há muitos mortos — sacrificados por ti.
+    - - 'Hafez faz uma prece: escuta-a e diz amém —'
+      - que o nosso sustento seja teu lábio de rubi que derrama açúcar.
+    - - 'Ó brisa, dize aos moradores da cidade de Yazd, da nossa parte:'
+      - “Que a cabeça dos ingratos seja bola para o vosso taco de polo!”
+    - - 'Ainda que estejamos longe do tapete da proximidade, a intenção não está longe:'
+      - somos servos do vosso rei e cantamos os vossos louvores.
+    - - 'Ó rei dos reis de estrela elevada, por Deus, um favor:'
+      - que eu beije, como as estrelas, o pó do teu palácio.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 12
+themes:
+  - A beleza que ilumina
+  - Um amor que deixa à beira da morte
+  - Uma mensagem para a cidade de Yazd
+introduction:
+  - Um gazel longo que começa como poema de amor e termina como uma mensagem política. Nos primeiros
+    versos, o poeta fala com alguém de beleza estonteante, num tom de cortesia — usa "vós", o
+    tratamento respeitoso.
+  - Nos três últimos, ele manda a brisa levar recado aos moradores de Yazd, outra cidade do Irã, e
+    elogia um rei. Os estudiosos costumam ligar esses versos a uma temporada difícil de Hafez em
+    Yazd, ou a um governante de lá; os detalhes são incertos.
+stanzaNotes:
+  - stanza: 1
+    plain:
+      Seu rosto é mais brilhante que a lua. A própria beleza fica mais bonita por causa da covinha
+      do seu queixo.
+    meaning:
+      '"Ābru" quer dizer "honra", mas literalmente é "água do rosto" — e combina com o "poço" do
+      queixo (a covinha), de onde viria essa água. Lembra o poço onde José foi jogado.'
+    literal: Ó (tu, de quem) o brilho da lua da beleza (vem) do rosto brilhante de vós, / a
+      água-do-rosto (honra) da formosura (vem) do poço do queixo de vós.
+    choices:
+      O trocadilho "honra = água do rosto / poço" não existe em português; mantivemos "poço" e
+      explicamos.
+  - stanza: 2
+    plain: 'Estou quase morrendo de saudade. Diga: eu fico vivo ou morro de vez? Você decide.'
+    meaning: '"A alma chegou aos lábios" é a expressão persa para quem está à beira da morte (a alma
+      sairia pela boca). O poeta deixa que o amado decida se ele vive ou morre.'
+    choices: Mantivemos a imagem literal, que é forte e compreensível com a paráfrase.
+  - stanza: 3
+    plain: Desde que seus olhos lindos apareceram, ninguém mais está seguro. Não adianta tentar ser
+      comportado perto de quem está apaixonado por você.
+    meaning: 'Na poesia persa, o narciso é o olho: a flor parece um olho meio fechado, lânguido. Os
+      "teus embriagados" são os que se apaixonaram.'
+    choices: '"''Āfiyat" é saúde, segurança, paz; "ficou a salvo" mantém o sentido.'
+  - stanza: 4
+    plain: 'Minha sorte vivia dormindo. Mas sua beleza foi como água fria no rosto: talvez agora ela
+      acorde.'
+    meaning:
+      Na cultura persa, a sorte (bakht) pode "dormir" ou "acordar". Jogar água no rosto é o jeito
+      de acordar alguém.
+    choices: Tradução direta.
+  - stanza: 5
+    plain: Mande, pelo vento, ao menos um pouco do perfume do seu rosto, para eu sentir o cheiro do
+      lugar onde você está.
+    meaning: O rosto do amado é um jardim de rosas, e a brisa pode levar o perfume.
+    choices: Há um jogo entre "bu" (talvez) e "bu" (perfume) que não se reproduz em português.
+  - stanza: 6
+    plain:
+      Desejo vida longa a vocês, que servem na festa do rei — mesmo que, enquanto vocês mandavam,
+      eu nunca tenha recebido nada.
+    meaning:
+      'Jamshid é um rei lendário do Irã antigo, dono de uma taça mágica. "O banquete de Jamshid"
+      é uma corte real. O poeta abençoa os que estão próximos do poder, com uma ponta de ironia: ele
+      não recebeu favor algum.'
+    choices: Mantivemos o nome Jamshid e explicamos a lenda.
+  - stanza: 7
+    plain:
+      Meu coração está fora de controle. Alguém avise a pessoa que o roubou! Por favor, amigos, é
+      sério.
+    meaning:
+      '"Deldār" é "quem tem o coração" do amante, isto é, o amado. "Pela minha vida e pela vossa"
+      é uma fórmula de pedido urgente.'
+    choices: '"Quem o roubou" traduz "deldār" de forma viva e compreensível.'
+  - stanza: 8
+    plain: Meu Deus, quando é que eu, que sou tão calmo, vou ficar junto daquela pessoa de cabelos
+      soltos e bagunçados?
+    meaning: 'Jogo de opostos: "majmu''" (reunido, sereno) e "parishān" (espalhado, desgrenhado — e
+      também "aflito"). Os cabelos soltos do amado bagunçam a cabeça do amante.'
+    choices: Recriamos o contraste com "em ordem / em desordem".
+  - stanza: 9
+    plain: 'Quando passar por aqui, levante a roupa para não sujar: o chão está cheio de gente que
+      morreu de amor por você.'
+    meaning: 'Hipérbole: tantos morreram de amor que o caminho do amado está coberto de sangue.
+      "Qorbān-e shomā" (sacrificado por vós) é também uma fórmula de cortesia persa ainda usada
+      hoje, como "às suas ordens".'
+    choices:
+      O duplo sentido da fórmula de cortesia foi explicado aqui, já que em português só o sentido
+      literal funciona.
+  - stanza: 10
+    plain: 'Hafez faz um pedido a Deus, e você diga amém: que eu possa viver dos seus beijos.'
+    meaning:
+      O lábio vermelho como rubi e doce como açúcar. O "sustento" (ruzi) é o que Deus destina a
+      cada um.
+    choices: Tradução direta.
+  - stanza: 11
+    plain:
+      'Vento, mande este recado ao povo de Yazd: que vocês vençam quem não sabe reconhecer o que
+      vocês fazem de bom.'
+    meaning:
+      'Yazd é uma cidade no centro do Irã. A imagem do polo (o jogo nasceu na Pérsia) é um voto
+      de vitória: as cabeças dos ingratos rolando como bolas. É uma fórmula de elogio, provavelmente
+      dirigida a amigos ou à corte de lá.'
+    choices: Mantivemos a imagem do polo, que aparece em vários poemas de Hafez.
+  - stanza: 12
+    plain: Estou longe, mas meu coração continua aí. Sou fiel ao rei de vocês e falo bem de vocês.
+    meaning: '"O tapete da proximidade" é a presença do rei, onde ficam os favoritos. "Hemmat", a
+      intenção, o esforço da alma, não depende da distância.'
+    choices:
+      '"Hemmat" é difícil de traduzir (aspiração, energia espiritual, boa vontade); "intenção" é
+      a aproximação mais simples.'
+  - stanza: 13
+    plain:
+      Grande rei, por favor, me conceda a honra de chegar perto do seu palácio, como as estrelas
+      que brilham sobre ele.
+    meaning:
+      '"Boland-akhtar" (de estrela alta) quer dizer afortunado: na astrologia, a estrela de cada
+      um decidia sua sorte. Os comentadores costumam associar este rei a Shah Yahya, que governou
+      Yazd no tempo de Hafez, mas não há certeza.'
+    choices: Mantivemos a imagem astral, que liga "estrela elevada" a "beijar como as estrelas".
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - vinho
+  - saqi
+  - saba
+  - amado
+  - takhallos
+  - jose-zuleica
+  - narciso
+  - jamshid
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

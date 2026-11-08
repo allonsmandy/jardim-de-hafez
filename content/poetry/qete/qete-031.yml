@@ -1,0 +1,26 @@
+id: qete-031
+category: qete
+number: 31
+firstLine:
+  fa: آن میوهٔ بهشتی کآمد به دستت ای جان
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن میوهٔ بهشتی کآمد به دستت ای جان
+      - در دل چرا نکشتی از دست چون بهشتی
+    - - تاریخ این حکایت گر از تو باز پرسند
+      - سرجمله‌اش فروخوان از میوهٔ بهشتی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 31
+    url: https://ganjoor.net/hafez/ghete/sh31
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 31
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,30 @@
+id: diversos-090
+category: diversos
+number: 90
+firstLine:
+  fa: به روز کاف و الف، از جمادی الاولی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به روز کاف و الف، از جمادی الاولی
+      - به سال ذال و دگر نون و حا، علی‌الاطلاق
+    - - خدایگان سلاطین مشرق و مغرب
+      - خدیو کشور عفو و کرم به استحقاق
+    - - سپهر حلم و حیا، آفتاب جاه و جلال
+      - جمال دنیی و دین، شاه شیخ ابواسحق
+    - - میان عرصه میدان خود، به تیغ عدو
+      - نهاد بر دل احباب خویش، داغ فراق
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 90
+    url: https://ganjoor.net/hafez/montasab/sh90
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 90
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

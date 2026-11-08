@@ -1,0 +1,26 @@
+id: rubai-001
+category: rubai
+number: 1
+firstLine:
+  fa: جز نقش تو در نظر نیامد ما را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جز نقش تو در نظر نیامد ما را
+      - جز کوی تو رهگذر نیامد ما را
+    - - خواب ار چه خوش آمد همه را در عهدت
+      - حقّا که به چشم دَر نیامد ما را
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 1
+    url: https://ganjoor.net/hafez/robaee2/sh1
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 1
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

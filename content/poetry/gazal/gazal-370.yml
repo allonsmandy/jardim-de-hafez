@@ -1,0 +1,36 @@
+id: gazal-370
+category: gazal
+number: 370
+firstLine:
+  fa: صَلاح از ما چه می‌جویی؟ که مستان را صَلا گفتیم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صَلاح از ما چه می‌جویی؟ که مستان را صَلا گفتیم
+      - به دورِ نرگسِ مستت سلامت را دعا گفتیم
+    - - درِ میخانه‌ام بُگشا که هیچ از خانقه نَگشود
+      - گَرَت باور بُوَد ور نه سخن این بود و ما گفتیم
+    - - من از چشمِ تو ای ساقی خراب افتاده‌ام لیکن
+      - بلایی کز حبیب آید هِزارش مَرحَبا گفتیم
+    - - اگر بر من نَبَخشایی پشیمانی خوری آخر
+      - به خاطر دار این معنی که در خدمت کجا گفتیم
+    - - قَدَت گفتم که شمشاد است؛ بس خِجلَت به بار آورد
+      - که این نسبت چرا کردیم و این بُهتان چرا گفتیم
+    - - جگر چون نافه‌ام خون گشت کم زینم نمی‌باید
+      - جزای آن که با زلفت سخن از چین خطا گفتیم
+    - - تو آتش گشتی ای حافظ ولی با یار درنگرفت
+      - ز بدعهدیِّ گُل گویی حکایت با صبا گفتیم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 370
+    url: https://ganjoor.net/hafez/ghazal/sh370
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 370
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

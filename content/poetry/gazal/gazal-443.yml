@@ -1,0 +1,36 @@
+id: gazal-443
+category: gazal
+number: 443
+firstLine:
+  fa: چو سرو اگر بخرامی دمی به گلزاری
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چو سرو اگر بخرامی دمی به گلزاری
+      - خورد ز غیرت روی تو هر گلی خاری
+    - - ز کفر زلف تو، هر حلقه‌ای و آشوبی
+      - ز سحر چشم تو، هر گوشه‌ای و بیماری
+    - - مرو چو بخت من ای چشم مست یار به خواب
+      - که در پی است ز هر سویت آه بیداری
+    - - نثار خاک رهت نقد جان من هر چند
+      - که نیست نقد روان را بر تو مقداری
+    - - دلا! همیشه مزن لاف زلف دلبندان
+      - چو تیره‌رأی شوی کی گشایدت کاری؟
+    - - سرم برفت و زمانی به سر نرفت این کار
+      - دلم گرفت و نبودت غم گرفتاری
+    - - چو نقطه گفتمش «اندر میان دایره آی»
+      - به خنده گفت که «ای حافظ! این چه پرگاری»
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 443
+    url: https://ganjoor.net/hafez/ghazal/sh443
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 443
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

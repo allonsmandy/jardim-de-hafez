@@ -1,0 +1,38 @@
+id: gazal-122
+category: gazal
+number: 122
+firstLine:
+  fa: هر آن‌که جانِبِ اَهْلِ خُدا نگه دارد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هر آن‌که جانِبِ اَهْلِ خُدا نگه دارد
+      - خُداش در همه حال از بَلا نگه دارد
+    - - حَدیثِ دوست نگویم مَگَر به حَضْرَتِ دوست
+      - که آشنا، سُخَنِ آشنا نگه دارد
+    - - دلا، مَعاش چُنان کُن که گر بِلَغْزَد پای
+      - فرشته‌ات به دو دستِ دُعا نگه دارد
+    - - گَرَت هَواست که مَعشوق نَگْسَلد پِیمان
+      - نگاه دار سرِ رشته تا نگه دارد
+    - - صَبا بر آن سَرِ زُلْف اَر دِلِ مرا بینی
+      - ز رویِ لُطْف بگویش که جا نگه دارد
+    - - چو گفتمش که دلم را نگاه دار، چه گفت؟
+      - ز دَسْتِ بَنده چه خیزد؟ خُدا نگه دارد
+    - - سَر و زَر و دل و جانم، فَدایِ آن یاری
+      - که حَقِّ صُحْبَتِ مِهْر و وَفا نگه دارد
+    - - غُبارِ راهگذارت کجاست تا «حافِظ»
+      - به یادگارِ نَسیمِ صَبا نگه دارد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 122
+    url: https://ganjoor.net/hafez/ghazal/sh122
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 122
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

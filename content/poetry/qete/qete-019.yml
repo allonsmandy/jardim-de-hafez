@@ -1,0 +1,28 @@
+id: qete-019
+category: qete
+number: 19
+firstLine:
+  fa: مجد دین سروَر و سلطان قضات اسماعیل
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مجد دین سروَر و سلطان قضات اسماعیل
+      - که زدی کلک زبان آورش از شرع نطق
+    - - ناف هفته بد و از ماه رجب کاف و الف
+      - که برون رفت از این خانهٔ بی‌نظم و نسق
+    - - کنف رحمت حق منزل او دان و آنگه
+      - سال تاریخ وفاتش طلب از رحمت حق
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 19
+    url: https://ganjoor.net/hafez/ghete/sh19
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 19
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

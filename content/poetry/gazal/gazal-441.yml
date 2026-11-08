@@ -1,0 +1,34 @@
+id: gazal-441
+category: gazal
+number: 441
+firstLine:
+  fa: چه بودی ار دل آن ماه مهربان بودی؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چه بودی ار دل آن ماه مهربان بودی؟
+      - که حال ما نه چنین بودی ار چنان بودی
+    - - بگفتمی که «چه ارزد نسیم طرهٔ دوست؟»
+      - گرم به هر سر مویی هزار جان بودی
+    - - برات خوش‌دلی ما چه کم شدی یا رب
+      - گرش نشان امان از بد زمان بودی
+    - - گرَم زمانه سرافراز داشتی و عزیز
+      - سریر عزتم آن خاک آستان بودی
+    - - ز پرده کاش برون آمدی چو قطرهٔ اشک
+      - که بر دو دیدهٔ ما حکم او روان بودی
+    - - اگر نه دایرهٔ عشق راه بربستی
+      - چو نقطه حافظ سرگشته در میان بودی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 441
+    url: https://ganjoor.net/hafez/ghazal/sh441
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 441
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

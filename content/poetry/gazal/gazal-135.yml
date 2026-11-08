@@ -1,0 +1,36 @@
+id: gazal-135
+category: gazal
+number: 135
+firstLine:
+  fa: چو باد، عزمِ سرِ کویِ یار خواهم کرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چو باد، عزمِ سرِ کویِ یار خواهم کرد
+      - نفس به بویِ خوشش مُشکبار خواهم کرد
+    - - به هرزه بی می و معشوق عمر می‌گذرد
+      - بِطالتم بس از امروز کار خواهم کرد
+    - - هر آبروی که اندوختم ز دانش و دین
+      - نثارِ خاکِ رهِ آن نگار خواهم کرد
+    - - چو شمعِ صبحدمم شد ز مهر او روشن
+      - که عمر در سر این کار و بار خواهم کرد
+    - - به یادِ چشم تو خود را خراب خواهم ساخت
+      - بنایِ عهدِ قدیم استوار خواهم کرد
+    - - صبا کجاست؟ که این جانِ خون گرفته چو گُل
+      - فدای نَکهَتِ گیسویِ یار خواهم کرد
+    - - نفاق و زَرق نبخشد صفایِ دل حافظ
+      - طریقِ رندی و عشق اختیار خواهم کرد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 135
+    url: https://ganjoor.net/hafez/ghazal/sh135
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 135
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

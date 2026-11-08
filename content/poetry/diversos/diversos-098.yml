@@ -1,0 +1,26 @@
+id: diversos-098
+category: diversos
+number: 98
+firstLine:
+  fa: باز آی که جانم به جمالت نگران است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - باز آی که جانم به جمالت نگران است
+      - باز آی که دل در غم هجرت به فغان است
+    - - باز آی که بی روی تو ای نور دو دیده
+      - سیلاب سرشک از من سرگشته روان است
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 98
+    url: https://ganjoor.net/hafez/montasab/sh98
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 98
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

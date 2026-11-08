@@ -1,0 +1,36 @@
+id: gazal-349
+category: gazal
+number: 349
+firstLine:
+  fa: دوش سودایِ رُخَش گفتم ز سر بیرون کُنَم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دوش سودایِ رُخَش گفتم ز سر بیرون کُنَم
+      - گفت کو زنجیر؟ تا تدبیرِ این مجنون کُنَم
+    - - قامتش را سرو گفتم، سر کشید از من به خشم
+      - دوستان از راست می‌رَنجَد نِگارم، چون کنم؟
+    - - نکته ناسنجیده گفتم دلبرا معذور دار
+      - عشوه‌ای فرمای تا من طبع را موزون کنم
+    - - زردرویی می‌کَشَم زان طبعِ نازک، بی‌گناه
+      - ساقیا جامی بده تا چهره را گُلگون کنم
+    - - ای نسیمِ منزلِ لیلی خدا را تا به کی
+      - رَبع را برهم زنم، اَطلال را جیحون کنم
+    - - من که رَه بُردم به گنجِ حُسنِ بی‌پایان دوست
+      - صد گدایِ همچو خود را بعد از این قارون کنم
+    - - ای مَهِ صاحب قران، از بنده حافظ یاد کن
+      - تا دعایِ دولتِ آن حُسنِ روزافزون کنم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 349
+    url: https://ganjoor.net/hafez/ghazal/sh349
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 349
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

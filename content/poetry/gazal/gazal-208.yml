@@ -1,0 +1,36 @@
+id: gazal-208
+category: gazal
+number: 208
+firstLine:
+  fa: خستگان را چو طلب باشد و قُوَّت نَبُوَد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خستگان را چو طلب باشد و قُوَّت نَبُوَد
+      - گر تو بیداد کنی شرطِ مُروَّت نَبُوَد
+    - - ما جفا از تو ندیدیم و تو خود نَپْسَندی
+      - آنچه در مذهبِ اربابِ طریقت نبود
+    - - خیره آن دیده که آبش نَبَرَد گریهٔ عشق
+      - تیره آن دل که در او شمعِ محبت نبود
+    - - دولت از مرغِ همایون طلب و سایهٔ او
+      - زان که با زاغ و زَغَن شَهپَرِ دولت نبود
+    - - گر مدد خواستم از پیرِ مُغان عیب مکن
+      - شیخ ما گفت که در صومعه همّت نبود
+    - - چون طهارت نَبُوَد کعبه و بتخانه یکیست
+      - نَبُوَد خیر در آن خانه که عصمت نبود
+    - - حافظا علم و ادب ورز که در مجلسِ شاه
+      - هر که را نیست ادب لایقِ صحبت نبود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 208
+    url: https://ganjoor.net/hafez/ghazal/sh208
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 208
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

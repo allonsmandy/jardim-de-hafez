@@ -1,0 +1,44 @@
+id: gazal-016
+category: gazal
+number: 16
+firstLine:
+  fa: خَمی که ابرویِ شوخِ تو در کمان انداخت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خَمی که ابرویِ شوخِ تو در کمان انداخت
+      - به قصد جانِ منِ زارِ ناتوان انداخت
+    - - نبود نقش دو عالَم، که رنگ الفت بود
+      - زمانه طرح محبّت، نه این زمان انداخت
+    - - به یک کرشمه که نرگس به خودفروشی کرد
+      - فریبِ چشمِ تو صد فتنه در جهان انداخت
+    - - شراب‌خورده و خِوی‌کرده می‌رَوی به چمن
+      - که آبِ روی تو آتش در ارغوان انداخت
+    - - به بزمگاهِ چمن، دوش، مست، بگذشتم
+      - چو از دهانِ تواَم غنچه در گُمان انداخت
+    - - بنفشه طُرِّهٔ مفتول خود گره می‌زد
+      - صبا حکایتِ زلفِ تو در میان انداخت
+    - - ز شَرمِ آن که به روی تو نسبتش کردم
+      - سمن به دستِ صبا، خاک در دهان انداخت
+    - - من از ورع، مِی و مطرب ندیدمی زین پیش
+      - هوای مغبچگانم در این و آن انداخت
+    - - کنون به آبِ میِ لعل، خرقه می‌شویَم
+      - نصیبهٔ ازل از خود نمی‌توان انداخت
+    - - مگر گشایشِ حافظ در این خرابی بود
+      - که بخششِ ازلش، در میِ مغان انداخت
+    - - جهان به کامِ من اکنون شود که دورِ زمان
+      - مرا به بندگیِ خواجهٔ جهان انداخت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 16
+    url: https://ganjoor.net/hafez/ghazal/sh16
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 16
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

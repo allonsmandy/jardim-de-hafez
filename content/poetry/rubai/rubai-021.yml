@@ -1,0 +1,26 @@
+id: rubai-021
+category: rubai
+number: 21
+firstLine:
+  fa: عشقِ رخِ یار، بر منِ زار مگیر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عشقِ رخِ یار، بر منِ زار مگیر
+      - بر خسته‌دلانِ رندِ خَمّار مگیر
+    - - صوفی چو تو رسمِ رهروان می‌دانی
+      - بر مَردمِ رند، نکته بسیار مگیر
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 21
+    url: https://ganjoor.net/hafez/robaee2/sh21
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 21
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

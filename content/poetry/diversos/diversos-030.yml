@@ -1,0 +1,36 @@
+id: diversos-030
+category: diversos
+number: 30
+firstLine:
+  fa: برو ای زاهد و دعوت مکنم سوی بهشت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - برو ای زاهد و دعوت مکنم سوی بهشت
+      - که خدا در ازل از اهل بهشتم بسرشت
+    - - یک جو از خرمن هستی نتواند برداشت
+      - هر که در کوی فنا در ره حق دانه نَکشت
+    - - تو و تسبیح و مصلا و ره زٌهد و صلاح
+      - من و میخانه و زٌنار و ره دِیر و کنشت
+    - - منعم از می مکن ای صوفی صافی که حکیم
+      - در ازل طینت ما را به می ناب سرشت
+    - - راحت از عیش بهشت و لب حورش نبود
+      - هر که او دامن دلدار خود از دست بهشت
+    - - صوفی صاف بهشتی نبود زآنکه چو من
+      - خرقه در میکده‌ها در گرو باده نهشت
+    - - حافظا لطف حق ار با تو عنایت دارد
+      - باش فارغ ز غم دوزخ و ایمن ز بهشت
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 30
+    url: https://ganjoor.net/hafez/montasab/sh30
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 30
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

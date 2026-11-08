@@ -1,0 +1,38 @@
+id: gazal-412
+category: gazal
+number: 412
+firstLine:
+  fa: مرا چشمی‌ست خون‌افشان ز دست آن کمان‌ابرو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مرا چشمی‌ست خون‌افشان ز دست آن کمان‌ابرو
+      - جهان بس فتنه خواهد دید از آن چشم و از آن ابرو
+    - - غلام چشم آن ترکم که در خوابِ خوشِ مستی
+      - نگارین گلشنش روی است و مشکین سایبان ابرو
+    - - هلالی شد تنم زین غم که با طغرا‌ی ابرو‌یش
+      - که باشد مه که بنماید ز طاق آسمان ابرو؟
+    - - رقیبان غافل و ما را از آن چشم و جبین هر دم
+      - هزاران گونه پیغام است و حاجب در میان، ابرو
+    - - روانِ گوشه‌گیران را جبینش طرفه گلزار‌ی‌ست
+      - که بر طرْف سمن‌زارش همی گردد چمان ابرو
+    - - دگر حور و پری را کس نگوید با چنین حسنی
+      - که این را این چنین چشم است و آن را آن چنان ابرو
+    - - تو کافر‌دل نمی‌بندی نقاب زلف و می‌ترسم
+      - که محرابم بگرداند خم آن دل‌ستان ابرو
+    - - اگر چه مرغ زیرک بود حافظ در هوادار‌ی
+      - به تیر غمزه صیدش کرد چشم آن کمان‌ابرو
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 412
+    url: https://ganjoor.net/hafez/ghazal/sh412
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 412
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

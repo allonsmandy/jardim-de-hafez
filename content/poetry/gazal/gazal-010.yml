@@ -1,0 +1,149 @@
+id: gazal-010
+category: gazal
+number: 10
+firstLine:
+  fa: دوش از مسجد سویِ میخانه آمد پیرِ ما
+  pt: Ontem à noite nosso mestre foi da mesquita para a taverna
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دوش از مسجد سویِ میخانه آمد پیرِ ما
+      - چیست، یارانِ طریقت! بعد از این تدبیرِ ما؟
+    - - ما مریدان روی سویِ قبله چون آریم؟ چون
+      - روی سویِ خانهٔ خَمّار دارد پیرِ ما
+    - - در خراباتِ طریقت ما به هم منزل شویم
+      - کاین چنین رفته‌ است در عهدِ ازل تقدیرِ ما
+    - - عقل اگر داند که دل در بندِ زلفش چون خوش است
+      - عاقلان دیوانه گردند از پیِ زنجیرِ ما
+    - - رویِ خوبت آیتی از لطف بر ما کشف کرد
+      - زآن زمان جز لطف و خوبی نیست در تفسیرِ ما
+    - - با دلِ سنگینت آیا هیچ درگیرد شبی
+      - آهِ آتشناک و سوزِ سینهٔ شبگیرِ ما؟
+    - - تیرِ آهِ ما ز گردون بگذرد، حافظ خموش
+      - رحم کن بر جانِ خود، پرهیز کن از تیرِ ما
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 10
+    url: https://ganjoor.net/hafez/ghazal/sh10
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Ontem à noite nosso mestre foi da mesquita para a taverna;
+      - companheiros de caminho, qual será agora o nosso plano?
+    - - Nós, discípulos, como vamos voltar o rosto para a direção da oração,
+      - se o nosso mestre voltou o rosto para a casa do vendedor de vinho?
+    - - Na taverna do caminho seremos companheiros de morada,
+      - pois assim foi escrito o nosso destino desde antes do início dos tempos.
+    - - Se a razão soubesse como é bom o coração preso nos cachos dele(a),
+      - os sensatos enlouqueceriam para vir atrás das nossas correntes.
+    - - Teu belo rosto nos revelou um versículo de graça;
+      - desde então, só há graça e beleza na nossa interpretação.
+    - - Com teu coração de pedra, será que alguma noite fará efeito
+      - o suspiro de fogo e o ardor do peito que vela a noite toda?
+    - - A flecha do nosso suspiro atravessa o céu. Hafez, cala-te!
+      - Tem piedade da tua alma — cuidado com a nossa flecha.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 10
+themes:
+  - O mestre foi para a taverna
+  - O destino escrito antes do tempo
+  - A beleza como revelação
+introduction:
+  - 'Um poema-escândalo, com muito humor: o mestre espiritual do poeta saiu da mesquita e foi para a
+    taverna. E agora, o que os discípulos devem fazer? Segui-lo, é claro.'
+  - 'Hafez usa o vocabulário religioso — direção da oração, versículos do Alcorão, interpretação —
+    para falar do amor e da beleza. Não é desrespeito gratuito: é a ideia de que a verdadeira
+    devoção está no amor, não nas regras.'
+stanzaNotes:
+  - stanza: 1
+    plain:
+      Ontem à noite nosso guia espiritual saiu da mesquita e foi para o bar. E agora, pessoal, o
+      que a gente faz?
+    meaning: '"Pir" é o mestre dos sufis, a quem os discípulos obedecem em tudo. Os "companheiros de
+      caminho" (yārān-e tariqat) são os colegas do caminho espiritual. A situação é cômica — e
+      também uma provocação: talvez o verdadeiro caminho passe pela taverna.'
+    choices:
+      '"Tariqat" é o caminho espiritual dos sufis; "companheiros de caminho" mantém o sentido sem
+      jargão.'
+  - stanza: 2
+    plain: Como vamos rezar virados para Meca, se o nosso mestre está virado para a porta da taverna?
+    meaning:
+      Os muçulmanos rezam voltados para Meca; essa direção se chama qibla. O discípulo imita o
+      mestre — então, se ele se voltou para a taverna, os discípulos também.
+    choices: Explicamos "qibla" como "direção da oração" no próprio verso, para não exigir glossário.
+  - stanza: 3
+    plain: Vamos todos morar juntos na taverna. Era o nosso destino, escrito desde antes de o mundo
+      existir.
+    meaning:
+      '"Azal" é a eternidade sem começo, quando Deus teria definido o destino de cada um. Hafez
+      usa a ideia de predestinação com bom humor: não é culpa nossa, já estava escrito.'
+    choices:
+      '"Kharābāt" é a taverna em ruínas, lugar dos marginalizados; "taverna do caminho" junta a
+      imagem com o vocabulário sufi.'
+  - stanza: 4
+    plain:
+      Se as pessoas racionais soubessem como é bom estar preso de amor, elas largariam a razão e
+      viriam correndo ficar presas também.
+    meaning: Os cachos do amado são correntes que prendem os corações. Antigamente, os loucos eram
+      acorrentados — por isso "enlouquecer" e "corrente" combinam. A razão e o amor são opostos na
+      poesia persa.
+    choices: Usamos "dele(a)" porque o pronome persa não tem gênero.
+  - stanza: 5
+    plain:
+      Seu rosto lindo foi para mim como uma mensagem divina. Desde então, só consigo ver bondade e
+      beleza em tudo.
+    meaning: '"Āyat" é um versículo do Alcorão e também um sinal de Deus. "Tafsir" é o estudo que
+      interpreta o Alcorão. Hafez trata o rosto do amado como um texto sagrado — a beleza humana
+      como sinal do divino, ideia central no sufismo.'
+    choices: Mantivemos "versículo" e "interpretação" para preservar o vocabulário religioso que dá
+      força ao verso.
+  - stanza: 6
+    plain:
+      Você tem um coração de pedra. Será que um dia meus suspiros e meu sofrimento de noites sem
+      dormir vão te comover?
+    meaning:
+      'Contraste clássico: o coração duro do amado e o fogo do amante. "Shabgir" é quem vela à
+      noite (para rezar ou por amor).'
+    choices:
+      '"Dargirad" é "pegar fogo" e "fazer efeito"; "fará efeito" é o sentido principal, e o fogo
+      aparece logo depois.'
+  - stanza: 7
+    plain:
+      Meu suspiro é tão forte que atravessa o céu. Hafez, fique quieto! Tenha pena de você mesmo e
+      cuidado com o que diz.
+    meaning:
+      'Um suspiro sincero era como uma flecha que chegava até Deus. O final é ambíguo: pode ser o
+      poeta advertindo a si mesmo, ou o próprio amado respondendo. Essa ambiguidade é típica do
+      último verso de Hafez.'
+    choices: Mantivemos a ambiguidade de quem fala, sem acrescentar marcas que decidam.
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - pir-e-moghan
+  - sufi
+  - alcorao
+  - amado
+  - takhallos
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

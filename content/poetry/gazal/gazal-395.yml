@@ -1,0 +1,38 @@
+id: gazal-395
+category: gazal
+number: 395
+firstLine:
+  fa: گُلبرگ را ز سُنْبُلِ مُشکین، نِقاب کُن
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گُلبرگ را ز سُنْبُلِ مُشکین، نِقاب کُن
+      - یعنی که رُخ بپوش و جهانی، خراب کُن
+    - - بِفْشان عَرَق ز چهره و اطرافِ باغ را
+      - چون شیشه‌هایِ دیدهٔ ما پُرگُلاب کُن
+    - - اَیّامِ گُل، چو عمر به رفتن شتاب کرد
+      - ساقی به دورِ بادهٔ گلگون، شتاب کُن
+    - - بُگْشا به شیوه، نرگسِ پُرخوابِ مست را
+      - وز رَشک، چَشمِ نرگسِ رَعنا به خواب کن
+    - - بویِ بنفشه بشنو و زُلْفِ نگار گیر
+      - بِنْگَر به رنگِ لاله و عَزْمِ شراب کُن
+    - - زآن جا که رسم و عادتِ عاشق‌کشی توست
+      - با دشمنان، قَدَح کَش و با ما عِتاب کُن
+    - - همچون حُباب، دیده به رویِ قَدَح گُشای
+      - وین خانه را قیاسِ اساس از حُباب کُن
+    - - حافظ وِصال می‌طَلَبَد از رهِ دُعا
+      - یا رب! دعایِ خسته‌دلان، مُسْتَجاب کُن
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 395
+    url: https://ganjoor.net/hafez/ghazal/sh395
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 395
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,38 @@
+id: gazal-347
+category: gazal
+number: 347
+firstLine:
+  fa: صَنَما با غمِ عشقِ تو چه تدبیر کنم؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صَنَما با غمِ عشقِ تو چه تدبیر کنم؟
+      - تا به کِی در غمِ تو نالهٔ شبگیر کنم؟
+    - - دل دیوانه از آن شد که نصیحت شِنَوَد
+      - مگرش هم ز سرِ زلفِ تو زنجیر کنم
+    - - آن چه در مدتِ هِجرِ تو کشیدم هیهات
+      - در یکی نامه محال است که تَحریر کنم
+    - - با سرِ زلفِ تو مجموعِ پریشانی خود
+      - کو مجالی که سراسر همه تقریر کنم؟
+    - - آن زمان کآرزویِ دیدنِ جانم باشد
+      - در نظر نقشِ رخِ خوبِ تو تصویر کنم
+    - - گر بدانم که وصالِ تو بدین دست دهد
+      - دین و دل را همه دَربازم و توفیر کنم
+    - - دور شو از برم ای واعظ و بیهوده مگوی
+      - من نه آنم که دگر گوش به تزویر کنم
+    - - نیست امّید صَلاحی ز فسادِ حافظ
+      - چون که تقدیر چُنین است، چه تدبیر کنم؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 347
+    url: https://ganjoor.net/hafez/ghazal/sh347
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 347
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

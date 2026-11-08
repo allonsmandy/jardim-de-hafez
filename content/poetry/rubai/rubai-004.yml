@@ -1,0 +1,26 @@
+id: rubai-004
+category: rubai
+number: 4
+firstLine:
+  fa: ماهی که قدش به سرو می‌ماند راست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ماهی که قدش به سرو می‌ماند راست
+      - آیینه به دست و روی خود می‌آراست
+    - - دستارچه‌ای پیشکشش کردم، گفت
+      - وصلم طلبی زهی خیالی که تو راست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 4
+    url: https://ganjoor.net/hafez/robaee2/sh4
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 4
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

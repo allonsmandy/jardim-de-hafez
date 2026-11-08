@@ -1,0 +1,32 @@
+id: qete-008
+category: qete
+number: 8
+firstLine:
+  fa: خسروا گوی فلک در خم چوگان تو شد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خسروا گوی فلک در خم چوگان تو شد
+      - ساحت کون ومکان عرصهٔ میدان تو باد
+    - - زلف خاتون ظفر شیفتهٔ پرچم توست
+      - دیدهٔ فتح ابد عاشق جولان تو باد
+    - - ای که انشاء عطارد صفت شوکت توست
+      - عقل کل چاکر طغراکش دیوان تو باد
+    - - طیرهٔ جلوهٔ طوبی قد چون سرو تو شد
+      - غیرت خلد برین ساحت ایوان تو باد
+    - - نه به تنها حیوانات و نباتات و جماد
+      - هر چه در عالم امر است به فرمان تو باد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 8
+    url: https://ganjoor.net/hafez/ghete/sh8
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 8
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

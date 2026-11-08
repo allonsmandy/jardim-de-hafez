@@ -1,0 +1,36 @@
+id: gazal-404
+category: gazal
+number: 404
+firstLine:
+  fa: می‌فکن بر صف رندان نظری بهتر از این
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - می‌فکن بر صف رندان نظری بهتر از این
+      - بر در میکده می‌کن گذری بهتر از این
+    - - در حق من لبت این لطف که می‌فرماید
+      - سخت خوب است ولیکن قَدَری بهتر از این
+    - - آن که فکرش گره از کار جهان بگْشاید
+      - گو در این کار بفرما، نظری بهتر از این؟
+    - - ناصحم گفت که جز غم چه هنر دارد عشق
+      - برو ای خواجهٔ عاقل هنری بهتر از این؟!
+    - - دل بدان رود گرامی چه کنم گر ندهم؟
+      - مادر دهر ندارد پسری بهتر از این
+    - - من چو گویم که قَدَح نوش و لب ساقی بوس
+      - بشنو از من که نگوید دگری بهتر از این
+    - - کِلْکِ حافظ شکرین میوه نباتی‌ست، بچین
+      - که در این باغ نبینی ثمری بهتر از این
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 404
+    url: https://ganjoor.net/hafez/ghazal/sh404
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 404
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,42 @@
+id: gazal-154
+category: gazal
+number: 154
+firstLine:
+  fa: راهی بزن که آهی بر سازِ آن توان زد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - راهی بزن که آهی بر سازِ آن توان زد
+      - شعری بخوان که با او رَطلِ گران توان زد
+    - - بر آستانِ جانان گر سر توان نهادن
+      - گلبانگِ سربلندی بر آسمان توان زد
+    - - قَدِّ خمیدهٔ ما سهلت نماید اما
+      - بر چشمِ دشمنان تیر، از این کمان توان زد
+    - - در خانقه نگنجد اسرارِ عشقبازی
+      - جامِ میِ مُغانه هم با مُغان توان زد
+    - - درویش را نباشد برگِ سرایِ سلطان
+      - ماییم و کهنه دلقی کآتش در آن توان زد
+    - - اهلِ نظر دو عالم در یک نظر ببازند
+      - عشق است و داوِ اول بر نقدِ جان توان زد
+    - - گر دولتِ وصالت خواهد دری گشودن
+      - سرها بدین تَخَیُّل بر آستان توان زد
+    - - عشق و شباب و رندی مجموعهٔ مراد است
+      - چون جمع شد معانی گویِ بیان توان زد
+    - - شد رهزنِ سلامت زلفِ تو وین عجب نیست
+      - گر راهزن تو باشی صد کاروان توان زد
+    - - حافظ به حَقِّ قرآن کز شِید و زرق بازآی
+      - باشد که گویِ عیشی در این جهان توان زد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 154
+    url: https://ganjoor.net/hafez/ghazal/sh154
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 154
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

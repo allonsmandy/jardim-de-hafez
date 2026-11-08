@@ -1,0 +1,26 @@
+id: diversos-091
+category: diversos
+number: 91
+firstLine:
+  fa: با دوست نشین و باده و جام طلب
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - با دوست نشین و باده و جام طلب
+      - نوش از لب آن سرو گل‌اندام طلب
+    - - مجروح چو راحت جراحت طلبد
+      - گو از سر نیش زین حجام طلب
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 91
+    url: https://ganjoor.net/hafez/montasab/sh91
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 91
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,26 @@
+id: diversos-107
+category: diversos
+number: 107
+firstLine:
+  fa: من ترک تو ای نگار آسان ندهم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من ترک تو ای نگار آسان ندهم
+      - تا پیش زمرد خطت جان ندهم
+    - - یاقوت لبت که قوت جان است مرا
+      - آن را به دو صد هزار مرجان ندهم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 107
+    url: https://ganjoor.net/hafez/montasab/sh107
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 107
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

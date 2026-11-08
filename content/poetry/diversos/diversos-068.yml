@@ -1,0 +1,38 @@
+id: diversos-068
+category: diversos
+number: 68
+firstLine:
+  fa: نیست کس را ز کمند سر زلف تو خلاص
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نیست کس را ز کمند سر زلف تو خلاص
+      - میکشی عاشق مسکین و نترسی ز قصاص
+    - - عاشق سوخته دل تا به بیابان فنا
+      - نرود در حرم جان نشود خاص الخاص
+    - - ناوک غمزه تو دست ببرد از رستم
+      - حاجب ابروی تو برده گرو از وقاص
+    - - جان نهادم به میان شمع صفت از سر صدق
+      - کردم ایثار تن خویش زروی اخلاص
+    - - به هواداری و اخلاص چو پروانه زشوق
+      - تا نسوزی تو نیابی ز غم عشق خلاص
+    - - آتشی در دل پروانه ما افکندی
+      - گرچه بودیم همیشه به هوایت رقاص
+    - - کیمیای غم عشق تو تن خاکی ما
+      - زر خالص کند ار چند بود همچو رصاص
+    - - قیمت در گرانمایه چه داند عوام
+      - حافظا گوهر یکدانه مده جز به خواص
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 68
+    url: https://ganjoor.net/hafez/montasab/sh68
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 68
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

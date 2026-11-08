@@ -1,0 +1,26 @@
+id: rubai-026
+category: rubai
+number: 26
+firstLine:
+  fa: ماهی که نظیر خود ندارد به جمال
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ماهی که نظیر خود ندارد به جمال
+      - چون جامه ز تن برکشد آن مشکین‌خال
+    - - در سینه دلش ز نازکی بتوان دید
+      - مانندهٔ سنگ خاره در آب زلال
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 26
+    url: https://ganjoor.net/hafez/robaee2/sh26
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 26
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

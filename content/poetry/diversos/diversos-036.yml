@@ -1,0 +1,38 @@
+id: diversos-036
+category: diversos
+number: 36
+firstLine:
+  fa: بیار باده و بازم رهان ز مخموری
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بیار باده و بازم رهان ز مخموری
+      - که هم به باده توان کرد دفع رنجوری
+    - - به هیچ وجه نیابد چراغ مجلس انس
+      - مگر به روی نگار و شراب انگوری
+    - - به سحر غمزه فتان هیچ غره مباش
+      - که آزمودم و سودی نداشت مغروری
+    - - ادیب چند نصیحت کنی که عشق مباز
+      - که هیچ نیست ادیب این سخن به دستوری
+    - - به عشق زنده بود جان مرد صاحبدل
+      - اگر تو عشق نداری برو که معذوری
+    - - به یک فریب نهادم صلاح خویش از دست
+      - دریغ آن همه زهد و صلاح مستوری
+    - - رسید دولت وصل و گذشت محنت هجر
+      - نهاد کشور دل باز رو به معموری
+    - - به هر کسی نتوان گفت درد او حافظ
+      - بدان بگو که کشیده‌ست محنت دوری
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 36
+    url: https://ganjoor.net/hafez/montasab/sh36
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 36
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

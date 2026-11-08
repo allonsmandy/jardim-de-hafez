@@ -1,0 +1,32 @@
+id: diversos-070
+category: diversos
+number: 70
+firstLine:
+  fa: گرد عذار یار من تا بنوشت گرد خط
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گرد عذار یار من تا بنوشت گرد خط
+      - ماه ز حسن روی او راست فتاد در غلط
+    - - از هوس لبش که آن ز آب حیات خوشتر است
+      - گشته روان ز دیدام چشمه آب همچو شط
+    - - گر به غلامی خودم شاه قبول می کند
+      - تا به مبارکی دهم بنده به بندگیش خط
+    - - گر به هوات می دهم گر مثال جان ودل
+      - گاه به آب می کشم آتش عشق تو چو بط
+    - - آب حیات حافظا گشته خجل ز طبع تو
+      - کس به هوای عشق او شعر نگفت از این نمط
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 70
+    url: https://ganjoor.net/hafez/montasab/sh70
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 70
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

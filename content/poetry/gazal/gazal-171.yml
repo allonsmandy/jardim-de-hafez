@@ -1,0 +1,40 @@
+id: gazal-171
+category: gazal
+number: 171
+firstLine:
+  fa: دوش از جنابِ آصف، پیکِ بشارت آمد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دوش از جنابِ آصف، پیکِ بشارت آمد
+      - کز حضرتِ سلیمان، عشرت اشارت آمد
+    - - خاکِ وجود ما را، از آبِ دیده گِل کن
+      - ویران‌سرایِ دل را، گاهِ عمارت آمد
+    - - این شرحِ بی‌نهایت، کز زلفِ یار گفتند
+      - حرفی‌ست از هزاران، کاَندر عبارت آمد
+    - - عیبم بپوش زنهار، ای خرقهٔ مِی‌آلود
+      - کآن پاکْ پاک‌دامن، بهرِ زیارت آمد
+    - - امروز جایِ هر کس، پیدا شود ز خوبان
+      - کآن ماهِ مجلس‌افروز، اندر صدارت آمد
+    - - بر تختِ جم که تاجش، معراجِ آسمان است
+      - همّت نگر که موری، با آن حقارت آمد
+    - - از چشمِ شوخش ای دل! ایمانِ خود نگه دار
+      - کآن جادویِ کمانکش، بر عزمِ غارت آمد
+    - - آلوده‌ای تو حافظ، فیضی ز شاه درخواه
+      - کآن عنصرِ سَماحت، بهرِ طهارت آمد
+    - - دریاست مجلسِ او، دَریاب وقت و دُر یاب
+      - هان ای زیان‌رسیده وقتِ تجارت آمد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 171
+    url: https://ganjoor.net/hafez/ghazal/sh171
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 171
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

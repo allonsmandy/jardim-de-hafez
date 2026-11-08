@@ -1,0 +1,36 @@
+id: diversos-003
+category: diversos
+number: 3
+firstLine:
+  fa: اگر به لطف بخوانی مَزید الطاف است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر به لطف بخوانی مَزید الطاف است
+      - وگر به قهر برانی درون ما صاف است
+    - - بیان وصف تو گفتن نه حد امکان است
+      - چرا که وصف تو بیرون ز حد اوصاف است
+    - - ز چشم عشق توان دید روی شاهد غیب
+      - که نور دیدهٔ عاشق ز قاف تا قاف است
+    - - چو سرو سرکشی ای یار سنگدل با ما
+      - چه چشم‌هاست که از روی تو بر اطراف است
+    - - تو را که مایهٔ خلد است نیاز همتا نیست
+      - از این مثال گزینم روان در اطراف است
+    - - ز مُصحَف رخ دلدار آیتی بر خوان
+      - که آن بیان مقامات کشف کشّاف است
+    - - عدو که منطق حافظ طمع کند در شعر
+      - همان حدیث هُما و طریق خطّاف است
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 3
+    url: https://ganjoor.net/hafez/montasab/sh3
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 3
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

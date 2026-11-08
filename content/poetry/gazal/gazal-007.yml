@@ -1,0 +1,183 @@
+id: gazal-007
+category: gazal
+number: 7
+firstLine:
+  fa: صوفی بیا که آیِنِه، صافی‌ست جام را
+  pt: Sufi, vem, que o espelho da taça está límpido
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صوفی بیا که آیِنِه، صافی‌ست جام را
+      - تا بِنگَری صَفایِ مِیِ لَعل‌فام را
+    - - رازِ درونِ پَردِه زِ رِندانِ مَست پُرس
+      - کاین حال نیست زاهِدِ عالی‌مَقام را
+    - - عَنقا، شِکارِ کَس نَشَوَد، دام بازچین
+      - کآنجا، همیشه، باد به دست است، دام را
+    - - دَر بَزمِ دُور، یک‌دو قدح دَرکَش و برو
+      - یَعنی طَمَع مَدار وِصالِ مُدام را
+    - - ای دل! شَباب رَفت و نَچیدی گُلی زِ عِیش
+      - پیرانه‌‌سر مَکُن هُنَری نَنگ و نام را
+    - - در عِیشِ نَقد کوش که چون آبخَور نَمانْد
+      - آدَم بِهِشت، روضِهٔ دارُالسَّلام را
+    - - ما را بَر آستانِ تو، بس حَقِّ خِدمَت است
+      - ای خواجه! بازبین به تَرَحُّم غلام را
+    - - «حافظ» مُریدِ جامِ مِی است، ای صبا! برو!
+      - وز بنده بندگی بِرَسان شِیخِ جام را!
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 7
+    url: https://ganjoor.net/hafez/ghazal/sh7
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Sufi, vem, que o espelho da taça está límpido,
+      - para que vejas a pureza do vinho cor de rubi.
+    - - O segredo por trás do véu, pergunta-o aos rends embriagados,
+      - pois esse estado não é dado ao asceta de alta posição.
+    - - 'O Anqa não se deixa caçar por ninguém: recolhe a armadilha,'
+      - pois ali a armadilha sempre fica só com o vento nas mãos.
+    - - No banquete do tempo, bebe uma ou duas taças e vai-te;
+      - 'quer dizer: não esperes uma união que dure para sempre.'
+    - - Ó coração, a juventude se foi e não colheste nenhuma rosa do prazer;
+      - agora, velho, não faças da boa fama uma virtude.
+    - - Busca o prazer do agora, pois quando lhe faltou o seu quinhão,
+      - Adão deixou o jardim do paraíso, a morada da paz.
+    - - Temos muitos anos de serviço à tua porta;
+      - ó senhor, olha de novo, com compaixão, para o teu servo.
+    - - Hafez é discípulo da taça de vinho. Ó brisa, vai
+      - e leva do servo uma reverência ao Xeque da Taça!
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 7
+themes:
+  - O vinho como espelho
+  - O mistério que ninguém captura
+  - Aproveitar o agora
+introduction:
+  - Um poema dirigido ao sufi — o religioso de aparência — convidando-o a deixar a pose e olhar a
+    taça de vinho, que funciona como um espelho da verdade.
+  - 'No meio, uma das imagens mais misteriosas de Hafez: o Anqa, um pássaro lendário que ninguém
+    consegue caçar. Ele representa aquilo que é grande demais para caber em armadilhas — a verdade,
+    Deus, o sentido da vida.'
+  - O último verso tem uma piada com o nome de um mestre sufi famoso por ser severo, o Xeque Jam —
+    porque "jām", em persa, também quer dizer "taça".
+stanzaNotes:
+  - stanza: 1
+    plain:
+      'Ei, religioso, venha cá! Olhe a taça de vinho: ela é limpa como um espelho. Venha ver como
+      esse vinho é puro.'
+    meaning: 'Hafez brinca com sons parecidos: "sufi", "sāfi" (límpido) e "safā" (pureza). Os sufis
+      diziam buscar a pureza do coração; o poeta sugere que ela está, ironicamente, na taça. Na
+      leitura espiritual, a taça é o coração purificado, que reflete a verdade como um espelho.'
+    literal:
+      Sufi, vem, pois o espelho é límpido para a taça, / para que vejas a pureza do vinho cor de
+      rubi.
+    choices: O jogo sonoro sufi/sāfi/safā não tem como ser reproduzido; preferimos manter as imagens
+      (espelho, limpidez, rubi) e explicar o trocadilho.
+  - stanza: 2
+    plain: Quer saber os segredos da vida? Pergunte aos bêbados da taverna, não aos religiosos
+      importantes — esses não sabem nada disso.
+    meaning: 'O asceta (zāhed) é quem se abstém dos prazeres para parecer santo; o rend é o livre de
+      espírito. Hafez inverte as expectativas: quem conhece os mistérios é o "desqualificado", não a
+      autoridade religiosa.'
+    choices:
+      '"Zāhed-e āli-maqām" é o asceta de posição elevada; "de alta posição" mantém a ironia sobre
+      títulos e cargos.'
+  - stanza: 3
+    plain:
+      'Existe um pássaro lendário que ninguém nunca pegou. Desista de montar armadilhas: elas só
+      vão pegar vento.'
+    meaning:
+      O Anqa (parecido com a fênix ou o Simurgh das lendas persas) vive num monte inalcançável e
+      nunca é visto. É símbolo do que é absoluto e misterioso — a verdade última, Deus. Querer
+      "capturá-lo" com raciocínios ou rituais é inútil.
+    literal:
+      O Anqa não se torna caça de ninguém; recolhe a armadilha, / pois lá sempre o vento está na
+      mão da armadilha.
+    choices:
+      '"Bād be dast" (vento na mão) é expressão persa para "de mãos vazias". Mantivemos a imagem,
+      que é bonita e clara.'
+  - stanza: 4
+    plain:
+      'A vida é como uma festa: tome um ou dois copos e vá embora. Não espere que a felicidade dure
+      para sempre.'
+    meaning:
+      '"Dowr" é ao mesmo tempo a rodada de bebida que passa de mão em mão e o giro do tempo. A
+      lição é aceitar que tudo é passageiro.'
+    choices:
+      Há um trocadilho com "modām", que quer dizer "permanente" e também "vinho". "Que dure para
+      sempre" traduz o sentido principal; o segundo fica nesta nota.
+  - stanza: 5
+    plain: Coração, você passou a juventude sem aproveitar nada. Agora que está velho, pare de se
+      preocupar com o que vão falar de você.
+    meaning:
+      O poeta se arrepende de ter sido prudente demais na juventude, preocupado com a reputação.
+      Na velhice, o conselho é largar essa preocupação e viver.
+    literal: Ó coração, a juventude se foi e não colheste uma rosa do prazer; / na velhice não faças
+      virtude de vergonha e nome.
+    choices:
+      'Este segundo verso é difícil e os comentadores o leem de maneiras diferentes. Seguimos a
+      leitura mais comum: depois de velho, não vale mais a pena fazer da reputação um valor. É um
+      ponto que um revisor deve conferir com atenção.'
+  - stanza: 6
+    plain:
+      Aproveite o que você tem agora. Até Adão teve que sair do paraíso quando acabou a parte que
+      lhe cabia.
+    meaning: 'Na tradição islâmica, cada pessoa tem um quinhão ("ābkhor", literalmente "o lugar onde
+      bebe água") definido por Deus: quanto tempo vai viver em cada lugar. Quando o de Adão acabou,
+      ele precisou sair do paraíso. Se nem o paraíso dura, aproveite o presente.'
+    choices: '"Eysh-e naqd" é "o prazer em dinheiro vivo", à vista, por oposição às promessas para
+      depois; "o prazer do agora" transmite a ideia. "Dār al-salām" (morada da paz) é um nome
+      corânico do paraíso.'
+  - stanza: 7
+    plain: Eu te sirvo há tanto tempo! Por favor, olhe para mim com carinho de novo.
+    meaning:
+      'Volta a linguagem da corte: o amante como servo leal que pede reconhecimento ao senhor (o
+      amado ou Deus).'
+    choices:
+      '"Khāje" é senhor, patrão, pessoa importante; "ghalām" é servo, escravo — usamos "servo",
+      termo mais próximo do registro poético.'
+  - stanza: 8
+    plain: Hafez virou seguidor da taça de vinho. Vento, vá lá e mande meus respeitos ao "Mestre da
+      Taça" — que, na verdade, era um religioso severíssimo.
+    meaning:
+      'Ahmad-e Jam (séculos XI–XII) foi um mestre sufi famoso pela rigidez, conhecido por fazer
+      as pessoas se arrependerem do vinho. Como "jām" quer dizer "taça", Hafez faz uma provocação: o
+      "Xeque Jam" vira o "Xeque da Taça", padroeiro dos bebedores.'
+    literal: Hafez é discípulo da taça de vinho; ó brisa, vai, / e do servo leva a servidão ao Xeque Jam.
+    choices:
+      Traduzimos "Sheykh-e Jām" por "Xeque da Taça" para que o trocadilho apareça em português; o
+      nome real fica explicado nesta nota.
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - sufi
+  - rend
+  - vinho
+  - saba
+  - xeque
+  - takhallos
+  - amado
+  - narciso
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

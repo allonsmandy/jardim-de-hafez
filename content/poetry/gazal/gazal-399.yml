@@ -1,0 +1,36 @@
+id: gazal-399
+category: gazal
+number: 399
+firstLine:
+  fa: کرشمه‌ای کن و بازار ساحری بشکن
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - کرشمه‌ای کن و بازار ساحری بشکن
+      - به غمزه رونق و ناموس سامری بشکن
+    - - به باد ده سر و دستار عالمی یعنی
+      - کلاه گوشه به آیین سروری بشکن
+    - - به زلف گوی که آیین دلبری بگذار
+      - به غمزه گوی که قلب ستمگری بشکن
+    - - برون خرام و ببر گوی خوبی از همه کس
+      - سزای حور بده رونق پری بشکن
+    - - به آهوان نظر شیر آفتاب بگیر
+      - به ابروان دوتا قوس مشتری بشکن
+    - - چو عطرسای شود زلف سنبل از دم باد
+      - تو قیمتش به سر زلف عنبری بشکن
+    - - چو عندلیب فصاحت فروشد ای حافظ
+      - تو قدر او به سخن گفتن دری بشکن
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 399
+    url: https://ganjoor.net/hafez/ghazal/sh399
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 399
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

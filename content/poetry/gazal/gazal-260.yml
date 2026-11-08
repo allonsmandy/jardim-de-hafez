@@ -1,0 +1,40 @@
+id: gazal-260
+category: gazal
+number: 260
+firstLine:
+  fa: ای سروِ نازِ حُسن که خوش می‌روی به ناز
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای سروِ نازِ حُسن که خوش می‌روی به ناز
+      - عُشّاق را به نازِ تو هر لحظه صد نیاز
+    - - فرخنده باد طلعتِ خوبت که در ازل
+      - بُبْریده‌اند بر قدِ سَرْوَت قبایِ ناز
+    - - آن را که بویِ عَنبر زلفِ تو آرزوست
+      - چون عود گو بر آتشِ سودا بسوز و ساز
+    - - پروانه را ز شمع بُوَد سوزِ دل، ولی
+      - بی شمعِ عارضِ تو دلم را بُوَد گداز
+    - - صوفی که بی تو توبه ز مِی کرده بود، دوش
+      - بِشْکَست عهد، چون درِ میخانه دید باز
+    - - از طعنهٔ رقیب نگردد عیارِ من
+      - چون زر اگر برَند مرا در دهانِ گاز
+    - - دل کز طوافِ کعبهٔ کویت وقوف یافت
+      - از شوقِ آن حریم ندارد سرِ حجاز
+    - - هر دَم به خونِ دیده چه حاجت وضو؟ چو نیست
+      - بی طاقِ ابروی تو، نمازِ مرا جواز
+    - - چون باده باز بر سرِ خُم رفت کف‌زنان
+      - حافظ که دوش از لبِ ساقی شنید راز
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 260
+    url: https://ganjoor.net/hafez/ghazal/sh260
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 260
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,38 @@
+id: gazal-374
+category: gazal
+number: 374
+firstLine:
+  fa: بیا تا گل برافشانیم و می در ساغر اندازیم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بیا تا گل برافشانیم و می در ساغر اندازیم
+      - فلک را سقف بشکافیم و طرحی نو دراندازیم
+    - - اگر غم لشکر انگیزد که خون عاشقان ریزد
+      - من و ساقی به هم تازیم و بنیادش براندازیم
+    - - شرابِ ارغوانی را گلاب اندر قَدَح ریزیم
+      - نسیمِ عِطرگردان را، شِکَر در مِجمَر اندازیم
+    - - چو در دست است رودی خوش، بزن مطرب سرودی خوش
+      - که دست‌افشان غزل خوانیم و پاکوبان سر اندازیم
+    - - صبا! خاک وجود ما، بدان عالی‌جناب انداز
+      - بُوَد کآن شاهِ خوبان را نظر بر مَنظَر اندازیم
+    - - یکی از عقل می‌لافد، یکی طامات می‌بافد
+      - بیا کاین داوری‌ها را به پیشِ داور اندازیم
+    - - بهشت عَدْن اگر خواهی، بیا با ما به میخانه
+      - که از پای خُمَت روزی، به حوضِ کوثر اندازیم
+    - - سخن‌دانی و خوش‌خوانی نمی‌ورزند در شیراز
+      - بیا حافظ که تا خود را، به مُلکی دیگر اندازیم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 374
+    url: https://ganjoor.net/hafez/ghazal/sh374
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 374
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

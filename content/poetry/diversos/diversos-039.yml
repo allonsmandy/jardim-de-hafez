@@ -1,0 +1,34 @@
+id: diversos-039
+category: diversos
+number: 39
+firstLine:
+  fa: جای حضور و گلشن امن است این سرای
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جای حضور و گلشن امن است این سرای
+      - زین در به شادمانی و عیش و طرب در آی
+    - - ای کاخ دولتی ز چه خاکی؟ که مدرج است
+      - در شاخسار گلشن تو سایهٔ همای
+    - - هر صبح در هوای درت می‌کند صبوح
+      - جمشید تخت چرخ به جام جهان‌نمای
+    - - فرخنده نوگل تو چمن را حیات‌ده
+      - جعد بنفشهٔ تو صبا را گره‌گشای
+    - - خورشید در هوای تو چون ذره پای‌کوب
+      - جمشید در حریم تو چون بندگان بپای
+    - - حافظ مقیم درگه او باش و عیش کن
+      - کاندر بهشت بهتر از این گوشه نیست جای
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 39
+    url: https://ganjoor.net/hafez/montasab/sh39
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 39
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

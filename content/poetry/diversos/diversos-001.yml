@@ -1,0 +1,40 @@
+id: diversos-001
+category: diversos
+number: 1
+firstLine:
+  fa: ما برفتیم، تو دانی و دل غمخور ما
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ما برفتیم، تو دانی و دل غمخور ما
+      - بخت بد تا به کجا می برد آبشخور ما
+    - - از نثار مژه چون زلف تو در زر گیرم
+      - قاصدی کز تو سلامی برساند بر ما
+    - - به دعا آمده‌ام هم به دعا دست بر آر
+      - که وفا با تو قرین باد و خدا یاور ما
+    - - فلک آواره به هر سو کندم می‌دانی؟
+      - رشک می‌آیدش از صحبت جان پرور ما
+    - - گر همه خلق جهان بر من و تو حیف برند
+      - بکشد از همه انصاف ستم داور ما
+    - - روز باشد که بیاید به سلامت بازم
+      - ای خوش آن روز که آید به سلامی بر ما
+    - - به سرت گر همه آفاق به هم جمع شوند
+      - نتوان برد هوای تو برون از سر ما
+    - - تا ز وصف رخ زیبای تو ما، دم زده‌ایم
+      - ورق گل خجل است از ورق دفتر ما
+    - - هر که گوید که کجا رفت خدا را حافظ
+      - گو به زاری سفری کرد و برفت از بر ما
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 1
+    url: https://ganjoor.net/hafez/montasab/sh1
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 1
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

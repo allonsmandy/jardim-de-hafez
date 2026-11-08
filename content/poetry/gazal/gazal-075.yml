@@ -1,0 +1,34 @@
+id: gazal-075
+category: gazal
+number: 75
+firstLine:
+  fa: خوابِ آن نرگسِ فَتّانِ تو، بی‌چیزی نیست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خوابِ آن نرگسِ فَتّانِ تو، بی‌چیزی نیست
+      - تابِ آن زلفِ پریشانِ تو، بی‌چیزی نیست
+    - - از لبت شیر روان بود که من می‌گفتم
+      - «این شکر گِردِ نمکدانِ تو، بی‌چیزی نیست»
+    - - جان درازیِ تو بادا که یقین می‌دانم
+      - در کمان ناوَک مژگانِ تو، بی‌چیزی نیست
+    - - مبتلایی به غمِ محنت و اندوهِ فراق
+      - ای دل! این ناله و افغان تو، بی‌چیزی نیست
+    - - دوش، باد از سرِ کویش به گلستان بگذشت
+      - ای گل! این چاکِ گریبانِ تو، بی‌چیزی نیست
+    - - دردِ عشق ار چه دل از خلق نهان می‌دارد
+      - حافظ این دیدهٔ گریانِ تو، بی‌چیزی نیست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 75
+    url: https://ganjoor.net/hafez/ghazal/sh75
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 75
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

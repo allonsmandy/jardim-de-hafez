@@ -1,0 +1,26 @@
+id: diversos-080
+category: diversos
+number: 80
+firstLine:
+  fa: ز خواب مستی دوشین چو دیده بگشودم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ز خواب مستی دوشین چو دیده بگشودم
+      - سفیده‌دم که شدم محرم سرای سرور
+    - - به عزم آن که کنم توبه از محبت غیر
+      - شنیدم آیت توبوا الی الله از لب حور
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 80
+    url: https://ganjoor.net/hafez/montasab/sh80
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 80
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,38 @@
+id: gazal-175
+category: gazal
+number: 175
+firstLine:
+  fa: صبا به تهنیتِ پیرِ مِی‌فروش آمد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صبا به تهنیتِ پیرِ مِی‌فروش آمد
+      - که موسمِ طرب و عیش و ناز و نوش آمد
+    - - هوا مسیح‌نفس گشت و باد نافه‌گشای
+      - درخت سبز شد و مرغ دَر خروش آمد
+    - - تنورِ لاله چنان برفروخت بادِ بهار
+      - که غنچه غرقِ عرق گشت و گل به جوش آمد
+    - - به گوشِ هوش نیوش از من و به عشرت کوش
+      - که این سخن سَحَر از هاتفم به گوش آمد
+    - - ز فکرِ تفرقه بازآی تا شوی مجموع
+      - به حکمِ آنکه چو شد اهرمن سروش آمد
+    - - ز مرغِ صبح ندانم که سوسنِ آزاد
+      - چه گوش کرد که با دَه زبان خموش آمد
+    - - چه جایِ صحبتِ نامحرم است مجلسِ انس؟
+      - سرِ پیاله بپوشان که خرقه‌پوش آمد
+    - - ز خانقاه به میخانه می‌رود حافظ
+      - مگر ز مستیِ زهدِ ریا به هوش آمد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 175
+    url: https://ganjoor.net/hafez/ghazal/sh175
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 175
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

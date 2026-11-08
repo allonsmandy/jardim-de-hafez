@@ -1,0 +1,40 @@
+id: diversos-016
+category: diversos
+number: 16
+firstLine:
+  fa: رهروان را عشق بس باشد دلیل
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - رهروان را عشق بس باشد دلیل
+      - آب چشم اندر رهش کردم سبیل
+    - - موج اشک ما کی آرد در حساب
+      - آن که کشتی راند بر خون قتیل
+    - - بی می و مطرب به فردوسم مخوان
+      - راحتی فی الراح لا فی السلسبیل
+    - - اختیاری نیست بدنامی من
+      - ضلنی فی العشق من یهدی السبیل
+    - - آتش روی بتان در خود مزن
+      - ور نه در آتش گذر کن چون خلیل
+    - - یا بنه بر خود که مقصد گم کنی
+      - یا منه پای اندرین ره بی‌دلیل
+    - - یا رسوم پیلبانی یاد گیر
+      - یا مده هندوستان را یاد پیل
+    - - یا مکش بر چهره نیل عاشقی
+      - یا فرو بر جامهٔ تقوی به نیل
+    - - حافظا گر معنیی داری بیار
+      - ورنه دعوی نیست غیر از قال و قیل
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 16
+    url: https://ganjoor.net/hafez/montasab/sh16
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 16
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

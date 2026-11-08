@@ -1,0 +1,26 @@
+id: rubai-002
+category: rubai
+number: 2
+firstLine:
+  fa: بر گیر شراب طرب‌انگیز و بیا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بر گیر شراب طرب‌انگیز و بیا
+      - پنهان ز رقیب سفله بستیز و بیا
+    - - مشنو سخن خصم که بنشین و مرو
+      - بشنو ز من این نکته که برخیز و بیا
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 2
+    url: https://ganjoor.net/hafez/robaee2/sh2
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 2
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

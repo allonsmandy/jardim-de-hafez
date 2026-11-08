@@ -1,0 +1,26 @@
+id: rubai-007
+category: rubai
+number: 7
+firstLine:
+  fa: هر روز دلم به زیر باری دگر است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هر روز دلم به زیر باری دگر است
+      - در دیدهٔ من ز هجر خاری دگر است
+    - - من جهد همی‌کنم قضا می‌گوید
+      - بیرون ز کفایت تو کاری دگر است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 7
+    url: https://ganjoor.net/hafez/robaee2/sh7
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 7
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

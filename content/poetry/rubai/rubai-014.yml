@@ -1,0 +1,26 @@
+id: rubai-014
+category: rubai
+number: 14
+firstLine:
+  fa: چون غنچهٔ گل قرابه‌پرداز شود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چون غنچهٔ گل قرابه‌پرداز شود
+      - نرگس به هوای می قدح‌ساز شود
+    - - فارغ دل آن کسی که مانند حباب
+      - هم در سر میخانه سرانداز شود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 14
+    url: https://ganjoor.net/hafez/robaee2/sh14
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 14
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

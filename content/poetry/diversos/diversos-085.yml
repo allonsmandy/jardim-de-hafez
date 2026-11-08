@@ -1,0 +1,26 @@
+id: diversos-085
+category: diversos
+number: 85
+firstLine:
+  fa: بگذشتن فرصت ای برادر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بگذشتن فرصت ای برادر
+      - در گرم‌روی چو میغ باشد
+    - - دریاب که عمر بس عزیز است
+      - گر فوت شود دریغ باشد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 85
+    url: https://ganjoor.net/hafez/montasab/sh85
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 85
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

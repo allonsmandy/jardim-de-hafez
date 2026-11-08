@@ -1,0 +1,36 @@
+id: diversos-026
+category: diversos
+number: 26
+firstLine:
+  fa: به فر دولت گیتی فروز شاه شجاع
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به فر دولت گیتی فروز شاه شجاع
+      - که با کسم نبود بهر مال و جاه نزاع
+    - - بیار می که چه خورشید مشغل افروزد
+      - رسد به کلبه درویش نیز فیض شعاع
+    - - صراحتی و حریفی خوشم زدنیا بس
+      - که غیر از این همه اسباب تفرقست و صداع
+    - - برو ادیب به جامی بدل کن این شفقت
+      - که من غلام مطیعم نه پادشاه مطاع
+    - - ز مسجدم به خرابات می‌فرستد عشق
+      - حریف باده رسید ای رفیق توبه وداع
+    - - هنر نمی خرد ایام غیر از اینم نیست
+      - کجا روم به تجارت بدین کساد متاع
+    - - ز زهد حافظ و طامات او ملول شدم
+      - بساز رود و غزل خوان که می روم به سماع
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 26
+    url: https://ganjoor.net/hafez/montasab/sh26
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 26
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

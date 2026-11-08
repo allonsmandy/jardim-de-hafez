@@ -1,0 +1,26 @@
+id: rubai-041
+category: rubai
+number: 41
+firstLine:
+  fa: ای کاش که بخت، سازگاری کردی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای کاش که بخت، سازگاری کردی
+      - با جور زمانه یار، یاری کردی
+    - - از دست جوانی‌ام چو بِرْبود عنان
+      - پیری چو رکاب، پایداری کردی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 41
+    url: https://ganjoor.net/hafez/robaee2/sh41
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 41
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

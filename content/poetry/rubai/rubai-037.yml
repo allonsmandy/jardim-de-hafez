@@ -1,0 +1,26 @@
+id: rubai-037
+category: rubai
+number: 37
+firstLine:
+  fa: گفتی که تو را شوم مدار اندیشه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفتی که تو را شوم مدار اندیشه
+      - دل خوش کن و بر صبر گمار اندیشه
+    - - کو صبر و چه دل، کآنچه دلش می‌خوانند
+      - یک قطرهٔ خون است و هزار اندیشه
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 37
+    url: https://ganjoor.net/hafez/robaee2/sh37
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 37
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

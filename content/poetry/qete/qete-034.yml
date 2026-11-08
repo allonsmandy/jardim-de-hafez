@@ -1,0 +1,30 @@
+id: qete-034
+category: qete
+number: 34
+firstLine:
+  fa: پادشاها لشکر توفیق همراه تواند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - پادشاها لشکر توفیق همراه تواند
+      - خیز اگر بر عزم تسخیر جهان ره می‌کنی
+    - - با چنین جاه و جلال از پیشگاه سلطنت
+      - آگهی و خدمت دل‌های آگه می‌کنی
+    - - با فریب رنگ این نیلی خم زنگارفام
+      - کار بر وفق مراد صبغة الله می‌کنی
+    - - آن که ده با هفت و نیم آورد بس سودی نکرد
+      - فرصتت بادا که هفت و نیم با ده می‌کنی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 34
+    url: https://ganjoor.net/hafez/ghete/sh34
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 34
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

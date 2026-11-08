@@ -1,0 +1,36 @@
+id: gazal-342
+category: gazal
+number: 342
+firstLine:
+  fa: حجابِ چهرهٔ جان می‌شود غبارِ تنم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - حجابِ چهرهٔ جان می‌شود غبارِ تنم
+      - خوشا دَمی که از آن چهره پرده برفکنم
+    - - چُنین قفس نه سزایِ چو من خوش‌اَلحانی‌ست
+      - رَوَم به گلشنِ رضوان، که مرغِ آن چمنم
+    - - عیان نشد که چرا آمدم، کجا رفتم
+      - دریغ و درد که غافل ز کارِ خویشتنم
+    - - چگونه طوف کنم در فضایِ عالمِ قدس؟
+      - که در سراچهٔ ترکیب، تخته‌‌بندِ تنم
+    - - اگر ز خونِ دلم بویِ شوق می‌آید
+      - عجب مدار که هم‌دردِ نافهٔ خُتنم
+    - - طرازِ پیرهنِ زَرکشم مبین چون شمع
+      - که سوزهاست نهانی درونِ پیرهنم
+    - - بیا و هستیِ حافظ ز پیشِ او بردار
+      - که با وجودِ تو کس نشنود ز من که منم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 342
+    url: https://ganjoor.net/hafez/ghazal/sh342
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 342
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,26 @@
+id: diversos-108
+category: diversos
+number: 108
+firstLine:
+  fa: آن به که بجامِ باده دل شاد کنیم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن به که بجامِ باده دل شاد کنیم
+      - وز نآمده و گذشته کم یاد کنیم
+    - - وین عاریتی روانِ زندانی را
+      - یک لحظه ز بندِ عقل آزاد کنیم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 108
+    url: https://ganjoor.net/hafez/montasab/sh108
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 108
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

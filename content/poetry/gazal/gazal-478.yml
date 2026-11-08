@@ -1,0 +1,34 @@
+id: gazal-478
+category: gazal
+number: 478
+firstLine:
+  fa: نوش کن جامِ شرابِ یک منی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نوش کن جامِ شرابِ یک منی
+      - تا بِدان بیخِ غم از دل برکَنی
+    - - دل، گشاده دار چون جامِ شراب
+      - سر گرفته چند چون خُمّ دَنی
+    - - چون ز جام بی‌خودی رطلی کشی
+      - کم زنی از خویشتن لافِ منی
+    - - سنگسان شو، در قدم نی همچو آب
+      - جمله رنگ‌آمیزی و تَردامنی
+    - - دل به مِی دربند تا مردانه‌وار
+      - گردن سالوس و تقوا بشکنی
+    - - خیز و جهدی کن چو حافظ تا مگر
+      - خویشتن در پای معشوق افکنی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 478
+    url: https://ganjoor.net/hafez/ghazal/sh478
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 478
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

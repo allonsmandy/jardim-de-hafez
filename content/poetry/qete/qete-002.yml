@@ -1,0 +1,26 @@
+id: qete-002
+category: qete
+number: 2
+firstLine:
+  fa: سرای مدرسه و بحثِ عِلم و طاق و رَواق
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سرای مدرسه و بحثِ عِلم و طاق و رَواق
+      - چه سود، چون دلِ دانا و چشمِ بینا نیست؟
+    - - سرای قاضی یزد اَرچه منبعِ فضل است
+      - خلاف نیست که عِلمِ نظر در آن‌جا نیست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 2
+    url: https://ganjoor.net/hafez/ghete/sh2
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 2
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

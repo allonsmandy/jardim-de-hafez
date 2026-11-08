@@ -1,0 +1,40 @@
+id: gazal-322
+category: gazal
+number: 322
+firstLine:
+  fa: خیالِ نقشِ تو در کارگاهِ دیده کشیدم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خیالِ نقشِ تو در کارگاهِ دیده کشیدم
+      - به صورتِ تو نگاری ندیدم و نشنیدم
+    - - اگرچه در طلبت هم عِنانِ باد شِمالم
+      - به گَردِ سروِ خرامانِ قامتت نرسیدم
+    - - امید در شبِ زلفت به روزِ عمر نبستم
+      - طمع به دورِ دهانت ز کامِ دل بِبُریدم
+    - - به شوق چشمهٔ نُوشَتْ چه قطره‌ها که فشاندم
+      - ز لَعلِ باده‌فروشت چه عشوه‌ها که خریدم
+    - - ز غمزه بر دلِ ریشم چه تیرها که گشادی
+      - ز غصه بر سرِ کویت چه بارها که کشیدم
+    - - ز کویِ یار بیار ای نسیمِ صبح غباری
+      - که بویِ خونِ دلِ ریش از آن تراب شنیدم
+    - - گناهِ چشمِ سیاهِ تو بود و گردنِ دلخواه
+      - که من چو آهویِ وحشی ز آدمی بِرَمیدم
+    - - چو غنچه بر سرم از کویِ او گذشت نسیمی
+      - که پرده بر دلِ خونین به بویِ او بِدَریدَم
+    - - به خاکِ پایِ تو سوگند و نورِ دیدهٔ حافظ
+      - که بی رخِ تو، فروغ از چراغ دیده ندیدم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 322
+    url: https://ganjoor.net/hafez/ghazal/sh322
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 322
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

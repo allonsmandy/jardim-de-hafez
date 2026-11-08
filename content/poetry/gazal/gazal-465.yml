@@ -1,0 +1,36 @@
+id: gazal-465
+category: gazal
+number: 465
+firstLine:
+  fa: رفتم به باغ صبحدمی تا چنم گلی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - رفتم به باغ صبحدمی تا چنم گلی
+      - آمد به گوش ناگهم آواز بلبلی
+    - - مسکین چو من به عشق گلی گشته مبتلا
+      - و اندر چمن فکنده ز فریاد غلغلی
+    - - می‌گشتم اندر آن چمن و باغ دم به دم
+      - می‌کردم اندر آن گل و بلبل تاملی
+    - - گل یار حسن گشته و بلبل قرین عشق
+      - آن را تفضلی نه و این را تبدلی
+    - - چون کرد در دلم اثر آواز عندلیب
+      - گشتم چنان که هیچ نماندم تحملی
+    - - بس گل شکفته می‌شود این باغ را ولی
+      - کس بی بلای خار نچیده‌ست از او گلی
+    - - حافظ مدار امید فرج از مدار چرخ
+      - دارد هزار عیب و ندارد تفضلی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 465
+    url: https://ganjoor.net/hafez/ghazal/sh465
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 465
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

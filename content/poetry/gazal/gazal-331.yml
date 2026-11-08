@@ -1,0 +1,36 @@
+id: gazal-331
+category: gazal
+number: 331
+firstLine:
+  fa: به تیغم گَر کُشد، دستش نگیرم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به تیغم گَر کُشد، دستش نگیرم
+      - وگر تیرم زَنَد منّت پذیرم
+    - - کمانِ ابرویت را گو بزن تیر
+      - که پیشِ دست و بازویت بمیرم
+    - - غمِ گیتی گر از پایم درآرد
+      - بجز ساغر که باشد دستگیرم؟
+    - - برآی ای آفتابِ صبحِ امّید
+      - که در دستِ شبِ هجران اسیرم
+    - - به فریادم رَس ای پیرِ خرابات
+      - به یک جرعه جوانم کن که پیرم
+    - - به گیسویِ تو خوردم دوش سوگند
+      - که من از پایِ تو سر بر نگیرم
+    - - بسوز این خرقهٔ تقوا تو حافظ
+      - که گر آتش شَوَم در وی نگیرم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 331
+    url: https://ganjoor.net/hafez/ghazal/sh331
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 331
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

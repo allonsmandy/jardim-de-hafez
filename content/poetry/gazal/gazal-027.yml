@@ -1,0 +1,34 @@
+id: gazal-027
+category: gazal
+number: 27
+firstLine:
+  fa: در دیرِ مغان آمد، یارم قدحی در دست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در دیرِ مغان آمد، یارم قدحی در دست
+      - مست از می و میخواران از نرگسِ مستش مست
+    - - در نعلِ سمندِ او شکلِ مهِ نو پیدا
+      - وز قدِ بلندِ او بالایِ صنوبر، پست
+    - - آخر به چه گویم هست از خود خبرم، چون نیست
+      - وز بَهرِ چه گویم نیست با وی نظرم، چون هست
+    - - شمعِ دلِ دمسازم، بنشست چو او برخاست
+      - و افغان ز نظربازان، برخاست چو او بنشست
+    - - گر غالیه خوش بو شد، در گیسویِ او پیچید
+      - ور وَسمه کمانکَش گشت، در ابروی او پیوست
+    - - بازآی که بازآید عمرِ شدهٔ حافظ
+      - هرچند که ناید باز، تیری که بِشُد از شست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 27
+    url: https://ganjoor.net/hafez/ghazal/sh27
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 27
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

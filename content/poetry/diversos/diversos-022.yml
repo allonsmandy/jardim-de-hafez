@@ -1,0 +1,36 @@
+id: diversos-022
+category: diversos
+number: 22
+firstLine:
+  fa: گر زلف پریشانت در دست صبا افتد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر زلف پریشانت در دست صبا افتد
+      - هر جا که دلی باشد در دام بلا افتد
+    - - ما کشتی صبر خود در بحر غم افکندیم
+      - تا آخر از این طوفان هر تخته کجا افتد
+    - - هر کس به تمنائی فال از رخ او گیرد
+      - بر تخته فیروزی تا قرعه کرا افتد
+    - - گر زلف سیاهت را من مشک ختا گفتم
+      - در تاب مشو جانا در گفته خطا افتد
+    - - آخر چه زیان افتد سلطان ممالک را
+      - کو را نظری روزی بر حال گدا افتد
+    - - آن باده که دل‌ها را از غم دهد آزادی
+      - پر خون جگر گردد چون دور به ما افتد
+    - - احوال دل حافظ از دست غم هجران
+      - چون عاشق سرگردان کز دوست جدا افتد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 22
+    url: https://ganjoor.net/hafez/montasab/sh22
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 22
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

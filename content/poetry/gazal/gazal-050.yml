@@ -1,0 +1,36 @@
+id: gazal-050
+category: gazal
+number: 50
+firstLine:
+  fa: به دامِ زلفِ تو دل مبتلایِ خویشتن است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به دامِ زلفِ تو دل مبتلایِ خویشتن است
+      - بکُش به غمزه که اینَش سزایِ خویشتن است
+    - - گَرَت ز دست برآید مُرادِ خاطرِ ما
+      - به دست باش که خیری به جایِ خویشتن است
+    - - به جانت ای بتِ شیرین دهن که همچون شمع
+      - شبانِ تیره، مُرادم فنایِ خویشتن است
+    - - چو رای عشق زدی با تو گفتم ای بلبل
+      - مَکُن که آن گلِ خندان به رای خویشتن است
+    - - به مُشکِ چین و چِگِل نیست بویِ گُل مُحتاج
+      - که نافه‌هاش ز بندِ قَبایِ خویشتن است
+    - - مرو به خانهٔ اربابِ بی‌مُروتِ دهر
+      - که گنجِ عافیتت در سرایِ خویشتن است
+    - - بسوخت حافظ و در شرطِ عشقبازی او
+      - هنوز بر سرِ عهد و وفایِ خویشتن است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 50
+    url: https://ganjoor.net/hafez/ghazal/sh50
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 50
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

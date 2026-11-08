@@ -1,0 +1,36 @@
+id: gazal-435
+category: gazal
+number: 435
+firstLine:
+  fa: با مدّعی مگویید، اسرارِ عشق و مستی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - با مدّعی مگویید، اسرارِ عشق و مستی
+      - تا بی‌خبر بمیرد، در دردِ خودپرستی
+    - - عاشق شو اَر نَهْ روزی، کارِ جهان سرآید
+      - ناخوانده نقشِ مقصود، از کارگاهِ هستی
+    - - دوش آن صنم چه خوش گفت، در مجلسِ مُغانَم
+      - «با کافران چه کارت؟ گر بت نمی‌پرستی»
+    - - سلطانِ من خدا را، زُلفَت شکست ما را
+      - تا کِی کُنَد سیاهی، چندین درازدستی؟
+    - - در گوشهٔ سلامت، مستور چون توان بود
+      - تا نرگسِ تو با ما، گوید رموزِ مستی
+    - - آن روز دیده بودم، این فتنه‌ها که برخاست
+      - کز سرکشی، زمانی، با ما نمی‌نشستی
+    - - عشقت، به دستِ طوفان، خواهد سپرد حافظ
+      - چون برق، از این کشاکش، پنداشتی که جستی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 435
+    url: https://ganjoor.net/hafez/ghazal/sh435
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 435
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

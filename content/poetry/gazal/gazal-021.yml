@@ -1,0 +1,36 @@
+id: gazal-021
+category: gazal
+number: 21
+firstLine:
+  fa: دل و دینم شد و دلبر به ملامت برخاست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دل و دینم شد و دلبر به ملامت برخاست
+      - گفت با ما منشین، کز تو سلامت برخاست
+    - - که شنیدی که در این بزم، دمی خوش بنشست؟
+      - که نه در آخرِ صحبت به ندامت برخاست
+    - - شمع اگر زان لبِ خندان به زبان، لافی زد
+      - پیشِ عشاقِ تو شب‌ها به غَرامت برخاست
+    - - در چمن، بادِ بهاری ز کنار گل و سرو
+      - به هواداریِ آن عارض و قامت برخاست
+    - - مست بگذشتی و از خلوتیانِ ملکوت
+      - به تماشایِ تو آشوبِ قیامت برخاست
+    - - پیشِ رفتار تو پا برنگرفت از خِجلت
+      - سروِ سرکش که به ناز از قد و قامت برخاست
+    - - حافظ این خرقه بینداز مگر جان ببری
+      - کآتش از خرقهٔ سالوس و کرامت برخاست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 21
+    url: https://ganjoor.net/hafez/ghazal/sh21
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 21
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,40 @@
+id: diversos-035
+category: diversos
+number: 35
+firstLine:
+  fa: پدید آمد رسوم بی وفایی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - پدید آمد رسوم بی وفایی
+      - نماند از کس نشان آشنایی
+    - - برند از فاقه نزد هر خسیسی
+      - کنون اهل هنر دست گدایی
+    - - کسی کـ‌او فاضل است امروز در دهر
+      - نمی بیند زغم یک دم رهایی
+    - - ولیکن جاهل است اندر تنعم
+      - متاع او چو هست این دم بهایی
+    - - وگر شاعر بگوید شعر چون آب
+      - که دل را زآن فزاید روشنایی
+    - - نبخشندش جویی از بخل و امساک
+      - اگر خود فی المثل باشد سنایی
+    - - خرد در گوش هوشم دی همی گفت
+      - برو صبری بکن در بینوایی
+    - - قناعت را بضاعت ساز و می‌سوز
+      - در این درد و عنا چون بی‌نوایی
+    - - بیا حافظ به جان این پند بشنو
+      - که گر از پا درافتی با سر آیی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 35
+    url: https://ganjoor.net/hafez/montasab/sh35
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 35
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

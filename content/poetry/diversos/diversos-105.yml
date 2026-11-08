@@ -1,0 +1,26 @@
+id: diversos-105
+category: diversos
+number: 105
+firstLine:
+  fa: هرگز نکنم سوز تو ای شمع چگل
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هرگز نکنم سوز تو ای شمع چگل
+      - پیدا من اگر چه هست کار مشکل
+    - - دردی که من از عشق تو دارم حاصل
+      - دل داند و من دانم و من دانم و دل
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 105
+    url: https://ganjoor.net/hafez/montasab/sh105
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 105
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

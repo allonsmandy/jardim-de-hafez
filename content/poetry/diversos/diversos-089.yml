@@ -1,0 +1,26 @@
+id: diversos-089
+category: diversos
+number: 89
+firstLine:
+  fa: حکیم فکر من از عقل کرد دوش سؤال
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - حکیم فکر من از عقل کرد دوش سؤال
+      - که ای یگانهٔ الطاف خالق رحمان
+    - - کدام گوهر نظم است در جهان که از او
+      - شکست قیمت بازار لؤلؤ عمان
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 89
+    url: https://ganjoor.net/hafez/montasab/sh89
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 89
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

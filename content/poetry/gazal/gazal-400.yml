@@ -1,0 +1,42 @@
+id: gazal-400
+category: gazal
+number: 400
+firstLine:
+  fa: بالابلندِ عِشْوِه‌گرِ نقش‌بازِ من
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بالابلندِ عِشْوِه‌گرِ نقش‌بازِ من
+      - کوتاه کرد قصّهٔ زُهْدِ درازِ من
+    - - دیدی دلا که آخرِ پیری و زُهْد و عِلْم
+      - با من چه کَرْد دیدهٔ معشوقه‌بازِ من؟
+    - - می‌ترسم از خرابیِ ایمان که می‌بَرَد
+      - مِحْرابِ ابرویِ تو، حُضورِ نمازِ من
+    - - گفتم به دَلْقِ زَرْق بپوشم نشانِ عشق
+      - غَمّاز بود اَشْک و عَیان کرد رازِ من
+    - - مست است یار و یادِ حریفان نمی‌کُنَد
+      - ذکرش به خیر‌، ساقیِ مِسْکین‌نوازِ من
+    - - یا رب کی آن صبا بِوَزَد کز نسیمِ آن
+      - گَرْدَد شمامهٔ کَرَمَش، کارسازِ من؟
+    - - نقشی بر آب می‌زنم از گریه، حالیا
+      - تا کی شود قرینِ حقیقت، مجازِ من
+    - - بر خود، چو شمع، خنده‌زنان، گریه می‌کنم
+      - تا با تو سنگ‌دل چه کُنَد سوز و سازِ من؟
+    - - زاهد؛ چو از نمازِ تو کاری نمی‌رود
+      - هم مستیِ شبانه و راز و نیازِ من
+    - - «حافظ»، زِ گریه سوخت بگو حالش ای صبا
+      - با شاهِ دوست‌پرورِ دشمن‌گُدازِ من
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 400
+    url: https://ganjoor.net/hafez/ghazal/sh400
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 400
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

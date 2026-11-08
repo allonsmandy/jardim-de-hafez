@@ -1,0 +1,42 @@
+id: gazal-302
+category: gazal
+number: 302
+firstLine:
+  fa: خوش خبر باشی ای نسیمِ شِمال
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خوش خبر باشی ای نسیمِ شِمال
+      - که به ما می‌رسد زمانِ وصال
+    - - قصّةُ الْعِشق لَا اِنْفِصامَ لَها
+      - فُصِمَت ها هُنا لسانَ القال
+    - - ما لِسَلمی و من بِذی سَلَمٍ
+      - أینَ جِیرانُنا و کَیفَ الْحال
+    - - عَفَتِ الدارُ بَعدَ عافیةٍ
+      - فَاسألوا حالَها عَنِ الاَطْلال
+    - - فی جَمالِ الکمالِ نِلتَ مُنی
+      - صَرَّفَ اللهُ عَنکَ عَینَ کمال
+    - - یا بَریدَ الْحِمی حَماکَ الله
+      - مرحباً مرحباً تَعال تَعال
+    - - عرصهٔ بزمگاه خالی ماند
+      - از حریفان و جامِ مالامال
+    - - سایه افکند حالیا شبِ هجر
+      - تا چه بازَند شبرُوانِ خیال
+    - - تُرکِ ما سویِ کَس نمی‌نِگرد
+      - آه از این کبریا و جاه و جلال
+    - - حافظا عشق و صابری تا چند؟
+      - نالهٔ عاشقان خوش است، بِنال
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 302
+    url: https://ganjoor.net/hafez/ghazal/sh302
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 302
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

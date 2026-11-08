@@ -1,0 +1,38 @@
+id: gazal-150
+category: gazal
+number: 150
+firstLine:
+  fa: ساقی ار باده از این دست به جام اندازد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقی ار باده از این دست به جام اندازد
+      - عارفان را همه در شُربِ مُدام اندازد
+    - - ور چُنین زیرِ خَم زلف نهد دانهٔ خال
+      - ای بسا مرغِ خِرَد را که به دام اندازد
+    - - ای خوشا دولتِ آن مست که در پایِ حریف
+      - سر و دستار نداند که کدام اندازد
+    - - زاهدِ خام که انکارِ مِی و جام کند
+      - پخته گردد چو نظر بر میِ خام اندازد
+    - - روز در کسبِ هنر کوش که مِی خوردنِ روز
+      - دلِ چون آینه، در زنگِ ظَلام اندازد
+    - - آن زمان وقتِ میِ صبح فروغ است که شب
+      - گِردِ خَرگاهِ افق پردهٔ شام اندازد
+    - - باده با محتسبِ شهر ننوشی زنهار
+      - بخورد باده‌ات و سنگ به جام اندازد
+    - - حافظا سر ز کُلَه گوشهٔ خورشید برآر
+      - بختت ار قرعه بدان ماهِ تمام اندازد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 150
+    url: https://ganjoor.net/hafez/ghazal/sh150
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 150
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

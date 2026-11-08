@@ -1,0 +1,36 @@
+id: gazal-480
+category: gazal
+number: 480
+firstLine:
+  fa: ای که در کشتن ما هیچ مدارا نکنی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای که در کشتن ما هیچ مدارا نکنی
+      - سود و سرمایه بسوزی و محابا نکنی
+    - - دردمندان بلا زهر هلاهل دارند
+      - قصد این قوم خطا باشد هان تا نکنی
+    - - رنج ما را که توان برد به یک گوشهٔ چشم
+      - شرط انصاف نباشد که مداوا نکنی
+    - - دیدهٔ ما چو به امید تو دریاست، چرا
+      - به تفرج گذری بر لب دریا نکنی؟
+    - - نقل هر جور که از خلق کریمت کردند
+      - قول صاحب غرضان است تو آن‌ها نکنی
+    - - بر تو گر جلوه کند شاهد ما ای زاهد
+      - از خدا جز می و معشوق تمنا نکنی
+    - - حافظا سجده به ابروی چو محرابش بر
+      - که دعایی ز سر صدق جز آن جا نکنی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 480
+    url: https://ganjoor.net/hafez/ghazal/sh480
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 480
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

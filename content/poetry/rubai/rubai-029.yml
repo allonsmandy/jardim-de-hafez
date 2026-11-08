@@ -1,0 +1,26 @@
+id: rubai-029
+category: rubai
+number: 29
+firstLine:
+  fa: در آرزوی بوس و کنارت مُردم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در آرزوی بوس و کنارت مُردم
+      - وز حسرت لعل آبدارت مُردم
+    - - قصّه نکنم دراز، کوتاه کنم
+      - بازآ بازآ کز انتظارت مُردم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 29
+    url: https://ganjoor.net/hafez/robaee2/sh29
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 29
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

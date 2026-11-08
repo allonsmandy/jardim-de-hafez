@@ -1,0 +1,36 @@
+id: qete-032
+category: qete
+number: 32
+firstLine:
+  fa: خسروا دادگرا شیردلا بحرکفا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خسروا دادگرا شیردلا بحرکفا
+      - ای جلال تو به انواع هنر ارزانی
+    - - همه آفاق گرفت و همه اطراف گشاد
+      - صیت مسعودی و آوازهٔ شه سلطانی
+    - - گفته باشد مگرت ملهم غیب احوالم
+      - این که شد روز سفیدم چو شب ظلمانی
+    - - در سه سال آنچه بیندوختم از شاه و وزیر
+      - همه بربود به یک دم فلک چوگانی
+    - - دوش در خواب چنان دید خیالم که سحر
+      - گذر افتاد بر اصطبل شهم پنهانی
+    - - بسته بر آخور او استر من جو می‌خورد
+      - تیزه افشاند به من گفت مرا می‌دانی
+    - - هیچ تعبیر نمی‌دانمش این خواب که چیست
+      - تو بفرمای که در فهم نداری ثانی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 32
+    url: https://ganjoor.net/hafez/ghete/sh32
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 32
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

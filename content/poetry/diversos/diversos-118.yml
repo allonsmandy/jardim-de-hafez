@@ -1,0 +1,36 @@
+id: diversos-118
+category: diversos
+number: 118
+firstLine:
+  fa: اگر ز کوی تو بویی به من رساند باد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر ز کوی تو بویی به من رساند باد
+      - به مژده جان و جهان را به باد خواهم داد
+    - - اگر چه گرد برانگیختی ز هستی من
+      - غباری از من خاکی به دامنت مرساد
+    - - چو در به روی من ای نور دیده در بستی
+      - دگر جهان در شادی به روی من نگشاد
+    - - خیال روی توام دیده می‌کند پُر خون
+      - هوای زلف توام عمر می‌دهد بر باد
+    - - نه در برابر چشمی نه غایب از نظرم
+      - نه یاد می‌کنی از من، نه می‌روی از یاد
+    - - به جای طعنه اگر تیغ می‌زند دشمن
+      - ز دوست دست نداریم، هر چه باداباد
+    - - ز دست عشق تو عبدالمجید جان نبرد
+      - که جان ز محنت شیرین نمی‌برد فرهاد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 118
+    url: https://ganjoor.net/hafez/montasab/sh118
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 118
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

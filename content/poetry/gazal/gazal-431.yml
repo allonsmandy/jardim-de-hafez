@@ -1,0 +1,40 @@
+id: gazal-431
+category: gazal
+number: 431
+firstLine:
+  fa: لبش می‌بوسم و در می‌کشم می
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - لبش می‌بوسم و در می‌کشم می
+      - به آب زندگانی برده‌ام پی
+    - - نه رازش می‌توانم گفت با کس
+      - نه کس را می‌توانم دید با وی
+    - - لبش می‌بوسد و خون می‌خورد جام
+      - رخش می‌بیند و گل می‌کند خوی
+    - - بده جام می و از جم مکن یاد
+      - که می‌داند که جم کی بود و کی کی؟
+    - - بزن در پرده چنگ ای ماه مطرب!
+      - رگش بخراش تا بخروشم از وی
+    - - گل از خلوت به باغ آورد مسند
+      - بساط زهد همچون غنچه کن طی
+    - - چو چشمش مست را مخمور مگذار
+      - به یاد لعلش ای ساقی بده می
+    - - نجوید جان از آن قالب جدایی
+      - که باشد خونِ جامش در رگ و پی
+    - - زبانت درکِش ای حافظ زمانی
+      - حدیث بی‌زبانان بشنو از نی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 431
+    url: https://ganjoor.net/hafez/ghazal/sh431
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 431
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

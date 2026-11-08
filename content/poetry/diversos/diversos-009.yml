@@ -1,0 +1,36 @@
+id: diversos-009
+category: diversos
+number: 9
+firstLine:
+  fa: در هر هوا که جز برق اندر طلب نباشد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در هر هوا که جز برق اندر طلب نباشد
+      - گر خرمنی بسوزد چندان عجب نباشد
+    - - مرغی که با غم دل شد الفتیش حاصل
+      - بر شاخسار عمرش برگ طرب نباشد
+    - - در کارخانهٔ عشق ازکفر ناگزیر است
+      - آتش که را بسوزد گر بولهب نباشد
+    - - در کیش جان‌فروشان فضل و شرف به رندیست
+      - اینجا نسب نگنجد آنجا حسب نباشد
+    - - در محفلی که خورشید اندر شمار ذره‌ست
+      - خود را بزرگ دیدن شرط ادب نباشد
+    - - می خور که عمر سرمد گر درجهان توان یافت
+      - جز بادهٔ بهشتی هیچش سبب نباشد
+    - - حافظ وصال جانان با چون تو تنگدستی
+      - روزی شود که با آن پیوند شب نباشد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 9
+    url: https://ganjoor.net/hafez/montasab/sh9
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 9
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

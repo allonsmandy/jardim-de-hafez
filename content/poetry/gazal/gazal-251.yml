@@ -1,0 +1,34 @@
+id: gazal-251
+category: gazal
+number: 251
+firstLine:
+  fa: شبِ وصل است و طی شد نامهٔ هَجر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شبِ وصل است و طی شد نامهٔ هَجر
+      - «سلامٌ فیهِ حَتّی مَطْلَعِ الفَجْر»
+    - - دلا در عاشقی ثابت‌قدم باش
+      - که در این رَه نباشد کار بی‌اجر
+    - - من از رندی نخواهم کرد توبه
+      - و لو آذَیْتَني بِالْهَجرِ و الْحَجر
+    - - برآی ای صبحِ روشن‌دل خدا را
+      - که بس تاریک می‌بینم شبِ هَجر
+    - - دلم رفت و ندیدم رویِ دل‌دار
+      - فَغان از این تَطاول، آه از این زَجر
+    - - وفا خواهی، جفاکَش باش حافظ
+      - فَاِنَّ الرِّبْحَ و الْخُسرانَ فِي التَّجْر
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 251
+    url: https://ganjoor.net/hafez/ghazal/sh251
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 251
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,38 @@
+id: gazal-190
+category: gazal
+number: 190
+firstLine:
+  fa: کِلْکِ مُشْکینِ تو، روزی که زِ ما یاد کُنَد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - کِلْکِ مُشْکینِ تو، روزی که زِ ما یاد کُنَد
+      - بِبَرَد اَجْرِ دو صَد بَنْدِه کِه آزاد کُنَد
+    - - قاصِدِ مَنْزِلِ سَلْمیٰ که سَلامَت بادَش
+      - چِه شَوَد، گَر بِه سَلامی، دِلِ ما، شاد کُنَد؟
+    - - اِمْتِحان کُن! کِه بَسی گَنْجِ مُرادَت بِدَهَنْد
+      - گَر خَرابی چو مَرا، لُطْفِ تو، آباد کُنَد
+    - - یا رَب! اَنْدَر دِلِ آن خُسْروِ شیرین اَنْداز
+      - کِه بِه رَحْمَت، گُذَری بَر سَرِ فَرْهاد کُنَد!
+    - - شاه را بِهْ بُوَد اَز طاعَتِ صَدسالِه و زُهْد
+      - قَدْرِ یک ساعَتِه عُمْری کِه دَر او، داد کُنَد
+    - - حالیا، عِشْوِهٔ نازِ تو، زِ بُنْیادَم بُرْد
+      - تا دِگَربارِه، حَکیمانِه، چِه بُنْیاد کُنَد
+    - - گوهَرِ پاکِ تو از مِدْحَتِ ما مُسْتَغْنی‌ست
+      - فِکْرِ مَشّاطِه، چِه با حُسْنِ خُداداد کُنَد؟
+    - - رَه نَبُرْدیم بِه مَقْصودِ خود اَنْدَر شیراز
+      - خُرَّم آن روز که «حافِظ»، رَهِ بَغْداد کُنَد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 190
+    url: https://ganjoor.net/hafez/ghazal/sh190
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 190
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

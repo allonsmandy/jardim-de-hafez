@@ -1,0 +1,28 @@
+id: qete-027
+category: qete
+number: 27
+firstLine:
+  fa: به گوش جان رهی منهیی ندا در داد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به گوش جان رهی منهیی ندا در داد
+      - ز حضرت احدی لا اله الّا الله
+    - - که ای عزیز! کسی را که خواری‌ست نصیب
+      - حقیقت آن که نیابد به زور منصب و جاه
+    - - به آب زمزم و کوثر سفید نتوان کرد
+      - گلیم بخت کسی را که بافتند سیاه
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 27
+    url: https://ganjoor.net/hafez/ghete/sh27
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 27
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

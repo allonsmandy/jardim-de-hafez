@@ -1,0 +1,40 @@
+id: diversos-006
+category: diversos
+number: 6
+firstLine:
+  fa: صراحی دگر بارم از دست برد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صراحی دگر بارم از دست برد
+      - به من باز بنمود می دستبرد
+    - - هزار آفرین بر می سرخ باد
+      - که از روی ما رنگ زردی ببرد
+    - - بنازیم دستی که انگور چید
+      - مریزاد پایی که در هم فشرد
+    - - برو زاهدا خورده بر ما مگیر
+      - که کار خدایی نه کاریست خرد
+    - - مرا از ازل عشق شد سرنوشت
+      - قضای نوشته نشاید سترد
+    - - مزن دم ز حکمت که در وقت مرگ
+      - ارسطو دهد جان، چو بیچاره کرد
+    - - مکش رنج بیهوده خرسند باش
+      - قناعت کن ار نیست اطلس چو برد
+    - - چنان زندگانی کن اندر جهان
+      - که چون مرده باشی نگویند مرد
+    - - شود مست وحدت زجام الست
+      - هر آن کـ‌او چو حافظ می صاف خورد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 6
+    url: https://ganjoor.net/hafez/montasab/sh6
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 6
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

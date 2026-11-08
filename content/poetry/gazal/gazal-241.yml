@@ -1,0 +1,36 @@
+id: gazal-241
+category: gazal
+number: 241
+firstLine:
+  fa: معاشران ز حریفِ شبانه یاد آرید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - معاشران ز حریفِ شبانه یاد آرید
+      - حقوقِ بندگیِ مخلصانه یاد آرید
+    - - به وقتِ سرخوشی از آه و ناله عُشّاق
+      - به صوت و نغمهٔ چنگ و چَغانه یاد آرید
+    - - چو لطفِ باده کُنَد جلوه در رخِ ساقی
+      - ز عاشقان به سرود و ترانه یاد آرید
+    - - چو در میانِ مراد آورید دستِ امید
+      - ز عهدِ صحبت ما در میانه یاد آرید
+    - - سمندِ دولت اگر چند سرکشیده رَوَد
+      - ز همرهان به سرِ تازیانه یاد آرید
+    - - نمی‌خورید زمانی غمِ وفاداران
+      - ز بی‌وفاییِ دورِ زمانه یاد آرید
+    - - به وَجهِ مرحمت ای ساکنانِ صدرِ جلال
+      - ز رویِ حافظ و این آستانه یاد آرید
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 241
+    url: https://ganjoor.net/hafez/ghazal/sh241
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 241
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

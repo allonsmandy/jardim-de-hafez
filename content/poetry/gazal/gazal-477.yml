@@ -1,0 +1,40 @@
+id: gazal-477
+category: gazal
+number: 477
+firstLine:
+  fa: دو یار زیرک و از بادهٔ کهن دو منی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دو یار زیرک و از بادهٔ کهن دو منی
+      - فراغتی و کتابی و گوشهٔ چمنی
+    - - من این مقام به دنیا و آخرت ندهم
+      - اگر چه در پِی‌ام افتند هر دم انجمنی
+    - - هر آن که کنج قناعت به گنج دنیا داد
+      - فروخت یوسف مصری به کمترین ثمنی
+    - - بیا که رونق این کارخانه کم نشود
+      - به زهدِ همچو تویی، یا به فسق همچو منی
+    - - ز تندباد حوادث نمی‌توان دیدن
+      - در این چمن که گلی بوده است یا سَمنی
+    - - ببین در آینهٔ جام، نقش‌بندیِ غیب
+      - که کس به یاد ندارد چنین عجب زَمنی
+    - - از این سَموم که بر طَرْف بوستان بگذشت
+      - عجب که بوی گلی هست و رنگ نسترنی
+    - - به صبر کوش تو ای دل که حق رها نکند
+      - چنین عزیز نگینی به دست اهرمنی
+    - - مزاجِ دَهر تَبَه شد در این بلا حافظ
+      - کجاست فکر حکیمی و رای برهمنی؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 477
+    url: https://ganjoor.net/hafez/ghazal/sh477
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 477
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

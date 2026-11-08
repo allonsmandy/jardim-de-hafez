@@ -1,0 +1,40 @@
+id: gazal-230
+category: gazal
+number: 230
+firstLine:
+  fa: اگر به بادهٔ مُشکین دلم کشد، شاید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر به بادهٔ مُشکین دلم کشد، شاید
+      - که بویِ خیر ز زهدِ ریا نمی‌آید
+    - - جهانیان همه گر منعِ من کنند از عشق
+      - من آن کنم که خداوندگار فرماید
+    - - طمع ز فیضِ کرامت مَبُر که خُلقِ کریم
+      - گنه ببخشد و بر عاشقان بِبَخشاید
+    - - مقیمِ حلقهٔ ذکر است دل بدان امّید
+      - که حلقه‌ای ز سرِ زلفِ یار بگشاید
+    - - تو را که حُسنِ خداداده هست و حجلهٔ بخت
+      - چه حاجت است که مَشّاطِه‌ات بیاراید
+    - - چمن خوش است و هوا دلکَش است و مِی بی‌غَش
+      - کنون به جز دلِ خوش هیچ در نمی‌باید
+    - - جمیله‌ایست عروسِ جهان، ولی هُش دار
+      - که این مُخَدَّره در عقدِ کس نمی‌آید
+    - - به لابه گفتمش ای ماهرُخ چه باشد اگر
+      - به یک شِکَر ز تو دلخسته‌ای بیاساید
+    - - به خنده گفت که حافظ خدای را مَپسَند
+      - که بوسهٔ تو رخِ ماه را بیالاید
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 230
+    url: https://ganjoor.net/hafez/ghazal/sh230
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 230
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

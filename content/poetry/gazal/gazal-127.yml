@@ -1,0 +1,42 @@
+id: gazal-127
+category: gazal
+number: 127
+firstLine:
+  fa: روشنیِ طلعتِ تو ماه ندارد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - روشنیِ طلعتِ تو ماه ندارد
+      - پیشِ تو گُل، رونقِ گیاه ندارد
+    - - گوشهٔ ابرویِ توست منزلِ جانم
+      - خوشتر از این گوشه، پادْشاه ندارد
+    - - تا چه کُنَد با رخِ تو دودِ دلِ من
+      - آینه دانی که تابِ آه ندارد
+    - - شوخیِ نرگس نگر که پیشِ تو بشکفت
+      - چشمْ دریده، ادب نگاه ندارد
+    - - دیدم و آن چشمِ دلْ‌سیه که تو داری
+      - جانبِ هیچ آشنا نگاه ندارد
+    - - رَطلِ گرانم ده ای مریدِ خرابات
+      - شادیِ شیخی که خانقاه ندارد
+    - - خون خور و خامُش نشین که آن دلِ نازک
+      - طاقتِ فریاد دادخواه ندارد
+    - - گو برو و آستین به خونِ جگر شوی
+      - هر که در این آستانه راه ندارد
+    - - نی منِ تنها کشم تَطاولِ زلفت
+      - کیست که او داغِ آن سیاه ندارد؟
+    - - حافظ اگر سجدهٔ تو کرد مکن عیب
+      - کافرِ عشق ای صنم گناه ندارد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 127
+    url: https://ganjoor.net/hafez/ghazal/sh127
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 127
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

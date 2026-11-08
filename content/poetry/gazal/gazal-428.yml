@@ -1,0 +1,42 @@
+id: gazal-428
+category: gazal
+number: 428
+firstLine:
+  fa: سحرگاهان، که مخمورِ شبانه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سحرگاهان، که مخمورِ شبانه
+      - گرفتم باده با چنگ و چَغانه
+    - - نهادم عقل را ره ‌توشه از مِی،
+      - زِ شهرِ هستی‌اش کردم روانه
+    - - نگارِ مِی‌فروشم عشوه‌ای داد،
+      - که ایمن گشتمَ از مکرِ زمانه
+    - - زِ ساقیِ کمان ‌ابرو شنیدم؛
+      - که ای تیرِ ملامت را نشانه!
+    - - نبندی زان میان طرفی، کمروار،
+      - اگر خود را ببینی در میانه
+    - - برو، این دام بر مرغی دگر نِه
+      - که عَنقا را بلند است آشیانه!
+    - - کِه بَندد طرفِ وصل ازْ حُسنِ شاهی؟
+      - کِه با خود عشق بازد جاودانه‌؟
+    - - ندیم و مطرب و ساقی، همه اوست؛
+      - خیالِ آب و گل در رَه، بهانه
+    - - بِده کشتیِ مِی تا خوش برانیم،
+      - از این دریایِ ناپیداکرانه
+    - - وجودِ ما معمایی‌ست، حافظ؛
+      - که تحقیقش، فُسون است و فِسانه
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 428
+    url: https://ganjoor.net/hafez/ghazal/sh428
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 428
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

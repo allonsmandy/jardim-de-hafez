@@ -1,0 +1,40 @@
+id: gazal-309
+category: gazal
+number: 309
+firstLine:
+  fa: عشقبازیّ و جوانیّ و شرابِ لَعلْ‌فام
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عشقبازیّ و جوانیّ و شرابِ لَعلْ‌فام
+      - مجلسِ اُنس و حریفِ همدم و شُربِ مدام
+    - - ساقیِ شِکَّردهان و مُطربِ شیرین‌سخن
+      - همنشینی نیک‌کردار و ندیمی نیک‌نام
+    - - شاهدی از لطف و پاکی رَشکِ آبِ زندگی
+      - دلبری در حُسن و خوبی غیرتِ ماهِ تمام
+    - - بَزم‌گاهی دل‌نِشان، چون قصرِ فردوسِ بَرین
+      - گلشنی پیرامُنَش چون روضهٔ دارُالسَّلام
+    - - صف‌نشینان نیک‌خواه و پیشکاران باادب
+      - دوست‌داران صاحب‌اسرار و حریفان دوست‌کام
+    - - بادهٔ گلرنگِ تلخِ تیزِ خوش‌خوارِ سَبُک
+      - نُقلَش از لَعلِ نگار و نَقلَش از یاقوتِ خام
+    - - غمزهٔ ساقی به یَغمایِ خِرَد آهِخته تیغ
+      - زلفِ جانان از برایِ صیدِ دل گسترده‌دام
+    - - نکته‌دانی بَذله‌گو چون حافظِ شیرین‌‌سخن
+      - بخشش‌آموزی جهان‌افروز چون حاجی قوام
+    - - هر که این عِشرت نخواهد خوش‌دلی بر وی تباه
+      - وان که این مجلس نجوید زندگی بر وی حرام
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 309
+    url: https://ganjoor.net/hafez/ghazal/sh309
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 309
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

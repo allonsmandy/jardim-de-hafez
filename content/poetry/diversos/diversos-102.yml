@@ -1,0 +1,26 @@
+id: diversos-102
+category: diversos
+number: 102
+firstLine:
+  fa: عشق آتش غم در دل ویرانه نهاد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عشق آتش غم در دل ویرانه نهاد
+      - زنجیر بلا بر من دیوانه نهاد
+    - - بر من نگذشت هیچ نیکی و بدی
+      - تا پای مبارک اندر آن خانه نهاد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 102
+    url: https://ganjoor.net/hafez/montasab/sh102
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 102
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

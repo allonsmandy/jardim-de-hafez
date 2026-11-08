@@ -1,0 +1,26 @@
+id: rubai-038
+category: rubai
+number: 38
+firstLine:
+  fa: آن جام طرب شکار بر دستم نه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن جام طرب شکار بر دستم نه
+      - وان ساغر چون نگار بر دستم نه
+    - - آن می که چو زنجیر بپیچد بر خود
+      - دیوانه شدم بیار بر دستم نه
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 38
+    url: https://ganjoor.net/hafez/robaee2/sh38
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 38
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

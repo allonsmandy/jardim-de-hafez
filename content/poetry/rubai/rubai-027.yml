@@ -1,0 +1,26 @@
+id: rubai-027
+category: rubai
+number: 27
+firstLine:
+  fa: در باغ چو شد باد صبا دایهٔ گل
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در باغ چو شد باد صبا دایهٔ گل
+      - بربست مشاطه‌وار پیرایهٔ گل
+    - - از سایه به خورشید اگرت هست امان
+      - خورشیدرُخی طلب کن و سایهٔ گل
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 27
+    url: https://ganjoor.net/hafez/robaee2/sh27
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 27
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

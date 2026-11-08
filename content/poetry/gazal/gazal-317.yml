@@ -1,0 +1,40 @@
+id: gazal-317
+category: gazal
+number: 317
+firstLine:
+  fa: فاش می‌گویم و از گفتهٔ خود دلشادَم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - فاش می‌گویم و از گفتهٔ خود دلشادَم
+      - بندهٔ عشقم و از هر دو جهان آزادم
+    - - طایرِ گلشنِ قُدسم چه دَهَم شَرحِ فِراق؟
+      - که در این دامگَهِ حادثه چون اُفتادم
+    - - من مَلَک بودم و فردوسِ بَرین جایَم بود
+      - آدَم آوَرد دَر این دِیرِ خَراب‌آبادَم
+    - - سایهٔ طوبی و دلجوییِ حور و لبِ حوض
+      - به هوایِ سَرِ کویِ تو بِرَفت از یادم
+    - - نیست بر لوحِ دِلَم جُز اَلفِ قامَتِ دوست
+      - چه کُنَم حَرفِ دِگَر یاد نداد اُستادم
+    - - کوکَبِ بَختِ مَرا هیچ مُنَجِّم نَشِناخت
+      - یا رَب از مادرِ گیتی به چه طالع زادم؟
+    - - تا شُدم حَلقه به گوشِ دَرِ میخانهٔ عشق
+      - هَر دَم آیَد غَمی اَز نو به مُبارَکبادَم
+    - - می‌خورَد خونِ دِلَم مَردُمکِ دیده، سِزاست
+      - که چرا دِل به جِگرگوشهٔ مَردُم دادَم
+    - - پاک کن چهرهٔ حافظ به سَرِ زُلف زِ اَشک
+      - وَر نَه این سیلِ دَمادَم بِبَرَد بُنیادَم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 317
+    url: https://ganjoor.net/hafez/ghazal/sh317
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 317
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

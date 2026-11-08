@@ -1,0 +1,26 @@
+id: diversos-095
+category: diversos
+number: 95
+firstLine:
+  fa: نام بت من که مه ز رویش خجل است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نام بت من که مه ز رویش خجل است
+      - ده حرف ز نظم حافظ مرتحل است
+    - - اول ششم هجی و قلبش روشن
+      - لیکن عجب آن که جمله اجزاش دل است
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 95
+    url: https://ganjoor.net/hafez/montasab/sh95
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 95
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

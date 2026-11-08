@@ -1,0 +1,30 @@
+id: diversos-062
+category: diversos
+number: 62
+firstLine:
+  fa: درین وادی به بانگ سیل بشنو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - درین وادی به بانگ سیل بشنو
+      - که صد من خون مظلومان به یک جو
+    - - پر جبریل را اینجا بسوزند
+      - بدان تا کودکان آتش فروزند
+    - - سخن گفتن که‌را یاراست اینجا؟
+      - تعالی اله چه استغناست اینجا
+    - - برو حافظ درین معرض مزن دم
+      - سخن کوتاه کن والله اعلم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 62
+    url: https://ganjoor.net/hafez/montasab/sh62
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 62
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

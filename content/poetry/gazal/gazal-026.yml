@@ -1,0 +1,36 @@
+id: gazal-026
+category: gazal
+number: 26
+firstLine:
+  fa: زلف‌آشفته و خِوی‌کرده و خندان‌لب و مست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - زلف‌آشفته و خِوی‌کرده و خندان‌لب و مست
+      - پیرهن‌چاک و غزل‌خوان و صُراحی در دست
+    - - نرگسش عَربده‌جوی و لبش افسوس‌کنان
+      - نیم شب، دوش به بالین من آمد، بنشست
+    - - سر فرا گوش من آورد به آوازِ حزین
+      - 'گفت: ای عاشقِ دیرینهٔ من، خوابت هست؟'
+    - - عاشقی را که چنین بادهٔ شبگیر دهند
+      - کافر عشق بُوَد گر نشود باده پرست
+    - - برو ای زاهد و بر دُردکشان خرده مگیر
+      - که ندادند جز این تُحفه به ما روزِ الست
+    - - آن چه او ریخت به پیمانهٔ ما نوشیدیم
+      - اگر از خَمرِ بهشت است وگر بادهٔ مست
+    - - خندهٔ جامِ می و زلفِ گره‌گیرِ نگار
+      - ای بسا توبه که چون توبهٔ حافظ بشکست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 26
+    url: https://ganjoor.net/hafez/ghazal/sh26
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 26
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

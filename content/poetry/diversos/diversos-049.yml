@@ -1,0 +1,26 @@
+id: diversos-049
+category: diversos
+number: 49
+firstLine:
+  fa: روزی که فلک از تو بریده‌ست مرا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - روزی که فلک از تو بریده‌ست مرا
+      - کس با لب پر خنده ندیده‌ست مرا
+    - - چندان غم هجران تو بر دل دارم
+      - من دانم و آن که آفریده‌ست مرا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 49
+    url: https://ganjoor.net/hafez/montasab/sh49
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 49
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

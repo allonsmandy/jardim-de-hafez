@@ -1,0 +1,42 @@
+id: gazal-022
+category: gazal
+number: 22
+firstLine:
+  fa: چو بشنوی سخنِ اهلِ دل، مگو که خطاست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چو بشنوی سخنِ اهلِ دل، مگو که خطاست
+      - سخن‌شناس نه‌ای، جان من! خطا این جاست
+    - - سرم به دنیی و عقبی فرو نمی‌آید
+      - تبارک الله ازین فتنه‌ها که در سرِ ماست
+    - - در اندرونِ منِ خسته‌دل ندانم کیست!
+      - که من خموشم و او در فغان و در غوغاست
+    - - دلم ز پرده برون شد، کجایی ای مطرب؟
+      - بنال، هان که از این پرده، کارِ ما به نواست
+    - - مرا به کارِ جهان هرگز التفات نبود
+      - رخِ تو در نظرِ من چنین خوشش آراست
+    - - نخفته‌ام ز خیالی که می‌پزد دلِ من
+      - خمارِ صد شبه دارم شراب‌خانه کجاست؟
+    - - چنین که صومعه آلوده شد ز خونِ دلم
+      - گَرَم به باده بشویید، حق به دستِ شماست
+    - - از آن به دیرِ مغانم عزیز می‌دارند
+      - که آتشی که نمیرد، همیشه در دلِ ماست
+    - - چه ساز بود که در پرده می‌زد آن مطرب
+      - که رفت عمر و هنوزم دماغ پُر ز هواست
+    - - ندای عشق تو دیشب در اندرون دادند
+      - فضایِ سینهٔ حافظ هنوز پر ز صداست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 22
+    url: https://ganjoor.net/hafez/ghazal/sh22
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 22
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,40 @@
+id: gazal-413
+category: gazal
+number: 413
+firstLine:
+  fa: خط عذار یار که بگرفت ماه از او
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خط عذار یار که بگرفت ماه از او
+      - خوش حلقه‌ای‌ست لیک به دَر نیست راه از او
+    - - ابروی دوست گوشهٔ محراب دولت است
+      - آن جا بمال چهره و حاجت بخواه از او
+    - - ای جرعه‌نوش مجلس جم! سینه پاک دار
+      - کآیینه‌ای‌ست جام جهان‌بین که آه از او
+    - - کردار اهل صومعه‌ام کرد مِی‌پرست
+      - این دود بین که نامهٔ من شد سیاه از او
+    - - سلطان غم هر آن چه تواند بگو بکن
+      - من بُرده‌ام به باده‌فروشان پناه از او
+    - - ساقی چراغ می به ره آفتاب دار
+      - گو بر فروز مشعلهٔ صبحگاه از او
+    - - آبی به روزنامهٔ اعمال ما فشان
+      - باشد توان سترد حروف گناه از او
+    - - حافظ که ساز مطرب عشاق ساز کرد
+      - خالی مباد عرصهٔ این بزمگاه از او
+    - - آیا در این خیال که دارد گدای شهر
+      - روزی بود که یاد کند پادشاه از او؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 413
+    url: https://ganjoor.net/hafez/ghazal/sh413
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 413
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

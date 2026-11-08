@@ -1,0 +1,30 @@
+id: qete-004
+category: qete
+number: 4
+firstLine:
+  fa: بهاء الحق و الدین طاب مثواه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بهاء الحق و الدین طاب مثواه
+      - امام سنت و شیخ جماعت
+    - - چو می‌رفت از جهان این بیت می‌خواند
+      - بر اهل فضل و ارباب براعت
+    - - به طاعت قرب ایزد می‌توان یافت
+      - قدم در نه گرت هست استطاعت
+    - - بدین دستور تاریخ وفاتش
+      - برون آر از حروف قرب طاعت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 4
+    url: https://ganjoor.net/hafez/ghete/sh4
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 4
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

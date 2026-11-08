@@ -1,0 +1,38 @@
+id: gazal-495
+category: gazal
+number: 495
+firstLine:
+  fa: مِی خواه و گُل‌افشان کن، از دَهر چه می‌جویی؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مِی خواه و گُل‌افشان کن، از دَهر چه می‌جویی؟
+      - این گفت سحرگه گُل «بلبل! تو چه می‌گویی؟»
+    - - مسند به گلستان بَر، تا شاهد و ساقی را
+      - لب گیری و رخ بوسی، مِی نوشی و گُل بویی
+    - - شمشاد، خرامان کُن وآهنگِ گلستان کُن
+      - تا سرو بیآموزد از قدِّ تو، دل‌جویی
+    - - تا غنچهٔ خندانت، دولت به که خواهد داد
+      - ای شاخِ گُلِ رعنا! از بهرِ که می‌رویی؟
+    - - امروز که بازارت، پرجوش خریدار است
+      - دریاب و بِنه گنجی از مایهٔ نیکویی
+    - - چون شمع، نکورویی در رهگذرِ باد است
+      - طرْفِ هنری بربند از شمعِ نکورویی
+    - - آن طرِّه که هر جعدش، صد نافهٔ چین ارزد
+      - خوش بودی اگر بودی، بوییش ز خوش‌خویی
+    - - هر مُرغ به دستانی در گلشنِ شاه آمد
+      - بلبل به نواسازی، حافظ به غزل‌گویی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 495
+    url: https://ganjoor.net/hafez/ghazal/sh495
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 495
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

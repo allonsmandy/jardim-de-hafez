@@ -1,0 +1,26 @@
+id: diversos-053
+category: diversos
+number: 53
+firstLine:
+  fa: یا کار به کام دل مجروح شود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یا کار به کام دل مجروح شود
+      - یا ملک دلم بی ملک روح شود
+    - - امید من آن است به درگاه خدا
+      - کابواب سعادت همه مفتوح شود
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 53
+    url: https://ganjoor.net/hafez/montasab/sh53
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 53
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-174
+category: gazal
+number: 174
+firstLine:
+  fa: مژده ای دل که دگر بادِ صبا بازآمد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مژده ای دل که دگر بادِ صبا بازآمد
+      - هدهد خوش‌خبر از طَرْفِ سبا بازآمد
+    - - برکش ای مرغِ سحر نغمهٔ داوودی باز
+      - که سلیمانِ گل از بادِ هوا بازآمد
+    - - عارفی کو که کُنَد فَهْم زبانِ سوسن
+      - تا بپرسد که چرا رفت و چرا بازآمد
+    - - مردمی کرد و کرم لطفِ خداداد به من
+      - کـ‌آن بتِ ماه‌رخ از راهِ وفا بازآمد
+    - - لاله بویِ میِ نوشین بشنید از دمِ صبح
+      - داغ‌دل بود، به امّیدِ دوا بازآمد
+    - - چشمِ من در رهِ این قافلهٔ راه بماند
+      - تا به گوشِ دلم آوازِ دَرا بازآمد
+    - - گرچه حافظ دَرِ رَنجِش زد و پیمان بِشکست
+      - لطفِ او بین که به لطف از درِ ما بازآمد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 174
+    url: https://ganjoor.net/hafez/ghazal/sh174
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 174
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

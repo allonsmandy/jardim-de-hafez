@@ -1,0 +1,217 @@
+id: gazal-001
+category: gazal
+number: 1
+firstLine:
+  fa: اَلا یا اَیُّهَا السّاقی اَدِرْ کَأسَاً و ناوِلْها
+  pt: Ó copeiro, faz girar a taça e oferece-a
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اَلا یا اَیُّهَا السّاقی اَدِرْ کَأسَاً و ناوِلْها
+      - که عشق آسان نمود اوّل ولی افتاد مشکل‌ها
+    - - به بویِ نافه‌ای کآخِر صبا زان طُرّه بُگشاید
+      - ز تابِ جَعدِ مشکینش چه خون افتاد در دل‌ها
+    - - مرا در منزلِ جانان چه امنِ عیش، چون هر دَم
+      - جَرَس فریاد می‌دارد که بَربندید مَحمِل‌ها
+    - - به مِی سجّاده رنگین کُن گَرَت پیرِ مُغان گوید
+      - که سالِک بی‌خبر نَبْوَد ز راه و رسمِ منزل‌ها
+    - - شبِ تاریک و بیمِ موج و گِردابی چنین هایل
+      - کجا دانند حالِ ما سبک‌بارانِ ساحل‌ها؟
+    - - همهْ کارم ز خودکامی به بدنامی کشید آخر
+      - نهان کِی مانَد آن رازی کَزو سازند مَحفل‌ها؟
+    - - حضوری گر همی خواهی از او غایب مشو حافظ
+      - مَتیٰ ما تَلْقَ مَنْ تَهْویٰ دَعِ الدُّنْیا وَ اَهْمِلْها
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 1
+    url: https://ganjoor.net/hafez/ghazal/sh1
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Ó copeiro, faz girar a taça e oferece-a,
+      - pois o amor pareceu fácil no começo, mas vieram as dificuldades.
+    - - Na esperança do perfume de almíscar que a brisa enfim soltará daquela mecha,
+      - com a torção daqueles cachos negros como almíscar, quanto sangue caiu nos corações!
+    - - Que segurança tenho eu para gozar a morada do amado, se a cada instante
+      - 'o sino da caravana clama: "Amarrai as liteiras!"?'
+    - - Tinge de vinho o tapete de oração, se o velho dos magos te disser,
+      - pois o viajante do caminho não ignora a estrada e os costumes de cada pouso.
+    - - Noite escura, medo das ondas e um redemoinho tão terrível —
+      - como saberiam do nosso estado os de carga leve, nas praias?
+    - - Toda a minha vida, por seguir minha vontade, acabou na má fama;
+      - como ficaria oculto um segredo de que se fazem rodas de conversa?
+    - - 'Se desejas a presença, Hafez, não te ausentes dele:'
+      - quando encontrares quem amas, deixa o mundo e abandona-o.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 1
+themes:
+  - O amor que parecia fácil
+  - A vida passa depressa
+  - Seguir um mestre
+  - Largar tudo por amor
+introduction:
+  - 'Este é o primeiro poema do livro de Hafez — por isso é um dos mais conhecidos do Irã. Ele
+    conta, em sete pares de versos, a história de quem se apaixona: no começo tudo parece fácil,
+    depois vem o sofrimento, o medo de perder tudo, a fofoca dos outros e, no fim, uma decisão:
+    entregar-se de vez.'
+  - Hafez nunca diz se está falando de amor por uma pessoa ou de amor por Deus. Os dois sentidos
+    convivem o tempo todo, e é isso que faz o poema ser lido de jeitos diferentes por cada pessoa.
+  - 'Curiosidade: o primeiro e o último versos estão em árabe, a língua do Alcorão. Para um leitor
+    iraniano, é como se o poema abrisse e fechasse com uma oração.'
+stanzaNotes:
+  - stanza: 1
+    plain: Me dá uma bebida! Eu achava que amar seria fácil, mas só encontrei problemas.
+    meaning:
+      O poeta pede vinho ao copeiro (saqi) porque o amor, que parecia simples, revelou-se cheio
+      de obstáculos. O vinho aqui é consolo e também coragem para seguir. Na leitura mística, o saqi
+      é o mestre ou o próprio Deus que concede o êxtase, e o "amor" é o caminho espiritual, que
+      começa com entusiasmo e logo exige provações.
+    literal: '[árabe:] Eia, ó copeiro, faz circular uma taça e passa-a / [persa:] que o amor pareceu
+      fácil no início, mas caíram (surgiram) dificuldades.'
+    choices:
+      O primeiro hemistíquio está em árabe no original; traduzimos para o português, mas a nota
+      registra a mudança de língua, que no persa soa solene, quase litúrgica. Uma tradição antiga
+      diz que o verso árabe adapta uma linha atribuída ao califa omíada Yazid I — o que teria
+      escandalizado leitores xiitas —; a atribuição é discutida e muitos estudiosos a consideram
+      anedota. "Fazer girar a taça" traduz "adir", que significa fazê-la circular entre os
+      presentes.
+  - stanza: 2
+    plain:
+      Todo mundo espera sentir o perfume dos cabelos da pessoa amada — e, enquanto espera, sofre
+      muito por causa desses cabelos que prendem os corações.
+    meaning:
+      'Os amantes esperam que a brisa da manhã (saba) solte o perfume escondido nos cabelos do
+      amado; enquanto isso, os cachos retorcidos "fazem sangrar" os corações. Na poesia persa, os
+      cabelos do amado são uma armadilha: prendem os corações como laços. "Sangue no coração" é
+      expressão persa para sofrimento intenso e calado.'
+    literal:
+      Pelo (desejo do) cheiro de uma bolsa de almíscar que no fim a brisa da manhã abrirá daquela
+      mecha, / pela torção do cacho almiscarado dele(a), que sangue caiu nos corações.
+    choices:
+      '"Nafe" é a glândula do cervo-almiscareiro, de onde se tirava o almíscar, perfume caríssimo
+      no mundo medieval; traduzimos por "perfume de almíscar" para manter a imagem sem exigir nota.
+      Os cabelos são "meshkin": ao mesmo tempo negros e perfumados como almíscar — por isso "negros
+      como almíscar". Mantivemos "quanto sangue caiu nos corações" por ser imagem forte e
+      compreensível, em vez de suavizar para "quanto sofrimento".'
+  - stanza: 3
+    plain:
+      Como posso aproveitar a companhia de quem amo, se o tempo todo ouço um sino me lembrando que
+      logo vou ter que ir embora?
+    meaning: 'O poeta não consegue desfrutar a companhia do amado porque ouve, sem parar, o sino que
+      anuncia a partida da caravana. É a consciência da brevidade da vida e da morte iminente: todo
+      encontro é provisório. Na leitura espiritual, é também o chamado para seguir viagem, não se
+      acomodar em nenhuma etapa do caminho.'
+    literal: 'Para mim, na morada do amado(a), que segurança de prazer, quando a cada respiração / o
+      sino (da caravana) grita: "amarrai as liteiras!"'
+    choices:
+      '"Jaras" é o sino pendurado no pescoço do camelo-guia, tocado para dar o sinal de partida;
+      "mahmel" é a liteira sobre o camelo. Escolhemos "sino da caravana" e "liteiras" para que o
+      leitor brasileiro visualize a cena sem perder a precisão. "Har dam" (a cada respiração) virou
+      "a cada instante".'
+  - stanza: 4
+    plain:
+      'Se o seu mestre mandar fazer algo que parece errado — até derramar vinho no tapete de rezar
+      —, confie: quem já fez o caminho sabe o que está fazendo.'
+    meaning: 'Um dos versos mais provocadores do Divã: manchar de vinho o tapete de oração seria um
+      sacrilégio. Hafez diz que, se o mestre verdadeiro (o "velho dos magos") mandar, obedeça —
+      porque o guia experiente sabe o que cada etapa exige, mesmo quando contraria a regra exterior.
+      É uma crítica à religiosidade de fachada e uma afirmação da obediência ao mestre espiritual,
+      central no sufismo.'
+    literal: Com vinho torna colorido o tapete de oração, se o velho dos magos te disser, / pois o
+      viajante não é ignorante do caminho e do costume das paradas.
+    choices: '"Pir-e moghan" foi traduzido como "velho dos magos" (forma consagrada em traduções
+      portuguesas e espanholas) e explicado no glossário: o dono da taverna zoroastriana, que Hafez
+      transforma em mestre. "Salek" (o que percorre o caminho, termo técnico sufi) virou "o viajante
+      do caminho". "Manzel" são as paradas da caravana e também as "estações" espirituais — por isso
+      "pouso", que guarda o sentido de etapa de viagem.'
+  - stanza: 5
+    plain: Estou num barco, à noite, no meio de uma tempestade. Quem está tranquilo na praia não tem
+      como entender o meu desespero.
+    meaning:
+      O amante se vê em pleno mar à noite, entre ondas e um redemoinho; quem está na praia, sem
+      peso nenhum, não pode compreender esse perigo. É a solidão de quem vive uma experiência
+      extrema (de amor ou de busca espiritual) diante dos que observam de fora, em segurança, e
+      julgam.
+    literal: Noite escura e medo da onda e um redemoinho tão terrível — / onde (como) conhecem nosso
+      estado os leves de carga das margens?
+    choices:
+      '"Sabok-baran-e sahel-ha" — literalmente "os de carga leve das praias" — é uma das imagens
+      mais citadas do poema. Mantivemos o literal "os de carga leve, nas praias", porque a ideia de
+      "carga" (responsabilidade, sofrimento, pecado) se perderia em "os despreocupados". "Como
+      saberiam" traduz o "kojā" (onde?) retórico, que em persa equivale a "de modo algum".'
+  - stanza: 6
+    plain:
+      'Por fazer o que eu queria, acabei com fama ruim. E não adianta esconder: meu amor já virou
+      assunto em todo lugar.'
+    meaning:
+      'O poeta admite que, seguindo seus desejos, ganhou má reputação. Mas o "segredo" (o amor)
+      já é assunto de todas as rodas — não há como escondê-lo. A má fama, em Hafez, é muitas vezes
+      motivo de orgulho: é o preço de ser sincero num mundo de aparências (ver "rend" no
+      glossário).'
+    literal:
+      Todo o meu trabalho, por vontade própria, à má fama arrastou no fim; / oculto quando ficará
+      aquele segredo do qual fazem assembleias?
+    choices: '"Khod-kami" pode ser lido como "egoísmo" (sentido moral negativo) ou como "seguir a
+      própria vontade/desejo"; escolhemos a segunda leitura, mais aberta. "Mahfel" é assembleia,
+      reunião social e também sessão de música e poesia; "rodas de conversa" preserva a ideia de que
+      o segredo virou assunto público.'
+  - stanza: 7
+    plain:
+      Hafez, se você quer estar perto de quem ama, não se afaste nem por um instante. Encontrou?
+      Então esqueça o resto do mundo.
+    meaning:
+      'No dístico final, com sua assinatura, o poeta fala consigo mesmo: se queres "presença" —
+      estar junto do amado, e, no vocabulário sufi, a "presença do coração" diante de Deus —, não te
+      afastes dele nem por um instante. Ao encontrá-lo, abandona o mundo. O poema que começou com a
+      dificuldade do amor termina com a solução: entrega total.'
+    literal: Presença, se queres sempre, dele(a) não fiques ausente, Hafez; / [árabe:] quando
+      encontrares aquele que desejas, deixa o mundo e negligencia-o.
+    choices: '"Hozur" (presença) é palavra técnica do sufismo e também palavra comum; "a presença"
+      mantém as duas. O segundo hemistíquio volta ao árabe, fechando a moldura aberta no primeiro
+      verso — algo que só a nota pode mostrar. "Dele" traduz o pronome persa "u", sem gênero;
+      poderia ser "dela".'
+glossary:
+  - gazel
+  - saqi
+  - vinho
+  - saba
+  - pir-e-moghan
+  - sufi
+  - takhallos
+  - amado
+  - divan
+  - arabe
+  - almiscar
+  - alcorao
+culturalNotes:
+  - title: Por que este poema abre o Divã
+    body: Nos manuscritos e na edição Qazvini-Ghani, os gazéis estão em ordem alfabética pela letra
+      final da rima. Este gazel rima em "alef" (a primeira letra), por isso vem primeiro — não por
+      escolha temática de Hafez, que não organizou o Divã em vida.
+    sources:
+      - source: qazvini-ghani
+  - title: Árabe e persa no mesmo poema
+    body: Misturar versos árabes ao persa (molamma') era um recurso de virtuosismo. Para um leitor
+      iraniano, o árabe soa como a língua do sagrado e da erudição; Hafez o usa para emoldurar um
+      poema sobre vinho e amor, numa mistura de solenidade e ousadia.
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

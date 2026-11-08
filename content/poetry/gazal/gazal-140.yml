@@ -1,0 +1,34 @@
+id: gazal-140
+category: gazal
+number: 140
+firstLine:
+  fa: دلبر بِرَفت و دلشدگان را خبر نکرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دلبر بِرَفت و دلشدگان را خبر نکرد
+      - یادِ حریفِ شهر و رفیقِ سفر نکرد
+    - - یا بختِ من طریقِ مروت فروگذاشت
+      - یا او به شاهراهِ طریقت گذر نکرد
+    - - گفتم مگر به گریه دلش مهربان کنم
+      - چون سخت بود در دلِ سنگش اثر نکرد
+    - - شوخی مکن که مرغِ دلِ بی‌قرارِ من
+      - سودایِ دامِ عاشقی از سر به درنکرد
+    - - هر کس که دید رویِ تو بوسید چشمِ من
+      - کاری که کرد دیدهٔ من، بی‌نظر نکرد
+    - - من ایستاده تا کُنَمَش جان فدا چو شمع
+      - او خود گذر به ما چو نسیمِ سحر نکرد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 140
+    url: https://ganjoor.net/hafez/ghazal/sh140
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 140
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

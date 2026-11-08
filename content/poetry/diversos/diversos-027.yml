@@ -1,0 +1,32 @@
+id: diversos-027
+category: diversos
+number: 27
+firstLine:
+  fa: نور خدا نمایدت آینهٔ مجردی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نور خدا نمایدت آینهٔ مجردی
+      - از در ما در آ اگر طالب عشق سرمدی
+    - - باده بده که دوزخ ار نام گناه ما برد
+      - آب زند بر آتشش معجزهٔ محمدی
+    - - شعبده باز می کنی هر دم و نیست این روا
+      - قال رسول ربنا ما انا قط من ددی
+    - - گر تو بدین جمال و فر، سوی چمن کنی گذر
+      - سوسن و سرو و گل به تو جمله شوند مقتدی
+    - - مرغ دل تو حافظا بستهٔ دام آرزوست
+      - ای متعلق خجل دم مزن از مجردی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 27
+    url: https://ganjoor.net/hafez/montasab/sh27
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 27
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

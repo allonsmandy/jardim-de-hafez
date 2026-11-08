@@ -1,0 +1,40 @@
+id: diversos-014
+category: diversos
+number: 14
+firstLine:
+  fa: جانا تو را که گفت که احوال ما مپرس
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جانا تو را که گفت که احوال ما مپرس
+      - بیگانه گرد و قصهٔ هیچ آشنا مپرس
+    - - ز آنجا که لطف شامل و خلق کریم توست
+      - جرم نکرده عفو کن و ماجرا مپرس
+    - - خواهی که روشنت شود اسرار درد عشق
+      - از شمع پرس قصه ز باد هوا مپرس
+    - - من ذوق سوز عشق تو دانم نه مدعی
+      - آنکس که با تو گفت که درویش را مپرس
+    - - هیچ آگهی ز عالم درویشیش نبود
+      - آن کس که با تو گفت که درویش را مپرس
+    - - از دلق‌پوش صومعه نقد طلب مجوی
+      - یعنی ز مفلسان سخن کیمیا مپرس
+    - - در دفتر طبیب خرد باب عشق نیست
+      - ای دل به درد خو کن و نام دوا مپرس
+    - - ما قصهٔ سکندر و دارا نخوانده‌ایم
+      - از ما به جز حکایت مهر و وفا مپرس
+    - - حافظ رسید موسم گل معرفت مگوی
+      - دریاب نقد وقت و ز چون و چرا مپرس
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 14
+    url: https://ganjoor.net/hafez/montasab/sh14
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 14
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

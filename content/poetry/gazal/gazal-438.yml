@@ -1,0 +1,38 @@
+id: gazal-438
+category: gazal
+number: 438
+firstLine:
+  fa: سَبَتْ سَلْمیٰ بِصُدْغَیها فُؤادي
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سَبَتْ سَلْمیٰ بِصُدْغَیها فُؤادي
+      - و رُوحي کُلَّ یَومٍ لي یُنادي
+    - - نگارا بر من بی‌دل ببخشای
+      - و واصِلْني علی رَغْمِ الْأَعادي
+    - - حبیبا در غم سودای عشقت
+      - تَوَکَّلْنا علی رَبِّ الْعِبادِ
+    - - أَ مَنْ اَنْکَرْتَني عَن عشق سَلْمیٰ
+      - تُزَاوَّل آن روی نِهْکو بِوادی
+    - - که همچون مُت به بوتَن دل وَ اِی رَه
+      - غَریقُ الْعِشقِ في بَحْرِ الْوِدادِ
+    - - به پی‌ماچان غَرامت بِسپُریمَن
+      - غَرَت یک وی رَوِشتی از اَما دی
+    - - غم این دل بِواتَت خورد ناچار
+      - و غَر نه او بِنی آنچَت نَشادی
+    - - دل حافظ شد اندر چین زلفت
+      - بِلَیلٍ مُظْلِمٍ وَ اللّهُ هادي
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 438
+    url: https://ganjoor.net/hafez/ghazal/sh438
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 438
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

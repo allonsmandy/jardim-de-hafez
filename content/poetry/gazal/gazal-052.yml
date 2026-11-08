@@ -1,0 +1,38 @@
+id: gazal-052
+category: gazal
+number: 52
+firstLine:
+  fa: روزْگاری‌ست که سودایِ بُتان، دینِ من است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - روزْگاری‌ست که سودایِ بُتان، دینِ من است
+      - غَمِ این کار‌، نِشاطِ دِلِ غَمْگینِ من است
+    - - دیدنِ رویِ تو را دیده‌یِ جان‌بین باید
+      - وین کجا مَرْتَبِه‌یِ چَشْمِ جَهان‌بینِ من است؟
+    - - یارِ من باش که زیبِ فَلَک و زینتِ دَهْر
+      - از مَهِ رویِ تو و اَشْکِ چو پَروینِ من است
+    - - تا مرا عشقِ تو، تعلیمِ سُخَن‌گفتن کرد
+      - خَلق را وِردِ زبان، مَدْحَت و تَحسینِ من است
+    - - دولتِ فَقْر خدایا به من ارزانی دار
+      - کاین کِرامت، سَبَبِ حِشْمَت و تَمکینِ من است
+    - - واعِظِ شِحنه‌شناس، این عَظِمَت گو مَفُروش
+      - زان که مَنْزِلْگَهِ سُلطان، دِلِ مِسْکینِ من است
+    - - یا رب این کَعْبِه‌یِ مَقْصود، تَماشاگَهِ کیست؟
+      - که مُغِیلانِ طَریقش، گُل و نَسْرینِ من است
+    - - «حافظ» از حشمتِ پرویز، دگر، قِصِّه مَخوان
+      - که لَبَش، جُرْعِه‌کَشِ خُسروِ شیرینِ من است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 52
+    url: https://ganjoor.net/hafez/ghazal/sh52
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 52
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

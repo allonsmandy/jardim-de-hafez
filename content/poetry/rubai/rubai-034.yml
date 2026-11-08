@@ -1,0 +1,26 @@
+id: rubai-034
+category: rubai
+number: 34
+firstLine:
+  fa: چشمت که فسون و رنگ می‌بارد از او
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چشمت که فسون و رنگ می‌بارد از او
+      - افسوس که تیر جنگ می‌بارد از او
+    - - بس زود ملول گشتی از هم‌نفَسان
+      - آه از دل تو که سنگ می‌بارد از او
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 34
+    url: https://ganjoor.net/hafez/robaee2/sh34
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 34
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

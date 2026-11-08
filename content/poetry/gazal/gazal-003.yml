@@ -1,0 +1,246 @@
+id: gazal-003
+category: gazal
+number: 3
+firstLine:
+  fa: اگر آن تُرکِ شیرازی به‌‌ دست‌ آرَد دلِ ما را
+  pt: Se aquele turco de Shiraz tomar nas mãos o meu coração
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر آن تُرکِ شیرازی به‌‌ دست‌ آرَد دلِ ما را
+      - به خال هِندویَش بَخشَم سَمَرقند و بُخارا را
+    - - بده ساقی مِیِ باقی که در جَنَّت نخواهی یافت
+      - کنارِ آبِ رُکناباد و گُل‌گَشتِ مُصَلّا را
+    - - فَغان! کاین لولیانِ شوخِ شیرین‌کارِ شهرآشوب
+      - چُنان بُردند صبر از دل که تُرکان خوانِ یَغما را
+    - - ز عشقِ ناتمامِ ما جمالِ یار مُستَغنی‌ است
+      - به آب و رنگ و خال و خط چه حاجت رویِ زیبا را؟
+    - - مَن از آن حُسنِ روزاَفزون که یوسُف داشت دانستم
+      - که عشق از پردهٔ عِصمت بُرون آرَد زُلِیخا را
+    - - اگر دشنام فرمایی و گَر نفرین دعا گویم
+      - جوابِ تلخ می‌زیبَد لبِ لَعلِ شِکرخا را
+    - - نصیحت گوش کن جانا که از جان دوست‌تر دارند
+      - جوانانِ سعادتمند پندِ پیرِ دانا را
+    - - حَدیث از مُطرب و مِی گو و رازِ دَهر کمتر جو
+      - که کس نَگشود و نَگشاید به حکمت این مُعمّا را
+    - - غزل گفتی و دُر سُفتی بیا و خوش بخوان حافظ
+      - که بر نظمِ تو اَفشانَد فَلَک عِقد ثُریّا را
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 3
+    url: https://ganjoor.net/hafez/ghazal/sh3
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Se aquele turco de Shiraz tomar nas mãos o meu coração,
+      - por sua pinta escura eu darei Samarcanda e Bucara.
+    - - Dá, copeiro, o vinho que resta, pois no paraíso não acharás
+      - a margem das águas de Roknabad nem os passeios floridos de Mosalla.
+    - - Ai! Esses ciganos travessos, encantadores, que alvoroçam a cidade,
+      - roubaram a paciência do coração como os turcos pilham a mesa do banquete.
+    - - 'Do nosso amor imperfeito a beleza do amado não precisa:'
+      - de que precisa um rosto belo de pintura, cor, pinta e penugem?
+    - - Por aquela beleza sempre crescente de José, eu soube
+      - que o amor arranca Zuleica de trás do véu do pudor.
+    - - 'Se me insultares, ou se me amaldiçoares, eu te abençoarei:'
+      - resposta amarga fica bem a um lábio de rubi que derrama açúcar.
+    - - Ouve um conselho, minha alma, pois mais que à própria vida amam
+      - os jovens afortunados o conselho do velho sábio.
+    - - Fala do músico e do vinho, e busca menos o segredo do tempo,
+      - pois ninguém resolveu, nem resolverá pela razão, este enigma.
+    - - 'Fizeste um gazel e furaste pérolas: vem e canta-o com doçura, Hafez,'
+      - pois sobre os teus versos o céu esparge o colar das Plêiades.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 3
+themes:
+  - Uma declaração exagerada de amor
+  - O orgulho de Shiraz
+  - Aceitar o amor como ele é
+  - Viver o presente
+introduction:
+  - 'O poema mais famoso de Hafez fora do Irã. Começa com um exagero apaixonado: o poeta diria que
+    daria duas cidades riquíssimas — Samarcanda e Bucara, na Ásia Central — por uma pinta no rosto
+    da pessoa amada. A graça é que Hafez era um poeta pobre: ele "dá" o que não tem.'
+  - 'Depois, o poema elogia a cidade de Shiraz (seus riachos e jardins seriam melhores que o
+    paraíso!), fala de como a beleza não precisa de nada e aconselha: aproveite a música e o vinho,
+    porque ninguém nunca vai decifrar os mistérios da vida.'
+  - Conta uma lenda que o conquistador Tamerlão, dono de Samarcanda e Bucara, teria chamado Hafez
+    para tirar satisfação. Os historiadores acham que essa conversa nunca aconteceu — mas a lenda
+    mostra o quanto o poema ficou famoso.
+stanzaNotes:
+  - stanza: 1
+    plain:
+      Se aquela pessoa linda de Shiraz aceitar o meu amor, eu daria por uma pintinha no rosto dessa
+      pessoa as cidades mais ricas do mundo.
+    meaning:
+      '"Turco", na poesia persa medieval, é o arquétipo da beleza: pele clara, olhos amendoados —
+      e também guerreiro, cruel, que "conquista" corações. "Hindu" significa escuro (por oposição à
+      pele clara do turco) e, como os indianos eram associados à condição de escravos, a pinta negra
+      é a "escrava" do rosto. O amante oferece duas cidades riquíssimas da Ásia Central por essa
+      pinta: uma hipérbole amorosa. Hafez, pobre poeta de Shiraz, "dá" o que não possui — e aí está
+      a graça.'
+    literal: Se aquele turco shirazi pegar na mão nosso coração, / pela pinta hindu dele(a) darei
+      Samarcanda e Bucara.
+    choices:
+      '"Pinta hindu" seria incompreensível ou soaria preconceituoso fora do contexto; traduzimos
+      por "pinta escura", que conserva a imagem visual, e explicamos aqui o sentido original.
+      Mantivemos "turco" porque é a palavra-chave do poema e da sua fama. "Nosso coração" (dil-e ma,
+      plural de modéstia) virou "meu coração", como é natural em português.'
+  - stanza: 2
+    plain:
+      'Me sirva mais vinho: nem no paraíso existe algo tão bonito quanto os riachos e jardins da
+      minha cidade.'
+    meaning:
+      Roknabad é um canal/riacho de Shiraz, famoso pela água pura; Mosalla é a área de jardins
+      nos arredores da cidade onde, aliás, Hafez seria sepultado (o atual Hafezieh). O poeta diz,
+      com ousadia, que nem o paraíso tem o que Shiraz oferece — então bebamos agora.
+    literal:
+      Dá, saqi, o vinho restante, pois no paraíso não encontrarás / a margem da água de Roknabad
+      e o passeio-de-flores de Mosalla.
+    choices:
+      '"Mey-e baqi" pode ser "o vinho que resta" (o resto da jarra) e, num jogo de palavras, "o
+      vinho eterno/duradouro"; escolhemos o sentido concreto e registramos o outro aqui. "Gol-gasht"
+      (passeio para ver as flores) virou "passeios floridos".'
+  - stanza: 3
+    plain:
+      Esses jovens lindos e travessos que agitam a cidade roubaram toda a minha paciência — levaram
+      tudo, como num saque.
+    meaning:
+      Os "luris" (luli) eram grupos nômades de músicos e dançarinos, comparáveis aos ciganos; na
+      poesia são jovens belos e travessos que "agitam a cidade". Eles roubaram a paciência do poeta
+      como os soldados turcos saqueavam a mesa no "banquete de pilhagem" (khan-e yaghma), costume em
+      que, ao fim de uma festa, os convidados podiam levar tudo o que havia na mesa.
+    literal: Ai, que esses luris atrevidos, doce-fazedores, agitadores da cidade, / assim levaram a
+      paciência do coração como os turcos a mesa do saque.
+    choices: '"Ciganos" é a aproximação mais compreensível para "luli", com a nota explicando a
+      diferença. "Shahr-ashub" (que alvoroça a cidade) é também nome de um gênero poético sobre os
+      belos de uma cidade; mantivemos o sentido literal. "Mesa do banquete" com o verbo "pilham"
+      recupera a imagem do khan-e yaghma sem exigir conhecer o costume.'
+  - stanza: 4
+    plain: Uma pessoa linda não precisa do meu amor, assim como um rosto bonito não precisa de maquiagem.
+    meaning:
+      'A beleza verdadeira é autossuficiente: não precisa do amor imperfeito do poeta, assim como
+      um rosto belo não precisa de maquiagem. Na leitura mística, Deus (a Beleza absoluta) não
+      precisa do amor humano — o amante é que precisa dele.'
+    literal:
+      Do nosso amor incompleto a beleza do amado(a) é sem necessidade; / com água e cor e pinta e
+      linha que precisão tem um rosto belo?
+    choices:
+      '"Ab o rang" (água e cor) é o brilho e a cor da pele, mas também cosméticos; "pintura" e
+      "cor" mantêm a ambiguidade. "Khatt" é a penugem do rosto de um jovem — e "linha", "escrita":
+      um trocadilho caligráfico frequente em Hafez. Traduzimos por "penugem", o sentido físico
+      principal.'
+  - stanza: 5
+    plain:
+      'A história de José, tão bonito que fez uma mulher casada largar todo o recato, me ensinou: o
+      amor derruba qualquer barreira.'
+    meaning: 'Alusão à história de José (Yusuf) no Alcorão (sura 12) e na tradição persa: Zuleica,
+      esposa do seu senhor egípcio, apaixona-se por ele e abandona o recato. Na poesia persa, Yusuf
+      é o modelo supremo da beleza, e Zuleica, da paixão que vence todas as conveniências. O poeta
+      entende, pelo exemplo dela, que o amor não respeita véus.'
+    literal:
+      Eu, daquela beleza crescente que José tinha, soube / que o amor tira para fora da cortina
+      da castidade Zuleica.
+    choices: Usamos as formas portuguesas "José" (como na Bíblia e nas traduções do Alcorão em
+      português) e "Zuleica" (forma tradicional em português; também se escreve Zulaikha). "Véu do
+      pudor" traduz "parde-ye 'esmat", literalmente "cortina da castidade".
+  - stanza: 6
+    plain: Pode me xingar ou me amaldiçoar, que eu respondo com carinho. Até as palavras duras ficam
+      lindas na sua boca.
+    meaning: 'O amante aceita tudo do amado: se receber insultos, responderá com bênçãos. E até as
+      palavras duras ficam belas numa boca tão doce. É o paradoxo do amor cortês persa: a crueldade
+      do amado é também um favor, porque é atenção.'
+    literal:
+      Se insultos ordenares e se maldição, prece direi; / resposta amarga fica bem ao lábio de
+      rubi que mastiga açúcar.
+    choices:
+      '"Doshnam farmayi" é literalmente "se ordenares insulto" — um verbo de reverência irônico,
+      como se o insulto fosse uma graça concedida. Simplificamos para "se me insultares".
+      "Shekar-kha" (que mastiga açúcar) virou "que derrama açúcar" para soar natural; a ideia é a
+      doçura das palavras.'
+  - stanza: 7
+    plain: 'Escute um conselho, meu bem: os jovens de sorte são os que ouvem os mais velhos.'
+    meaning:
+      'O poeta, agora no papel de velho sábio, aconselha o jovem amado (ou o leitor): os jovens
+      de boa sorte são justamente os que valorizam a experiência dos mais velhos. Prepara o conselho
+      do dístico seguinte.'
+    literal:
+      Ouve o conselho, ó alma, pois mais amigo que a vida têm / os jovens afortunados o conselho
+      do velho sábio.
+    choices:
+      '"Jana" (ó alma) é um vocativo afetuoso, comum entre amantes; "minha alma" mantém o tom.
+      "Dust-tar az jan darand" (têm como mais amigo que a vida) virou "mais que à própria vida
+      amam".'
+  - stanza: 8
+    plain:
+      'Fale de música e de vinho e não tente entender os mistérios da vida: ninguém conseguiu, e
+      ninguém vai conseguir.'
+    meaning: 'O conselho do sábio: ocupe-se da música e do vinho (da alegria do presente) e deixe de
+      lado as grandes especulações sobre o destino e o tempo, pois nenhum filósofo decifrou nem
+      decifrará esse enigma. É uma ideia que lembra Omar Khayyam e atravessa toda a poesia persa.'
+    literal: Fala do músico e do vinho e o segredo do tempo menos procura, / pois ninguém abriu nem
+      abrirá pela sabedoria este enigma.
+    choices:
+      '"Hekmat" é sabedoria e, especificamente, a filosofia racional (de tradição grega); "pela
+      razão" deixa clara a crítica aos que querem explicar tudo racionalmente. "Dahr" é o tempo
+      cósmico, o destino; "o segredo do tempo" conserva a amplitude.'
+  - stanza: 9
+    plain:
+      Hafez, você fez um poema lindo como um colar de pérolas. Cante-o — até o céu vai te aplaudir
+      jogando estrelas.
+    meaning: 'O poeta se elogia: compor um gazel é como furar pérolas (para enfiá-las num colar, ou
+      seja, para encadear versos preciosos). O poema é tão belo que o céu lhe joga, como oferenda, o
+      colar das Plêiades — o aglomerado de estrelas que os persas viam como um colar. Era costume
+      espalhar moedas ou joias (nesar) sobre alguém digno de honra.'
+    literal:
+      Gazel disseste e pérola furaste; vem e lê belamente, Hafez, / pois sobre teu verso espalha
+      o céu o colar das Plêiades.
+    choices:
+      '"Dor softan" (furar pérolas) é a metáfora persa para compor versos refinados; mantivemos o
+      literal, que é belo e compreensível com a nota. "Khosh bekhan" é "lê/canta com graça": no
+      tempo de Hafez, os gazéis eram feitos para ser cantados.'
+glossary:
+  - gazel
+  - saqi
+  - vinho
+  - amado
+  - shiraz
+  - takhallos
+  - divan
+  - jose-zuleica
+  - alcorao
+culturalNotes:
+  - title: A lenda de Hafez e Tamerlão
+    body:
+      Dowlatshah Samarqandi, no seu "Memorial dos Poetas" (1487), conta que Tamerlão, ao conquistar
+      Shiraz, repreendeu Hafez por "dar" Samarcanda e Bucara, e o poeta, pobre, teria respondido que
+      foi por causa dessa generosidade que chegara à miséria. A anedota surgiu cerca de um século
+      depois dos fatos e é considerada lendária pelos estudiosos modernos.
+    sources:
+      - source: dowlatshah-tazkira
+      - source: encyclopaedia-iranica
+  - title: Um poema famoso no Ocidente
+    body:
+      Este gazel foi um dos primeiros de Hafez traduzidos para o inglês, por William Jones (1771), e
+      contribuiu para a fama do poeta na Europa, que depois inspiraria Goethe.
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

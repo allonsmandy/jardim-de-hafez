@@ -1,0 +1,36 @@
+id: gazal-158
+category: gazal
+number: 158
+firstLine:
+  fa: من و انکارِ شراب! این چه حکایت باشد؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من و انکارِ شراب! این چه حکایت باشد؟
+      - غالباً این قَدَرَم عقل و کِفایت باشد
+    - - تا به غایت رهِ میخانه نمی‌دانستم
+      - ور نه مستوری ما تا به چه غایت باشد
+    - - زاهد و عجب و نماز و من و مستی و نیاز
+      - تا تو را خود ز میان با که عنایت باشد
+    - - زاهد ار راه به رندی نَبَرَد معذور است
+      - عشق کاری‌ست که موقوف هدایت باشد
+    - - من که شب‌ها رهِ تقوا زده‌ام با دف و چنگ
+      - این زمان سر به ره آرَم؟ چه حکایت باشد!
+    - - بندهٔ پیرِ مغانم که ز جهلم بِرَهانْد
+      - پیرِ ما هر چه کُنَد عینِ عنایت باشد
+    - - دوش از این غصه نَخُفتَم که رفیقی می‌گفت
+      - «حافظ ار مست بُوَد جایِ شکایت باشد»
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 158
+    url: https://ganjoor.net/hafez/ghazal/sh158
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 158
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

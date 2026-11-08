@@ -1,0 +1,36 @@
+id: gazal-229
+category: gazal
+number: 229
+firstLine:
+  fa: بخت از دهانِ دوست نشانم نمی‌دهد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بخت از دهانِ دوست نشانم نمی‌دهد
+      - دولت خبر ز رازِ نهانم نمی‌دهد
+    - - از بهرِ بوسه‌ای ز لبش جان همی‌دهم
+      - اینم همی‌سِتانَد و آنم نمی‌دهد
+    - - مُردم در این فِراق و در آن پرده راه نیست
+      - یا هست و پرده دار نشانم نمی‌دهد
+    - - زلفش کشید بادِ صبا چرخِ سِفله بین
+      - کانجا مجالِ بادِ وَزانَم نمی‌دهد
+    - - چندان که بر کنار چو پرگار می‌شدم
+      - دوران چو نقطه رَه به میانم نمی‌دهد
+    - - شِکَّر به صبر دست دهد عاقبت ولی
+      - بدعهدیِ زمانه زمانم نمی‌دهد
+    - - گفتم رَوَم به خواب و ببینم جمالِ دوست
+      - حافظ ز آه و ناله امانم نمی‌دهد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 229
+    url: https://ganjoor.net/hafez/ghazal/sh229
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 229
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,34 @@
+id: gazal-132
+category: gazal
+number: 132
+firstLine:
+  fa: به آبِ روشنِ می، عارفی طهارت کرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به آبِ روشنِ می، عارفی طهارت کرد
+      - عَلَی الصَّباح، که میخانه را زیارت کرد
+    - - همین که ساغرِ زَرّینِ خور، نهان گردید
+      - هِلال عید به دورِ قدح اشارت کرد
+    - - خوشا نماز و نیازِ کسی که از سرِ درد
+      - به آبِ دیده و خونِ جگر طهارت کرد
+    - - امام خواجه، که بودش سرِ نمازِ دراز
+      - به خونِ دخترِ رَز، خرقه را قِصارت کرد
+    - - دلم ز حلقهٔ زلفش به جان خرید آشوب
+      - چه سود دید؟ ندانم، که این تجارت کرد
+    - - اگر امامِ جماعت طلب کند امروز
+      - خبر دهید که حافظ به می طهارت کرد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 132
+    url: https://ganjoor.net/hafez/ghazal/sh132
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 132
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

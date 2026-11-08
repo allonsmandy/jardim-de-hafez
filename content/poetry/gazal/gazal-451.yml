@@ -1,0 +1,40 @@
+id: gazal-451
+category: gazal
+number: 451
+firstLine:
+  fa: خوش کرد یاوری فلکت روز داوری
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خوش کرد یاوری فلکت روز داوری
+      - تا شکر چون کنی و چه شکرانه آوری
+    - - آن کس که اوفتاد خدایش گرفت دست
+      - گو بر تو باد تا غم افتادگان خوری
+    - - در کوی عشق شوکت شاهی نمی‌خرند
+      - اقرار بندگی کن و اظهار چاکری
+    - - ساقی به مژدگانی عیش از درم درآی
+      - تا یک دم از دلم غم دنیا به در بری
+    - - در شاه‌راه جاه و بزرگی خطر بسی‌ست
+      - آن به کز این گریوه سبک‌بار بگذری
+    - - سلطان و فکر لشکر و سودای تاج و گنج
+      - درویش و امن خاطر و کنج قلندری
+    - - یک حرف صوفیانه بگویم اجازت است؟
+      - ای نور دیده صلح به از جنگ و داوری
+    - - نیل مراد بر حسب فکر و همت است
+      - از شاه نذر خیر و ز توفیق یاوری
+    - - حافظ غبار فقر و قناعت ز رخ مشوی
+      - کاین خاک بهتر از عمل کیمیاگری
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 451
+    url: https://ganjoor.net/hafez/ghazal/sh451
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 451
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

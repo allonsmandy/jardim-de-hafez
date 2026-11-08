@@ -1,0 +1,26 @@
+id: rubai-020
+category: rubai
+number: 20
+firstLine:
+  fa: سیلاب گرفت گِرد ویرانهٔ عمر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سیلاب گرفت گِرد ویرانهٔ عمر
+      - و‌آغاز پُری نهاد پیمانهٔ عمر
+    - - بیدار شو ای خواجه که خوش‌خوش بکِشد
+      - حمّال زمانه رخت از خانهٔ عمر
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 20
+    url: https://ganjoor.net/hafez/robaee2/sh20
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 20
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

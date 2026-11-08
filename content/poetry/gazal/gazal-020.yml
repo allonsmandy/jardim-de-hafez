@@ -1,0 +1,38 @@
+id: gazal-020
+category: gazal
+number: 20
+firstLine:
+  fa: روزه یک‌سو شد و عید آمد و دل‌ها برخاست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - روزه یک‌سو شد و عید آمد و دل‌ها برخاست
+      - می ز خُم‌خانه به‌جوش آمد و می‌ باید خواست
+    - - نوبهٔ زهدفروشانِ گران‌جان بگذشت
+      - وقتِ رندی و طرب کردنِ رندان پیداست
+    - - چه ملامت بُوَد آن را که چنین باده خورَد؟
+      - این چه عیب است بدین بی‌خردی؟ وین چه خطاست؟
+    - - باده‌نوشی که در او روی و ریایی نَبُوَد
+      - بهتر از زهدفروشی که در او روی و ریاست
+    - - ما نه رندانِ ریاییم و حریفانِ نفاق
+      - آن‌که او عالِم سِرّ است، بدین حال گواست
+    - - فرضِ ایزد بگزاریم و به کس بد نکنیم
+      - وان چه گویند روا نیست، نگوییم رواست
+    - - چه شود گر من و تو چند قدح باده خوریم؟
+      - باده از خونِ رزان است، نه از خون شماست
+    - - این چه عیب است کز آن عیب، خلل خواهد بود؟
+      - ور بُوَد نیز چه شد؟ مردم بی‌عیب کجاست؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 20
+    url: https://ganjoor.net/hafez/ghazal/sh20
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 20
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

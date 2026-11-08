@@ -1,0 +1,26 @@
+# Nuxt
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Dependências
+node_modules
+
+# Logs
+logs
+*.log
+
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# Sistema / editores
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json
+coverage

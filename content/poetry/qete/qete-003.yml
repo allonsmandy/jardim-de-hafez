@@ -1,0 +1,28 @@
+id: qete-003
+category: qete
+number: 3
+firstLine:
+  fa: آصف عهد زمان جان جهان تورانشاه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آصف عهد زمان جان جهان تورانشاه
+      - که در این مزرعه جز دانهٔ خیرات نکشت
+    - - ناف هفته بد و از ماه صفر کاف و الف
+      - که به گلشن شد و این گلخن پر دود بهشت
+    - - آنکه میلش سوی حق‌بینی و حق‌گویی بود
+      - سال تاریخ وفاتش طلب از میل بهشت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 3
+    url: https://ganjoor.net/hafez/ghete/sh3
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 3
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

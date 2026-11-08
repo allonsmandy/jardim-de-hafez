@@ -1,0 +1,30 @@
+id: diversos-060
+category: diversos
+number: 60
+firstLine:
+  fa: تنم ز رنج فراوان همی نیاساید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تنم ز رنج فراوان همی نیاساید
+      - دلم از انده بی حد همی بفرساید
+    - - ز بس غمان که بدیدم چنان شدم که مرا
+      - از این و آنچه غمی پیش چشم نگراید
+    - - که گر ببیند بدخواه من مرا روزی
+      - به چشم او رخ من زردنگ ننماید
+    - - چو من به مهر دل خویش اندر این بندم
+      - حجاب دور کند فتنه‌ای پدید آید
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 60
+    url: https://ganjoor.net/hafez/montasab/sh60
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 60
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

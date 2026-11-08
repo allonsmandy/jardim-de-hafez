@@ -1,0 +1,26 @@
+id: diversos-113
+category: diversos
+number: 113
+firstLine:
+  fa: آنم که پدید گشتم از قدرتِ تو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آنم که پدید گشتم از قدرتِ تو
+      - پرورده شدم به ناز در نعمت تو
+    - - صد سال به امتحان گنه خواهم کرد
+      - یا جرم من است بیش یا رحمت تو
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 113
+    url: https://ganjoor.net/hafez/montasab/sh113
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 113
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

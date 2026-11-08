@@ -1,0 +1,30 @@
+id: diversos-028
+category: diversos
+number: 28
+firstLine:
+  fa: دریغا خلعت حسن جوانی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دریغا خلعت حسن جوانی
+      - گرش بودی طراز جاودانی
+    - - دریغا حسرتا دردا کزین جوی
+      - نخواهد رفت آب زندگانی
+    - - همی باید برید از خویش و پیوند
+      - چنین رفته است حکم آسمانی
+    - - و کل اخ یفارقه اخوه
+      - لعمر ابیک الا الفرقدان
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 28
+    url: https://ganjoor.net/hafez/montasab/sh28
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 28
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

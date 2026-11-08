@@ -1,0 +1,30 @@
+id: qete-017
+category: qete
+number: 17
+firstLine:
+  fa: بر تو خوانم، زِ دفترِ اخلاق
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بر تو خوانم، زِ دفترِ اخلاق
+      - آیتی در وفا و در بخشش
+    - - هرکه بِخْراشَدَت جگر به جفا
+      - هم‌چو کانِ کریم، زَر بخشش
+    - - کم مباش از درختِ سایه‌فکن
+      - هرکه سَنگَت زَنَد، ثمر بخشش
+    - - از صدف یاددار، نکته‌ی حِلم
+      - هرکه بُرَّد سَرَت، گُهَر بخشش
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 17
+    url: https://ganjoor.net/hafez/ghete/sh17
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 17
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

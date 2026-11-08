@@ -1,0 +1,36 @@
+id: gazal-418
+category: gazal
+number: 418
+firstLine:
+  fa: گر تیغ بارد در کوی آن ماه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر تیغ بارد در کوی آن ماه
+      - گردن نهادیم الحکمُ لِلّه
+    - - آیین تقوا ما نیز دانیم
+      - لیکن چه چاره با بخت گمراه؟
+    - - ما شیخ و واعظ کمتر شناسیم
+      - یا جام باده یا قصه کوتاه
+    - - من رند و عاشق در موسم گل
+      - آن گاه توبه، استغفرالله
+    - - مهر تو عکسی بر ما نیفکند
+      - آیینه‌رویا! آه از دلت آه
+    - - اَلصَبرُ مُرٌّ و العُمرُ فانٍ
+      - یا لَیتَ شِعري حَتّامَ أَلْقاه
+    - - حافظ چه نالی گر وصل خواهی؟
+      - خون بایدت خورد در گاه و بی‌گاه
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 418
+    url: https://ganjoor.net/hafez/ghazal/sh418
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 418
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

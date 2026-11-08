@@ -1,0 +1,36 @@
+id: gazal-035
+category: gazal
+number: 35
+firstLine:
+  fa: برو به کارِ خود ای واعظ این چه فریادست؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - برو به کارِ خود ای واعظ این چه فریادست؟
+      - مرا فِتاد دل از ره، تو را چه اُفتادست؟
+    - - میان او که خدا آفریده است از هیچ
+      - دقیقه‌ای‌ست که هیچ آفریده نَگشادست
+    - - به کام تا نرساند مرا لبش، چون نای
+      - نصیحتِ همه عالم به گوشِ من بادست
+    - - گدایِ کویِ تو از هشت خُلد، مستغنی‌ست
+      - اسیرِ عشقِ تو از هر دو عالم آزادست
+    - - اگر چه مستیِ عشقم خراب کرد ولی
+      - اساسِ هستیِ من زآن خراب، آبادست
+    - - دلا مَنال ز بیداد و جورِ یار که یار
+      - تو را نصیب همین کرد و این از آن دادست
+    - - برو فَسانه مخوان و فُسون مدم حافظ
+      - کز این فسانه و افسون مرا بسی یادست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 35
+    url: https://ganjoor.net/hafez/ghazal/sh35
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 35
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

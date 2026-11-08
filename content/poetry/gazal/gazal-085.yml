@@ -1,0 +1,34 @@
+id: gazal-085
+category: gazal
+number: 85
+firstLine:
+  fa: شربتی از لبِ لعلش نچشیدیم و بِرَفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شربتی از لبِ لعلش نچشیدیم و بِرَفت
+      - رویِ مَه پیکرِ او سیر ندیدیم و برفت
+    - - گویی از صحبتِ ما نیک به تنگ آمده بود
+      - بار بربست و به گَردش نرسیدیم و برفت
+    - - بس که ما فاتحه و حرزِ یمانی خواندیم
+      - وز پی‌اش سوره اخلاص دمیدیم و برفت
+    - - عشوه دادند که بر ما گذری خواهی کرد
+      - دیدی آخر که چنین عشوه خریدیم و برفت
+    - - شد چمان در چمنِ حسن و لطافت لیکن
+      - در گلستانِ وصالش نَچَمیدیم و برفت
+    - - همچو حافظ همه شب ناله و زاری کردیم
+      - کای دریغا به وداعش نرسیدیم و برفت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 85
+    url: https://ganjoor.net/hafez/ghazal/sh85
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 85
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

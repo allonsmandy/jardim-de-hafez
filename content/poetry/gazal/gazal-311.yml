@@ -1,0 +1,34 @@
+id: gazal-311
+category: gazal
+number: 311
+firstLine:
+  fa: عاشقِ رویِ جوانی خوشِ نوخاسته‌ام
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عاشقِ رویِ جوانی خوشِ نوخاسته‌ام
+      - وز خدا دولتِ این غم به دعا خواسته‌ام
+    - - عاشق و رِند و نظربازم و می‌گویم فاش
+      - تا بدانی که به چندین هنر آراسته‌ام
+    - - شَرمَم از خرقهٔ آلودهٔ خود می‌آید
+      - که بر او وصله به صد شُعبده پیراسته‌ام
+    - - خوش بسوز از غَمَش ای شمع که اینک من نیز
+      - هم بدین کار کمربسته و برخاسته‌ام
+    - - با چُنین حیرتم از دست بِشُد صرفهٔ کار
+      - در غم افزوده‌ام آنچ از دل و جان کاسته‌ام
+    - - همچو حافظ به خرابات رَوَم جامه قبا
+      - بو که در بَر کَشَد آن دلبرِ نوخاسته‌ام
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 311
+    url: https://ganjoor.net/hafez/ghazal/sh311
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 311
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

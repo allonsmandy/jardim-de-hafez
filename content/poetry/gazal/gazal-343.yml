@@ -1,0 +1,40 @@
+id: gazal-343
+category: gazal
+number: 343
+firstLine:
+  fa: چِل سال بیش رفت که من لاف می‌زنم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چِل سال بیش رفت که من لاف می‌زنم
+      - کز چاکرانِ پیرِ مُغان کمترین منم
+    - - هرگز به یُمنِ عاطفَتِ پیرِ مِی‌فروش
+      - ساغر تُهی نشد ز مِیِ صافِ روشنم
+    - - از جاهِ عشق و دولتِ رندانِ پاک‌باز
+      - پیوسته صدرِ مَصطَبِه‌ها بود مَسکنم
+    - - در شأنِ من به دُردکِشی ظنِّ بَد مبر
+      - کآلوده گشت جامه، ولی پاک‌دامنم
+    - - شهبازِ دست پادشهم، این چه حالت است؟
+      - کز یاد بُرده‌اند هوایِ نشیمنم
+    - - حیف است بلبلی چو من اکنون در این قفس
+      - با این لسانِ عَذب، که خامُش چو سوسنم
+    - - آب و هوای فارس عجب سِفله‌پرور است
+      - کو همرهی؟ که خیمه از این خاک بَرکَنَم
+    - - حافظ! به زیرِ خرقه قدح تا به کِی کشی؟
+      - در بزمِ خواجه، پرده ز کارَت برافکنم
+    - - توران‌شهِ خجسته که در من یَزیدِ فضل
+      - شد مِنَّتِ مَواهبِ او طوقِ گردنم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 343
+    url: https://ganjoor.net/hafez/ghazal/sh343
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 343
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

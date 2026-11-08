@@ -1,0 +1,36 @@
+id: gazal-080
+category: gazal
+number: 80
+firstLine:
+  fa: عِیبِ رِندان مَکُن ای زاهدِ پاکیزه‌سِرِشت!
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عِیبِ رِندان مَکُن ای زاهدِ پاکیزه‌سِرِشت!
+      - که گناهِ دِگَران بَر تو نخواهند نوشت
+    - - من اگر نیکم و گر بَد، تو برو خود را باش!
+      - هر کسی آن دِرَوَد عاقبتِ کار، که کِشت
+    - - همه‌کس، طالبِ یارند؛ چه هُشیار و چه مست
+      - همه‌جا، خانهٔ عشق است؛ چه مسجد چه کِنِشت
+    - - سر تسلیمِ من و خشتِ درِ مِیکده‌ها
+      - مُدَّعی گر نکند فهمِ سخن، گو سر و خشت
+    - - ناامیدم مکن از سابقهٔ لطفِ اَزَل
+      - تو پسِ پرده چه دانی که که خوب است و که زشت؟
+    - - نه من از پردهٔ تقوا به درافتادم و بس
+      - پِدرم نیز بهِشتِ ابد از دست، بِهِشت
+    - - حافظا! روز اجل گر به کف آری جامی
+      - یک‌سر از کویِ خرابات بَرَنْدَت به بهشت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 80
+    url: https://ganjoor.net/hafez/ghazal/sh80
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 80
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

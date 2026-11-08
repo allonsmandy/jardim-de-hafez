@@ -1,0 +1,36 @@
+id: gazal-106
+category: gazal
+number: 106
+firstLine:
+  fa: تَنَت به نازِ طبیبان نیازمند مباد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تَنَت به نازِ طبیبان نیازمند مباد
+      - وجود نازکت آزردهٔ گزند مباد
+    - - سلامتِ همه آفاق در سلامتِ توست
+      - به هیچ عارضه شخصِ تو دردمند مباد
+    - - جمالِ صورت و معنی ز امنِ صحتِ توست
+      - که ظاهرت دُژَم و باطنت نَژَند مباد
+    - - در این چمن چو درآید خزان به یغمایی
+      - رهش به سروِ سهی قامتِ بلند مباد
+    - - در آن بساط که حُسن تو جلوه آغازد
+      - مجالِ طعنهٔ بدبین و بدپسند مباد
+    - - هر آن که رویِ چو ماهت به چشمِ بد بیند
+      - بر آتشِ تو بجز جانِ او سپند مباد
+    - - شفا ز گفتهٔ شِکَّرفِشانِ حافظ جوی
+      - که حاجتت به عِلاجِ گلاب و قند مباد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 106
+    url: https://ganjoor.net/hafez/ghazal/sh106
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 106
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

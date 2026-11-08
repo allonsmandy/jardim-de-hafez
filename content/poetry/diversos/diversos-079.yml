@@ -1,0 +1,26 @@
+id: diversos-079
+category: diversos
+number: 79
+firstLine:
+  fa: فساد چرخ نبینیم و نشنویم همی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - فساد چرخ نبینیم و نشنویم همی
+      - که چشمها همه کور است و گوشها همه کر
+    - - بسا کسا که مه و مهر باشدش بالین
+      - به عاقبت ز گل و خشت باشدش بستر
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 79
+    url: https://ganjoor.net/hafez/montasab/sh79
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 79
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

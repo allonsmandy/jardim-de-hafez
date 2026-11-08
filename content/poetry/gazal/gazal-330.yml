@@ -1,0 +1,36 @@
+id: gazal-330
+category: gazal
+number: 330
+firstLine:
+  fa: تو همچو صبحی و من شمعِ خلوتِ سَحَرم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تو همچو صبحی و من شمعِ خلوتِ سَحَرم
+      - تبسمی کن و جان بین که چون همی‌سِپرَم
+    - - چُنین که در دلِ من داغِ زلفِ سرکَشِ توست
+      - بنفشه زار شود تُربَتَم چو درگذرم
+    - - بر آستانِ مرادَت گشاده‌ام درِ چشم
+      - که یک نظر فِکنی، خود فِکندی از نظرم
+    - - چه شُکر گویمت ای خیلِ غم، عَفاکَ الله
+      - که روزِ بی‌کسی آخر نمی‌روی ز سرم
+    - - غلامِ مردمِ چشمم، که با سیاه دلی
+      - هزار قطره بِبارَد چو دردِ دل شِمُرَم
+    - - به هر نظر بُت ما جلوه می‌کند، لیکن
+      - کس این کرشمه نبیند که من همی‌ نِگَرَم
+    - - به خاکِ حافظ اگر یار بگذرد چون باد
+      - ز شوق در دلِ آن تنگنا کفن بِدَرَم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 330
+    url: https://ganjoor.net/hafez/ghazal/sh330
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 330
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

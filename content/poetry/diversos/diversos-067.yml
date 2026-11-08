@@ -1,0 +1,40 @@
+id: diversos-067
+category: diversos
+number: 67
+firstLine:
+  fa: من خرابم زغم یار خراباتی خویش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من خرابم زغم یار خراباتی خویش
+      - می زند غمزه او ناوک غم بر دل ریش
+    - - با تو پیوستم و از غیر تو دل بگسستم
+      - آشنای تو ندارد سر بیگانه و خویش
+    - - به عنایت نظری کن که من دل شده را
+      - نرود بی مدد لطف تو کاری از پیش
+    - - آخرای پادشه ملک و ملاحت چه شود
+      - که لب لعل تو ریزد نمکی بر دل ریش
+    - - خرمن صبر من سوخته دل داد به باد
+      - چشم مست تو که بگشاد کمین از پس و پیش
+    - - گر چلیپای سر زلف ز هم بگشاید
+      - بس مسلمان که شود کشته آن کافرکیش
+    - - پسِ زانو منشین و غمِ بیهوده مخور
+      - که ز غم خوردن تو رزق نگردد کم و بیش
+    - - پرسش حافظ دل سوخته کن بهر خدا
+      - نیست از شاه عجب، گر بنوازد درویش
+    - - حافظ از نوش لب لعل تو کامی کی یافت
+      - که نزد بر دل ریشش دو هزاران سر نیش
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 67
+    url: https://ganjoor.net/hafez/montasab/sh67
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 67
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

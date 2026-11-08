@@ -1,0 +1,26 @@
+id: diversos-083
+category: diversos
+number: 83
+firstLine:
+  fa: شاها مبشری ز بهشتم رسیده است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شاها مبشری ز بهشتم رسیده است
+      - رضوان سریر و حوروش و سلسبیل موی
+    - - خوش لفظ و پاک معنی و موزون و دلپذیر
+      - صاحب کمال و نازک و دیگر لطیفه‌گوی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 83
+    url: https://ganjoor.net/hafez/montasab/sh83
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 83
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

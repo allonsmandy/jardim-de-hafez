@@ -1,0 +1,36 @@
+id: gazal-384
+category: gazal
+number: 384
+firstLine:
+  fa: می‌سوزم از فِراقت روی از جَفا بگردان
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - می‌سوزم از فِراقت روی از جَفا بگردان
+      - هجران بلایِ ما شد، یا رب بلا بگردان
+    - - مَه جلوه می‌نماید بر سبز خِنگِ گَردون
+      - تا او به سر درآید، بر رَخش پا بگردان
+    - - مَرغول را بَرافشان یعنی به رَغمِ سنبل
+      - گِردِ چمن بُخوری همچون صبا بگردان
+    - - یغمایِ عقل و دین را بیرون خرام سرمست
+      - در سر کلاه بِشکن در بَر قَبا بگردان
+    - - ای نورِ چشمِ مستان در عینِ انتظارم
+      - چنگِ حزین و جامی بِنواز یا بگردان
+    - - دوران همی‌نویسد بر عارضش خطی خوش
+      - یا رب نوشتهٔ بد از یارِ ما بگردان
+    - - حافظ ز خوبرویان بختت جز این قَدَر نیست
+      - گر نیستت رضایی حُکمِ قضا بگردان
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 384
+    url: https://ganjoor.net/hafez/ghazal/sh384
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 384
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

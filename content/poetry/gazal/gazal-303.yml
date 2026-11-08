@@ -1,0 +1,36 @@
+id: gazal-303
+category: gazal
+number: 303
+firstLine:
+  fa: شَمَمتُ روحَ وِدادٍ و شِمتُ برقَ وِصال
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شَمَمتُ روحَ وِدادٍ و شِمتُ برقَ وِصال
+      - بیا که بویِ تو را میرم ای نسیمِ شِمال
+    - - أَ حادیاً بجمالِ الحبیبِ قِفْ وَ انْزِل
+      - که نیست صبرِ جمیلم ز اشتیاقِ جَمال
+    - - حکایتِ شبِ هجران فروگذاشته بِهْ
+      - به شکرِ آن که برافکند پرده روزِ وصال
+    - - بیا که پردهٔ گلریزِ هفت خانهٔ چشم
+      - کَشیده‌ایم به تَحریرِ کارگاهِ خیال
+    - - چو یار بر سرِ صلح است و عُذر می‌طلبد
+      - توان گذشت ز جورِ رقیب در همه حال
+    - - به جز خیالِ دهانِ تو نیست در دلِ تنگ
+      - که کَس مباد چو من در پِیِ خیالِ محال
+    - - قَتیلِ عشقِ تو شد حافظِ غریب، ولی
+      - به خاکِ ما گذری کن که خونِ مات حلال
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 303
+    url: https://ganjoor.net/hafez/ghazal/sh303
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 303
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

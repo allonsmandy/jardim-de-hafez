@@ -1,0 +1,40 @@
+id: gazal-040
+category: gazal
+number: 40
+firstLine:
+  fa: اَلْمِنَّةُ لِلَّه که درِ میکده، باز است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اَلْمِنَّةُ لِلَّه که درِ میکده، باز است
+      - زان رو که مرا بر در او، رویِ نیاز است
+    - - خُم‌ها، همه در جوش و خُروش‌اند ز مَسْتی
+      - وان می که در آن‌جاست، حقیقت، نه مَجاز است
+    - - از وی، همه، مَسْتی و غُرور است و تَکَبُّر
+      - وز ما همه بیچارگی و عَجْز و نیاز است
+    - - رازی که بَرِ غیر نگفتیم و نگوییم
+      - با دوست بگوییم که او مَحْرَمِ راز است
+    - - شَرْحِ شِکَنِ زُلْفِ خَم اندر خَمِ جانان
+      - کوتَه نَتَوان کرد که این قِصِّه، دراز است
+    - - بارِ دِلِ مَجْنون و خَمِ طُرِّهٔ لیلی
+      - رُخسارهٔ مَحمود و کَفِ پایِ اَیاز است
+    - - بردوخته‌ام دیده چو باز از همه عالَم
+      - تا دیدهٔ من بر رُخِ زیبایِ تو، باز است
+    - - در کعبهٔ کویِ تو، هر آن‌کس که بیاید
+      - از قبلهٔ ابرویِ تو در عِیْنِ نماز است
+    - - ای مجلسیان، سوزِ دلِ «حافظِ» مسکین
+      - از شمع بپرسید که در سوز و گداز است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 40
+    url: https://ganjoor.net/hafez/ghazal/sh40
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 40
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

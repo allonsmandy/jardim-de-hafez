@@ -1,0 +1,36 @@
+id: gazal-181
+category: gazal
+number: 181
+firstLine:
+  fa: بعد از این دستِ من و دامنِ آن سروِ بلند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بعد از این دستِ من و دامنِ آن سروِ بلند
+      - که به بالای چَمان از بُن و بیخَم بَرکَنْد
+    - - حاجتِ مطرب و مِی نیست تو بُرقَع بِگُشا
+      - که به رقص آوَرَدَم آتشِ رویت چو سپند
+    - - هیچ رویی نشود آینهٔ حجلهٔ بخت
+      - مگر آن روی که مالَند در آن سُمِّ سمند
+    - - گفتم اسرارِ غمت هر چه بُوَد گو می‌باش
+      - صبر از این بیش ندارم چه کنم تا کی و چند؟
+    - - مَکُش آن آهویِ مُشکینِ مرا ای صیّاد
+      - شرم از آن چشمِ سیه دار و مَبَندَش به کمند
+    - - منِ خاکی که از این در نَتَوانَم برخاست
+      - از کجا بوسه زنم بر لبِ آن قصرِ بلند؟
+    - - بازمَستان دل از آن گیسویِ مُشکین حافظ
+      - زان که دیوانه همان به که بُوَد اندر بند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 181
+    url: https://ganjoor.net/hafez/ghazal/sh181
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 181
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

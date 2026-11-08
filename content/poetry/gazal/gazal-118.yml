@@ -1,0 +1,40 @@
+id: gazal-118
+category: gazal
+number: 118
+firstLine:
+  fa: آن کس که به دست جام دارد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن کس که به دست جام دارد
+      - سلطانیِ جَم مُدام دارد
+    - - آبی که خِضِر حیات از او یافت
+      - در میکده جو‌ که جام دارد
+    - - سررشتهٔ جان به جام بگذار
+      - کاین رشته از او نظام دارد
+    - - ما و مِی و زاهدان و تقوا
+      - تا یار، سرِ کدام دارد
+    - - بیرون ز لبِ تو ساقیا نیست
+      - در دور، کسی که کام دارد
+    - - نرگس، همه شیوه‌های مستی
+      - از چشمِ خوشت به وام دارد
+    - - ذکرِ رخ و زلف تو دلم را
+      - وردی‌ست که صبح و شام دارد
+    - - بر سینهٔ ریشِ دردمندان
+      - لعلت نمکی تمام دارد
+    - - در چاهِ ذَقَن چو حافظ ای جان
+      - حُسنِ تو دو صد غلام دارد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 118
+    url: https://ganjoor.net/hafez/ghazal/sh118
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 118
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

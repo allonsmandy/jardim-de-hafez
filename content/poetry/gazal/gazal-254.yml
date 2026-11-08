@@ -1,0 +1,36 @@
+id: gazal-254
+category: gazal
+number: 254
+firstLine:
+  fa: دیگر ز شاخِ سروِ سَهی بلبلِ صبور
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دیگر ز شاخِ سروِ سَهی بلبلِ صبور
+      - گلبانگ زد که چشمِ بد از رویِ گُل به دور
+    - - ای گُل به شُکرِ آن که تویی پادشاهِ حُسن
+      - با بلبلانِ بی‌دلِ شیدا مَکُن غرور
+    - - از دستِ غیبتِ تو شکایت نمی‌کنم
+      - تا نیست غیبتی نَبُوَد لذّتِ حضور
+    - - گر دیگران به عیش و طَرَب خُرَّمَند و شاد
+      - ما را غمِ نگار بُوَد مایهٔ سُرور
+    - - زاهد اگر به حور و قصور است امیدوار
+      - ما را شرابخانه قصور است و یار حور
+    - - مِی خور به بانگِ چنگ و مخور غصه ور کسی
+      - گوید تو را که باده مخور گو هُوَالْغَفُور
+    - - حافظ شکایت از غمِ هجران چه می‌کنی؟
+      - در هِجر وصل باشد و در ظلمت است نور
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 254
+    url: https://ganjoor.net/hafez/ghazal/sh254
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 254
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

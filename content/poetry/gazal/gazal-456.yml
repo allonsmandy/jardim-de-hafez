@@ -1,0 +1,36 @@
+id: gazal-456
+category: gazal
+number: 456
+firstLine:
+  fa: نوبهار است در آن کوش که خوش‌دل باشی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نوبهار است در آن کوش که خوش‌دل باشی
+      - که بسی گُل بدمد باز و تو در گِل باشی
+    - - من نگویم که کنون با که نشین و چه بنوش
+      - که تو خود دانی اگر زیرک و عاقل باشی
+    - - چنگ در پرده همین می‌دهدت پند ولی
+      - وعظت آن گاه کند سود که قابل باشی
+    - - در چمن هر ورقی دفتر حالی دگر است
+      - حیف باشد که ز کار همه غافل باشی
+    - - نقد عمرت ببرد غصهٔ دنیا به گزاف
+      - گر شب و روز در این قصهٔ مشکل باشی
+    - - گر چه راهی‌ست پر از بیم ز ما تا بر دوست
+      - رفتن آسان بود ار واقف منزل باشی
+    - - حافظا گر مدد از بخت بلندت باشد
+      - صید آن شاهد مطبوع‌شمایل باشی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 456
+    url: https://ganjoor.net/hafez/ghazal/sh456
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 456
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

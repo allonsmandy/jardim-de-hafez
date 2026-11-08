@@ -1,0 +1,32 @@
+id: diversos-007
+category: diversos
+number: 7
+firstLine:
+  fa: من و صلاح و سلامت؟ کَس این گمان نَبَرَد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من و صلاح و سلامت؟ کَس این گمان نَبَرَد
+      - که کَس به رِندِ خرابات، ظَنِّ آن نَبَرَد
+    - - من این مُرَقَّعِ دیرینه، بَهرِ آن دارم
+      - که زیرِ خِرقه کِشَم مِی، کسی گمان نَبَرَد
+    - - مَباش غَرّه به عِلم و عمل، فقیه! مُدام
+      - که هیچ‌کَس زِ قضای خدای، جان نَبَرَد
+    - - اگرچه دیده بُوَد پاس‌بانِ تو، ای دل
+      - به‌هوش باش، که نقدِ تو، پاس‌بان نَبَرَد
+    - - سخن به نزدِ سخن‌دان، اَدا مَکُن حافظ
+      - که تحفه، کَس، دُروگوهر، به بَحر و کان نَبَرَد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 7
+    url: https://ganjoor.net/hafez/montasab/sh7
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 7
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

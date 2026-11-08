@@ -1,0 +1,40 @@
+id: gazal-350
+category: gazal
+number: 350
+firstLine:
+  fa: به عزمِ توبه سحر گفتم استخاره کُنم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به عزمِ توبه سحر گفتم استخاره کُنم
+      - بهارِ توبه‌شکن می‌رسد چه چاره کُنم؟
+    - - سخن درست بگویم نمی‌توانم دید
+      - که مِی خورند حریفان و من نِظاره کنم
+    - - چو غنچه با لبِ خندان به یادِ مجلسِ شاه
+      - پیاله گیرم و از شوق، جامه پاره کنم
+    - - به دورِ لاله دماغِ مرا عِلاج کنید
+      - گر از میانهٔ بزمِ طَرَب کناره کنم
+    - - ز رویِ دوست مرا چون گلِ مراد شِکُفت
+      - حوالهٔ سَرِ دشمن به سنگِ خاره کنم
+    - - گدایِ میکده‌ام، لیک وقتِ مستی بین
+      - که ناز بر فلک و حکم بر ستاره کنم
+    - - مرا که نیست رَه و رسمِ لقمه‌پرهیزی
+      - چرا ملامتِ رندِ شراب‌خواره کنم
+    - - به تختِ گُل بنشانم بُتی چو سلطانی
+      - ز سنبل و سَمَنش، سازِ طوق و یاره کنم
+    - - ز باده خوردن پنهان مَلول شد حافظ
+      - به بانگِ بَربَط و نِی، رازَش آشکاره کنم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 350
+    url: https://ganjoor.net/hafez/ghazal/sh350
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 350
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

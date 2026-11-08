@@ -1,0 +1,36 @@
+id: gazal-475
+category: gazal
+number: 475
+firstLine:
+  fa: گفتند خلایق که تویی یوسف ثانی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفتند خلایق که تویی یوسف ثانی
+      - چون نیک بدیدم به حقیقت به از آنی
+    - - شیرین‌تر از آنی به شکرخنده که گویم
+      - ای خسرو خوبان که تو شیرین زمانی
+    - - تشبیه دهانت نتوان کرد به غنچه
+      - هرگز نبود غنچه بدین تنگ دهانی
+    - - صد بار بگفتی که دهم زان دهنت کام
+      - چون سوسن آزاده چرا جمله زبانی؟
+    - - گویی بدهم کامت و جانت بستانم
+      - ترسم ندهی کامم و جانم بستانی
+    - - چشم تو خدنگ از سپر جان گذراند
+      - بیمار که دیده‌ست بدین سخت کمانی
+    - - چون اشک بیندازیش از دیدهٔ مردم
+      - آن را که دمی از نظر خویش برانی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 475
+    url: https://ganjoor.net/hafez/ghazal/sh475
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 475
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

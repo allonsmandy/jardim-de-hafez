@@ -1,0 +1,36 @@
+id: gazal-184
+category: gazal
+number: 184
+firstLine:
+  fa: دوش دیدم که ملائک درِ میخانه زدند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دوش دیدم که ملائک درِ میخانه زدند
+      - گِلِ آدم بسرشتَند و به پیمانه زدند
+    - - ساکنانِ حرمِ سِتر و عفافِ ملکوت
+      - با منِ راه‌نشین، بادهٔ مستانه زدند
+    - - آسمان بارِ امانت نتوانست کشید
+      - قرعهٔ کار به نامِ منِ دیوانه زدند
+    - - جنگِ هفتاد و دو ملت همه را عذر بِنه
+      - چون ندیدند حقیقت، رهِ افسانه زدند
+    - - شُکرِ ایزد که میانِ من و او صلح افتاد
+      - صوفیان، رقص‌کنان، ساغرِ شکرانه زدند
+    - - آتش آن نیست که از شعلهٔ او خندد شمع
+      - آتش آن است که در خرمنِ پروانه زدند
+    - - کس چو حافظ نَگُشاد، از رخِ اندیشه نقاب
+      - تا سرِ زلفِ سخن را، به قلم شانه زدند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 184
+    url: https://ganjoor.net/hafez/ghazal/sh184
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 184
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

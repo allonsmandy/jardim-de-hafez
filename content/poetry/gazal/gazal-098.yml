@@ -1,0 +1,38 @@
+id: gazal-098
+category: gazal
+number: 98
+firstLine:
+  fa: اگر به مذهبِ تو خونِ عاشق است مُباح
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر به مذهبِ تو خونِ عاشق است مُباح
+      - صلاحِ ما همه آن است کآن تو راست صلاح
+    - - سوادِ زلفِ سیاهِ تو جاعِلُ الظُّلُمات
+      - بَیاضِ رویِ چو ماهِ تو، فالِقُ الأصباح
+    - - ز چینِ زلفِ کمندت کسی نیافت خلاص
+      - از آن کمانچهٔ ابرو و تیرِ چشم، نَجاح
+    - - ز دیده‌ام شده یک چشمه در کنار روان
+      - که آشنا نکند در میان آن، مَلّاح
+    - - لبِ چو آبِ حیاتِ تو هست قُوَّتِ جان
+      - وجودِ خاکیِ ما را از اوست ذکرِ رَواح
+    - - بداد لعلِ لبت بوسه‌ای به صد زاری
+      - گرفت کام دلم زو به صد هزار اِلحاح
+    - - دعای جانِ تو وردِ زبان مشتاقان
+      - همیشه تا که بُوَد متّصل مَسا و صَباح
+    - - صَلاح و توبه و تقوی ز ما مجو حافظ
+      - ز رند و عاشق و مجنون کسی نیافت صلاح
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 98
+    url: https://ganjoor.net/hafez/ghazal/sh98
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 98
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

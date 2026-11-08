@@ -1,0 +1,34 @@
+id: gazal-233
+category: gazal
+number: 233
+firstLine:
+  fa: دست از طلب ندارم تا کامِ من برآید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دست از طلب ندارم تا کامِ من برآید
+      - یا تن رسد به جانان یا جان ز تن برآید
+    - - بگشای تربتم را بعد از وفات و بنگر
+      - کز آتش درونم دود از کفن برآید
+    - - بنمای رخ که خَلقی والِه شَوَند و حیران
+      - بگشای لب که فریاد از مرد و زن برآید
+    - - جان بر لب است و حسرت در دل که از لبانش
+      - نگرفته هیچ کامی جان از بدن برآید
+    - - از حسرتِ دهانش آمد به تنگ جانم
+      - خود کامِ تنگدستان کی زان دهن برآید
+    - - گویند ذکرِ خیرش در خیلِ عشقبازان
+      - هر جا که نامِ حافظ در انجمن برآید
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 233
+    url: https://ganjoor.net/hafez/ghazal/sh233
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 233
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

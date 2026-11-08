@@ -1,0 +1,36 @@
+id: gazal-295
+category: gazal
+number: 295
+firstLine:
+  fa: سَحَر به بویِ گلستان دَمی شدم در باغ
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سَحَر به بویِ گلستان دَمی شدم در باغ
+      - که تا چو بلبلِ بیدل کُنَم عِلاجِ دِماغ
+    - - به جلوهٔ گلِ سوری نگاه می‌کردم
+      - که بود در شبِ تیره به روشنی چو چراغ
+    - - چُنان به حُسن و جوانیِ خویشتن مغرور
+      - که داشت از دلِ بلبل هزار گونه فَراغ
+    - - گشاده نرگسِ رعنا ز حسرت آب از چشم
+      - نهاده لاله ز سودا به جان و دل صد داغ
+    - - زبان کشیده چو تیغی به سرزنش سوسن
+      - دهان گُشاده شقایق چو مردمِ ایغاغ
+    - - یکی چو باده پرستان صُراحی اندر دست
+      - یکی چو ساقیِ مستان به کف گرفته اَیاغ
+    - - نشاط و عیش و جوانی چو گُل غنیمت دان
+      - که حافظا نَبُوَد بر رسول غیر بَلاغ
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 295
+    url: https://ganjoor.net/hafez/ghazal/sh295
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 295
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,44 @@
+id: gazal-367
+category: gazal
+number: 367
+firstLine:
+  fa: فتوی پیرِ مُغان دارم و قولی‌ست قدیم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - فتوی پیرِ مُغان دارم و قولی‌ست قدیم
+      - که حرام است مِی آن جا که نه یار است ندیم
+    - - چاک خواهم زدن این دلقِ ریایی، چه کنم؟
+      - روح را صحبتِ ناجنس، عذابی‌ست اَلیم
+    - - تا مگر جرعه فشانَد لبِ جانان بر من
+      - سال‌ها شد که منم بر درِ میخانه مقیم
+    - - مگرش خدمتِ دیرین من از یاد برفت
+      - ای نسیم سحری! یاد دَهَش عهدِ قدیم
+    - - بعد صد سال اگر بر سرِ خاکم گذری
+      - سر برآرد ز گِلم رقص‌کنان عَظمِ رَمیم
+    - - دلبر از ما به صد امّید سِتد اول دل
+      - ظاهراً عهد فرامُش نکُند خُلقِ کریم
+    - - غنچه گو «تنگ‌دل از کارِ فروبسته مَباش
+      - کز دم صبح مدد یابی و انفاسِ نسیم»
+    - - فکر بهبود خود ای دل ز دری دیگر کن
+      - درد عاشق نشود به، به مداوایِ حکیم
+    - - گوهرِ معرفت آموز که با خود بِبَری
+      - که نصیبِ دگران است نِصابِ زر و سیم
+    - - دام سخت است مگر یار شود لطفِ خدا
+      - ور نه آدم نَبَرد صرفه ز شیطانِ رجیم
+    - - حافظ ار سیم و زرت نیست، چه شد؟ شاکر باش
+      - چه به از دولتِ لطفِ سخن و طَبع سلیم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 367
+    url: https://ganjoor.net/hafez/ghazal/sh367
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 367
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

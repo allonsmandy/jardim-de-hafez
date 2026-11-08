@@ -1,0 +1,42 @@
+id: gazal-472
+category: gazal
+number: 472
+firstLine:
+  fa: اَحمَدُ اللهَ عَلی مَعْدِلَةِ السُلطانِ
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اَحمَدُ اللهَ عَلی مَعْدِلَةِ السُلطانِ
+      - احمدِ شیخ اُوِیسِ حسنِ ایلخانی
+    - - خانِ بِنْ خان و شهنشاهِ شهنشاه‌نژاد
+      - آن که می‌زیبد اگر جان جهانش خوانی
+    - - دیده نادیده به اقبال تو ایمان آورد
+      - مرحبا ای به چنین لطف خدا ارزانی
+    - - ماه اگر بی تو برآید به دو نیمش بزنند
+      - دولت احمدی و معجزهٔ سبحانی
+    - - جلوهٔ بخت تو دل می‌برد از شاه و گدا
+      - چشم بد دور که هم جانی و هم جانانی
+    - - برشکن کاکل ترکانه که در طالع توست
+      - بخشش و کوشش خاقانی و چنگزخانی
+    - - گر چه دوریم به یاد تو قدح می‌گیریم
+      - بُعد منزل نبود در سفر روحانی
+    - - از گل پارسیم غنچهٔ عیشی نشکفت
+      - حبّذا دجله بغداد و می ریحانی
+    - - سر عاشق که نه خاک در معشوق بود
+      - کی خلاصش بود از محنت سرگردانی
+    - - ای نسیم سحری خاک در یار بیار
+      - که کند حافظ از او دیدهٔ دل نورانی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 472
+    url: https://ganjoor.net/hafez/ghazal/sh472
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 472
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

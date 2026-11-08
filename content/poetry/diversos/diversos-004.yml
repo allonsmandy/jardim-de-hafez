@@ -1,0 +1,38 @@
+id: diversos-004
+category: diversos
+number: 4
+firstLine:
+  fa: غمش تا در دلم مَأوا گرفته است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - غمش تا در دلم مَأوا گرفته است
+      - سرم چون زلف او سودا گرفته است
+    - - لب چون آتشش آب حیات است
+      - از آن آب آتشی در ما گرفته است
+    - - هُمای همتم عمری است کز جان
+      - هوای آن قد و بالا گرفته است
+    - - شدم عاشق به بالای بلندش
+      - که کار عاشقان بالا گرفته است
+    - - چو ما در سایهٔ الطاف اوییم
+      - چرا او سایه از ما وا گرفته است؟
+    - - نسیم صبح، عنبر بوست امروز
+      - مگر یارم ره صحرا گرفته است؟
+    - - ز دریای دو چشمم گوهر اشک
+      - جهان در لؤلؤ لالا گرفته است
+    - - حدیث حافظ ای سرو سمن‌بوی
+      - به وصف قد تو بالا گرفته است
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 4
+    url: https://ganjoor.net/hafez/montasab/sh4
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 4
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

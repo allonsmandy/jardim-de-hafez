@@ -1,0 +1,32 @@
+id: gazal-424
+category: gazal
+number: 424
+firstLine:
+  fa: از من جدا مشو که توام نور دیده‌ای
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از من جدا مشو که توام نور دیده‌ای
+      - آرام جان و مونس قلب رمیده‌ای
+    - - از دامن تو دست ندارند عاشقان
+      - پیراهن صبوری ایشان دریده‌ای
+    - - از چشم بخت خویش، مبادت گزند از آنک
+      - در دلبری، به غایتِ خوبی رسیده‌ای
+    - - منعم مکن ز عشق وی ای مفتی زمان
+      - معذور دارمت که تو او را ندیده‌ای
+    - - آن سرزنش که کرد تو را دوست حافظا
+      - بیش از گلیم خویش مگر پا کشیده‌ای
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 424
+    url: https://ganjoor.net/hafez/ghazal/sh424
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 424
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

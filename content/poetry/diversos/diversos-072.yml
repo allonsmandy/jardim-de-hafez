@@ -1,0 +1,34 @@
+id: diversos-072
+category: diversos
+number: 72
+firstLine:
+  fa: ای برده دلم را تو بدین شکل و شمایل
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای برده دلم را تو بدین شکل و شمایل
+      - پروای کست نیست جهانی به تو مایل
+    - - گه آه کشم از دل و گه تیر تو ای جان
+      - پیش تو چه گویم که چه‌ها می کشم از دل
+    - - وصف لب لعل تو چه گویم به رقیبان
+      - نیکو نبود معنی رنگین بر جاهل
+    - - هر روز چو حسنت ز دگر روز فزون است
+      - مه را نتوان کرد به روی تو مقابل
+    - - دل بردی و جان می‌دهمت غم چه فرستی
+      - چون نیک غمینیم چه حاجت به محصل
+    - - حافظ چو تو پا در حرم عشق نهادی
+      - در دامن او دست زن و از همه بگسل
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 72
+    url: https://ganjoor.net/hafez/montasab/sh72
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 72
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

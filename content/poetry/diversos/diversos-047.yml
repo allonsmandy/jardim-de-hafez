@@ -1,0 +1,36 @@
+id: diversos-047
+category: diversos
+number: 47
+firstLine:
+  fa: دلبر و جانان من برد دل و جان من
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دلبر و جانان من برد دل و جان من
+      - برد دل و جان من دلبر و جانان من
+    - - از لب جانان من زنده شود جان من
+      - زنده شود جان من از لب جانان من
+    - - روضه ی رضوان من خاک سر کوی دوست
+      - خاک سر کوی دوست روضه ی رضوان من
+    - - این دل حیران من واله شیدای تست
+      - واله و شیدای تست این دل حیران من
+    - - یوسف کنعان من مصر ملاحت تر است
+      - مصر ملاحت تر است یوسف کنعان من
+    - - سرو گلستان من قامت دلجوی توست
+      - قامت دلجوی توست سرو گلستان من
+    - - حافظ خوشخوان من نقد کمال غیاث
+      - نقد کمال غیاث حافظ خوشخوان من
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 47
+    url: https://ganjoor.net/hafez/montasab/sh47
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 47
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

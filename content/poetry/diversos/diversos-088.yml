@@ -1,0 +1,26 @@
+id: diversos-088
+category: diversos
+number: 88
+firstLine:
+  fa: از بد دهر اگر همی رنجی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از بد دهر اگر همی رنجی
+      - رنجش از روزگار سهل بود
+    - - رنج و راحت ورای طالع نیست
+      - وآن که دانست مرد اهل بود
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 88
+    url: https://ganjoor.net/hafez/montasab/sh88
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 88
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

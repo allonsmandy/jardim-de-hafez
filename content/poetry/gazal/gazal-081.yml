@@ -1,0 +1,38 @@
+id: gazal-081
+category: gazal
+number: 81
+firstLine:
+  fa: صبحدم مرغ چمن با گل نوخاسته گفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صبحدم مرغ چمن با گل نوخاسته گفت
+      - ناز کم کن که در این باغ بسی چون تو شکفت
+    - - گل بخندید که از راست نرنجیم ولی
+      - هیچ عاشق سخن سخت به معشوق نگفت
+    - - گر طمع داری از آن جام مرصع میِ لعل
+      - ای بسا دُر که به نوک مژه‌ات باید سفت
+    - - تا ابد بوی محبت به مشامش نرسد
+      - هر که خاک در میخانه به رخسار نرُفت
+    - - در گلستان ارم دوش چو از لطف هوا
+      - زلف سنبل به نسیم سحری می‌آشفت،
+    - - 'گفتم: «ای مسند جم! جام جهان‌بینت کو؟»'
+      - 'گفت: «افسوس که آن دولت بیدار بخفت!»'
+    - - سخن عشق نه آن است که آید به زبان
+      - ساقیا می ده و کوتاه کُن این گفت و شنفت
+    - - اشک حافظ، خرد و صبر، به دریا انداخت
+      - چه کند؟ سوز غم عشق نیارست نهفت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 81
+    url: https://ganjoor.net/hafez/ghazal/sh81
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 81
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

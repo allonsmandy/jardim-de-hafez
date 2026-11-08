@@ -1,0 +1,196 @@
+id: gazal-004
+category: gazal
+number: 4
+firstLine:
+  fa: صبا به لُطف بگو آن غزالِ رَعنا را
+  pt: Ó brisa da manhã, dize com gentileza àquela gazela graciosa
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صبا به لُطف بگو آن غزالِ رَعنا را
+      - که سَر به کوه و بیابان تو داده‌ای ما را
+    - - شِکر فُروش که عُمرَش دراز باد چرا
+      - تَفَقُّدی نَکُنَد طوطیِ شِکرخا را؟
+    - - غرورِ حُسنت اجازَت مَگَر نداد اِی گُل
+      - که پُرسِشی نکُنی عَندَلیب شیدا را
+    - - به خُلق و لطف توان کرد صیدِ اهلِ نظر
+      - به بند و دام نگیرند مرغِ دانا را
+    - - ندانم از چه سبب رنگِ آشنایی نیست
+      - سَهی‌قَدانِ سیَه‌‌چشمِ ماه‌سیما را
+    - - چو با حبیب نِشینی و باده پِیمایی
+      - به یاد دار مُحِبّانِ بادپیما را
+    - - جُز این قَدَر نَتوان گفت در جَمالِ تو عیب
+      - که وضع مِهر و وفا نیست رویِ زیبا را
+    - - در آسمان نه عجب گَر به گفتهٔ حافظ
+      - سُرودِ زُهره به رقص آورد مسیحا را
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 4
+    url: https://ganjoor.net/hafez/ghazal/sh4
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Ó brisa da manhã, dize com gentileza àquela gazela graciosa
+      - que foi ela quem nos lançou às montanhas e aos desertos.
+    - - O vendedor de açúcar — que sua vida seja longa! — por que
+      - não pergunta pelo papagaio que come açúcar?
+    - - Será que o orgulho da tua beleza não te permitiu, ó rosa,
+      - perguntar pelo rouxinol enlouquecido?
+    - - Com bom trato e gentileza se pode caçar quem sabe ver;
+      - com laço e armadilha não se apanha o pássaro sábio.
+    - - Não sei por que razão não há cor de amizade
+      - nos de porte esbelto, olhos negros e rosto de lua.
+    - - Quando estiveres com o amado, medindo o vinho,
+      - lembra-te dos amantes que medem o vento.
+    - - 'Não se pode apontar em tua beleza outro defeito além deste:'
+      - não é do feitio de um rosto belo a ternura e a fidelidade.
+    - - No céu, não admira se, com os versos de Hafez,
+      - o canto de Vênus leve o Messias a dançar.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 4
+themes:
+  - Um recado para quem se ama
+  - Por que você não pergunta por mim?
+  - Conquistar com gentileza
+  - A beleza que não é fiel
+introduction:
+  - 'Um poema-recado. O poeta pede ao vento da manhã — que nos poemas persas faz o papel de
+    mensageiro entre apaixonados — que leve uma mensagem à pessoa amada, comparada a uma gazela:
+    linda, elegante e difícil de alcançar.'
+  - 'O tom é de uma queixa delicada: por que quem é bonito nunca pergunta por quem o ama? Hafez usa
+    casais clássicos da poesia persa — o papagaio e o açúcar, o rouxinol e a rosa — e termina se
+    gabando de que seus versos fariam até Jesus dançar no céu.'
+stanzaNotes:
+  - stanza: 1
+    plain: 'Vento da manhã, diga com jeitinho àquela pessoa linda: foi por causa dela que eu fiquei
+      perdido, vagando sem rumo.'
+    meaning:
+      A brisa da manhã leva recados entre amantes. O poeta pede que diga ao amado — a "gazela"
+      bela e arisca — que foi por causa dele(a) que o amante enlouqueceu e vagou pelos montes e
+      desertos, como Majnun, o louco de amor da lenda árabe-persa de Layla e Majnun.
+    literal:
+      Brisa, com gentileza dize àquela gazela graciosa / que a cabeça às montanhas e ao deserto
+      tu nos deste.
+    choices: '"Sar be kuh o biyaban dadan" (dar a cabeça às montanhas e ao deserto) é expressão
+      idiomática para "fazer alguém vagar sem rumo, enlouquecer". "Lançou às montanhas e aos
+      desertos" conserva a imagem. Mudamos a fala para o discurso indireto ("foi ela quem…") para
+      que o português flua; no original, a fala é direta ("tu nos deste…"). "Ghazal" (gazela) é
+      também, por acaso, homônima de "gazel" (o poema) em português — em persa são palavras
+      diferentes (ghazāl × ghazal).'
+  - stanza: 2
+    plain:
+      Quem tem os lábios doces como açúcar (que viva muito!) por que nunca procura saber de mim,
+      que vivo dessa doçura?
+    meaning: 'O "vendedor de açúcar" é o amado, cujos lábios são doces; o "papagaio" é o poeta.
+      Ensinava-se o papagaio a falar dando-lhe açúcar: o poeta "fala" (faz versos) graças à doçura
+      do amado. Por que, então, o amado não se interessa por ele?'
+    literal:
+      O vendedor de açúcar, que a vida dele seja longa, por quê / não faz uma visita de cuidado
+      ao papagaio comedor de açúcar?
+    choices:
+      '"Tafaqqod" é o ato de perguntar pelo bem-estar de alguém, visitar, cuidar; "perguntar por"
+      é a forma mais natural em português. A bênção "que sua vida seja longa" é uma fórmula de
+      cortesia mantida entre travessões.'
+  - stanza: 3
+    plain: Será que você é tão orgulhosa da sua beleza, minha rosa, que nem pergunta como está o
+      rouxinol que enlouqueceu por você?
+    meaning:
+      'O par rosa e rouxinol: a rosa (o amado) é tão orgulhosa da própria beleza que não se digna
+      a perguntar pelo rouxinol (o poeta), louco de amor. É uma queixa feita com cortesia — "será
+      que…?".'
+    literal: O orgulho da tua beleza permissão talvez não deu, ó rosa, / que uma pergunta faças ao
+      rouxinol enlouquecido.
+    choices: '"''Andalib" é um sinônimo literário de "bolbol" (rouxinol). "Sheyda" é o enlouquecido
+      de amor; "enlouquecido" mantém a intensidade.'
+  - stanza: 4
+    plain: Pessoas sensíveis só se conquistam com gentileza. Ninguém prende um pássaro esperto com
+      armadilha.
+    meaning:
+      'Uma máxima: as pessoas sensíveis e sábias ("gente de visão", isto é, os que sabem apreciar
+      a beleza) só se deixam conquistar por bondade, nunca pela força ou pela astúcia. É também um
+      conselho indireto ao amado.'
+    literal:
+      Com caráter e gentileza pode-se fazer presa da gente de visão; / com corrente e armadilha
+      não pegam o pássaro sábio.
+    choices:
+      '"Ahl-e nazar" é uma expressão rica: os que têm olhar, os contempladores, os conhecedores
+      da beleza (inclusive no sentido místico). "Quem sabe ver" preserva o sentido sem jargão.'
+  - stanza: 5
+    plain: Não entendo por que as pessoas lindas nunca são simpáticas com a gente.
+    meaning: Os belos — esbeltos como ciprestes, de olhos negros e rosto luminoso como a lua — não
+      mostram nenhum sinal de amizade. O poeta finge não entender por quê.
+    literal: Não sei de que causa cor de familiaridade não há / nos de estatura reta, olhos negros,
+      semblante de lua.
+    choices: '"Sahi-qad" é "de estatura reta", alusão ao cipreste, símbolo de elegância; "de porte
+      esbelto" soa natural. "Rang-e ashenayi" (cor de familiaridade) foi mantido como "cor de
+      amizade" porque a metáfora de cor é bonita e clara.'
+  - stanza: 6
+    plain:
+      Quando estiver bebendo e se divertindo com quem você ama, lembre-se de quem ficou sozinho,
+      sofrendo à toa.
+    meaning:
+      Quando estiveres feliz, bebendo com o amado, lembra-te dos amantes que "medem o vento" — os
+      que se esforçam em vão, vagando sem nada nas mãos. É um pedido de lembrança dos ausentes,
+      comum nos brindes persas.
+    literal: Quando com o amado te sentares e vinho medires, / em memória tem os amantes medidores-de-vento.
+    choices:
+      'O verso joga com "bade-peyma" (que mede/serve vinho) e "bad-peyma" (que mede o vento, isto
+      é, que trabalha em vão, que vagueia). Recriamos o paralelismo com "medindo o vinho" / "medem o
+      vento", que funciona em português. "Habib" e "mohebb" vêm da mesma raiz árabe (amar): "o
+      amado" e "os amantes".'
+  - stanza: 7
+    plain: 'Sua beleza só tem um defeito: gente bonita não costuma ser carinhosa nem fiel.'
+    meaning:
+      O único defeito da beleza do amado é que os belos, por natureza, não costumam ser afetuosos
+      nem fiéis. É um elogio disfarçado de crítica — a única falha é aquela que todos os belos têm.
+    literal:
+      'Exceto isto não se pode dizer na tua beleza defeito: / que costume de afeto e fidelidade
+      não tem o rosto belo.'
+    choices: '"Mehr" é afeto, amor, ternura (e também "sol"); "vafa" é fidelidade às promessas.
+      "Ternura e fidelidade" mantém o par. "Do feitio" traduz "vaz''", que aqui significa
+      "costume, natureza".'
+  - stanza: 8
+    plain: Não é de admirar que, no céu, quando o planeta Vênus canta os versos de Hafez, até Jesus
+      comece a dançar.
+    meaning: Na cosmologia medieval, os planetas ocupavam céus sobrepostos. Vênus (Zohre) era a
+      musicista celeste, que toca e canta no terceiro céu; Jesus (Masiha, o Messias) foi, segundo o
+      Alcorão, elevado vivo ao céu, e a poesia persa o situa por convenção no quarto céu, o do Sol.
+      Hafez diz que, se Vênus cantar os versos dele, até Jesus, o mais sereno dos profetas, começará
+      a dançar.
+    literal: No céu não é espantoso se, pela fala de Hafez, / o canto de Zohre à dança trouxer o Messias.
+    choices:
+      Mantivemos "Vênus" (a identificação de Zohre com o planeta é exata) e "o Messias" (Masiha,
+      título de Jesus no Alcorão), e explicamos aqui a cosmologia. Não acrescentamos "no
+      terceiro/quarto céu" ao verso para não carregar a tradução.
+glossary:
+  - gazela
+  - gazel
+  - saba
+  - rosa-rouxinol
+  - amado
+  - vinho
+  - takhallos
+  - majnun
+  - cipreste
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

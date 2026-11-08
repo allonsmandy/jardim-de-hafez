@@ -1,0 +1,38 @@
+id: gazal-131
+category: gazal
+number: 131
+firstLine:
+  fa: بیا که تُرکِ فلک خوانِ روزه غارت کرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بیا که تُرکِ فلک خوانِ روزه غارت کرد
+      - هلالِ عید به دورِ قدح اشارت کرد
+    - - ثوابِ روزه و حجِّ قبول آن کس بُرد
+      - که خاکِ میکدهٔ عشق را زیارت کرد
+    - - مُقامِ اصلیِ ما گوشهٔ خرابات است
+      - خداش خیر دهاد آن که این عمارت کرد
+    - - بهایِ بادهٔ چون لعل چیست؟ جوهرِ عقل
+      - بیا که سود کسی بُرد، کاین تجارت کرد
+    - - نماز در خَمِ آن ابروانِ محرابی
+      - کسی کُنَد که به خونِ جگر طهارت کرد
+    - - فغان که نرگس جَمّاشِ شیخِ شهر امروز
+      - نظر به دُردکشان از سرِ حقارت کرد
+    - - به رویِ یار نظر کن ز دیده مِنّت دار
+      - که کاردیده، نظر از سرِ بِصارت کرد
+    - - حدیثِ عشق ز حافظ شنو نه از واعظ
+      - اگر چه صنعتِ بسیار در عبارت کرد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 131
+    url: https://ganjoor.net/hafez/ghazal/sh131
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 131
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,40 @@
+id: gazal-488
+category: gazal
+number: 488
+firstLine:
+  fa: سَحرم هاتف میخانه به دولت‌خواهی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سَحرم هاتف میخانه به دولت‌خواهی
+      - 'گفت: باز آی که دیرینهٔ این درگاهی'
+    - - همچو جَم جرعهٔ ما کَش که ز سِرّ دو جهان
+      - پرتو جام جهان‌بین دهدَت آگاهی
+    - - بر در میکده، رندان قلندر باشند
+      - که سِتانند و دهند افسر شاهنشاهی
+    - - خشت، زیر سر و بر تارَک هفت‌اختر پای
+      - دست قدرت نگر و منصب صاحب‌جاهی
+    - - سَر ما و در میخانه که طرف بامش
+      - به فلک بَر شد و دیوار بدین کوتاهی
+    - - قطع این مرحله بی‌همرهی خضر مکن
+      - ظلمات است، بترس از خطر گمراهی
+    - - اگرت سلطنت فقر ببخشند، ای دل!
+      - کمترین ملک تو از ماه بود تا ماهی
+    - - تو دم فقر ندانی زدن از دست مده
+      - مسند خواجگی و مجلس تورانشاهی
+    - - حافظِ خام‌طمع! شرمی از این قصّه بدار
+      - عملت چیست که فردوس بَرین می‌خواهی‌؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 488
+    url: https://ganjoor.net/hafez/ghazal/sh488
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 488
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

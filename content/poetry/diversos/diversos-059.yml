@@ -1,0 +1,30 @@
+id: diversos-059
+category: diversos
+number: 59
+firstLine:
+  fa: دل مبند ای مرد بخرد بر سخای عمر و زید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دل مبند ای مرد بخرد بر سخای عمر و زید
+      - کس نمی‌داند که کارش از کجا خواهد گشاد
+    - - رو توکل کن نمی‌دانی که نوک کلک من
+      - نقش هر صورت که زد رنگی دگر بیرون فتاد
+    - - شاه هرموزم ندید و بی سخن صد لطف کرد
+      - شاه یزدم دید و مدحش کردم و هیچم نداد
+    - - کار شاهان این چنین باشد تو ای حافظ مرنج
+      - داور و روزی‌رسان توفیق و نصرتْشان دهاد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 59
+    url: https://ganjoor.net/hafez/montasab/sh59
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 59
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

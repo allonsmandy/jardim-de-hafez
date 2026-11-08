@@ -1,0 +1,34 @@
+id: diversos-064
+category: diversos
+number: 64
+firstLine:
+  fa: ز دل بر آمدم و کار بر نمی‌آید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ز دل بر آمدم و کار بر نمی‌آید
+      - ز خود برون شدم یار در نمی‌آید
+    - - در این خیال به سر شد زمان عمر و هنوز
+      - بلای زلف درازت به سر نمی‌آید
+    - - بَسَم حکایت دل هست با نسیم سحر
+      - ولی به بخت من امشب سحر نمی‌آید
+    - - فدای دوست نکردیم عمر و مال و دریغ
+      - که کار عشق ز ما این قدر نمی‌آید
+    - - همیشه آه سحرگاه من خطا نشدی
+      - کنون چه شد که یکی کارگر نمی‌آید
+    - - ز بس که شد دل حافظ رمیده از همه کس
+      - کنون ز حلقهٔ زلفت به در نمی‌آید
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 64
+    url: https://ganjoor.net/hafez/montasab/sh64
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 64
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

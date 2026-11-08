@@ -1,0 +1,40 @@
+id: gazal-258
+category: gazal
+number: 258
+firstLine:
+  fa: هزار شُکر که دیدم به کامِ خویشت باز
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هزار شُکر که دیدم به کامِ خویشت باز
+      - ز رویِ صدق و صفا گشته با دلم دَمساز
+    - - رَوَندگانِ طریقت رَهِ بلا سِپَرَند
+      - رفیقِ عشق چه غم دارد از نَشیب و فراز
+    - - غمِ حبیب نهان بِه ز گفت و گوی رقیب
+      - که نیست سینهٔ اربابِ کینه‌، محرمِ راز
+    - - اگر چه حُسنِ تو از عشقِ غیر مُستَغنی‌ست
+      - من آن نیَم که از این عشق‌بازی آیم باز
+    - - چه گویَمَت که ز سوزِ درون چه می‌بینم
+      - ز اشک پُرس حکایت که من نیَم غَمّاز
+    - - چه فتنه بود که مَشّاطِهٔ قضا انگیخت
+      - که کرد نرگسِ مستش سیَه به سرمهٔ ناز
+    - - بدین سپاس که مجلس مُنَوَّر است به دوست
+      - گَرَت چو شمع جفایی رِسَد بسوز و بساز
+    - - غَرَض کِرشمهٔ حُسن است ور نه حاجت نیست
+      - جمالِ دولتِ محمود را به زلفِ ایاز
+    - - غزل سُرایی ناهید صرفه‌ای نَبَرَد
+      - در آن مَقام که حافظ برآورد آواز
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 258
+    url: https://ganjoor.net/hafez/ghazal/sh258
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 258
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

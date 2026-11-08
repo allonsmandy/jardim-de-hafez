@@ -1,0 +1,40 @@
+id: diversos-073
+category: diversos
+number: 73
+firstLine:
+  fa: الم یأن للحباب أن یترحموا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - الم یأن للحباب أن یترحموا
+      - و للنّاقضین العهد أن یتندّموا
+    - - الم یأتهم انباء من فات عهدهم‌
+      - و فی صدره نار الاسی تتضرّم
+    - - فیالیت قومی یعلمون بما جری‌ علی
+      - مرتج منهم فیعفوا و یرحموا
+    - - حکی الدّمع منّی و الجوارح
+      - و اضمرت‌ فیا عجبا من صامت یتکلّم
+    - - اتی موسم النیّروز و اخضرّت الرّبی‌
+      - و راوق مر و النّدامی ترنّموا
+    - - و یا من علا کلّ السّلاطین سطوه
+      - ترنّم جزاک اللّه و الخیر تغنم
+    - - بنوا عمّنا حبّوا علینا بجرعه
+      - و للفضل اسباب بها یتوسّم
+    - - شهور بها الاوطار تقضی من القضا
+      - و فی شأننا عیش الرّبیع محّرم
+    - - لکلّ من الخّلان ذخر و نعمه‌
+      - و للحافظ المسکین فقر و مغرم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 73
+    url: https://ganjoor.net/hafez/montasab/sh73
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 73
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

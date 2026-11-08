@@ -1,0 +1,36 @@
+id: gazal-403
+category: gazal
+number: 403
+firstLine:
+  fa: شراب لعل‌کش و روی مه‌جبینان بین
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شراب لعل‌کش و روی مه‌جبینان بین
+      - خلاف مذهب آنان جمال اینان بین
+    - - به زیر دلق ملمّع کمندها دارند
+      - درازدستی این کوته‌آستینان بین
+    - - به خرمن دو جهان سر فرونمی‌آرند
+      - دماغ و کبر گدایان و خوشه‌چینان بین
+    - - بهای نیم کرشمه هزار جان طلبند
+      - نیاز اهل دل و ناز نازنینان بین
+    - - حقوق صحبت ما را به باد داد و برفت
+      - وفای صحبت یاران و همنشینان بین
+    - - اسیر عشق شدن چارهٔ خلاص من است
+      - ضمیر عاقبت‌اندیش پیش‌بینان بین
+    - - کدورت از دل حافظ ببرد صحبت دوست
+      - صفای همّت پاکان و پاک‌دینان بین
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 403
+    url: https://ganjoor.net/hafez/ghazal/sh403
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 403
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

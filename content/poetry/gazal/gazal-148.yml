@@ -1,0 +1,32 @@
+id: gazal-148
+category: gazal
+number: 148
+firstLine:
+  fa: یارم چو قدح به دست گیرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یارم چو قدح به دست گیرد
+      - بازارِ بتان شکست گیرد
+    - - هر کس که بدید چشم او گفت
+      - «کو محتسبی که مست گیرد؟»
+    - - در بحر فتاده‌ام چو ماهی
+      - تا یار مرا به شَست گیرد
+    - - در پاش فتاده‌ام به زاری
+      - آیا بوَد آن که دست گیرد؟
+    - - خُرَّم دلِ آن که همچو حافظ
+      - جامی ز مِیِ اَلَست گیرد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 148
+    url: https://ganjoor.net/hafez/ghazal/sh148
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 148
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

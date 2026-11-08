@@ -1,0 +1,26 @@
+id: rubai-016
+category: rubai
+number: 16
+firstLine:
+  fa: این گل ز بر هم‌نفسی می‌آید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - این گل ز بر هم‌نفسی می‌آید
+      - شادی به دلم از او بسی می‌آید
+    - - پیوسته از آن روی کنم همدمی‌اش
+      - کز رنگ وی‌ام بوی کسی می‌آید
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 16
+    url: https://ganjoor.net/hafez/robaee2/sh16
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 16
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

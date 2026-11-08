@@ -1,0 +1,38 @@
+id: diversos-071
+category: diversos
+number: 71
+firstLine:
+  fa: ز چشم بد رخ خوب تو را خدا حافظ
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ز چشم بد رخ خوب تو را خدا حافظ
+      - که کرد جمله نکویی به جای ما حافظ
+    - - بیا که نوبت صلح است و دوستی و صفا
+      - که با تو نیست مرا جنگ و ماجرا، حافظ
+    - - به زلف و خال بتان دل مبند دیگربار
+      - اگر بجستی از این بند و این بلا، حافظ
+    - - اگرچه خون دلت خورد لعل من، بستان
+      - به کام دل ز لبم بوسه خون‌بها، حافظ
+    - - بیا بخوان غزلی تازه‌تر ز آب حیات
+      - که شعر توست فرح‌بخش و جان‌فزا، حافظ
+    - - سحرگهی که چو رندان بنالی از سر درد
+      - به کار من کنی آن‌دم یکی دعا، حافظ
+    - - تو از کجا و امید وصال او ز کجا
+      - به دامنش نرسد دست هر گدا، حافظ
+    - - چو ذوق یافت دل من به ذکر آن محبوب
+      - مراست تحفه‌ی جان‌بخش و غم‌زدا، حافظ
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 71
+    url: https://ganjoor.net/hafez/montasab/sh71
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 71
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,40 @@
+id: gazal-084
+category: gazal
+number: 84
+firstLine:
+  fa: ساقی بیار باده که ماهِ صیام رفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقی بیار باده که ماهِ صیام رفت
+      - دَردِه قدح که موسمِ ناموس و نام رفت
+    - - وقتِ عزیز رفت بیا تا قضا کنیم
+      - عمری که بی حضور صُراحی و جام رفت
+    - - مستم کن آن چنان که ندانم ز بی‌خودی
+      - در عرصهٔ خیال که آمد، کدام رفت
+    - - بر بوی آن که جرعهٔ جامت به ما رسد
+      - در مَصطَبِه دعایِ تو هر صبح و شام رفت
+    - - دل را که مرده بود حیاتی به جان رسید
+      - تا بویی از نسیمِ می‌اش در مشام رفت
+    - - زاهد غرور داشت، سلامت نبرد راه
+      - رند از رهِ نیاز به دارالسلام رفت
+    - - نقدِ دلی که بود مرا صرف باده شد
+      - قلبِ سیاه بود از آن در حرام رفت
+    - - در تابِ توبه چند توان سوخت همچو عود؟
+      - می ده که عمر در سرِ سودای خام رفت
+    - - دیگر مکن نصیحتِ حافظ که ره نیافت
+      - گمگشته‌ای که بادهٔ نابش به کام رفت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 84
+    url: https://ganjoor.net/hafez/ghazal/sh84
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 84
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

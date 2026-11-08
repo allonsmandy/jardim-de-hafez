@@ -1,0 +1,36 @@
+id: gazal-188
+category: gazal
+number: 188
+firstLine:
+  fa: مرا به رندی و عشق، آن فضول، عیب کند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مرا به رندی و عشق، آن فضول، عیب کند
+      - که اعتراض بر اسرار علم غیب کند
+    - - کمال سرّ محبّت ببین، نه نقص گناه
+      - که هر که بی‌هنر افتد، نظر به عیب کند
+    - - ز عطر حور بهشت، آن نفس برآید بوی
+      - که خاک میکدهٔ ما، عبیر جیب کند
+    - - چُنان زَنَد رَهِ اِسْلام، غَمْزِهٔ ساقی
+      - که اجتناب ز صهبا، مگر صهیب کند
+    - - کلید گنج سعادت، قبول اهل دل است
+      - مباد آن‌که در این نکته، شکّ و ریب کند!
+    - - شبان وادی ایمن، گهی رسد به مراد
+      - که چند سال، به جان، خدمت شعیب کند
+    - - ز دیده، خون بچکاند فسانهٔ حافظ
+      - چو یاد وقت زمان شباب و شیب کند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 188
+    url: https://ganjoor.net/hafez/ghazal/sh188
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 188
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

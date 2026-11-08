@@ -1,0 +1,26 @@
+id: qete-021
+category: qete
+number: 21
+firstLine:
+  fa: سال و فال و مال و حال و اصل و نسل و تخت و بخت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سال و فال و مال و حال و اصل و نسل و تخت و بخت
+      - بادت اندر شهریاری، برقرار و بر دوام
+    - - سال خرّم، فال نیکو، مال وافر، حال خوش
+      - اصل ثابت، نسل باقی، تخت عالی، بخت رام
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 21
+    url: https://ganjoor.net/hafez/ghete/sh21
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 21
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

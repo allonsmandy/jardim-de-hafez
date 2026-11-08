@@ -1,0 +1,32 @@
+id: diversos-058
+category: diversos
+number: 58
+firstLine:
+  fa: آن کیست تا به حضرت سلطان ادا کند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن کیست تا به حضرت سلطان ادا کند
+      - کز جور چرخ گشت شتر گربه‌ها پدید
+    - - رندی نشست بر سر سجّادۀ قضا
+      - حیزی دگر به مرتبۀ سروری رسید
+    - - آن رند گفت چشم و چراغ انس منم
+      - وآن حیز گفت نطفۀ داودم و فرید
+    - - ای آصف زمانه ز بهر خدا بگو
+      - با خسروی که دولت او هست برمزید
+    - - شاها روا مدار که مفعول من یراد
+      - گردد به روزگار تو فعّال من یرید
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 58
+    url: https://ganjoor.net/hafez/montasab/sh58
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 58
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

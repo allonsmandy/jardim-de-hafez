@@ -1,0 +1,34 @@
+id: gazal-479
+category: gazal
+number: 479
+firstLine:
+  fa: صبح است و ژاله می‌چکد از ابر بهمنی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صبح است و ژاله می‌چکد از ابر بهمنی
+      - برگ صبوح ساز و بده جام یک منی
+    - - در بحر مایی و منی افتاده‌ام، بیار
+      - می تا خلاص بخشدم از مایی و منی
+    - - خونِ پیاله خور که حلال است خون او
+      - در کار یار باش که کاری‌ست کردنی
+    - - ساقی به دست باش که غم در کمین ماست
+      - مطرب نگاه دار همین ره که می‌زنی
+    - - مِی ده که سر به گوش من آورد چنگ و گفت
+      - «خوش بگذران و بشنو از این پیرِ منحنی»
+    - - ساقی به بی‌نیازی رندان که می بده
+      - تا بشنوی ز صوت مغنی «هو الغنی»
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 479
+    url: https://ganjoor.net/hafez/ghazal/sh479
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 479
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,26 @@
+id: rubai-006
+category: rubai
+number: 6
+firstLine:
+  fa: تو بدری و خورشید تو را بنده شده‌ست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تو بدری و خورشید تو را بنده شده‌ست
+      - تا بندهٔ تو شده‌ست تابنده شده‌ست
+    - - زان روی که از شعاع نور رخ تو
+      - خورشید منیر و ماه تابنده شده‌ست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 6
+    url: https://ganjoor.net/hafez/robaee2/sh6
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 6
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

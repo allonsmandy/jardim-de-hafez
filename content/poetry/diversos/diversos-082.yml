@@ -1,0 +1,28 @@
+id: diversos-082
+category: diversos
+number: 82
+firstLine:
+  fa: کل قند شعر من ز بنفشه شکر رباست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - کل قند شعر من ز بنفشه شکر رباست
+      - زان غیرت طبرزد و کعب‌الغزال شد
+    - - بادا دهانش تلخ که عیب نبات کرد
+      - خاکش به سر که منکر آب زلال شد
+    - - هر کس که کور زاد ز مادر به عمر خویش
+      - کی مشتری شاهد صاحب‌جمال شد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 82
+    url: https://ganjoor.net/hafez/montasab/sh82
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 82
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

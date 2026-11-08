@@ -1,0 +1,34 @@
+id: gazal-432
+category: gazal
+number: 432
+firstLine:
+  fa: مخمور جام عشقم، ساقی بده شرابی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مخمور جام عشقم، ساقی بده شرابی
+      - پُر کن قدح که بی مِی، مجلس ندارد آبی
+    - - وصف رخ چو ماهش، در پرده راست نآید
+      - مطرب بزن نوایی، ساقی بده شرابی
+    - - شد حلقه، قامت من، تا بعد از این رقیبت
+      - زین در دگر نراند، ما را به هیچ بابی
+    - - در انتظار رویت، ما و امیدواری
+      - در عشوهٔ وصالت، ما و خیال و خوابی
+    - - مخمور آن دو چشمم، آیا کجاست جامی؟
+      - بیمار آن دو لعلم، آخر کم از جوابی
+    - - حافظ چه می‌نهی دل، تو در خیال خوبان
+      - کی تشنه سیر گردد، از لمعهٔ سرابی؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 432
+    url: https://ganjoor.net/hafez/ghazal/sh432
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 432
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

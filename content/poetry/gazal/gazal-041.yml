@@ -1,0 +1,36 @@
+id: gazal-041
+category: gazal
+number: 41
+firstLine:
+  fa: اگر چه باده فَرَح بخش و باد گُل‌بیز است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر چه باده فَرَح بخش و باد گُل‌بیز است
+      - به بانگِ چَنگ مخور مِی که مُحتَسِب تیز است
+    - - صُراحی‌ای و حریفی گَرَت به چَنگ افتد
+      - به عقل نوش که ایام فتنه‌ انگیز است
+    - - در آستینِ مُرَقَع پیاله پنهان کن
+      - که همچو چشمِ صُراحی، زمانه خونریز است
+    - - به آبِ دیده بشوییم خِرقه‌ها از می
+      - که موسمِ وَرَع و روزگارِ پرهیز است
+    - - مجوی عیشِ خوش از دورِ باژگونِ سِپِهر
+      - که صاف این سر خُم جمله دُردی آمیز است
+    - - سپهرِ بَر شده پرویزنی‌ست خون افشان
+      - که ریزه‌اش سر کَسری و تاجِ پرویز است
+    - - عراق و فارس گرفتی به شعرِ خوش حافظ
+      - بیا که نوبتِ بغداد و وقتِ تبریز است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 41
+    url: https://ganjoor.net/hafez/ghazal/sh41
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 41
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

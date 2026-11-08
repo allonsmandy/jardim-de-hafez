@@ -1,0 +1,40 @@
+id: diversos-045
+category: diversos
+number: 45
+firstLine:
+  fa: ساقی اگرت هوای ما هی،
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقی اگرت هوای ما هی،
+      - جز باده مباد نزد ما هی!
+    - - سجّاده و خرقه در خرابات
+      - بفروش و بیار جرعه ای می
+    - - گر زنده دلی شنو ز مستان
+      - در گلشن جان ندای یا حی
+    - - با درد درآ به بوی درمان
+      - کونین نگر ز عشق لاشی
+    - - اسرار دل است در ره عشق
+      - آواز سماع و نالهٔ نی
+    - - یک مفلس پاک باز در عشق
+      - بهتر ز هزار حاتم طی
+    - - سلطان صفت آن بت پری روی
+      - می آمد و خلق شهر در پی
+    - - مردم نگران به روی خوبش
+      - وز شرم گرفته عارضش خوی
+    - - حافظ ز غم تو چند نالد
+      - آخر من دلشکسته تا کی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 45
+    url: https://ganjoor.net/hafez/montasab/sh45
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 45
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

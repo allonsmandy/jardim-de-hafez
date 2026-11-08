@@ -1,0 +1,42 @@
+id: gazal-226
+category: gazal
+number: 226
+firstLine:
+  fa: تَرسَم که اشک، در غمِ ما پرده‌دَر شود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تَرسَم که اشک، در غمِ ما پرده‌دَر شود
+      - وین رازِ سر به مُهر به عالَم سَمَر شود
+    - - گویند سنگْ لَعل شود، در مقامِ صبر
+      - آری شود، وَلیکْ به خونِ جِگِر شود
+    - - خواهَم شُدَن به میکده گریان و دادخواه
+      - کَز دستِ غَم خلاصِ مَن، آنجا مَگَر شود
+    - - از هَر کَرانه تیرِ دُعا کَرده‌ام رَوان
+      - باشَد کَز آن میانه یکی کارگر شود
+    - - ای جانْ حَدیثِ ما بَرِ دِلدار بازگو
+      - لیکن چنان مَگو که صَبا را خَبَر شود
+    - - از کیمیایِ مِهرِ تو زَر گَشت رویِ مَن
+      - آری به یُمْنِ لطفِ شُما خاک، زَر شود
+    - - دَر تنگنایِ حِیرتَم از نِخوتِ رَقیب
+      - یا رَب مَبادْ آن که گدا معتبر شود
+    - - بَس نکته غیرحُسن بِباید که تا کَسی
+      - مَقبولِ طبعِ مردمِ صاحب‌نظر شود
+    - - این سَرکشی که کنگرهٔ کاخِ وَصلْ راست
+      - سَرها بر آستانهٔ او خاکِ دَر شود
+    - - حافظ چو نافهٔ سَرِ زُلفش به دَستِ توست
+      - دَمْ دَرکَش اَر نِه بادِ صبا را خبر شود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 226
+    url: https://ganjoor.net/hafez/ghazal/sh226
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 226
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

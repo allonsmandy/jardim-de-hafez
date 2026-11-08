@@ -1,0 +1,32 @@
+id: diversos-031
+category: diversos
+number: 31
+firstLine:
+  fa: می‌زنم هر نفس از دست فراقت فریاد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - می‌زنم هر نفس از دست فراقت فریاد
+      - آه اگر نالهٔ زارم نرساند به تو باد
+    - - چه کنم گر نکنم ناله و فریاد و فغان
+      - در فراق تو چنانم که بداندیش مباد
+    - - روز و شب غصه و خون می‌خورم و چون نخورم
+      - چون ز دیدار تو دورم به چه باشم دلشاد
+    - - تا تو از چشم من سوخته دل دور شدی
+      - ای بسا چشمهٔ خونین که دل از دیده گشاد
+    - - حافظ دلشده مستغرق یادت شب و روز
+      - تو از این بندهٔ دل رفته به کلی آزاد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 31
+    url: https://ganjoor.net/hafez/montasab/sh31
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 31
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

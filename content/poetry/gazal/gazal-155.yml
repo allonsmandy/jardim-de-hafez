@@ -1,0 +1,36 @@
+id: gazal-155
+category: gazal
+number: 155
+firstLine:
+  fa: اگر روم ز پِی‌اش فتنه‌ها برانگیزد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر روم ز پِی‌اش فتنه‌ها برانگیزد
+      - ور از طلب بنشینم به کینه برخیزد
+    - - و گر به رهگذری یک دَم از وفاداری
+      - چو گَرد در پِی‌اش افتم چو باد بُگْریزد
+    - - و گر کنم طلبِ نیم بوسه صد افسوس
+      - ز حُقِّهٔ دهنش چون شکر فرو ریزد
+    - - من آن فریب که در نرگسِ تو می‌بینم
+      - بس آبروی که با خاک ره برآمیزد
+    - - فراز و شیب بیابان عشق، دامِ بلاست
+      - کجاست شیردلی کز بلا نپرهیزد
+    - - تو عمر خواه و صبوری که چرخِ شعبده باز
+      - هزار بازی از این طُرفه‌تر برانگیزد
+    - - بر آستانهٔ تسلیم سر بِنِه حافظ
+      - که گر ستیزه کنی، روزگار بستیزد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 155
+    url: https://ganjoor.net/hafez/ghazal/sh155
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 155
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

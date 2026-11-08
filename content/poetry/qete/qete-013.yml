@@ -1,0 +1,28 @@
+id: qete-013
+category: qete
+number: 13
+firstLine:
+  fa: اعظم قوام دولت و دین آنکه بر درش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اعظم قوام دولت و دین آنکه بر درش
+      - از بهر خاکبوس نمودی فلک سجود
+    - - با آن وجود و آن عظمت زیر خاک رفت
+      - در نصف ماه ذی‌قعد از عرصهٔ وجود
+    - - تا کس امید جود ندارد دگر ز کس
+      - آمد حروف سال وفاتش امیذ جود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 13
+    url: https://ganjoor.net/hafez/ghete/sh13
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 13
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: diversos-020
+category: diversos
+number: 20
+firstLine:
+  fa: من دوش پنهان می‌شدم تا قصر جانان سنگنک
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من دوش پنهان می‌شدم تا قصر جانان سنگنک
+      - نرمک نهادم پای را رفتم به ایوان سنگنک
+    - - دیدم نگار نازنین بر تخت زر در خواب خوش
+      - من از نهیب بیم او چون بید لرزان سنگنک
+    - - کردم دو انگشتان دراز آهستهک آهستهک
+      - برداشتم برقع به ناز از ماه تابان سنگنک
+    - - یک نیمه نرگس باز کرد از خواب جنبانید سر
+      - شد بر رخ همچون مهش زلف پریشان سنگنک
+    - - گفتا به من ای باهنر گفتم منم مسکین تو
+      - تا گر کسی یابد خبر ای راحت جان سنگنک
+    - - باری به کام خویشتن آوردمش در بر دمی
+      - بانگ نوا زد آن زمان مرغ سحرخوان سنگنک
+    - - گفتا که حافظ خیز و رو صبح است بر ایوان شاه
+      - بر شاه خوان این قصه را از خلق پنهان سنگنک
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 20
+    url: https://ganjoor.net/hafez/montasab/sh20
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 20
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

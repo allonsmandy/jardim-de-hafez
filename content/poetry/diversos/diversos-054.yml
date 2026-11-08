@@ -1,0 +1,26 @@
+id: diversos-054
+category: diversos
+number: 54
+firstLine:
+  fa: راه طلب تو خار غم‌ها دارد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - راه طلب تو خار غم‌ها دارد
+      - کو راهروى که این قدم‌ها دارد؟
+    - - دانى که ز روشناس عشق است آنکو
+      - بر چهرهٔ جان داغ ستم‌ها دارد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 54
+    url: https://ganjoor.net/hafez/montasab/sh54
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 54
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

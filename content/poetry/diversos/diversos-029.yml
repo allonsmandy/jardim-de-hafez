@@ -1,0 +1,32 @@
+id: diversos-029
+category: diversos
+number: 29
+firstLine:
+  fa: بلبل اندر ناله و، گُل خندهٔ خوش می‌زند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بلبل اندر ناله و، گُل خندهٔ خوش می‌زند
+      - چون نسوزد دل که دلبر در وِی آتش می‌زند؟
+    - - زاهدا، از تیرِ مژگانش حذر کردن چه سود؟
+      - زخمِ پنهانم به ابروی کَمانکش می‌زند
+    - - ناخوشی‌ها دیده‌ام از زاهدِ پشمینه‌پوش
+      - من غلامِ مطربم کابریشمِ خوش می‌زند
+    - - محتسب، با ساغرِ رندان شکستن، روز و شب
+      - بادهٔ سرخ از صراحیّ منقّش می‌زند
+    - - حافظ عاشق، به رَغمِ زاهدِ دنیاپرست
+      - بادهٔ نوشین به روی یارِ مهوش می‌زند
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 29
+    url: https://ganjoor.net/hafez/montasab/sh29
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 29
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

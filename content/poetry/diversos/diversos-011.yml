@@ -1,0 +1,40 @@
+id: diversos-011
+category: diversos
+number: 11
+firstLine:
+  fa: مژده ای دل که مسیحا نفسی می‌آید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مژده ای دل که مسیحا نفسی می‌آید
+      - که ز انفاس خوشش بوی کسی می‌آید
+    - - از غم هجر مکن ناله و فریاد که دوش
+      - زده‌ام فالی و فریادرسی می‌آید
+    - - زآتش وادی ایمن نه منم خُرّم و بس
+      - موسی آنجا به امید قبسی می‌آید
+    - - هیچ کس نیست که در کوی تواش کاری نیست
+      - هرکس آنجا به طریق هوسی می‌آید
+    - - کس ندانست که منزلگه معشوق کجاست
+      - این قدر هست که بانگ جرسی می‌آید
+    - - جرعه‌ای دِه که به میخانهٔ ارباب کرم
+      - هر حریفی ز پی ملتمسی می‌آید
+    - - دوست را گر سر پرسیدن بیمار غم است
+      - گو بران خوش که هنوزش نفسی می‌آید
+    - - خبر بلبل این باغ بپرسید که من
+      - ناله‌ای می‌شنوم کز قفسی می‌آید
+    - - یار دارد سر صید دل حافظ یاران
+      - شاهبازی به شکار مگسی می‌آید
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 11
+    url: https://ganjoor.net/hafez/montasab/sh11
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 11
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

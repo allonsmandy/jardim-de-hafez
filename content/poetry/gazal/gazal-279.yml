@@ -1,0 +1,40 @@
+id: gazal-279
+category: gazal
+number: 279
+firstLine:
+  fa: خوشا شیراز و وضعِ بی‌مثالش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خوشا شیراز و وضعِ بی‌مثالش
+      - خداوندا نگه دار از زَوالش
+    - - ز رکن آباد ما صد لوحش الله
+      - که عمرِ خضر می‌بخشد زلالش
+    - - میانِ جعفرآباد و مُصَلّا
+      - عبیرآمیز می‌آید شِمالش
+    - - به شیراز آی و فیضِ روحِ قدسی
+      - بجوی از مردمِ صاحب کمالش
+    - - که نامِ قند مصری برد آنجا؟
+      - که شیرینان ندادند اِنفِعالش
+    - - صبا زان لولیِ شنگولِ سرمست
+      - چه داری آگهی؟ چون است حالش؟
+    - - گر آن شیرین پسر خونم بریزد
+      - دلا چون شیرِ مادر کن حلالش
+    - - مکن از خواب بیدارم خدا را
+      - که دارم خلوتی خوش با خیالش
+    - - چرا حافظ چو می‌ترسیدی از هجر
+      - نکردی شُکرِ ایامِ وصالش؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 279
+    url: https://ganjoor.net/hafez/ghazal/sh279
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 279
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

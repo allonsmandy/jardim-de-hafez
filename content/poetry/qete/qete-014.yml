@@ -1,0 +1,42 @@
+id: qete-014
+category: qete
+number: 14
+firstLine:
+  fa: دل مَنِه بر دُنیی و اسبابِ او
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دل مَنِه بر دُنیی و اسبابِ او
+      - زآن‌که از وی، کَس وفاداری ندید
+    - - کَس عسل بی‌نیش از این دُکّان نخورد
+      - کَس رُطَب بی‌خار از این بُستان نچید
+    - - هربه ایّامی چراغی برفروخت
+      - چون تمام افروخت، بادش دَردَمید
+    - - بی‌تکلّف هرکه دل بر وِی نهاد
+      - چون بِدیدی، خَصمِ خود می‌پَروَرید
+    - - شاهِ غازی، خسروِ گیتی‌سِتان
+      - آن‌که از شمشیرِ او خون می‌چکید
+    - - گَه به یک حمله، سپاهی می‌شکست
+      - گَه به هویی، قلبه‌گاهی می‌دَرید
+    - - از نَهیبَش، پنجه می‌افکند شیر
+      - در بیابان، نامِ او چون می‌شنید
+    - - سَروَران را بی‌سبب می‌کرد حَبس
+      - گَردَنان را بی‌خطر سَر می‌بُرید
+    - - عاقبت، شیراز و تبریز و عراق
+      - چون مسخّر کرد، وقتش دَررسید
+    - - آن‌که روشن بُد جهان‌بینش بِدو
+      - مِیل در چَشم جهان‌بینَش کشید
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 14
+    url: https://ganjoor.net/hafez/ghete/sh14
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 14
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

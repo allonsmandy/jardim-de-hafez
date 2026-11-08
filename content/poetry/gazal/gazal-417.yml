@@ -1,0 +1,36 @@
+id: gazal-417
+category: gazal
+number: 417
+firstLine:
+  fa: عیشم مدام است، از لعل دل‌خواه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عیشم مدام است، از لعل دل‌خواه
+      - کارم به کام است، الحمدلله
+    - - ای بخت سرکش! تنگش به بَر کش
+      - گه جام زرکش، گه لعل دل‌خواه
+    - - ما را به رندی، افسانه کردند
+      - پیران جاهل، شیخان گمراه
+    - - از دست زاهد، کردیم توبه
+      - وز فعل عابد، استغفرالله
+    - - جانا چه گویم شرح فراقت؟
+      - چشمی و صد نم، جانی و صد آه
+    - - کافر مبیناد، این غم که دیده‌ست
+      - از قامتت سرو، از عارضت ماه
+    - - شوق لبت برد، از یاد حافظ
+      - درس شبانه، ورد سحرگاه
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 417
+    url: https://ganjoor.net/hafez/ghazal/sh417
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 417
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

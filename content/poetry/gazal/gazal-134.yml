@@ -1,0 +1,36 @@
+id: gazal-134
+category: gazal
+number: 134
+firstLine:
+  fa: بلبلی خونِ دلی خورد و گلی حاصل کرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بلبلی خونِ دلی خورد و گلی حاصل کرد
+      - بادِ غیرت به صدش خار، پریشان‌دل کرد
+    - - طوطیی را به خیالِ شکری، دل‌خوش بود
+      - ناگَهَش سیلِ فنا نقشِ اَمَل، باطل کرد
+    - - قُرَّةُ الْعینِ من، آن میوهٔ دل، یادش باد
+      - که چه آسان بشد و کارِ مرا مشکل کرد
+    - - ساروان! بارِ من افتاد، خدا را مددی
+      - که امیدِ کَرَمَم همرهِ این مَحمِل کرد
+    - - رویِ خاکی و نمِ چشمِ مرا خوار مدار
+      - چرخ فیروزه طرب‌خانه از این کَهگِل کرد
+    - - آه و فریاد که از چشمِ حسودِ مهِ چرخ
+      - در لحد ماهِ کمان‌ابرویِ من منزل کرد
+    - - نزدی شاه‌رخ و فوت شد امکان حافظ
+      - چه کنم؟ بازی ایام مرا غافل کرد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 134
+    url: https://ganjoor.net/hafez/ghazal/sh134
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 134
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

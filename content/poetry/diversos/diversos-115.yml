@@ -1,0 +1,26 @@
+id: diversos-115
+category: diversos
+number: 115
+firstLine:
+  fa: گل را دیدم نشسته بر تخت شهی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گل را دیدم نشسته بر تخت شهی
+      - گفتا بشنو راستی از مرد رهی
+    - - من طفلم و بی گنه مرا می‌سوزند
+      - ای وای به تو که پیری و پر گنهی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 115
+    url: https://ganjoor.net/hafez/montasab/sh115
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 115
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

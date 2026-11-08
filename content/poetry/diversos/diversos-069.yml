@@ -1,0 +1,32 @@
+id: diversos-069
+category: diversos
+number: 69
+firstLine:
+  fa: حسن و جمال تو جهان جمله گرفت طول و عرض
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - حسن و جمال تو جهان جمله گرفت طول و عرض
+      - شمس و فلک خجل شده از رخ خوب ماه ارض
+    - - دیدن حسن و خوبیت بر همه خلق واجبست
+      - رویت روت بلکه بر جمله ملایک است فرض
+    - - از رخ تست مقتبس خور زچهارم آسمان
+      - همچو زمین هفتمین مانده بزیر بار قرض
+    - - جان که فدای او نشد مرده جاودان بماند
+      - تن که اسیر او نشد لایق اوست قطع و برض
+    - - بوسه به خاک پای او دست کجا دهد تو را
+      - قصه شوق حافظا باد رساندت به عرض
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 69
+    url: https://ganjoor.net/hafez/montasab/sh69
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 69
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

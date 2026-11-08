@@ -1,0 +1,36 @@
+id: gazal-409
+category: gazal
+number: 409
+firstLine:
+  fa: ای خونبهای نافه چین خاک راه تو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای خونبهای نافه چین خاک راه تو
+      - خورشید سایه‌پرور طرف کلاه تو
+    - - نرگس کرشمه می‌برد از حد برون خرام
+      - ای من فدای شیوه چشم سیاه تو
+    - - خونم بخور که هیچ مَلَک با چنان جمال
+      - از دل نیایدش که نویسد گناه تو
+    - - آرام و خواب خلق جهان را سبب تویی
+      - زان شد کنار دیده و دل تکیه‌گاه تو
+    - - با هر ستاره‌ای سر و کار است هر شبم
+      - از حسرت فروغ رخ همچو ماه تو
+    - - یاران همنشین همه از هم جدا شدند
+      - ماییم و آستانه دولت پناه تو
+    - - حافظ طمع مبُر ز عنایت که عاقبت
+      - آتش زند به خرمن غم دود آه تو
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 409
+    url: https://ganjoor.net/hafez/ghazal/sh409
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 409
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

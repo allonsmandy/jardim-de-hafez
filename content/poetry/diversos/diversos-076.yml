@@ -1,0 +1,24 @@
+id: diversos-076
+category: diversos
+number: 76
+firstLine:
+  fa: هر که آمد در جهان پر ز شور
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هر که آمد در جهان پر ز شور
+      - عاقبت رفتن می باید به گور
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 76
+    url: https://ganjoor.net/hafez/montasab/sh76
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 76
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

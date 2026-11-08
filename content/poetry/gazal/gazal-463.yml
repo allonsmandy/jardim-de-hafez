@@ -1,0 +1,46 @@
+id: gazal-463
+category: gazal
+number: 463
+firstLine:
+  fa: سَلامُ اللّهِ ما کَرَّ اللَّیالي
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - سَلامُ اللّهِ ما کَرَّ اللَّیالي
+      - و جاوَبَتِ الْمثاني و الْمِثالي
+    - - عَلیٰ وادِي الْأَراک و مَن عَلَیها
+      - و دارٍ بِاللَّویٰ فوقَ الرِّمالِ
+    - - دعاگوی غریبان جهانم
+      - و أَدعُو بِالتَّواتُر و التَّوالي
+    - - به هر منزل که رو آرد خدا را
+      - نگه دارش به لطف لایزالی
+    - - منال ای دل که در زنجیر زلفش
+      - همه جمعیت است آشفته حالی
+    - - ز خطت صد جمال دیگر افزود
+      - که عمرت باد صد سال جلالی
+    - - تو می‌باید که باشی ور نه سهل است
+      - زیانِ مایهٔ جاهی و مالی
+    - - بر آن نقاش قدرت آفرین باد
+      - که گرد مه کشد خط هلالی
+    - - فَحُبُّک راحَتي في کُلِّ حینٍ
+      - و ذِکرُک مونِسي في کُلِّ حالِ
+    - - سویدای دل من تا قیامت
+      - مباد از شوق و سودای تو خالی
+    - - کجا یابم وصال چون تو شاهی
+      - من بدنامِ رندِ لااُبالی
+    - - خدا داند که حافظ را غرض چیست
+      - و عِلْمُ اللّهِ حَسْبي مِن سُؤالي
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 463
+    url: https://ganjoor.net/hafez/ghazal/sh463
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 463
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

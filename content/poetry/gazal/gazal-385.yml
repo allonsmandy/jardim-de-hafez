@@ -1,0 +1,36 @@
+id: gazal-385
+category: gazal
+number: 385
+firstLine:
+  fa: یا رب آن آهوی مشکین به خُتَن باز رسان
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - یا رب آن آهوی مشکین به خُتَن باز رسان
+      - وان سهی سروِ خرامان به چمن باز رسان
+    - - دل آزردهٔ ما را به نسیمی بنواز
+      - یعنی آن جانِ ز تن رفته به تن باز رسان
+    - - ماه و خورشید به منزل چو به امرِ تو رسند
+      - یارِ مه‌روی مرا نیز به من باز رسان
+    - - دیده‌ها در طلبِ لعلِ یَمانی خون شد
+      - یا رب آن کوکبِ رخشان به یَمَن باز رسان
+    - - برو ای طایرِ میمونِ همایون آثار
+      - پیش عنقا سخنِ زاغ و زَغَن باز رسان
+    - - سخن این است که ما بی تو نخواهیم حیات
+      - بشنو ای پیکِ خبرگیر و سخن باز رسان
+    - - آن که بودی وطنش دیدهٔ حافظ یا رب
+      - به مرادش ز غریبی به وطن باز رسان
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 385
+    url: https://ganjoor.net/hafez/ghazal/sh385
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 385
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

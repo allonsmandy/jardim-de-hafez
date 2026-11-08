@@ -1,0 +1,36 @@
+id: gazal-366
+category: gazal
+number: 366
+firstLine:
+  fa: ما بدین در نه پِیِ حشمت و جاه آمده‌ایم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ما بدین در نه پِیِ حشمت و جاه آمده‌ایم
+      - از بد حادثه این جا به پناه آمده‌ایم
+    - - رهروِ منزلِ عشقیم و زِ سرحدِّ عَدَم
+      - تا به اقلیمِ وجود این همه راه آمده‌ایم
+    - - سبزهٔ خطِّ تو دیدیم و زِ بُستانِ بهشت
+      - به طلبکاریِ این مهرگیاه آمده‌ایم
+    - - با چُنین گنج که شد خازنِ او روحِ امین
+      - به گدایی به درِ خانهٔ شاه آمده‌ایم
+    - - لنگرِ حِلمِ تو ای کشتیِ توفیق کجاست؟
+      - که در این بحرِ کَرَم غرقِ گناه آمده‌ایم
+    - - آبرو می‌رود ای ابرِ خطاپوش ببار
+      - که به دیوانِ عمل نامه‌سیاه آمده‌ایم
+    - - حافظ این خرقهٔ پشمینه بینداز که ما
+      - از پِیِ قافله با آتشِ آه آمده‌ایم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 366
+    url: https://ganjoor.net/hafez/ghazal/sh366
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 366
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

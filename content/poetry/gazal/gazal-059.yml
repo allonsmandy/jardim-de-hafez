@@ -1,0 +1,38 @@
+id: gazal-059
+category: gazal
+number: 59
+firstLine:
+  fa: دارم امید عاطفتی از جناب دوست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دارم امید عاطفتی از جناب دوست
+      - کردم جنایتی و امیدم به عفو اوست
+    - - دانم که بُگذرد ز سرِ جرمِ من که او
+      - گر چه پریوش است ولیکن فرشته‌خوست
+    - - چندان گریستیم که هر کس که برگذشت
+      - در اشکِ ما چو دید روان گفت «کاین چه جوست؟»
+    - - هیچ است آن دهان و نبینم از او نشان
+      - موی است آن میان و ندانم که آن چه موست
+    - - دارم عجب ز نقشِ خیالش که چون نرفت
+      - از دیده‌ام که دَم به دَمش کار شُست و شوست
+    - - بی گفت و گوی زلفِ تو دل را همی کُشد
+      - با زلف دلکَش تو که را روی گفت و گوست؟
+    - - عمری‌ست تا ز زلفِ تو بویی شنیده‌ام
+      - زان بوی در مشامِ دلِ من هنوز بوست
+    - - حافظ بد است حالِ پریشانِ تو، ولی
+      - بر بویِ زلفِ یار پریشانیَت نکوست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 59
+    url: https://ganjoor.net/hafez/ghazal/sh59
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 59
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

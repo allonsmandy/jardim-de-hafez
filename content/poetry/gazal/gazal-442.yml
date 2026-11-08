@@ -1,0 +1,38 @@
+id: gazal-442
+category: gazal
+number: 442
+firstLine:
+  fa: به جان او که گرم دسترس به جان بودی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به جان او که گرم دسترس به جان بودی
+      - کمینه پیشکش بندگانش آن بودی
+    - - بگفتمی که «بها چیست خاک پایش را؟»
+      - اگر حیات گران مایه جاودان بودی
+    - - به بندگی قدش سرو معترف گشتی
+      - گرش چو سوسن آزاده ده زبان بودی
+    - - به خواب نیز نمی‌بینمش چه جای وصال
+      - چو این نبود و ندیدیم باری آن بودی
+    - - اگر دلم نشدی پایبند طرهٔ او
+      - کی‌اش قرار در این تیره‌خاکدان بودی؟
+    - - به رخ چو مهرِ فلک بی‌نظیرِ آفاق است
+      - به دل دریغ که یک ذره مهربان بودی
+    - - درآمدی ز درم کاشکی چو لمعهٔ نور
+      - که بر دو دیدهٔ ما حکم او روان بودی
+    - - ز پرده نالهٔ حافظ برون کی افتادی؟
+      - اگر نه همدم مرغان صبح خوان بودی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 442
+    url: https://ganjoor.net/hafez/ghazal/sh442
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 442
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

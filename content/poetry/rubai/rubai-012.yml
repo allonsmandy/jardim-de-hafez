@@ -1,0 +1,26 @@
+id: rubai-012
+category: rubai
+number: 12
+firstLine:
+  fa: نی دولت دنیا به ستم می‌ارزد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نی دولت دنیا به ستم می‌ارزد
+      - نی لذّت مستی‌اش الم می‌ارزد
+    - - نه هفت هزار ساله شادی جهان
+      - این محنت هفت روزه غم می‌ارزد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 12
+    url: https://ganjoor.net/hafez/robaee2/sh12
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 12
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-386
+category: gazal
+number: 386
+firstLine:
+  fa: خدا را کم نشین با خرقه پوشان
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خدا را کم نشین با خرقه پوشان
+      - رخ از رندان بی‌سامان مپوشان
+    - - در این خرقه بسی آلودگی هست
+      - خوشا وقت قبای می فروشان
+    - - در این صوفی‌وشان دَردی ندیدم
+      - که صافی باد عیش دُردنوشان
+    - - تو نازک‌طبعی و طاقت نیاری
+      - گرانی‌های مشتی دلق‌پوشان
+    - - چو مستم کرده‌ای مستور منشین
+      - چو نوشم داده‌ای زهرم منوشان
+    - - بیا وز غَبْن این سالوسیان بین
+      - صُراحی خون‌دل و بربط خروشان
+    - - ز دلگرمی حافظ بر حذر باش
+      - که دارد سینه‌ای چون دیگ جوشان
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 386
+    url: https://ganjoor.net/hafez/ghazal/sh386
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 386
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

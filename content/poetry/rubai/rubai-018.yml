@@ -1,0 +1,26 @@
+id: rubai-018
+category: rubai
+number: 18
+firstLine:
+  fa: ایّام شباب‌ست، شراب اولاتر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ایّام شباب‌ست، شراب اولاتر
+      - با سبزخَطان، بادهٔ ناب اولاتر
+    - - عالم همه سر به سر رباطی‌ست خراب
+      - در جای خراب هم، خراب اولاتر
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 18
+    url: https://ganjoor.net/hafez/robaee2/sh18
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 18
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

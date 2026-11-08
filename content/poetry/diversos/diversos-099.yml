@@ -1,0 +1,26 @@
+id: diversos-099
+category: diversos
+number: 99
+firstLine:
+  fa: با مردم نیک بد نمی‌باید بود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - با مردم نیک بد نمی‌باید بود
+      - در سایهٔ دیو و دد نمی‌باید بود
+    - - مفتون معاش خود نمی‌باید بود
+      - مغرور به فضل خود نمی‌باید بود
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 99
+    url: https://ganjoor.net/hafez/montasab/sh99
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 99
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

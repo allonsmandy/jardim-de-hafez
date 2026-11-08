@@ -1,0 +1,40 @@
+id: gazal-430
+category: gazal
+number: 430
+firstLine:
+  fa: به صوتِ بلبل و قمری اگر ننوشی می
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به صوتِ بلبل و قمری اگر ننوشی می
+      - علاج کی کُنمت؟ آخِرالدَواءِ الْکَیْ
+    - - ذخیره‌ای بنهْ از رنگ و بویِ فصل بهار
+      - که می‌رسند ز پی، رهزنانِ بهمن و دی
+    - - چو گُل نقاب برافکنْد و مرغ زد هوهو
+      - مَنهْ ز دست پیاله، چه می‌کُنی؟ هی‌هی
+    - - شُکوهِ سلطنت و حُسن، کی ثَباتی داد؟
+      - ز تختِ جَم سخنی مانده است و افسرِ کَی
+    - - خزینه‌داری میراث‌خوارگان کفر است
+      - به قولِ مطرب و ساقی، به فَتویِ دَف و نی
+    - - زمانه هیچ نبَخشد که باز نستانَد
+      - مجو ز سفله مروَّت، که شَیئُهُ لا شَی
+    - - نوشته‌اند بر اِیوانِ جَنةُ المَأویٰ
+      - که هر که عشوهٔ دُنییِ خرید، وای به وی
+    - - سَخا نمانْد، سخن طی کنم، شراب کجاست؟
+      - بده به شادیِ روح و روانِ حاتمِ طَی
+    - - بخیل، بوی خدا نشنود بیا حافظ
+      - پیاله گیر و کَرَم وَرز، وَ الضَّمانُ عَلَيّ
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 430
+    url: https://ganjoor.net/hafez/ghazal/sh430
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 430
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,38 @@
+id: gazal-405
+category: gazal
+number: 405
+firstLine:
+  fa: به جان پیر خرابات و حق صحبت او
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به جان پیر خرابات و حق صحبت او
+      - که نیست در سر من جز هوای خدمت او
+    - - بهشت اگر چه نه جای گناهکاران است
+      - بیار باده که مستظهرم به همت او
+    - - چراغ صاعقه آن سحاب روشن باد
+      - که زد به خرمن ما آتش محبت او
+    - - بر آستانه میخانه گر سری بینی
+      - مزن به پای که معلوم نیست نیت او
+    - - بیا که دوش به مستی سروش عالم غیب
+      - نوید داد که عام است فیض رحمت او
+    - - مکن به چشم حقارت نگاه در من مست
+      - که نیست معصیت و زهد بی مشیت او
+    - - نمی‌کند دل من میل زهد و توبه ولی
+      - به نام خواجه بکوشیم و فر دولت او
+    - - مدام خرقه حافظ به باده در گرو است
+      - مگر ز خاک خرابات بود فطرت او
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 405
+    url: https://ganjoor.net/hafez/ghazal/sh405
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 405
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

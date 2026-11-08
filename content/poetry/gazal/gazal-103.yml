@@ -1,0 +1,34 @@
+id: gazal-103
+category: gazal
+number: 103
+firstLine:
+  fa: روز وصلِ دوستداران یاد باد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - روز وصلِ دوستداران یاد باد
+      - یاد باد آن روزگاران، یاد باد
+    - - کامم از تلخیِ غم چون زهر گشت
+      - بانگِ نوشِ شادخواران یاد باد
+    - - گر چه یاران فارِغَند از یادِ من
+      - از من ایشان را هزاران یاد باد
+    - - مبتلا گشتم در این بند و بلا
+      - کوشش آن حق‌گزاران یاد باد
+    - - گر چه صد رود است در چشمم مُدام
+      - زنده رودِ باغ‌ِ کاران یاد باد
+    - - رازِ حافظ بعد از این ناگفته ماند
+      - ای دریغا رازداران یاد باد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 103
+    url: https://ganjoor.net/hafez/ghazal/sh103
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 103
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

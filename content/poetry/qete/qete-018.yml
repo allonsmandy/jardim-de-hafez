@@ -1,0 +1,26 @@
+id: qete-018
+category: qete
+number: 18
+firstLine:
+  fa: زآن حَبّه‌ی خَضراخور، کَز رویِ سَبُک‌روحی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - زآن حَبّه‌ی خَضراخور، کَز رویِ سَبُک‌روحی
+      - هرکـ‌او بِخورَد یک جو، بر سیخ زَند سی مرغ
+    - - زآن لقمه که صوفی را، در معرفت اندازد
+      - یک ذرّه و صد مَستی، یک دانه و صد سی‌مرغ
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 18
+    url: https://ganjoor.net/hafez/ghete/sh18
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 18
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-416
+category: gazal
+number: 416
+firstLine:
+  fa: خنک نسیم معنبر شمامه‌ای دل‌خواه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خنک نسیم معنبر شمامه‌ای دل‌خواه
+      - که در هوای تو برخاست بامداد پگاه
+    - - دلیل راه شو ای طایر خجسته‌لقا
+      - که دیده آب شد از شوق خاک آن درگاه
+    - - به یاد شخصِ نزارم که غرقِ خونِ دل است
+      - هلال را ز کنار افق کنید نگاه
+    - - منم که بی تو نفس می‌کشم، زهی خجلت
+      - مگر تو عفو کنی ور نه چیست عذر گناه؟
+    - - ز دوستان تو آموخت در طریقت مهر
+      - سپیده دم که صبا چاک زد شعار سیاه
+    - - به عشق روی تو روزی که از جهان بروم
+      - ز تربتم بدمد سرخ‌گل به جای گیاه
+    - - مده به خاطر نازک ملالت از من زود
+      - که حافظ تو خود این لحظه گفت «بسم الله»
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 416
+    url: https://ganjoor.net/hafez/ghazal/sh416
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 416
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

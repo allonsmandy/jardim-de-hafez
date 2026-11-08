@@ -1,0 +1,36 @@
+id: gazal-159
+category: gazal
+number: 159
+firstLine:
+  fa: نقدِ صوفی نه همه صافیِ بی‌غَش باشد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نقدِ صوفی نه همه صافیِ بی‌غَش باشد
+      - ای بسا خرقه که مُستوجبِ آتش باشد
+    - - صوفیِ ما که ز وِردِ سحری مست شدی
+      - شامگاهش نگران باش که سرخوش باشد
+    - - خوش بُوَد گر محکِ تجربه آید به میان
+      - تا سیه‌روی شود هر که در او غَش باشد
+    - - خَطِّ ساقی گر از این گونه زند نقش بر آب
+      - ای بسا رُخ که به خونآبه مُنَقَّش باشد
+    - - ناز‌پروردِ تَنَعُّم نبَرَد راه به دوست
+      - عاشقی شیوهٔ رندانِ بلاکش باشد
+    - - غمِ دنیای دَنی چند خوری؟ باده بخور
+      - حیف باشد دلِ دانا که مُشَوَّش باشد
+    - - دلق و سجادهٔ حافظ ببَرَد باده‌فروش
+      - گر شرابش ز کفِ ساقی مَه‌وَش باشد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 159
+    url: https://ganjoor.net/hafez/ghazal/sh159
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 159
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

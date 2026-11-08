@@ -1,0 +1,36 @@
+id: gazal-210
+category: gazal
+number: 210
+firstLine:
+  fa: دوش در حلقهٔ ما قصّهٔ گیسویِ تو بود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دوش در حلقهٔ ما قصّهٔ گیسویِ تو بود
+      - تا دلِ شب سخن از سلسلهٔ مویِ تو بود
+    - - دل که از ناوَکِ مژگانِ تو در خون می‌گشت
+      - باز مشتاقِ کمان‌خانهٔ ابرویِ تو بود
+    - - هم عَفَاالله صبا کز تو پیامی می‌داد
+      - ور نه در کس نرسیدیم که از کویِ تو بود
+    - - عالَم از شور و شرِ عشق خبر هیچ نداشت
+      - فتنه‌انگیزِ جهان غمزهٔ جادویِ تو بود
+    - - منِ سرگشته هم از اهلِ سلامت بودم
+      - دامِ راهم شِکَنِ طُرِّهٔ هندویِ تو بود
+    - - بگشا بندِ قبا تا بگشاید دلِ من
+      - که گشادی که مرا بود ز پهلویِ تو بود
+    - - به وفایِ تو که بر تربتِ حافظ بگذر
+      - کز جهان می‌شد و در آرزویِ رویِ تو بود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 210
+    url: https://ganjoor.net/hafez/ghazal/sh210
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 210
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

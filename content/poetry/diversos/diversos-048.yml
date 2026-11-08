@@ -1,0 +1,36 @@
+id: diversos-048
+category: diversos
+number: 48
+firstLine:
+  fa: عید است و موسم گل، ساقی بیار باده
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عید است و موسم گل، ساقی بیار باده
+      - هنگام گل که دیده بی می قدح نهاده
+    - - زین زهد و پارسایی بگرفت خاطر من
+      - ساقی بده شرابی تا دل شود گشاده
+    - - صوفی که دی نصیحت می­کرد عاشقان را
+      - امروز دیدمش مست، تقوا به باد داده
+    - - این یک دو روز دیگر گل را غنیمتی دان
+      - گر عاشقی طرب جوی، با ساقیان ساده
+    - - گل رفت ای حریفان غافل چرا نشینید
+      - بی­ بانگ رود و چنگ و بی یار و جام باده
+    - - در مجلس صبوحی دانی چه خوش نماید
+      - عکس عذار ساقی در جام می فتاده
+    - - مطرب چو پرده سازد شاید اگر بخواهند
+      - از طرز شعر حافظ در بزم شاهزاده
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 48
+    url: https://ganjoor.net/hafez/montasab/sh48
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 48
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

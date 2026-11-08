@@ -1,0 +1,36 @@
+id: gazal-045
+category: gazal
+number: 45
+firstLine:
+  fa: در این زمانه، رفیقی که خالی از خَلَل است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در این زمانه، رفیقی که خالی از خَلَل است
+      - صُراحیِ مِیِ ناب و سَفینهٔ غزل است
+    - - جَریده رُو که گُذَرگاهِ عافیت، تَنْگ است
+      - پیاله گیر که عُمرِ عزیز، بی‌بَدَل است
+    - - نه من ز بی‌عَمَلی، در جهان، مَلولَم و بَس
+      - مَلالَتِ عُلما هم ز عِلْمِ بی‌عَمَل است
+    - - به چَشْمِ عَقْل در این رَهْگُذارِ پُرآشوب
+      - جهان و کارِ جهان، بی‌ثُبات و بی‌مَحَل است
+    - - بگیر طُرِّهٔ مه‌چهره‌ای و قِصِّه مَخوان
+      - که سَعْد و نَحْس ز تأثیرِ زُهْرِه و زُحَل است
+    - - دلم، امیدِ فراوان به وَصْلِ رویِ تو داشت
+      - ولی اَجَل به رَهِ عمر، رَهْزَنِ اَمَل است
+    - - به هیچ دور نخواهند یافت هُشیارش
+      - چُنین که «حافظِ» ما، مَسْتِ بادهٔ اَزَل است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 45
+    url: https://ganjoor.net/hafez/ghazal/sh45
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 45
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

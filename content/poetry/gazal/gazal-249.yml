@@ -1,0 +1,42 @@
+id: gazal-249
+category: gazal
+number: 249
+firstLine:
+  fa: ای صبا نَکهَتی از خاکِ رَهِ یار بیار
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای صبا نَکهَتی از خاکِ رَهِ یار بیار
+      - بِبَر اندوهِ دل و مژدهٔ دل‌دار بیار
+    - - نکته‌ای روح‌فَزا از دهنِ دوست بگو
+      - نامه‌ای خوش خبر از عالَمِ اسرار بیار
+    - - تا مُعَطَّر کُنَم از لطفِ نسیمِ تو مَشام
+      - شَمِّه‌ای از نَفَحاتِ نفسِ یار بیار
+    - - به وفایِ تو که خاکِ رَهِ آن یارِ عزیز
+      - بی‌غباری که پدید آید از اغیار بیار
+    - - گَردی از ره‌گذرِ دوست به کوریِّ رقیب
+      - بهرِ آسایش این دیدهٔ خون‌بار بیار
+    - - خامی و ساده‌دلی شیوهٔ جانبازان نیست
+      - خبری از بَرِ آن دل‌بر عیّار بیار
+    - - شُکرِ آن را که تو در عِشرتی ای مرغِ چمن
+      - به اسیرانِ قفس، مژدهٔ گل‌زار بیار
+    - - کامِ جان تلخ شد از صبر که کردم بی‌دوست
+      - عشوه‌ای زان لبِ شیرین شِکربار بیار
+    - - روزگاریست که دل چهرهٔ مقصود ندید
+      - ساقیا آن قدحِ آینه‌کردار بیار
+    - - دلقِ حافظ به چه ارزد؟ به مِی‌اش رنگین کن
+      - وان گَه‌اش مست و خراب از سَرِ بازار بیار
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 249
+    url: https://ganjoor.net/hafez/ghazal/sh249
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 249
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

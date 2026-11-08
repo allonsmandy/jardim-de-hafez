@@ -1,0 +1,26 @@
+id: diversos-097
+category: diversos
+number: 97
+firstLine:
+  fa: تا حکم قضای آسمانی باشد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا حکم قضای آسمانی باشد
+      - کار تو همیشه کامرانی باشد
+    - - جامی که ز دست یاد خود نوش کنی
+      - سرمایهٔ عیش جاودانی باشد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 97
+    url: https://ganjoor.net/hafez/montasab/sh97
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 97
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

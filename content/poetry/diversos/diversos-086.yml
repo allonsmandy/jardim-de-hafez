@@ -1,0 +1,26 @@
+id: diversos-086
+category: diversos
+number: 86
+firstLine:
+  fa: هنگام بهار است گل لاله و نسرین
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هنگام بهار است گل لاله و نسرین
+      - از خاک در آیند و تو در خاک چرایی؟
+    - - چندان به سر خاک تو بنشینم و گریم
+      - شاید که بهار آید و از خاک در آیی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 86
+    url: https://ganjoor.net/hafez/montasab/sh86
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 86
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

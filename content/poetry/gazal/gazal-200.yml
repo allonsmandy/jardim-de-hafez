@@ -1,0 +1,42 @@
+id: gazal-200
+category: gazal
+number: 200
+firstLine:
+  fa: دانی که چنگ و عود چه تَقریر می‌کنند؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دانی که چنگ و عود چه تَقریر می‌کنند؟
+      - پنهان خورید باده که تَعزیر می‌کنند
+    - - ناموسِ عشق و رونقِ عُشّاق می‌بَرند
+      - عیبِ جوان و سرزنشِ پیر می‌کنند
+    - - جز قلبِ تیره هیچ نشد حاصل و هنوز
+      - باطل در این خیال که اِکسیر می‌کنند
+    - - گویند رمزِ عشق مگویید و مشنوید
+      - مشکل حکایتیست که تَقریر می‌کنند
+    - - ما از برونِ در شده مغرورِ صد فریب
+      - تا خود درونِ پرده چه تدبیر می‌کنند
+    - - تشویشِ وقتِ پیرِ مغان می‌دهند باز
+      - این سالِکان نگر که چه با پیر می‌کنند
+    - - صد مُلکِ دل به نیم نظر می‌توان خرید
+      - خوبان در این معامله تقصیر می‌کنند
+    - - قومی به جِدّ و جهد نهادند وصلِ دوست
+      - قومی دگر حواله به تقدیر می‌کنند
+    - - فِی‌الجُمله اعتماد مکُن بر ثباتِ دهر
+      - کـ‌این کارخانه‌ایست که تغییر می‌کنند
+    - - مِی خور که شیخ و حافظ و مفتی و محتسب
+      - چون نیک بنگری همه تزویر می‌کنند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 200
+    url: https://ganjoor.net/hafez/ghazal/sh200
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 200
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

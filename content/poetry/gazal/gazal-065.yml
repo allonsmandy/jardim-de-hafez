@@ -1,0 +1,38 @@
+id: gazal-065
+category: gazal
+number: 65
+firstLine:
+  fa: خوش‌تر ز عیش و صحبت و باغ و بهار چیست؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خوش‌تر ز عیش و صحبت و باغ و بهار چیست؟
+      - ساقی کجاست؟ گو سببِ انتظار چیست؟
+    - - هر وقتِ خوش که دست دهد، مغتنم شمار
+      - کس را وقوف نیست که انجامِ کار چیست
+    - - پیوندِ عمر بسته به مویی‌ست، هوش دار
+      - غمخوارِ خویش باش، غمِ روزگار چیست؟
+    - - معنیِ آبِ زندگی و روضهٔ ارم
+      - جز طَرفِ جویبار و میِ خوشگوار چیست؟
+    - - مستور و مست هر دو چو از یک قبیله‌اند
+      - ما دل به عشوهٔ که دهیم؟ اختیار چیست؟
+    - - راز درونِ پرده چه داند فلک؟ خموش
+      - ای مدعی! نزاعِ تو با پرده‌دار چیست؟
+    - - سهو و خطایِ بنده گَرَش اعتبار نیست
+      - معنیِ عفو و رحمتِ آمُرزگار چیست؟
+    - - زاهد شرابِ کوثر و حافظ پیاله خواست
+      - تا در میانه خواستهٔ کردگار چیست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 65
+    url: https://ganjoor.net/hafez/ghazal/sh65
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 65
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

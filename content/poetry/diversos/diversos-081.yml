@@ -1,0 +1,26 @@
+id: diversos-081
+category: diversos
+number: 81
+firstLine:
+  fa: حسن این نظم از بیان مستغنی است‌
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - حسن این نظم از بیان مستغنی است‌
+      - بر فروغ خور کسی جوید دلیل
+    - - آفرین بر کلک نقاشی که داد
+      - بکر معنی را چنین حسن جمیل
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 81
+    url: https://ganjoor.net/hafez/montasab/sh81
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 81
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,26 @@
+id: rubai-005
+category: rubai
+number: 5
+firstLine:
+  fa: من با کمر تو در میان کردم دست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - من با کمر تو در میان کردم دست
+      - پنداشتمش که در میان چیزی هست
+    - - پیداست از آن میان چو بربست کمر
+      - تا من ز کمر چه طرْف خواهم بربست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 5
+    url: https://ganjoor.net/hafez/robaee2/sh5
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 5
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

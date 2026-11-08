@@ -1,0 +1,32 @@
+id: diversos-042
+category: diversos
+number: 42
+firstLine:
+  fa: تا جمالت عاشقان را زد به وصل خود صلا
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا جمالت عاشقان را زد به وصل خود صلا
+      - جان و دل افتاده‌ اندر زلف و خالت در بلا
+    - - آنچه جان عاشقان از دست هجرت مى‌کشد
+      - کس ندیده در جهان جز کشتگان کربلا
+    - - ترک ما گر مى‌کند رندى و مستى جان من
+      - ترک مستورى و زهدت کرد باید اولا
+    - - وقت عیش و موسم شادى و هنگام طرب
+      - پنج‌روز ایّام عشرت را غنیمت دان دلا
+    - - حافظا گر پای‌بوس شاه دستت مى‌دهد
+      - یافتى در هر دو عالم رتبت عز و علا
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 42
+    url: https://ganjoor.net/hafez/montasab/sh42
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 42
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-095
+category: gazal
+number: 95
+firstLine:
+  fa: مدامم مست می‌دارد، نسیمِ جَعدِ گیسویت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مدامم مست می‌دارد، نسیمِ جَعدِ گیسویت
+      - خرابم می‌کند هر دَم، فریبِ چشمِ جادویت
+    - - پس از چندین شکیبایی، شبی، یا رب! توان دیدن
+      - که شمعِ دیده افروزیم در محرابِ ابرویت؟
+    - - سوادِ لوح بینش را عزیز از بهر آن دارم
+      - که جان را نسخه‌ای باشد ز لوحِ خالِ هندویت
+    - - تو گر خواهی که جاویدان جهان یکسر بیارایی
+      - صبا را گو که بردارد زمانی بُرقِع از رویت
+    - - و گر رسمِ فنا خواهی که از عالم براندازی
+      - برافشان تا فروریزد هزاران جان ز هر مویت
+    - - من و بادِ صبا مِسکین، دو سرگردانِ بی‌حاصل
+      - من از افسونِ چشمت مست و او از بویِ گیسویت
+    - - زهی همت که حافظ راست از دنیی و از عقبی
+      - نیاید هیچ در چشمش به جز خاکِ سرِ کویت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 95
+    url: https://ganjoor.net/hafez/ghazal/sh95
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 95
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

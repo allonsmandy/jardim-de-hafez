@@ -1,0 +1,26 @@
+id: rubai-032
+category: rubai
+number: 32
+firstLine:
+  fa: چون باده ز غم چه بایَدَت جوشیدن
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چون باده ز غم چه بایَدَت جوشیدن
+      - با لشگر غم چه بایدت کوشیدن
+    - - سبز است لبت، ساغر از او دور مدار
+      - می بر لب سبزه، خوش بوَد نوشیدن
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 32
+    url: https://ganjoor.net/hafez/robaee2/sh32
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 32
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

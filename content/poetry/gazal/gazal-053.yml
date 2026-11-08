@@ -1,0 +1,36 @@
+id: gazal-053
+category: gazal
+number: 53
+firstLine:
+  fa: منم که گوشهٔ میخانه، خانقاهِ من است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - منم که گوشهٔ میخانه، خانقاهِ من است
+      - دعایِ پیرِ مُغان، وِرْدِ صُبْحگاهِ من است
+    - - گَرَم ترانهٔ چنگ صَبوح نیست چه باک
+      - نوایِ من به سَحَر، آهِ عُذْرخواهِ من است
+    - - ز پادشاه و گِدا، فارِغم بِحَمْدِالله
+      - گِدایِ خاکِ دَرِ دوست، پادشاهِ من است
+    - - غَرَض زِ مَسْجِد و مِیخانه‌ام، وِصالِ شماست
+      - جُز این خیال ندارم، خُدا، گُواهِ من است
+    - - مَگَر به تیغِ اَجَل، خیمه بَرکَنَم ور نی
+      - رَمیدن از دَرِ دولت، نه رَسْم و راهِ من است
+    - - از آن زَمان که بر این آسْتان نَهادم روی
+      - فَرازِ مَسْنَدِ خورشید، تِکْیِه‌گاهِ من است
+    - - گُناه اگرچه نبود اختیارِ ما، «حافظ»!
+      - تو در طریقِ اَدَب باش، گو گُناهِ من است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 53
+    url: https://ganjoor.net/hafez/ghazal/sh53
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 53
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

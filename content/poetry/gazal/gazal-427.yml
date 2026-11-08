@@ -1,0 +1,40 @@
+id: gazal-427
+category: gazal
+number: 427
+firstLine:
+  fa: چراغ روی تو را شمع گشت پروانه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چراغ روی تو را شمع گشت پروانه
+      - مرا ز حال تو با حال خویش پروا، نه
+    - - خِرد که قید مجانین عشق می‌فرمود
+      - به بوی سنبل زلف تو گشت دیوانه
+    - - به بوی زلف تو گر جان به باد رفت‌، چه شد؟
+      - هزار جان گرامی فدای جانانه
+    - - من‌ِ رمیده ز غیرت ز پا فتادم دوش
+      - نگار خویش چو دیدم به دست بیگانه
+    - - چه نقش‌ها که برانگیختیم و سود نداشت
+      - فسون ما بر او گشته است افسانه
+    - - بر آتش رخ زیبای او به جای سپند
+      - به غیر خال سیاهش که دید به دانه؟
+    - - به مژده، جان به صبا داد شمع در نفسی
+      - ز شمع روی تواَش چون رسید پروانه
+    - - مرا به دور لب دوست هست پیمانی
+      - که بر زبان نبرم جز حدیث پیمانه
+    - - حدیث مدرسه و خانقه مگوی که باز
+      - فتاد در سر حافظ هوای میخانه
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 427
+    url: https://ganjoor.net/hafez/ghazal/sh427
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 427
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,26 @@
+id: rubai-023
+category: rubai
+number: 23
+firstLine:
+  fa: مَردی ز کَنندهٔ دَرِ خیبر پرس
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مَردی ز کَنندهٔ دَرِ خیبر پرس
+      - اسرار کرَم ز خواجهٔ قنبر پرس
+    - - گر طالب فیض حقّ به صدقی حافظ
+      - سر چشمهٔ آن ز ساقی کوثر پرس
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 23
+    url: https://ganjoor.net/hafez/robaee2/sh23
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 23
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

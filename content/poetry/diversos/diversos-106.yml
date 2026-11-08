@@ -1,0 +1,26 @@
+id: diversos-106
+category: diversos
+number: 106
+firstLine:
+  fa: جانا چو شبی با تو به روز آوردم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - جانا چو شبی با تو به روز آوردم
+      - گر بی تو دمی برآورم نامردم
+    - - از مرگ نترسم پس از این کآب حیات
+      - از چشمهٔ نوش لب لعلت خوردم
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 106
+    url: https://ganjoor.net/hafez/montasab/sh106
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 106
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

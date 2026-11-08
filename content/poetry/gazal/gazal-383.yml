@@ -1,0 +1,34 @@
+id: gazal-383
+category: gazal
+number: 383
+firstLine:
+  fa: چندان که گفتم غم با طبیبان
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چندان که گفتم غم با طبیبان
+      - درمان نکردند مسکین غریبان
+    - - آن گل که هر دم در دست بادیست
+      - گو شرم بادش از عندلیبان
+    - - یا رب امان ده تا بازبیند
+      - چشم محبان روی حبیبان
+    - - درج محبت بر مهر خود نیست
+      - یا رب مبادا کام رقیبان
+    - - ای منعم آخر بر خوان جودت
+      - تا چند باشیم از بی نصیبان
+    - - حافظ نگشتی شیدای گیتی
+      - گر می‌شنیدی پند ادیبان
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 383
+    url: https://ganjoor.net/hafez/ghazal/sh383
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 383
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,32 @@
+id: gazal-096
+category: gazal
+number: 96
+firstLine:
+  fa: دردِ ما را نیست درمان الغیاث
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دردِ ما را نیست درمان الغیاث
+      - هجرِ ما را نیست پایان الغیاث
+    - - دین و دل بردند و قَصدِ جان کنند
+      - الغیاث از جورِ خوبان، الغیاث
+    - - در بهایِ بوسه‌ای جانی طلب
+      - می‌کنند این دلسِتانان الغیاث
+    - - خونِ ما خوردند این کافَردلان
+      - ای مسلمانان چه درمان؟ الغیاث
+    - - هم‌چو حافظ روز و شب بی‌خویشتن
+      - گَشته‌ام سوزان و گریان الغیاث
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 96
+    url: https://ganjoor.net/hafez/ghazal/sh96
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 96
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

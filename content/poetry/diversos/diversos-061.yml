@@ -1,0 +1,28 @@
+id: diversos-061
+category: diversos
+number: 61
+firstLine:
+  fa: صباح جمعه بُد و سادس ربیع نخست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صباح جمعه بُد و سادس ربیع نخست
+      - که از دلم رخ آن ماهروی شد زائل
+    - - به سال هفتصد و شصت و چهار از هجرت
+      - چو آب گشت به‌من حل حکایت مشکل
+    - - دریغ و درد و تأسف کجا دهد سودی
+      - کنون که عمر به بازیچه رفت بی‌حاصل
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 61
+    url: https://ganjoor.net/hafez/montasab/sh61
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 61
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

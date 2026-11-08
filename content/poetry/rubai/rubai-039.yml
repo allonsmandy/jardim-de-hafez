@@ -1,0 +1,26 @@
+id: rubai-039
+category: rubai
+number: 39
+firstLine:
+  fa: با شاهد شوخ شنگ و با بربط و نی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - با شاهد شوخ شنگ و با بربط و نی
+      - کنجی و فراغتی و یک شیشهٔ می
+    - - چون گرم شود ز باده ما را رگ و پی
+      - منّت نبریم یک جو از حاتم طی
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 39
+    url: https://ganjoor.net/hafez/robaee2/sh39
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 39
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

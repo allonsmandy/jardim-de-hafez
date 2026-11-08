@@ -1,0 +1,26 @@
+id: rubai-035
+category: rubai
+number: 35
+firstLine:
+  fa: ای باد! حدیثِ من نهانش می‌گو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای باد! حدیثِ من نهانش می‌گو
+      - سِرّ دل من به صد زبانش می‌گو
+    - - می‌گو نه بِدان‌سان که ملالش گیرد
+      - می‌گو سخنی و در میانش می‌گو
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 35
+    url: https://ganjoor.net/hafez/robaee2/sh35
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 35
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

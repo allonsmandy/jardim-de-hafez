@@ -1,0 +1,36 @@
+id: diversos-066
+category: diversos
+number: 66
+firstLine:
+  fa: ساقی اندر قدحم باز می گلگون کرد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقی اندر قدحم باز می گلگون کرد
+      - در مَی کهنه دیرینهء ما افیون کرد
+    - - دیگران را َمی دیرینه برابر می داد
+      - چون به این دلشده خسته رسید افزون کرد
+    - - این قدح هوش مراجمله به یکبار ببُرد
+      - این مَی این بار مرا پاک زخود بیرون کرد
+    - - تو مپندار که در ساغر وپیمانه ما
+      - بت سنگین دل من خون جگر اکنون کرد
+    - - انچه در سینه مجروح من َاش دل خوانی
+      - خاک عشق است که با خون جگر معجون کرد
+    - - روز اول که به استاد سپردند مرا
+      - دیگران راخِرد آموخت مرا مجنون کرد
+    - - دل حافظ که ز افسون لبت بی خود بود
+      - چشم جادوی تو اش بار دگر افسون کرد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 66
+    url: https://ganjoor.net/hafez/montasab/sh66
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 66
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

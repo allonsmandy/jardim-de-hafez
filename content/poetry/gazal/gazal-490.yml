@@ -1,0 +1,42 @@
+id: gazal-490
+category: gazal
+number: 490
+firstLine:
+  fa: در همه دِیر مغان نیست چو من شیدایی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در همه دِیر مغان نیست چو من شیدایی
+      - خرقه جایی گرو باده و دفْتر جایی
+    - - دل که آیینه شاهی‌ست غباری دارد
+      - از خدا می‌طلبم صحبت روشن‌رایی
+    - - کرده‌ام توبه به دست صنم باده‌فروش
+      - که دگَر مِی نخورم بی‌ رخِ بزم‌آرایی
+    - - نرگس اَر لاف زد از شیوه چشمِ تو مَرَنج
+      - نروند اهل نظر از پی نابینایی
+    - - شرحِ این قصه مگر شمع بَرآرَد به زبان
+      - وَرنَه پروانه ندارد به سخن، پروایی
+    - - جوی‌ها بسته‌ام از دیده به دامان که مگر
+      - در کنارم بنشانند سَهی‌بالایی
+    - - کشتی باده بیاور که مرا بی‌ رخِ دوست
+      - گشت هر گوشه چشم از غمِ دل، دریایی
+    - - سخن غیر مگو با منِ معشوقه‌پرست
+      - کَز وِی و جامِ مِی‌ام نیست به کَس پروایی
+    - - این حدیثم چه خوش آمد که سحرگه می‌گفت
+      - بر درِ میکده‌ای، با دَف و نِی، ترسایی
+    - - «گر مسلمانی از این است که حافظ دارد
+      - آه اگر از پی امروز بُوَد فردایی»
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 490
+    url: https://ganjoor.net/hafez/ghazal/sh490
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 490
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

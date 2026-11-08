@@ -1,0 +1,42 @@
+id: gazal-381
+category: gazal
+number: 381
+firstLine:
+  fa: گرچه ما بندگان پادشهیم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گرچه ما بندگان پادشهیم
+      - پادشاهان ملک صبحگهیم
+    - - گنج در آستین و کیسه تهی
+      - جام گیتی‌نما و خاک رهیم
+    - - هوشیار حضور و مست غرور
+      - بحر توحید و غرقهٔ گنهیم
+    - - شاهد بخت چون کرشمه کند
+      - ماش آیینه‌ رخ چو مهیم
+    - - شاه بیدار بخت را هر شب
+      - ما نگهبان افسر و کلهیم
+    - - گو غنیمت شمار صحبت ما
+      - که تو در خواب و ما به دیده گهیم
+    - - شاه منصور واقف است که ما
+      - روی همّت به هر کجا که نهیم
+    - - دشمنان را ز خون کفن سازیم
+      - دوستان را قبای فتح دهیم
+    - - رنگ تزویر پیش ما نبود
+      - شیر سرخیم و افعی سیهیم
+    - - وام حافظ بگو که بازدهند
+      - کرده‌ای اعتراف و ما گوهیم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 381
+    url: https://ganjoor.net/hafez/ghazal/sh381
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 381
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

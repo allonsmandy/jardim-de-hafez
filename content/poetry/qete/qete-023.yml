@@ -1,0 +1,26 @@
+id: qete-023
+category: qete
+number: 23
+firstLine:
+  fa: دلا دیدی که آن فرزانه فرزند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دلا دیدی که آن فرزانه فرزند
+      - چه دید اندر خم این طاق رنگین
+    - - به جای لوح سیمین در کنارش
+      - فلک بر سر نهادش لوح سنگین
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 23
+    url: https://ganjoor.net/hafez/ghete/sh23
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 23
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

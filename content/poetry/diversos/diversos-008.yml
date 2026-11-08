@@ -1,0 +1,40 @@
+id: diversos-008
+category: diversos
+number: 8
+firstLine:
+  fa: کارم ز دور چرخ به سامان نمی‌رسد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - کارم ز دور چرخ به سامان نمی‌رسد
+      - خون شد دلم ز درد، به درمان نمی‌رسد
+    - - با خاک ره ز روی مذلت برابرم
+      - آب رخم همی‌رود و نان نمی‌رسد
+    - - پی‌پاره‌ای نمی‌کنم از هیچ استخوان
+      - تا صدهزار زخم به دندان نمی‌رسد
+    - - سیرم ز جان خود به سر راستان ولی
+      - بیچاره را چه چاره چو فرمان نمی‌رسد
+    - - از آرزوست گشته گرانبار غم دلم
+      - آوخ که آرزوی من ارزان نمی‌رسد
+    - - یعقوب را دو دیده ز حسرت سپید گشت
+      - وآوازه‌ای ز مصر به کنعان نمی‌رسد
+    - - از حشمت اهل جهل به کیوان رسیده‌اند
+      - جز آه اهل فضل به کیوان نمی‌رسد
+    - - از دستبرد جور زمان اهل فضل را
+      - این غصه بس که دست سوی جان نمی‌ رسد
+    - - حافظ صبور باش که در راه عاشقی
+      - هر کس که جان نداد به جانان نمی‌رسد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 8
+    url: https://ganjoor.net/hafez/montasab/sh8
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 8
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

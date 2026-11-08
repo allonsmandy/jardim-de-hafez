@@ -1,0 +1,36 @@
+id: gazal-042
+category: gazal
+number: 42
+firstLine:
+  fa: حالِ دل با تو گفتنم، هوس است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - حالِ دل با تو گفتنم، هوس است
+      - خبرِ دل شِنُفتَنَم، هوس است
+    - - طَمَعِ خام بین که قِصهٔ فاش
+      - از رقیبان نَهُفتَنَم، هوس است
+    - - شبِ قدری چنین عزیزِ شریف
+      - با تو تا روز خُفتنم، هوس است
+    - - وه که دُردانه‌ای چنین نازک
+      - در شبِ تار سُفتنم، هوس است
+    - - ای صبا امشبَم مَدَد فرمای
+      - که سحرگه شکفتنم، هوس است
+    - - از برای شَرَف به نوُکِ مژه
+      - خاکِ راهِ تو رفتنم، هوس است
+    - - همچو حافظ به رَغمِ مُدَعیان
+      - شعرِ رندانه گفتنم، هوس است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 42
+    url: https://ganjoor.net/hafez/ghazal/sh42
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 42
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

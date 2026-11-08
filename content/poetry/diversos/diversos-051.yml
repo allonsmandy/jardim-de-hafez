@@ -1,0 +1,26 @@
+id: diversos-051
+category: diversos
+number: 51
+firstLine:
+  fa: زآن بادهٔ دیرینهٔ دهقان پرورد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - زآن بادهٔ دیرینهٔ دهقان پرورد
+      - در ده که تراز عمر نو خواهم کرد
+    - - مستم کن و بی خبر ز احوال جهان
+      - تا سر جهان بگویمت ای سره مرد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 51
+    url: https://ganjoor.net/hafez/montasab/sh51
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 51
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

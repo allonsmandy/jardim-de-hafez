@@ -1,0 +1,36 @@
+id: gazal-141
+category: gazal
+number: 141
+firstLine:
+  fa: دیدی ای دل که غمِ عشق دگربار چه کرد؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دیدی ای دل که غمِ عشق دگربار چه کرد؟
+      - چون بشد دلبر و با یارِ وفادار چه کرد
+    - - آه از آن نرگسِ جادو که چه بازی انگیخت
+      - آه از آن مست که با مردمِ هشیار چه کرد
+    - - اشکِ من رنگِ شفق یافت ز بی‌مِهری یار
+      - طالعِ بی‌شفقت بین که در این کار چه کرد
+    - - برقی از منزلِ لیلی بدرخشید سحر
+      - وَه که با خرمنِ مجنونِ دل‌افگار چه کرد
+    - - ساقیا جامِ مِی‌ام دِه که نگارندهٔ غیب
+      - نیست معلوم که در پردهٔ اسرار چه کرد
+    - - آن که پُرنقش زد این دایرهٔ مینایی
+      - کس ندانست که در گردشِ پرگار چه کرد
+    - - فکرِ عشق آتشِ غم در دلِ حافظ زد و سوخت
+      - یارِ دیرینه ببینید که با یار چه کرد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 141
+    url: https://ganjoor.net/hafez/ghazal/sh141
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 141
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

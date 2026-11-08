@@ -1,0 +1,40 @@
+id: gazal-082
+category: gazal
+number: 82
+firstLine:
+  fa: آن تُرکِ پَری چِهره که دوش اَز بَرِ ما رَفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن تُرکِ پَری چِهره که دوش اَز بَرِ ما رَفت
+      - آیا چه خطا دید که اَز راهِ خطا رَفت؟
+    - - تا رَفت مَرا اَز نَظَر آن چَشمِ جَهان‌بین
+      - کَس واقفِ ما نیست که اَز دیده چه‌ها رَفت
+    - - بَر شَمع نرفت اَز گُذرِ آتشِ دل، دوش
+      - آن دود که اَز سوزِ جِگر بَر سَر ما رَفت
+    - - دور اَز رُخِ تو دَم به دَم از گوشهٔ چَشمَم
+      - سیلابِ سِرشک آمَد و طوفانِ بَلا رَفت
+    - - از پای فُتادیم چو آمَد غَمِ هجران
+      - دَر دَرد بِمُردیم چو اَز دَست دَوا رَفت
+    - - دل گفت وِصالَش به دُعا باز تَوان یافت
+      - عُمریست که عُمرَم همه دَر کارِ دُعا رَفت
+    - - اِحرام چه بَندیم؟ چو آن قبله نه این جاست
+      - دَر سَعی چه کوشیم؟ چو از مَروه صَفا رَفت
+    - - دی گفت طبیب اَز سَرِ حَسرت چو مَرا دید
+      - هِیهات که رَنجِ تو زِ قانونِ شَفا رَفت
+    - - ای دوست به پُرسیدنِ حافظ قَدَمی نِه
+      - زان پیش که گویند که اَز دارِ فَنا رَفت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 82
+    url: https://ganjoor.net/hafez/ghazal/sh82
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 82
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-348
+category: gazal
+number: 348
+firstLine:
+  fa: دیده دریا کُنم و صبر به صحرا فِکنم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دیده دریا کُنم و صبر به صحرا فِکنم
+      - وَاندر این کار، دلِ خویش به دریا فِکنم
+    - - از دلِ تنگِ گنه‌کار برآرم آهی
+      - کآتش اندر گنهِ آدم و حوا فکنم
+    - - مایهٔ خوش‌دلی آن جاست که دل‌دار آن جاست
+      - می‌کنم جهد که خود را مگر آن جا فکنم
+    - - بِگشا بندِ قبا ای مهِ خورشیدکلاه!
+      - تا چو زلفت سَرِ سودا زده در پا فکنم
+    - - خورده‌ام تیرِ فلک، باده بده تا سرمست
+      - عُقده در بندِ کَمرتَرکشِ جوزا فکنم
+    - - جرعهٔ جام بر این تختِ روان افشانم
+      - غُلغُلِ چنگ در این گنبدِ مینا فکنم
+    - - حافظا! تکیه بر ایّام چو سهو است و خطا
+      - من چرا عِشرتِ امروز به فردا فکنم؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 348
+    url: https://ganjoor.net/hafez/ghazal/sh348
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 348
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

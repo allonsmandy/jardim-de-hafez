@@ -1,0 +1,26 @@
+id: diversos-114
+category: diversos
+number: 114
+firstLine:
+  fa: تا کی بود این جور و جفا کردن تو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا کی بود این جور و جفا کردن تو
+      - بیهوده دل خلایق آزردن تو
+    - - تیغی است به دست اهل دل خون آلود
+      - گر در تو رسد خون تو در گردن تو
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 114
+    url: https://ganjoor.net/hafez/montasab/sh114
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 114
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-044
+category: gazal
+number: 44
+firstLine:
+  fa: کُنون که بر کفِ گُل، جامِ بادهٔ صاف است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - کُنون که بر کفِ گُل، جامِ بادهٔ صاف است
+      - به صد هزار زبان، بلبلش در اوصاف است
+    - - بخواه دَفْتَرِ اَشعار و راهِ صَحرا گیر
+      - چه وَقْتِ مدرسه و بَحْثِ کَشْفِ کَشّاف است؟
+    - - فقیهِ مدرسه، دی، مَسْت بود و فَتوی داد
+      - که مِی، حَرام ولی بِهْ ز مالِ اوقاف است
+    - - به دُرد و صاف، تو را حُکْم نیست خوش دَرکَش
+      - که هرچه ساقیِ ما کَرْد عِیْنِ اَلطاف است
+    - - بِبُر ز خَلق و چو عَنقا، قیاسِ کار بگیر
+      - که صیتِ گوشه‌نشینان، زِ قاف تا قاف است
+    - - حَدیثِ مُدّعیان و خیالِ همکاران
+      - همان حکایتِ زَردوز و بوریاباف است
+    - - خموش «حافظ» و این نکته‌هایِ چونِ زَرِ سُرخ
+      - نگاه دار که قَلّابِ شهر، صَرّاف است
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 44
+    url: https://ganjoor.net/hafez/ghazal/sh44
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 44
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

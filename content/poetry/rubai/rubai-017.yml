@@ -1,0 +1,26 @@
+id: rubai-017
+category: rubai
+number: 17
+firstLine:
+  fa: از چرخ به هر گونه همی دار امید
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - از چرخ به هر گونه همی دار امید
+      - وز گردش روزگار می‌لرز چو بید
+    - - گفتی که «پس از سیاه رنگی نبُوَد»
+      - پس موی سیاه من چرا گشت سفید؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 17
+    url: https://ganjoor.net/hafez/robaee2/sh17
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 17
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

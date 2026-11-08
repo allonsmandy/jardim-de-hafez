@@ -1,0 +1,38 @@
+id: gazal-448
+category: gazal
+number: 448
+firstLine:
+  fa: ای که در کوی خرابات مقامی داری
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای که در کوی خرابات مقامی داری
+      - جم وقت خودی ار دست به جامی داری
+    - - ای که با زلف و رخِ یار گذاری شب و روز
+      - فرصتت باد که خوش صبحی و شامی داری
+    - - ای صبا! سوختگان بر سر ره منتظرند
+      - گر از آن یار سفرکرده پیامی داری
+    - - خال سرسبز تو خوش دانهٔ عیشی‌ست ولی
+      - بر کنار چمنش وه که چه دامی داری
+    - - بوی جان از لب خندان قدح می‌شنوم
+      - بشنو ای خواجه اگر زان که مشامی داری
+    - - چون به هنگام وفا هیچ ثباتیت نبود
+      - می‌کنم شکر که بر جور دوامی داری
+    - - نام نیک ار طلبد از تو غریبی چه شود؟
+      - تویی امروز در این شهر که نامی داری
+    - - بس دعای سحرت مونس جان خواهد بود
+      - تو که چون حافظ شب‌خیز غلامی داری
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 448
+    url: https://ganjoor.net/hafez/ghazal/sh448
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 448
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

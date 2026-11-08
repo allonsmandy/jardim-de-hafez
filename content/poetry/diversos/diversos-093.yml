@@ -1,0 +1,26 @@
+id: diversos-093
+category: diversos
+number: 93
+firstLine:
+  fa: نوباوهٔ گلبن جوانی عشق است
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نوباوهٔ گلبن جوانی عشق است
+      - سرمایهٔ عمر جاودانی عشق است
+    - - چون خضر گر آب زندگانی طلبی
+      - سرچشمهٔ آب زندگانی عشق است
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 93
+    url: https://ganjoor.net/hafez/montasab/sh93
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 93
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

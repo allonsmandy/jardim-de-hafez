@@ -1,0 +1,32 @@
+id: qete-026
+category: qete
+number: 26
+firstLine:
+  fa: ساقیا پیمانه پر کن زانکه صاحب مجلست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقیا پیمانه پر کن زانکه صاحب مجلست
+      - آرزو می‌بخشد و اسرار می‌دارد نگاه
+    - - جنّت نقد است اینجا عیش و عشرت تازه کن
+      - زانکه در جنّت خدا بر بنده ننویسد گناه
+    - - دوستداران دوستکامند و حریفان باادب
+      - پیشکاران نیکنام و صف‌نشینان نیکخواه
+    - - ساز چنگ، آهنگِ عشرت، صحن مجلس، جایِ رقص
+      - خالِ جانان، دانهٔ دل، زلفِ ساقی، دام راه
+    - - دور از این بهتر نباشد ساقیا عشرت گزین
+      - حال از این خوشتر نباشد حافظا ساغر بخواه
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 26
+    url: https://ganjoor.net/hafez/ghete/sh26
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 26
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

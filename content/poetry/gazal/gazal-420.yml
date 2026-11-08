@@ -1,0 +1,36 @@
+id: gazal-420
+category: gazal
+number: 420
+firstLine:
+  fa: ناگهان پرده برانداخته‌ای، یعنی چه؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ناگهان پرده برانداخته‌ای، یعنی چه؟
+      - مست از خانه برون تاخته‌ای، یعنی چه؟
+    - - زلف در دستِ صبا، گوش به فرمان رقیب
+      - این چنین با همه درساخته‌ای، یعنی چه؟
+    - - شاهِ خوبانی و منظورِ گدایان شده‌ای
+      - قدرِ این مرتبه نشناخته‌ای، یعنی چه؟
+    - - نه سرِ زلفِ خود اول تو به دستم دادی
+      - بازم از پای درانداخته‌ای، یعنی چه؟
+    - - سخنت رمزِ دهان گفت و کمر سِرّ‌ِ میان
+      - وز میان، تیغ به ما آخته‌ای، یعنی چه؟
+    - - هر کس از مُهرهٔ مِهر تو به نقشی مشغول
+      - عاقبت با همه کج باخته‌ای، یعنی چه؟
+    - - حافظا در دلِ تنگت چو فرود آمد یار
+      - خانه از غیر نپرداخته‌ای، یعنی چه؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 420
+    url: https://ganjoor.net/hafez/ghazal/sh420
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 420
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-336
+category: gazal
+number: 336
+firstLine:
+  fa: مژدهٔ وصلِ تو کو کز سرِ جان برخیزم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مژدهٔ وصلِ تو کو کز سرِ جان برخیزم
+      - طایرِ قُدسم و از دامِ جهان برخیزم
+    - - به ولای تو که گر بندهٔ خویشم خوانی
+      - از سرِ خواجگیِ کون و مکان برخیزم
+    - - یا رب از ابرِ هدایت بِرَسان بارانی
+      - پیشتر زان که چو گَردی ز میان برخیزم
+    - - بر سرِ تربتِ من با مِی و مُطرب بنشین
+      - تا به بویت ز لحد رقص کُنان برخیزم
+    - - خیز و بالا بنما ای بتِ شیرین حرکات
+      - کز سرِ جان و جهان دست فشان برخیزم
+    - - گرچه پیرم تو شبی تنگ در آغوشم کَش
+      - تا سحرگه ز کنارِ تو جوان برخیزم
+    - - روز مرگم نفسی مهلتِ دیدار بده
+      - تا چو حافظ ز سرِ جان و جهان برخیزم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 336
+    url: https://ganjoor.net/hafez/ghazal/sh336
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 336
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

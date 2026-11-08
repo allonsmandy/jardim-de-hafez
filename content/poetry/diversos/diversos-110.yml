@@ -1,0 +1,26 @@
+id: diversos-110
+category: diversos
+number: 110
+firstLine:
+  fa: گر مست نیی مست نمایی می‌کن
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر مست نیی مست نمایی می‌کن
+      - دیوانه نیی کاله ربایی می‌کن
+    - - تا خلق ز اسرار تو واقف نشوند
+      - رندی بنمای و پارسایی می‌کن
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 110
+    url: https://ganjoor.net/hafez/montasab/sh110
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 110
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

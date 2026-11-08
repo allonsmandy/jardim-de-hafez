@@ -1,0 +1,38 @@
+id: diversos-038
+category: diversos
+number: 38
+firstLine:
+  fa: برو زاهد به امیدی که داری
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - برو زاهد به امیدی که داری
+      - که دارم همچو تو امیدواری
+    - - به جز ساغر چه دارد لاله در دست
+      - بیا ساقی بیاور آنچه داری
+    - - مرا در رسته دیوانگان کش
+      - که مستی خوشتر است از هوشیاری
+    - - بپرهیز از من ای صوفی بپرهیز
+      - که کردم توبه از پرهیزکاری
+    - - بیا دل در خم گیسوی او بند
+      - اگر خواهی خلاصی رستگاری
+    - - به دور گل خدا را توبه بشکن
+      - که عهد گل ندارد استواری
+    - - عزیزا نوبهار عمر بگذشت
+      - چو بر طرف چمن باد بهاری
+    - - بیا حافظ به پند تلخ کن نوش
+      - چرا عمری به غفلت می گذاری
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 38
+    url: https://ganjoor.net/hafez/montasab/sh38
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 38
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

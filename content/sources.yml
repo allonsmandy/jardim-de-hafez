@@ -1,0 +1,168 @@
+# Registro de fontes. Toda referência em poemas e notas precisa apontar para um id daqui.
+# `usableForPublication` só deve ser `true` depois de verificar a situação de direitos.
+# Ver docs/copyright-and-sources.md.
+
+- id: qazvini-ghani
+  type: critical-edition
+  title: Divan-e Khajeh Shamseddin Mohammad Hafez-e Shirazi
+  authors: [Mohammad Qazvini, Qasem Ghani]
+  year: '1941 (1320 do calendário solar iraniano)'
+  publisher: Teerã
+  rights:
+    status: public-domain
+    note: >-
+      O texto de Hafez (século XIV) é de domínio público. A edição Qazvini-Ghani é a base
+      da numeração tradicional de 495 gazéis; usamos sua numeração e seu estabelecimento do texto
+      como referência, sem reproduzir aparato crítico, prefácios ou notas dos editores.
+  usableForPublication: true
+
+- id: ganjoor
+  type: digital-transcription
+  title: Ganjoor — Divã de Hafez (transcrição digital da edição Qazvini-Ghani)
+  url: https://ganjoor.net/hafez
+  rights:
+    status: open-license
+    note: >-
+      O Ganjoor é um projeto iraniano sem fins comerciais que digitaliza a poesia persa e libera seu
+      acervo para que outros façam trabalhos parecidos (como diz a página "Sobre" do site). O poema
+      em si é de domínio público. Copiamos daqui só o texto dos versos, sempre com crédito e link —
+      os comentários e resumos do Ganjoor não são usados.
+    verifiedAt: 2026-11-07
+  usableForPublication: true
+
+- id: hafizonlove
+  type: website
+  title: Hafiz on Love
+  authors: [Shahriar Shahriari]
+  year: '1999–2025'
+  url: https://www.hafizonlove.com
+  rights:
+    status: restricted
+    note: >-
+      Site de Shahriar Shahriari que apresenta Hafez em inglês há décadas e inspirou este projeto. O
+      autor permite uso não comercial com crédito, mas isso não inclui traduzir ou adaptar suas
+      traduções. Por isso só o consultamos para conferir a numeração e a organização dos poemas.
+  usableForPublication: false
+
+- id: clarke-1891
+  type: translation
+  title: The Divan-i-Hafiz (tradução para o inglês)
+  authors: [H. Wilberforce Clarke]
+  year: '1891'
+  publisher: Calcutá
+  rights:
+    status: public-domain
+    note: Tradução inglesa do século XIX, em domínio público. Pode servir de apoio a notas e a traduções indiretas devidamente identificadas.
+  usableForPublication: true
+
+- id: bell-1897
+  type: translation
+  title: Poems from the Divan of Hafiz (tradução para o inglês)
+  authors: [Gertrude Lowthian Bell]
+  year: '1897'
+  publisher: Londres, William Heinemann
+  rights:
+    status: public-domain
+    note: Seleção de poemas em tradução inglesa em domínio público; útil para comparação e notas.
+  usableForPublication: true
+
+- id: smith-tongue-of-the-hidden
+  type: translation
+  title: Hafiz — Tongue of the Hidden (versões)
+  authors: [Paul Smith]
+  rights:
+    status: restricted
+    note: Tradução moderna, protegida por direitos autorais. Aparece aqui porque é citada pelo Hafiz on Love; não serve de base para nada no site.
+  usableForPublication: false
+
+- id: gray-green-sea-of-heaven
+  type: translation
+  title: The Green Sea of Heaven — Fifty Ghazals from the Diwan of Hafiz
+  authors: [Elizabeth T. Gray Jr.]
+  rights:
+    status: restricted
+    note: Tradução moderna, protegida por direitos autorais. Registrada como referência; não serve de base para nada no site.
+  usableForPublication: false
+
+- id: aryanpur-odes
+  type: translation
+  title: Odes of Hafiz — Poetical Horoscope
+  authors: [Abbas Aryanpur Kashani]
+  rights:
+    status: restricted
+    note: Tradução moderna, protegida por direitos autorais. Registrada como referência; não serve de base para nada no site.
+  usableForPublication: false
+
+- id: claude-preliminar
+  type: translation
+  title: Tradução preliminar do Jardim de Hafez feita por IA (Claude, Anthropic)
+  authors: [Claude (modelo de IA da Anthropic)]
+  year: '2026'
+  rights:
+    status: permission-granted
+    note: >-
+      Traduções e comentários produzidos a pedido da proprietária do projeto, publicados como
+      versão preliminar aberta a correções. A página "Como traduzimos" explica o processo.
+  usableForPublication: true
+
+- id: codex-preliminar
+  type: translation
+  title: Tradução preliminar do Jardim de Hafez feita por IA (Codex, OpenAI)
+  authors: [Codex (modelo de IA da OpenAI)]
+  year: '2026'
+  rights:
+    status: permission-granted
+    note: >-
+      Traduções e comentários produzidos a pedido da proprietária do projeto, publicados como
+      versão preliminar aberta a correções. A página "Como traduzimos" explica o processo.
+  usableForPublication: true
+
+- id: encyclopaedia-iranica
+  type: reference
+  title: Encyclopaedia Iranica — verbetes "Hafez" e correlatos
+  url: https://www.iranicaonline.org
+  rights:
+    status: restricted
+    note: Enciclopédia acadêmica sobre o Irã. Usada para conferir datas e fatos históricos, sem reproduzir seus textos.
+  usableForPublication: false
+
+- id: khorramshahi-hafeznameh
+  type: reference
+  title: Hafez-nameh (comentário persa aos gazéis de Hafez)
+  authors: [Bahaoddin Khorramshahi]
+  year: '1987'
+  rights:
+    status: restricted
+    note: >-
+      Comentário moderno de referência, indicado para conferência das leituras. Não foi citado nem
+      reproduzido; as explicações do projeto são próprias.
+  usableForPublication: false
+
+- id: dowlatshah-tazkira
+  type: reference
+  title: Tazkirat al-Shu'ara (Memorial dos Poetas)
+  authors: [Dowlatshah Samarqandi]
+  year: '1487'
+  rights:
+    status: public-domain
+    note: Obra do século XV; fonte da anedota sobre Hafez e Tamerlão, considerada lendária pelos historiadores.
+  usableForPublication: true
+
+- id: alcorao
+  type: reference
+  title: Alcorão
+  rights:
+    status: public-domain
+    note: 'Referência para alusões corânicas (ex.: a história de José, sura 12).'
+  usableForPublication: true
+
+- id: met-open-access
+  type: reference
+  title: The Metropolitan Museum of Art — Open Access (imagens e dados da galeria Arte Persa)
+  url: https://www.metmuseum.org/about-the-met/policies-and-procedures/image-resources
+  rights:
+    status: public-domain
+    note: >-
+      O museu libera em domínio público (CC0) as fotos de obras sem direitos autorais. Título, data,
+      técnica e número de inventário de cada obra foram conferidos na base oficial do museu.
+  usableForPublication: true

@@ -1,0 +1,36 @@
+id: gazal-205
+category: gazal
+number: 205
+firstLine:
+  fa: تا ز میخانه و مِی نام و نشان خواهد بود
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - تا ز میخانه و مِی نام و نشان خواهد بود
+      - سرِ ما خاکِ رَهِ پیرِ مُغان خواهد بود
+    - - حلقهٔ پیرِ مغان از ازلم در گوش است
+      - بر همانیم که بودیم و همان خواهد بود
+    - - بر سرِ تربتِ ما چون گذری همّت خواه
+      - که زیارتگَهِ رِندانِ جهان خواهد بود
+    - - برو ای زاهدِ خودبین که ز چشمِ من و تو
+      - رازِ این پرده نهان است و نهان خواهد بود
+    - - تُرکِ عاشق‌کُشِ من مست برون رفت امروز
+      - تا دگر خونِ که از دیده روان خواهد بود
+    - - چشمم آن دَم که ز شوقِ تو نَهَد سر به لَحَد
+      - تا دَمِ صبحِ قیامت نگران خواهد بود
+    - - بختِ حافظ گر از این گونه مدد خواهد کرد
+      - زلفِ معشوقه به دستِ دگران خواهد بود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 205
+    url: https://ganjoor.net/hafez/ghazal/sh205
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 205
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

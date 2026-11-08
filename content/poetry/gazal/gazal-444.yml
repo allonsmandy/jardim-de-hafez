@@ -1,0 +1,38 @@
+id: gazal-444
+category: gazal
+number: 444
+firstLine:
+  fa: شهری‌ست پُر ظریفان وز هر طرف نگاری
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شهری‌ست پُر ظریفان وز هر طرف نگاری
+      - یاران! صلای عشق است گر می‌کنید کاری
+    - - چشم فلک نبیند زین طُرفه‌تر جوانی
+      - در دست کس نیفتد زین خوب‌تر نگاری
+    - - هرگز که دیده باشد جسمی ز جان مُرَکَّب؟
+      - بر دامنش مبادا زین خاکیان غباری
+    - - چون من شکسته‌ای را از پیش خود چه رانی؟
+      - کم غایت توقع بوسی‌ست یا کناری
+    - - مِی بی‌غش است دریاب، وقتی خوش است بشتاب
+      - سال دگر که دارد امّید نوبهاری؟
+    - - در بوستان حریفان مانند لاله و گل
+      - هر یک گرفته جامی بر یادِ رویِ یاری
+    - - چون این گره گشایم؟ وین راز چون نمایم؟
+      - دردی و سخت دردی، کاری و صعب کاری
+    - - هر تار موی حافظ در دست زلفِ شوخی
+      - مشکل توان نشستن در این چنین دیاری
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 444
+    url: https://ganjoor.net/hafez/ghazal/sh444
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 444
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

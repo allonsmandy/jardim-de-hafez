@@ -1,0 +1,38 @@
+id: diversos-005
+category: diversos
+number: 5
+firstLine:
+  fa: هوس باد بهارم به سوی صحرا برد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هوس باد بهارم به سوی صحرا برد
+      - باد بوی تو بیاورد و قرار از ما برد
+    - - هرکجا بود دلی چشم تو برد از راهش
+      - نه دل خسته بیمار مرا تنها برد
+    - - آمد و گرم ببرد آب رخم اشک چو سیم
+      - زر به زر داد کسی کامد و این کالا برد
+    - - دل سنگین ترا اشک من آورد به راه
+      - سنگ را سیل تواند به لب دریا برد
+    - - دوش دست طربم سلسلهٔ شوق تو بست
+      - پای خیل خردم لشکر غم از جا برد
+    - - راه ما غمزهٔ آن ترک‌کمان ابرو زد
+      - رخت ما هندوی آن سرو سهی بالا برد
+    - - جام می پیش لبت دم ز روان‌بخشی زد
+      - آب وی آن لب جان‌بخش روان‌افزا برد
+    - - بحث بلبل بر حافظ مکن از خوش سخنی
+      - پیش طوطی نتوان نام هزارآوا برد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 5
+    url: https://ganjoor.net/hafez/montasab/sh5
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 5
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

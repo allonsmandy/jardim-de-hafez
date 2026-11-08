@@ -1,0 +1,38 @@
+id: gazal-064
+category: gazal
+number: 64
+firstLine:
+  fa: اگر چه عرض هنر پیشِ یار بی‌ادبی‌ست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - اگر چه عرض هنر پیشِ یار بی‌ادبی‌ست
+      - زبان خموش، ولیکن دهان پُر از عربی‌ست
+    - - پری نهفته رخ و دیو در کرشمهٔ حُسن
+      - بسوخت دیده ز حیرت که این چه بوالعجبی‌ست
+    - - در این چمن گلِ بی خار کس نچید، آری
+      - چراغِ مصطفوی با شرارِ بولَهَبی‌ست
+    - - سبب مپرس که چرخ از چه سِفله‌پرور شد
+      - که کام‌بخشی او را بهانه بی‌سببی‌ست
+    - - به نیم جو نخرم طاقِ خانقاه و رِباط
+      - مرا که مَصطَبه ایوان و پای خُم طَنَبی‌ست
+    - - جمالِ دختر رَز، نورِ چشمِ ماست مگر
+      - که در نقابِ زُجاجی و پردهٔ عِنَبی‌ست
+    - - هزار عقل و ادب داشتم من ای خواجه
+      - کنون که مستِ خرابم، صلاح بی‌ادبی‌ست
+    - - بیار می که چو حافظ هزارم استظهار
+      - به گریهٔ سحری و نیازِ نیم‌شبی‌ست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 64
+    url: https://ganjoor.net/hafez/ghazal/sh64
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 64
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

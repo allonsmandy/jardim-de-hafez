@@ -1,0 +1,146 @@
+id: gazal-013
+category: gazal
+number: 13
+firstLine:
+  fa: می‌دمد صبح و کِلِّه بست سحاب
+  pt: A manhã desponta e as nuvens armaram um dossel
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - می‌دمد صبح و کِلِّه بست سحاب
+      - الصَبوح الصَبوح یا اصحاب
+    - - می‌چکد ژاله بر رخِ لاله
+      - المُدام المُدام یا احباب
+    - - می‌وزد از چمن نسیمِ بهشت
+      - هان، بنوشید دَم به دَم مِیِ ناب
+    - - تخت زُمْرُد زده است گل به چمن
+      - راحِ چون لعلِ آتشین دریاب
+    - - درِ میخانه بسته‌اند دگر
+      - اِفتَتِح یا مُفَتِّح الاَبواب
+    - - لب و دَندانْت را حقوق نمک
+      - هست بر جان و سینه‌هایِ کباب
+    - - این چنین موسِمی عجب باشد
+      - که ببندند میکده به شتاب
+    - - بر رخِ ساقیِ پری پیکر
+      - همچو حافظ بنوش بادهٔ ناب
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 13
+    url: https://ganjoor.net/hafez/ghazal/sh13
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - 'A manhã desponta e as nuvens armaram um dossel:'
+      - o vinho da aurora, o vinho da aurora, ó companheiros!
+    - - 'O orvalho goteja no rosto da tulipa:'
+      - o vinho, o vinho, ó amigos queridos!
+    - - 'Do prado sopra a brisa do paraíso:'
+      - eia, bebei a cada instante o vinho puro!
+    - - 'A rosa armou no prado um trono de esmeralda:'
+      - toma o vinho que é como um rubi de fogo.
+    - - 'Fecharam de novo a porta da taverna:'
+      - abre, ó Tu que abres as portas!
+    - - Teus lábios e teus dentes têm o direito do sal
+      - sobre as almas e os peitos assados de dor.
+    - - Numa estação como esta, é estranho
+      - que fechem as tavernas com tanta pressa.
+    - - Diante do rosto do copeiro de corpo de fada,
+      - bebe, como Hafez, o vinho puro.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 13
+themes:
+  - Uma manhã de primavera
+  - A taverna fechada
+  - Um convite para brindar
+introduction:
+  - Um gazel curtinho e musical, quase uma canção de brinde ao amanhecer, com refrões em árabe. Os
+    versos são curtos (bem mais que nos outros gazéis), o que dá um ritmo rápido.
+  - 'No meio da festa, uma queixa: fecharam as tavernas. Muitos comentadores ligam esses versos à
+    época de Mubariz al-Din, um governante de Shiraz muito rígido que mandou fechar as tavernas; é
+    uma leitura provável, mas o poema não diz o nome dele.'
+stanzaNotes:
+  - stanza: 1
+    plain: O dia está nascendo e o céu está cheio de nuvens. Pessoal, hora do brinde da manhã!
+    meaning:
+      'O "vinho da aurora" (sabuh) era um costume dos festins persas: beber ao nascer do dia. As
+      nuvens são como o dossel (kelle, um mosquiteiro ou toldo) sobre uma cama.'
+    choices: O segundo verso está em árabe no original ("al-sabuh al-sabuh yā ashāb"); traduzimos e
+      repetimos como no original, para manter o tom de refrão.
+  - stanza: 2
+    plain: O orvalho cai sobre as flores vermelhas. Vamos beber, amigos!
+    meaning: A tulipa vermelha, com gotas de orvalho, parece uma taça de vinho. Outro refrão em árabe.
+    choices: '"Al-mudām" é "o vinho" (literalmente "o contínuo"); repetimos como no original.'
+  - stanza: 3
+    plain: O vento que vem do jardim parece vir do céu. Bebam e aproveitem, sem parar!
+    meaning:
+      O jardim na primavera é comparado ao paraíso — lembrando que "paraíso" vem de uma palavra
+      persa antiga que quer dizer "jardim murado".
+    choices: '"Dam be dam" (respiração a respiração) virou "a cada instante".'
+  - stanza: 4
+    plain:
+      A rosa está sentada sobre as folhas verdes como uma rainha no trono. Pegue o vinho vermelho e
+      brilhante.
+    meaning:
+      'As folhas verdes da roseira são a esmeralda; a flor, a rainha. Verde e vermelho, esmeralda
+      e rubi: Hafez pinta a cena com pedras preciosas.'
+    choices: '"Rāh" é uma palavra árabe para vinho; usamos simplesmente "vinho".'
+  - stanza: 5
+    plain: Fecharam as tavernas outra vez. Ó Deus, que abre todas as portas, abra essa também!
+    meaning: '"Yā mufattih al-abwāb" (ó Abridor das portas) é uma invocação a Deus usada em orações
+      muçulmanas. Hafez a usa, em árabe, para pedir que reabram as tavernas — uma ousadia típica
+      dele. Pode aludir a uma época em que as tavernas de Shiraz foram fechadas por ordem do
+      governante.'
+    choices: Mantivemos o "Tu" maiúsculo para deixar claro que se trata de Deus.
+  - stanza: 6
+    plain:
+      Seus lábios e seu sorriso são o tempero da minha vida — mesmo que, ao mesmo tempo, ardam como
+      sal numa ferida.
+    meaning:
+      '"O direito do sal" (haqq-e namak) é uma expressão persa: quem comeu do sal de alguém (foi
+      recebido em sua casa) tem dívida de gratidão com ele. Os lábios e dentes do amado são
+      "salgados" (na poesia, sal = graça, charme). E o sal sobre um coração "assado" (ferido) arde.
+      Duplo sentido: gratidão e dor.'
+    literal: Teus lábios e dentes têm direitos de sal / sobre as almas e os peitos (feitos) kebab.
+    choices: '"Kabāb" é carne assada: em persa, "coração kebab" é coração ferido, queimado de dor.
+      Usamos "assados de dor" para manter a imagem culinária sem soar estranho.'
+  - stanza: 7
+    plain: Em plena primavera, que absurdo fecharem as tavernas assim, de repente!
+    meaning: 'A crítica fica clara: fechar as tavernas justamente na estação mais bonita do ano.'
+    choices: Tradução direta.
+  - stanza: 8
+    plain: Olhando o rosto lindo de quem serve, beba o vinho, como Hafez faz.
+    meaning:
+      '"Pari" é a fada das lendas persas, ser de beleza sobrenatural. O poema termina convidando
+      o leitor a fazer como o poeta.'
+    choices: '"Pari-peykar" (de corpo de fada) foi traduzido literalmente.'
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - vinho
+  - arabe
+  - saqi
+  - takhallos
+  - islam
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

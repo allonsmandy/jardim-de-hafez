@@ -1,0 +1,28 @@
+id: qete-010
+category: qete
+number: 10
+firstLine:
+  fa: روح القدس آن سروش فرخ
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - روح القدس آن سروش فرخ
+      - بر قبهٔ طارم زبرجد
+    - - می‌گفت سحر گهی که یا رب
+      - در دولت و حشمت مخلد
+    - - بر مسند خسروی بماناد
+      - منصور مظفر محمد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 10
+    url: https://ganjoor.net/hafez/ghete/sh10
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 10
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

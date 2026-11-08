@@ -1,0 +1,28 @@
+id: qete-020
+category: qete
+number: 20
+firstLine:
+  fa: بلبل و سرو و سمن یاسمن و لاله و گل
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بلبل و سرو و سمن یاسمن و لاله و گل
+      - هست تاریخ وفات شه مشکین کاکل
+    - - خسرو روی زمین غوث زمان بواسحاق
+      - که به مه طلعت او نازد و خندد بر گل
+    - - جمعه بیست و دوم ماه جمادی الاول
+      - در پسین بود که پیوسته شد از جزو به کل
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 20
+    url: https://ganjoor.net/hafez/ghete/sh20
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 20
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

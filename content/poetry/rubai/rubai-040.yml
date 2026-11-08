@@ -1,0 +1,26 @@
+id: rubai-040
+category: rubai
+number: 40
+firstLine:
+  fa: قسّام بهشت و دوزخ آن عقده‌گشای
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - قسّام بهشت و دوزخ آن عقده‌گشای
+      - ما را نگذارد که درآییم ز پای
+    - - تا کی بوَد این گرگ ربایی، بنمای
+      - سرپنجهٔ دشمن افکن ای شیر خدای
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 40
+    url: https://ganjoor.net/hafez/robaee2/sh40
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 40
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

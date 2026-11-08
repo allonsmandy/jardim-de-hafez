@@ -1,0 +1,291 @@
+id: gazal-005
+category: gazal
+number: 5
+firstLine:
+  fa: دل می‌رود ز دستم صاحب‌دلان خدا را
+  pt: O coração me escapa das mãos — ó vós que tendes coração, por Deus!
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دل می‌رود ز دستم صاحب‌دلان خدا را
+      - دردا که راز پنهان خواهد شد آشکارا
+    - - کشتی‌شکستگانیم ای بادِ شُرطِه برخیز
+      - باشد که باز بینم دیدارِ آشنا را
+    - - ده‌روزه مِهرِ گردون افسانه است و افسون
+      - نیکی به جای یاران فرصت شمار یارا
+    - - در حلقهٔ گُل‌ و مُل خوش خواند دوش بلبل
+      - هاتِ الصَّبُوحَ هُبّوا یا ایُّها السُّکارا
+    - - ای صاحبِ کرامت شُکرانهٔ سلامت
+      - روزی تَفَقُّدی کن درویشِ بی‌نوا را
+    - - آسایشِ دو گیتی تفسیرِ این دو حرف است
+      - با دوستان مُرُوَّت با دشمنان مُدارا
+    - - در کویِ نیک‌نامی ما را گذر ندادند
+      - گر تو نمی‌پسندی تغییر کن قضا را
+    - - آن تَلخ‌وَش که صوفی اُم‌ُّالخَبائِثَش خواند
+      - اَشهیٰ لَنا و اَحلیٰ مِن قُبلَةِ العَذارا
+    - - هنگامِ تنگ‌دستی در عیش کوش و مستی
+      - کاین کیمیایِ هستی قارون کند گدا را
+    - - سرکش مشو که چون شمع از غیرتت بسوزد
+      - دلبر که در کفِ او موم است سنگِ خارا
+    - - آیینهٔ سِکَندر جامِ مِی است بنگر
+      - تا بر تو عرضه دارد احوالِ مُلکِ دارا
+    - - خوبان پارسی‌گو بخشندگانِ عمرند
+      - ساقی بده بشارت رندانِ پارسا را
+    - - حافظ به خود نپوشید این خرقهٔ مِی‌ْآلود
+      - ای شیخِ پاک‌دامن معذور دار ما را
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 5
+    url: https://ganjoor.net/hafez/ghazal/sh5
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - O coração me escapa das mãos — ó vós que tendes coração, por Deus!
+      - Ai de mim, o segredo oculto vai se tornar manifesto.
+    - - 'Somos náufragos: ó vento favorável, levanta-te!'
+      - Talvez eu volte a ver o rosto do amigo.
+    - - 'O afeto de dez dias da roda do céu é fábula e feitiço:'
+      - fazer o bem aos amigos — aproveita a ocasião, amigo.
+    - - 'No círculo da rosa e do vinho, o rouxinol cantou belamente ontem à noite:'
+      - “Trazei o vinho da aurora! Despertai, ó embriagados!”
+    - - Ó tu, cheio de nobreza, em gratidão pela tua boa sorte,
+      - pergunta um dia pelo dervixe desvalido.
+    - - 'A paz dos dois mundos se explica nestas duas palavras:'
+      - com os amigos, generosidade; com os inimigos, tolerância.
+    - - Pelo bairro da boa reputação não nos deixaram passar;
+      - se não te agrada, muda tu o destino.
+    - - Aquela amarga a que o sufi chamou "mãe de todos os vícios"
+      - nos é mais desejável e mais doce que o beijo das virgens.
+    - - Em tempo de penúria, busca o deleite e a embriaguez,
+      - pois esta alquimia da existência faz do mendigo um Qarun.
+    - - Não sejas rebelde, ou, como a vela, te queimará de ciúme
+      - o amado em cuja mão o granito é cera.
+    - - 'O espelho de Alexandre é a taça de vinho: olha,'
+      - e ela te mostrará o estado do reino de Dario.
+    - - 'Os belos que falam persa são doadores de vida:'
+      - copeiro, dá a boa-nova aos rends devotos.
+    - - 'Hafez não vestiu por vontade própria este manto manchado de vinho:'
+      - ó xeque de vida imaculada, perdoa-nos.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 5
+themes:
+  - Um amor que não dá para esconder
+  - A vida é curta
+  - Conselhos para viver bem
+  - Contra os moralistas
+introduction:
+  - 'Um poema longo e cheio de mudanças de assunto — o que é normal num gazel, em que cada par de
+    versos tem uma ideia própria. O que une tudo é a pressa: a vida é curta e a sorte muda, então é
+    preciso amar, ser bom com os outros e aproveitar o momento.'
+  - 'Um dos versos (o sexto) virou um provérbio no Irã: "com os amigos, generosidade; com os
+    inimigos, tolerância". Outro (o oitavo) é uma das provocações mais ousadas de Hafez contra os
+    religiosos que condenam o vinho.'
+stanzaNotes:
+  - stanza: 1
+    plain:
+      Estou perdendo o controle do meu coração — socorro, vocês que entendem de amor! Meu segredo
+      vai acabar sendo descoberto.
+    meaning:
+      O poeta está perdendo o controle sobre o próprio coração (está se apaixonando perdidamente)
+      e pede socorro aos "donos de coração" — as pessoas sensíveis, os místicos, os que entendem de
+      amor. Teme que o amor que guardava em segredo se torne público.
+    literal: O coração vai-se da minha mão, ó donos-de-coração, por Deus! / Que dor, que o segredo
+      escondido ficará revelado.
+    choices:
+      '"Saheb-delan" (donos de coração) é termo para os iniciados, os de alma sensível; "vós que
+      tendes coração" mantém o jogo com "o coração me escapa". "Khoda ra" é "por Deus!", pedido de
+      socorro.'
+  - stanza: 2
+    plain: Estamos como náufragos. Que um vento bom sopre e me leve de volta para ver quem eu amo.
+    meaning:
+      O amante, separado do amado, é como um náufrago; pede ao vento favorável que sopre e o leve
+      de volta, para rever o rosto amigo.
+    literal:
+      Somos os de barco quebrado; ó vento favorável, levanta-te, / pode ser que de novo eu veja o
+      encontro do familiar.
+    choices:
+      '"Bad-e shorte" é termo náutico (o vento favorável à navegação no Oceano Índico); "vento
+      favorável" é exato. "Ashna" é o conhecido, o familiar, o íntimo — "o amigo" é a forma mais
+      natural.'
+  - stanza: 3
+    plain: A sorte é passageira e enganadora. Aproveite enquanto pode para fazer o bem aos seus amigos.
+    meaning:
+      A fortuna (a "roda do céu", que gira e muda tudo) só oferece afeto passageiro, uma ilusão.
+      Por isso, a única coisa sensata é fazer o bem aos amigos enquanto há tempo.
+    literal:
+      Afeto de dez dias da roda celeste é conto e encantamento; / bondade no lugar dos amigos,
+      oportunidade conta, ó amigo.
+    choices:
+      '"Dah-ruze" (de dez dias) é expressão persa para "efêmero, de pouca duração"; mantivemos o
+      número pelo sabor. "Gardun" é o céu que gira, o destino; "roda do céu" capta as duas ideias. O
+      original brinca com "yaran / yara" (amigos / ó amigo), que reproduzimos com "amigos / amigo".'
+  - stanza: 4
+    plain:
+      'Ontem à noite, entre rosas e vinho, o rouxinol cantou: "Tragam a bebida, acordem, vocês que
+      estão dormindo!"'
+    meaning:
+      'Numa reunião entre rosas e vinho, o rouxinol cantou um convite: tragam a bebida da manhã
+      (sabuh, o vinho tomado ao amanhecer, costume dos festins persas) e acordem os que dormem
+      embriagados. É um chamado à alegria — e, na leitura mística, um chamado ao despertar
+      espiritual.'
+    literal:
+      'No círculo da rosa e do vinho cantou bem ontem à noite o rouxinol: / [árabe:] traz o vinho
+      da manhã, despertai, ó bêbados!'
+    choices:
+      '"Gol o mol" (rosa e vinho) é uma rima interna; não há equivalente sonoro em português. O
+      verso árabe foi traduzido, com o registro do original aqui. "Vinho da aurora" traduz "sabuh"
+      (literalmente "o da manhã").'
+  - stanza: 5
+    plain: 'Você que tem tudo e é feliz: em agradecimento, lembre-se um dia do pobre que não tem nada.'
+    meaning:
+      O poeta pede ao poderoso (o amado, ou um patrono rico) que, em gratidão pela própria boa
+      sorte, pergunte um dia pelo pobre dervixe — o próprio poeta.
+    literal: Ó dono de nobreza, em agradecimento pela saúde, / um dia faz uma visita ao dervixe sem
+      recursos.
+    choices:
+      '"Saheb-e keramat" é "dono de generosidade/nobreza" e também "dono de milagres" (karamat
+      são os milagres dos santos sufis): a ambiguidade entre o rico e o santo fica registrada aqui.
+      "Shokrane-ye salamat" (oferenda de gratidão pela saúde) virou "em gratidão pela tua boa
+      sorte".'
+  - stanza: 6
+    plain:
+      'O segredo para viver em paz cabe em poucas palavras: seja generoso com os amigos e tolerante
+      com os inimigos.'
+    meaning:
+      'A paz neste mundo e no outro depende de duas atitudes: ser generoso e leal com os amigos,
+      e tolerante e cordial com os inimigos. É um dos versos mais citados de Hafez como regra de
+      vida.'
+    literal: 'O repouso dos dois mundos é a interpretação destas duas letras: / com os amigos,
+      cavalheirismo; com os inimigos, condescendência.'
+    choices:
+      '"Do harf" (duas letras/palavras) significa "duas palavras, poucas palavras"; usamos "duas
+      palavras". "Morovvat" é a virtude da generosidade, nobreza e lealdade (palavra sem equivalente
+      exato); "generosidade" é a aproximação mais justa. "Modara" é tolerância cordial, saber
+      conviver.'
+  - stanza: 7
+    plain: O destino não me deixou ter boa fama. Se você não gosta, vá reclamar com Deus.
+    meaning:
+      'O poeta diz que o destino não lhe permitiu ter boa reputação — e desafia o censor: se não
+      gosta, vá mudar o decreto divino. É uma defesa irônica da má fama do rend, apoiada na ideia de
+      predestinação.'
+    literal: Na rua da boa fama não nos deram passagem; / se tu não aprovas, muda o decreto (divino).
+    choices:
+      '"Qaza" é o decreto divino, o destino determinado por Deus; "destino" é compreensível, e a
+      nota registra o sentido teológico.'
+  - stanza: 8
+    plain: O vinho que o religioso chama de "origem de todos os males" é, para nós, mais doce que um
+      beijo.
+    meaning:
+      '"A amarga" é o vinho. O sufi (o devoto de fachada) o chama de "mãe de todos os vícios",
+      expressão atribuída a um dito religioso que condena o vinho. Hafez responde, em árabe, que
+      para ele o vinho é mais desejável que o beijo das virgens (as huris do paraíso, segundo uma
+      leitura, ou simplesmente as donzelas). É uma das provocações mais ousadas do Divã.'
+    literal:
+      Aquela de gosto amargo, que o sufi a chamou mãe-das-impurezas, / [árabe:] é mais desejável
+      para nós e mais doce que o beijo das virgens.
+    choices:
+      '"Omm al-khaba''eth" (mãe das impurezas/vícios) é expressão árabe; traduzimos por "mãe de
+      todos os vícios", mantendo as aspas para indicar citação. "''Adhara" (virgens) foi mantido
+      literal, sem decidir entre "donzelas" e "huris".'
+  - stanza: 9
+    plain:
+      'Quando estiver sem dinheiro, busque a alegria: ela faz o pobre se sentir o homem mais rico
+      do mundo.'
+    meaning: 'Quando estiver pobre, procure a alegria e a embriaguez: o vinho (ou o êxtase) é uma
+      alquimia que transforma o mendigo em Qarun — personagem riquíssimo (o Coré bíblico),
+      proverbial pela fortuna. Ou seja: o êxtase faz o pobre sentir-se rico.'
+    literal:
+      Na hora da mão apertada, no deleite esforça-te e na embriaguez, / pois esta alquímia do ser
+      faz do mendigo um Qarun.
+    choices:
+      '"Tang-dasti" (mão apertada) é pobreza; "penúria" mantém o registro. Mantivemos "Qarun",
+      pois é o nome usado no Alcorão e na tradição persa, explicado aqui; "Creso" seria um
+      equivalente ocidental, mas apagaria a referência.'
+  - stanza: 10
+    plain:
+      'Não queira enfrentar quem você ama: essa pessoa tem tanto poder que derrete até pedra — e
+      pode te derreter como uma vela.'
+    meaning:
+      'Aviso: não resista ao amado, porque ele é tão poderoso que em suas mãos até o granito vira
+      cera — e, se você for rebelde, ele o fará derreter e queimar como uma vela.'
+    literal:
+      Rebelde não sejas, que como a vela, por ciúme teu, queimará / o amado(a), em cuja palma é
+      cera a pedra dura.
+    choices:
+      '"Gheyrat" é uma palavra difícil: zelo ciumento, honra ferida, orgulho. "Ciúme" é o sentido
+      principal aqui. "Sang-e khara" é a pedra mais dura (granito); traduzimos literalmente.'
+  - stanza: 11
+    plain:
+      'A taça de vinho é como um espelho mágico: olhando nela, você entende que até os maiores reis
+      caem.'
+    meaning: 'Segundo lendas persas, Alexandre tinha um espelho mágico (em Alexandria) no qual via o
+      mundo inteiro. Dario III foi o rei persa derrotado por Alexandre. Hafez diz que a taça de
+      vinho é esse espelho: olhando nela, vê-se o destino do reino de Dario — isto é, a lição de que
+      todo poder é passageiro.'
+    literal:
+      O espelho de Alexandre é a taça de vinho, olha, / para que te apresente os estados do reino
+      de Dario.
+    choices: '"Sekandar" é Alexandre, o Grande; "Dara" é Dario III. Usamos os nomes portugueses e
+      explicamos as lendas. "Ahval" (estados, situação) virou "o estado".'
+  - stanza: 12
+    plain:
+      As pessoas lindas que falam a nossa língua dão vida a quem as ouve. Leve essa boa notícia aos
+      livres de coração.
+    meaning:
+      'Os belos que falam persa (a língua do poeta e de sua cidade, Shiraz, na província de Fars)
+      dão vida a quem os ouve. O poeta pede ao copeiro que leve essa boa notícia aos "rends devotos"
+      — um paradoxo intencional: os rends verdadeiros são os mais puros.'
+    literal: Os belos falantes de persa são doadores de vida; / saqi, dá a boa nova aos rends devotos.
+    choices: Há um jogo sonoro entre "parsi" (persa) e "parsa" (devoto, casto), que não conseguimos
+      reproduzir. "Rends devotos" mantém o paradoxo. Alguns leitores veem aqui uma alusão a uma
+      visita de pessoas da corte; deixamos a leitura aberta.
+  - stanza: 13
+    plain: Não fui eu que escolhi ter essa vida de festa e vinho, senhor religioso tão perfeito — me
+      desculpe.
+    meaning:
+      'O poeta se desculpa diante do xeque (o pregador, o mestre de aparência impecável): não foi
+      ele quem escolheu vestir o manto sufi manchado de vinho — foi o destino. Por trás da desculpa,
+      a ironia: quem tem o manto manchado é mais honesto que quem exibe a "barra limpa".'
+    literal:
+      Hafez por si mesmo não vestiu este manto sujo de vinho; / ó xeque de barra pura, desculpado
+      tem-nos.
+    choices: '"Pak-daman" (de barra limpa) significa casto, de conduta irrepreensível; "de vida
+      imaculada" conserva a imagem da pureza. "Be khod" (por si mesmo) pode também significar
+      "conscientemente"; "por vontade própria" dialoga com o dístico 7 sobre o destino.'
+glossary:
+  - gazel
+  - sufi
+  - kherqe
+  - dervixe
+  - rend
+  - vinho
+  - saqi
+  - rosa-rouxinol
+  - amado
+  - takhallos
+  - divan
+  - xeque
+  - huri
+  - arabe
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

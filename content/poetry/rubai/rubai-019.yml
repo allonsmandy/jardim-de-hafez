@@ -1,0 +1,26 @@
+id: rubai-019
+category: rubai
+number: 19
+firstLine:
+  fa: خوبانِ جهان، صید توان کرد به زَر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خوبانِ جهان، صید توان کرد به زَر
+      - خوش خوش بَر از ایشان بتوان خورد به زَر
+    - - نرگس که کُلَه‌دارِ جهان است، ببین
+      - کاو نیز، چگونه سَر درآورد به زَر
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 19
+    url: https://ganjoor.net/hafez/robaee2/sh19
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 19
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

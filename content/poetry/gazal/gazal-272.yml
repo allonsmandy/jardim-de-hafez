@@ -1,0 +1,36 @@
+id: gazal-272
+category: gazal
+number: 272
+firstLine:
+  fa: باز آی و دلِ تنگِ مرا مونس جان باش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - باز آی و دلِ تنگِ مرا مونس جان باش
+      - وین سوخته را مَحرَمِ اسرارِ نهان باش
+    - - زآن باده که در میکدهٔ عشق فروشند
+      - ما را دو سه ساغر بده و گو «رمضان باش»
+    - - در خرقه، چو آتش زدی ای عارفِ سالِک!
+      - جهدی کن و سرحلقهٔ رندانِ جهان باش
+    - - دلدار که گفتا به تواَم دل‌نگران است
+      - گو «می‌رسم اینک به سلامت»، نگران باش
+    - - خون شد دلم از حسرتِ آن لعلِ روان‌بخش
+      - ای دُرجِ محبّت! به همان مُهر و نشان باش
+    - - تا بر دلش از غصه غباری نَنشیند
+      - ای سیلِ سرشک! از عقبِ نامه روان باش
+    - - حافظ که هوس می‌کندش جامِ جهان‌بین
+      - گو «در نظرِ آصفِ جمشید‌مکان باش»
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 272
+    url: https://ganjoor.net/hafez/ghazal/sh272
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 272
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

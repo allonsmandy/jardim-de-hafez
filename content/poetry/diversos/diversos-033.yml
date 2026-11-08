@@ -1,0 +1,44 @@
+id: diversos-033
+category: diversos
+number: 33
+firstLine:
+  fa: ساقیا ساغر شراب بیار
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقیا ساغر شراب بیار
+      - یک دو جام شراب ناب بیار
+    - - داروی درد عشق یعنی می
+      - کاوست درمان شیخ و شاب بیار
+    - - آفتاب است و ماه باده و جام
+      - در میان مه آفتاب بیار
+    - - می‌کند عقل سرکشی تمام
+      - گردنش را ز می طناب بیار
+    - - بزن این آتش مرا آبی
+      - یعنی آن آتش چو آب بیار
+    - - گل اگر رفت گو به شادی رو
+      - باده ناب چون گلاب بیار
+    - - غلغل بلبل ار نماند چه غم
+      - قلقل شیشه شراب بیار
+    - - غم دوران مخور که رفت به باد
+      - نغمه بر بط و رباب بیار
+    - - وصل او جز به خواب نتوان دید
+      - دارویی کاوست اصل خواب بیار
+    - - گرچه مستم سه چار جام دگر
+      - تا به کلی شوم خراب بیار
+    - - یک دو رطل گران به حافظ ده
+      - گرگناه است و گر ثواب بیار
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 33
+    url: https://ganjoor.net/hafez/montasab/sh33
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 33
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

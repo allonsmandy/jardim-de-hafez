@@ -1,0 +1,32 @@
+id: diversos-057
+category: diversos
+number: 57
+firstLine:
+  fa: مدتی شد کآتش سودای تو در جان ماست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مدتی شد کآتش سودای تو در جان ماست
+      - زآن تمنایی که دایم در دل ویران ماست
+    - - مردم چشمم به خوناب جگر غرقند از آن
+      - چشمهٔ مهر رخش در سینهٔ نالان ماست
+    - - آب حیوان قطره‌ای زآن لعل همچون شکر است
+      - قرص خور عکسی ز روی آن مه تابان ماست
+    - - تا نفحت فیه من روحی شنیدم شد یقین
+      - بر من این معنی که ما زآن وی و او زان ماست
+    - - حافظا تا روز آخر شکر این نعمت گزار
+      - کآن صنم از روز اول مونس و مهمان ماست
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 57
+    url: https://ganjoor.net/hafez/montasab/sh57
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 57
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

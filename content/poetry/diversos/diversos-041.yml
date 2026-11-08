@@ -1,0 +1,32 @@
+id: diversos-041
+category: diversos
+number: 41
+firstLine:
+  fa: لطف باشد گر نپوشى از گداها، روت را
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - لطف باشد گر نپوشى از گداها، روت را
+      - تا به کام دل ببیند دیدهٔ ما، روت را
+    - - همچو هاروتیم دایم در بلاى عشق زار
+      - کاشکى هرگز ندیدى دیدهٔ ما، روت را
+    - - کى شدى هاروت در چاه زنخدانش اسیر
+      - گر نگفتى شمه‌اى از حسن او ماروت را
+    - - بوى گل برخاست گویى در چمن‌ها، روت بود
+      - بلبلان مستند گویى دیده چون ما، روت را
+    - - تا به کى با تلخى هجر تو سازد اى صنم
+      - روى بنما تا ببیند حافظ ما، روت را
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 41
+    url: https://ganjoor.net/hafez/montasab/sh41
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 41
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,46 @@
+id: gazal-421
+category: gazal
+number: 421
+firstLine:
+  fa: درِ سرایِ مغان رُفته بود و آب‌زده
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - درِ سرایِ مغان رُفته بود و آب‌زده
+      - نشسته پیر و صلایی به شیخ و شاب زده
+    - - سبوکشان همه در بندگیش بسته کمر
+      - ولی ز تَرک کُله چتر بر سحاب زده
+    - - شعاع جام و قدح نور ماه پوشیده
+      - عذار مغ‌بچگان راه آفتاب زده
+    - - عروس بخت در آن حجله با هزاران ناز
+      - شکسته کسمه و بر برگ گل، گلاب زده
+    - - گرفته ساغر عشرت فرشتهٔ رحمت
+      - ز جرعه بر رخ حور و پری گلاب زده
+    - - ز شور و عربدهٔ شاهدان شیرین‌کار
+      - شکر شکسته، سمن ریخته، رباب زده
+    - - سلام کردم و با من به روی خندان گفت
+      - که ای خمارکشِ مفلسِ شراب‌زده
+    - - که این کند که تو کردی به ضعف همت و رای؟
+      - ز گنج‌خانه شده خیمه بر خراب زده
+    - - وصال دولت بیدار ترسمت ندهند
+      - که خفته‌ای تو در آغوش بختِ خواب‌زده
+    - - بیا به میکده حافظ که بر تو عرضه کنم
+      - هزار صف ز دعاهای مستجاب‌ زده
+    - - فلک جنیبه‌کش شاه نصرت‌الدین است
+      - بیا ببین ملکش دست در رکاب زده
+    - - خرد که ملهم غیب است بهر کسب شرف
+      - ز بام عرش صدش بوسه بر جناب زده
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 421
+    url: https://ganjoor.net/hafez/ghazal/sh421
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 421
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

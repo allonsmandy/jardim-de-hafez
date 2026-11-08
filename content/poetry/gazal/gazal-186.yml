@@ -1,0 +1,38 @@
+id: gazal-186
+category: gazal
+number: 186
+firstLine:
+  fa: گر می‌فروش، حاجت رندان روا کند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گر می‌فروش، حاجت رندان روا کند
+      - ایزد، گنه ببخشد و دفع بلا کند
+    - - ساقی، به جام عدل بده باده تا گدا
+      - غیرت نیاورد، که جهان پر‌بلا کند
+    - - حقّا کز این غمان برسد مژدهٔ امان
+      - گر سالکی، به عهد امانت، وفا کند
+    - - گر رنج پیشت آید و گر راحت ای حکیم!
+      - نسبت مکن به غیر که این‌ها خدا کند
+    - - در کارخانه‌ای که ره عقل و فضل نیست
+      - فهم ضعیف رای فضولی چرا کند؟
+    - - مطرب بساز پرده که کس بی‌اجل نمرد
+      - وان کاو نه این ترانه سراید خطا کند
+    - - ما را که درد عشق و بلای خمار کشت
+      - یا وصل دوست یا می صافی دوا کند
+    - - جان رفت در سر می و حافظ به عشق سوخت
+      - عیسی‌دمی کجاست که احیای ما کند؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 186
+    url: https://ganjoor.net/hafez/ghazal/sh186
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 186
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

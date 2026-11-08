@@ -1,0 +1,156 @@
+id: gazal-008
+category: gazal
+number: 8
+firstLine:
+  fa: ساقیا برخیز و دَردِه جام را
+  pt: Copeiro, levanta-te e passa a taça
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ساقیا برخیز و دَردِه جام را
+      - خاک بر سر کن غمِ ایّام را
+    - - ساغرِ مِی بر کَفَم نِه تا ز بَر
+      - بَرکِشَم این دلقِ اَزرَق‌فام را
+    - - گرچه بدنامی‌ست نزد عاقلان
+      - ما نمی‌خواهیم ننگ و نام را
+    - - باده دَردِه چند از این بادِ غرور
+      - خاک بر سر، نفسِ نافرجام را
+    - - دودِ آهِ سینهٔ نالانِ من
+      - سوخت این افسردگانِ خام را
+    - - محرمِ رازِ دلِ شیدایِ خود
+      - کس نمی‌بینم ز خاص و عام را
+    - - با دلارامی مرا خاطر خوش است
+      - کز دلم یک باره بُرد آرام را
+    - - ننگرد دیگر به سرو اندر چمن
+      - هرکه دید آن سروِ سیم‌اندام را
+    - - صبر کن حافظ به سختی روز و شب
+      - عاقبت روزی بیابی کام را
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 8
+    url: https://ganjoor.net/hafez/ghazal/sh8
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Copeiro, levanta-te e passa a taça;
+      - joga terra na cabeça da tristeza dos dias.
+    - - Põe na minha mão a taça de vinho, para que eu arranque do corpo
+      - este manto cor de anil.
+    - - Ainda que seja má fama aos olhos dos sensatos,
+      - nós não queremos nem honra nem renome.
+    - - Passa o vinho! Até quando este vento de orgulho?
+      - Terra na cabeça desse ego sem bom fim!
+    - - A fumaça dos suspiros do meu peito que geme
+      - queimou esses gelados e crus.
+    - - Confidente do segredo do meu coração enlouquecido
+      - não vejo ninguém, nem entre os nobres nem entre o povo.
+    - - Meu coração está feliz com quem lhe dá sossego —
+      - e que, de uma vez, roubou o sossego do meu coração.
+    - - Não olha mais para o cipreste no jardim
+      - quem viu aquele cipreste de corpo de prata.
+    - - 'Tem paciência, Hafez, na dureza, de dia e de noite:'
+      - no fim, um dia, alcançarás o teu desejo.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 8
+themes:
+  - Mandar a tristeza embora
+  - Não ligar para a reputação
+  - Um amor que tirou o sossego
+introduction:
+  - Um gazel curto e rápido, de frases diretas, quase um brinde. O poeta chama o copeiro, quer jogar
+    fora o manto de religioso, despreza a opinião dos "sensatos" e confessa que perdeu o sossego por
+    alguém.
+  - 'Fecha com um conselho de paciência a si mesmo: aguente firme, que um dia o desejo se cumpre.'
+stanzaNotes:
+  - stanza: 1
+    plain: Copeiro, levante e me sirva! Chega de tristeza — que ela vá para o inferno.
+    meaning: '"Jogar terra na cabeça" era um gesto de luto e humilhação; aqui é o mesmo que mandar a
+      tristeza embora com desprezo.'
+    choices:
+      Mantivemos a expressão literal "joga terra na cabeça" porque ela é viva e compreensível no
+      contexto; o sentido fica explicado na paráfrase.
+  - stanza: 2
+    plain: Me dê o copo, que eu vou tirar essa roupa de religioso que estou vestindo.
+    meaning:
+      O manto azul-escuro (dalq) era a veste dos sufis e dos penitentes. Tirá-lo é abandonar a
+      aparência de devoção.
+    choices: '"Azraq" é azul-escuro, anil; mantivemos a cor porque era o sinal visível do sufi.'
+  - stanza: 3
+    plain: Para as pessoas certinhas isso é feio. Mas eu não quero saber de boa fama.
+    meaning: 'É a atitude do rend: aceitar a má fama em troca da liberdade e da sinceridade.'
+    choices: '"Nang o nām" (vergonha e nome) é uma expressão fixa que significa "reputação, honra";
+      "honra e renome" mantém o par.'
+  - stanza: 4
+    plain: Me dá o vinho! Chega de orgulho. Que se dane esse meu ego que só me leva para o mau caminho.
+    meaning: '"Nafs" é o ego, a parte da alma ligada aos desejos e ao orgulho, que os sufis tentavam
+      domar. O vinho, ironicamente, é o remédio contra o orgulho.'
+    choices: 'Há um trocadilho entre "bāde" (vinho) e "bād" (vento): "passa o vinho... vento de
+      orgulho". Mantivemos as duas palavras próximas para sugerir o jogo.'
+  - stanza: 5
+    plain: Meus suspiros de amor são tão quentes que queimaram até essas pessoas frias que nunca amaram.
+    meaning:
+      '"Os gelados e crus" são os que não conhecem o amor: frios de coração e imaturos ("crus",
+      como um fruto verde). O fogo do amante os atinge.'
+    choices:
+      '"Afsordegān" (gelados, sem ânimo) e "khām" (crus, imaturos) foram traduzidos literalmente
+      para manter o contraste com o fogo.'
+  - stanza: 6
+    plain: Não tenho ninguém com quem desabafar sobre esse amor — nem gente importante, nem gente simples.
+    meaning:
+      'A solidão do apaixonado: ninguém entende o que ele sente. "Khās o ām" (os especiais e os
+      comuns) quer dizer "todo mundo".'
+    choices:
+      Traduzimos "khās o ām" por "nem entre os nobres nem entre o povo", que preserva a divisão
+      social da expressão.
+  - stanza: 7
+    plain: Estou feliz com a pessoa que acalma meu coração... e que, ao mesmo tempo, me tirou toda a paz.
+    meaning:
+      'Um paradoxo do amor: o amado é chamado "delārām", "o que acalma o coração", e é justamente
+      quem tirou a calma do poeta.'
+    choices: Reproduzimos o jogo "dá sossego / roubou o sossego" para imitar "delārām / ārām".
+  - stanza: 8
+    plain: Quem já viu o corpo esbelto da pessoa que eu amo não acha mais graça em nenhuma árvore do
+      jardim.
+    meaning:
+      'O cipreste, alto e reto, é na poesia persa o símbolo do corpo esbelto e elegante. O amado
+      é um "cipreste de prata": esguio e de pele clara.'
+    choices: '"Sim-andām" (de corpo de prata) é tradução literal; indica a pele clara e luminosa.'
+  - stanza: 9
+    plain: Hafez, aguente firme, dia e noite. Um dia o que você deseja vai acontecer.
+    meaning:
+      No último par de versos, com sua assinatura, o poeta se consola. A paciência (sabr) é uma
+      virtude central na tradição islâmica e sufi.
+    choices: Tradução direta; o verso é simples também no original.
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - saqi
+  - vinho
+  - sufi
+  - kherqe
+  - takhallos
+  - amado
+  - cipreste
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

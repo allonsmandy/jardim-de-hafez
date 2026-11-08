@@ -1,0 +1,44 @@
+id: gazal-419
+category: gazal
+number: 419
+firstLine:
+  fa: وصال او ز عمر جاودان به
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - وصال او ز عمر جاودان به
+      - خداوندا مرا آن ده که آن به
+    - - به شمشیرم زد و با کَس نگفتم
+      - که راز دوست از دشمن نهان به
+    - - به داغ بندگی مردن بر این در
+      - به جان او که از مُلکِ جهان به
+    - - خدا را از طبیبِ من بپرسید
+      - که آخِر کِی شود این ناتوان به؟
+    - - گُلی کآن پایمالِ سروِ ما گشت
+      - بود خاکش ز خونِ ارغوان به
+    - - به خلدم دعوت ای زاهد! مفرما
+      - که این سیب زَنَخ، زآن بوستان به
+    - - دلا! دائم گدای کوی او باش
+      - به حکم آن که دولت جاودان به
+    - - جوانا! سَر متاب از پندِ پیران
+      - که رأی پیر از بختِ جوان به
+    - - شبی می‌گفت چشمِ کَس ندیده‌ست
+      - ز مرواریدِ گوشم در جهان به
+    - - اگر چه زنده‌رود آب حیات است
+      - ولی شیرازِ ما از اصفهان به
+    - - سخن اندر دهانِ دوست شکَّر
+      - ولیکِن گفتهٔ حافظ از آن به
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 419
+    url: https://ganjoor.net/hafez/ghazal/sh419
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 419
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

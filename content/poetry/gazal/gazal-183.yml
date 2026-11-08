@@ -1,0 +1,38 @@
+id: gazal-183
+category: gazal
+number: 183
+firstLine:
+  fa: دوش وقتِ سَحَر، از غُصّه نجاتم دادند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دوش وقتِ سَحَر، از غُصّه نجاتم دادند
+      - واندر آن ظلمتِ شب، آبِ حیاتم دادند
+    - - بی‌خود از شَعْشَعِهٔ پرتوِ ذاتم کردند
+      - باده از جامِ تَجَلّیِّ صفاتم دادند
+    - - چه مبارک‌سَحَری بود و چه فرخنده‌شبی
+      - آن شبِ قدر که این تازه‌براتم دادند
+    - - بعد از این رویِ من و آینهٔ وصفِ جمال
+      - که در آن جا خبر از جلوهٔ ذاتم دادند
+    - - من اگر کامروا گشتم و خوش‌دل چه عجب؟
+      - مستحق بودم و این‌ها به زکاتم دادند
+    - - هاتف آن روز به من مژدهٔ این دولت داد
+      - که بِدان جور و جفا صبر و ثباتم دادند
+    - - این همه شهد و شِکر کز سخنم می‌ریزد
+      - اَجرِ صبری‌ست کز آن شاخِ نباتم دادند
+    - - همّتِ حافظ و انفاسِ سحرخیزان بود
+      - که ز بندِ غمِ ایّام نجاتم دادند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 183
+    url: https://ganjoor.net/hafez/ghazal/sh183
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 183
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

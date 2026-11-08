@@ -1,0 +1,38 @@
+id: gazal-221
+category: gazal
+number: 221
+firstLine:
+  fa: چو دست بر سرِ زلفش زنم به تاب رَوَد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - چو دست بر سرِ زلفش زنم به تاب رَوَد
+      - ور آشتی طلبم با سرِ عِتاب رَوَد
+    - - چو ماهِ نو رَهِ بیچارگانِ نَظّاره
+      - زَنَد به گوشهٔ ابرو و در نقاب رود
+    - - شبِ شراب خرابم کُنَد به بیداری
+      - وگر به روز شکایت کنم به خواب رود
+    - - طریقِ عشق پرآشوب و فتنه است ای دل
+      - بیفتد آن که در این راه با شتاب رود
+    - - گدایی درِ جانان به سلطنت مفروش
+      - کسی ز سایهٔ این در به آفتاب رود؟
+    - - سوادِ نامهٔ مویِ سیاه چون طی شد
+      - بَیاض کم نَشَوَد گر صد انتخاب رود
+    - - حباب را چو فِتَد بادِ نخوت اندر سر
+      - کلاه داریَش اندر سرِ شراب رود
+    - - حجابِ راه تویی حافظ از میان برخیز
+      - خوشا کسی که در این راه بی‌حجاب رود
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 221
+    url: https://ganjoor.net/hafez/ghazal/sh221
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 221
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

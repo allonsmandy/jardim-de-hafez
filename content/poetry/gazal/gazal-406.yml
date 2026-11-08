@@ -1,0 +1,36 @@
+id: gazal-406
+category: gazal
+number: 406
+firstLine:
+  fa: گفتا برون شدی به تماشای ماهِ نو
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفتا برون شدی به تماشای ماهِ نو
+      - از ماهِ ابروانِ مَنت شرم باد رو
+    - - عمری‌ست تا دلت ز اسیرانِ زلفِ ماست
+      - غافل ز حفظِ جانبِ یارانِ خود مشو
+    - - مَفروش عطرِ عقل به هِندوی زلفِ ما
+      - کان‌جا هزار نافهٔ مُشکین به نیم‌جو
+    - - تخمِ وفا و مهر در این کهنه کشته‌زار
+      - آن‌گه عیان شود که بود موسمِ درو
+    - - ساقی بیار باده که رمزی بگویمت
+      - از سرّ‌ِ اخترانِ کهن‌سیر و ماهِ نو
+    - - شکلِ هلالِ هر سرِ مه می‌دهد نشان
+      - از افسرِ سیامک و ترکِ کلاهِ زو
+    - - حافظ جنابِ پیرِ مغان مأمنِ وفاست
+      - درسِ حدیثِ عشق بر او خوان و زو شنو
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 406
+    url: https://ganjoor.net/hafez/ghazal/sh406
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 406
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

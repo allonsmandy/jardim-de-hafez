@@ -1,0 +1,34 @@
+id: gazal-396
+category: gazal
+number: 396
+firstLine:
+  fa: صبح است ساقیا قدحی پرشراب کن
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - صبح است ساقیا قدحی پرشراب کن
+      - دور فلک درنگ ندارد شتاب کن
+    - - زان پیش‌تر که عالم فانی شود خراب
+      - ما را ز جام بادهٔ گلگون خراب کن
+    - - خورشید می ز مشرق ساغر طلوع کرد
+      - گر برگ عیش می‌طلبی ترک خواب کن
+    - - روزی که چرخ از گل ما کوزه‌ها کند
+      - زنهار کاسهٔ سر ما پرشراب کن
+    - - ما مرد زهد و توبه و طامات نیستیم
+      - با ما به جام باده صافی خطاب کن
+    - - کار صواب، باده پرستی‌ست حافظا
+      - برخیز و عزم جزم به کار صواب کن
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 396
+    url: https://ganjoor.net/hafez/ghazal/sh396
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 396
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

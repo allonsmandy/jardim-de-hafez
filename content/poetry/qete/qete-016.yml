@@ -1,0 +1,28 @@
+id: qete-016
+category: qete
+number: 16
+firstLine:
+  fa: برادر خواجه عادل طاب مثواه
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - برادر خواجه عادل طاب مثواه
+      - پس از پنجاه و نه سال از حیاتش
+    - - به سوی روضهٔ رضوان سفر کرد
+      - خدا راضی ز افعال و صفاتش
+    - - خلیل عادلش پیوسته بر خوان
+      - وز آنجا فهم کن سال وفاتش
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 16
+    url: https://ganjoor.net/hafez/ghete/sh16
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 16
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

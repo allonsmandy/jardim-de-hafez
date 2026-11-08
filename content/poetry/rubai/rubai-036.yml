@@ -1,0 +1,26 @@
+id: rubai-036
+category: rubai
+number: 36
+firstLine:
+  fa: ای سایهٔ سنبلت سمن پرورده
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای سایهٔ سنبلت سمن پرورده
+      - یاقوت لبت درّ عدَن پرورده
+    - - همچون لب خود مدام جان می‌پرور
+      - زان راح که روحیست به تن پرورده
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 36
+    url: https://ganjoor.net/hafez/robaee2/sh36
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 36
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

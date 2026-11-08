@@ -1,0 +1,42 @@
+id: gazal-177
+category: gazal
+number: 177
+firstLine:
+  fa: نه هر که چهره برافروخت دلبری داند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نه هر که چهره برافروخت دلبری داند
+      - نه هر که آینه سازد سِکندری داند
+    - - نه هر که طَرْفِ کُلَه کج نهاد و تُند نشست
+      - کلاه‌داری و آیینِ سروری داند
+    - - تو بندگی چو گدایان به شرطِ مزد مکن
+      - که دوست، خود روشِ بنده‌پروری داند
+    - - غلامِ همّتِ آن رندِ عافیت‌سوزم
+      - که در گداصفتی کیمیاگری داند
+    - - وفا و عهد نکو باشد ار بیاموزی
+      - وگر نه هر که تو بینی ستمگری داند
+    - - بباختم دلِ دیوانه و ندانستم
+      - که آدمی‌بچه‌ای، شیوهٔ پری داند
+    - - هزار نکتهٔ باریک‌تر ز مو این جاست
+      - نه هر که سر بتراشد قلندری داند
+    - - مدارِ نقطهٔ بینش ز خالِ توست مرا
+      - که قدرِ گوهرِ یک‌دانه جوهری داند
+    - - به قَدّ و چهره هر آن کس که شاهِ خوبان شد
+      - جهان بگیرد اگر دادگستری داند
+    - - ز شعرِ دلکَشِ حافظ کسی بُوَد آگاه
+      - که لطفِ طبع و سخن گفتنِ دَری داند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 177
+    url: https://ganjoor.net/hafez/ghazal/sh177
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 177
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

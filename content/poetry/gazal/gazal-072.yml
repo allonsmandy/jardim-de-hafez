@@ -1,0 +1,36 @@
+id: gazal-072
+category: gazal
+number: 72
+firstLine:
+  fa: راهی‌ست راهِ عِشْق که هیچَش کِنارِه نیست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - راهی‌ست راهِ عِشْق که هیچَش کِنارِه نیست
+      - آن‌جا جُز آن‌که جان بِسِپارَنْد، چارِه نیست
+    - - هر گَه که دِل به عِشْق دِهی، خوش دَمی بُوَد
+      - در کارِ خِیْر، حاجَتِ هیچ اِسْتِخاره نیست
+    - - ما را زِ مَنْعِ عَقْل مَتَرْسان و مِی بیار!
+      - کآن شِحْنِه در وِلایَتِ ما، هیچ کارِه نیست
+    - - اَز چَشْمِ خود بِپُرس که ما را که می‌کُشَد؟
+      - جانا، گُناهِ طالِع و جُرْمِ سِتارِه نیست
+    - - او را به چَشْمِ پاک، تَوان دید چون هِلال
+      - هَر دیده، جایِ جِلْوِهٔ آن ماه‌پارِه نیست
+    - - فُرْصَت شِمُر طَریقِهٔ رِنْدی که این نِشان
+      - چون راهِ گَنْج، بَر هَمِه‌کَس، آشْکارِه نیست
+    - - نَگْرِفْت در تو، گِرْیِهٔ «حافِظ»، به هیچ رو
+      - حِیْرانِ آن دِلَم که کَم از سَنْگِ خارِه نیست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 72
+    url: https://ganjoor.net/hafez/ghazal/sh72
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 72
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

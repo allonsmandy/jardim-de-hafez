@@ -1,0 +1,36 @@
+id: gazal-326
+category: gazal
+number: 326
+firstLine:
+  fa: در نهانخانهٔ عشرت صنمی خوش دارم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - در نهانخانهٔ عشرت صنمی خوش دارم
+      - کز سر زلف و رخش، نعل در آتش دارم
+    - - عاشق و رندم و می‌خواره به آواز بلند
+      - وین همه منصب از آن حور پری‌وش دارم
+    - - گر تو زین دست، مرا بی سر و سامان داری
+      - من به آه سحرت زلف، مشوش دارم
+    - - گر چنین چهره گشاید خطِ زنگاریِ دوست
+      - من رخ زرد، به خونابه منقش دارم
+    - - گر به کاشانهٔ رندان قدمی خواهی زد
+      - نُقل شعر شِکرین و مِیِ بی‌غش دارم
+    - - ناوَک غمزه بیار و رَسَنِ زلف که من
+      - جنگ‌ها با دل مجروح بلاکش دارم
+    - - حافظا چون غم و شادیِّ جهان در گذر است
+      - بهتر آن است که من خاطر خود خوش دارم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 326
+    url: https://ganjoor.net/hafez/ghazal/sh326
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 326
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,40 @@
+id: gazal-298
+category: gazal
+number: 298
+firstLine:
+  fa: مقامِ امن و میِ بی‌غَش و رفیقِ شفیق
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - مقامِ امن و میِ بی‌غَش و رفیقِ شفیق
+      - گَرَت مدام میسّر شود، زهی توفیق
+    - - جهان و کارِ جهان جمله هیچ بَر هیچ است
+      - هزار بار من این نکته کرده‌ام تحقیق
+    - - دریغ و دَرد که تا این زمان ندانستم
+      - که کیمیایِ سعادت، رفیق بود، رفیق
+    - - به مَأمَنی رو و فرصت شمُر غنیمتِ وقت
+      - که در کمینگهِ عمرند قاطعانِ طریق
+    - - بیا که توبه ز لعلِ نگار و خندهٔ جام
+      - حکایتی‌ست که عقلش نمی‌کُند تصدیق
+    - - اگر چه مویِ میانت به چون منی نرسد
+      - خوش است خاطرم از فکرِ این خیالِ دقیق
+    - - حلاوتی که تو را در چَهِ زَنَخدان است
+      - به کُنهِ آن نرسد صد‌ هزار فکرِ عمیق
+    - - اگر به رنگِ عقیقی شد اشکِ من، چه عَجب؟
+      - که مُهرِ خاتمِ لَعلِ تو هست همچو عقیق
+    - - به خنده گفت که «حافظ! غلامِ طبعِ تواَم»
+      - ببین که تا به چه حدَّم همی کُند تحمیق
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 298
+    url: https://ganjoor.net/hafez/ghazal/sh298
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 298
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: gazal-282
+category: gazal
+number: 282
+firstLine:
+  fa: بِبُرد از من قرار و طاقت و هوش
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - بِبُرد از من قرار و طاقت و هوش
+      - بتِ سنگین‌دلِ سیمین بناگوش
+    - - نگاری چابکی شِنگی کُلَه‌دار
+      - ظریفی مَه‌وشی تُرکی قباپوش
+    - - ز تابِ آتشِ سودایِ عشقش
+      - به سانِ دیگ دایم می‌زنم جوش
+    - - چو پیراهن شوَم آسوده‌خاطر
+      - گَرَش همچون قبا گیرم در آغوش
+    - - اگر پوسیده گردد استخوانم
+      - نگردد مِهرت از جانم فراموش
+    - - دل و دینم، دل و دینم بِبُرده‌ست
+      - بَر و دوشش، بَر و دوشش، بَر و دوش
+    - - دوایِ تو، دوایِ توست حافظ
+      - لبِ نوشش، لبِ نوشش، لبِ نوش
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 282
+    url: https://ganjoor.net/hafez/ghazal/sh282
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 282
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

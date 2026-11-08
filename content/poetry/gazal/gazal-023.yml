@@ -1,0 +1,36 @@
+id: gazal-023
+category: gazal
+number: 23
+firstLine:
+  fa: خیالِ رویِ تو در هر طریق همرهِ ماست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - خیالِ رویِ تو در هر طریق همرهِ ماست
+      - نسیمِ مویِ تو، پیوندِ جانِ آگهِ ماست
+    - - به رَغمِ مدّعیانی که منعِ عشق کنند
+      - جمالِ چهرهٔ تو، حجّتِ موجّهِ ماست
+    - - ببین که سیبِ زنخدانِ تو چه می‌گوید
+      - هزار یوسفِ مصری، فتاده در چَهِ ماست
+    - - اگر به زلفِ درازِ تو، دستِ ما نرسد
+      - گناهِ بختِ پریشان و دستِ کوتهِ ماست
+    - - به حاجبِ درِ خلوت‌سرایِ خاص بگو
+      - فُلان ز گوشه‌نشینانِ خاکِ درگهِ ماست
+    - - به صورت از نظر ما اگر چه محجوب است
+      - همیشه در نظرِ خاطرِ مرفّهِ ماست
+    - - اگر به سالی حافظ دری زَنَد، بگشای
+      - که سال‌هاست که مشتاقِ رویِ چون مهِ ماست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 23
+    url: https://ganjoor.net/hafez/ghazal/sh23
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 23
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

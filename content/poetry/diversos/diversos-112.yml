@@ -1,0 +1,26 @@
+id: diversos-112
+category: diversos
+number: 112
+firstLine:
+  fa: حافظ ورق سخن‌گذاری طی کن
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - حافظ ورق سخن‌گذاری طی کن
+      - وین خامهٔ تزویر و ریا را پی کن
+    - - خاموش نشین که وقت خاموشی توست
+      - دم در کش و جام عشق را پر می کن
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 112
+    url: https://ganjoor.net/hafez/montasab/sh112
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 112
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

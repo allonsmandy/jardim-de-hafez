@@ -1,0 +1,26 @@
+id: diversos-100
+category: diversos
+number: 100
+firstLine:
+  fa: شیرین‌دهنان عهد به پایان نبرند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شیرین‌دهنان عهد به پایان نبرند
+      - صاحب‌نظران ز عاشقی جان نبرند
+    - - معشوق چو بر مراد و رای تو بود
+      - نام تو میان عشقباران نبرند
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 100
+    url: https://ganjoor.net/hafez/montasab/sh100
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 100
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

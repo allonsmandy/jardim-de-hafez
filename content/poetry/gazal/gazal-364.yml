@@ -1,0 +1,36 @@
+id: gazal-364
+category: gazal
+number: 364
+firstLine:
+  fa: ما بی‌غمانِ مست دل از دست داده‌ایم
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ما بی‌غمانِ مست دل از دست داده‌ایم
+      - هم‌رازِ عشق و هم‌نفسِ جامِ باده‌ایم
+    - - بر ما بسی کمانِ ملامت کشیده‌اند
+      - تا کارِ خود ز ابرویِ جانان گشاده‌ایم
+    - - ای گُل تو دوش داغِ صَبوحی کشیده‌ای
+      - ما آن شقایقیم که با داغ زاده‌ایم
+    - - پیرِ مُغان ز توبهٔ ما گر ملول شد
+      - گو باده صاف کن که به عذر ایستاده‌ایم
+    - - کار از تو می‌رود، مددی ای دلیلِ راه
+      - کانصاف می‌دهیم و ز راه اوفتاده‌ایم
+    - - چون لاله، مِی مبین و قَدَح در میانِ کار
+      - این داغ بین که بر دلِ خونین نهاده‌ایم
+    - - گفتی که «حافظ این همه رنگ و خیال چیست؟!»
+      - نقشِ غلط مَبین که همان لوحِ ساده‌ایم
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 364
+    url: https://ganjoor.net/hafez/ghazal/sh364
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 364
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,38 @@
+id: gazal-436
+category: gazal
+number: 436
+firstLine:
+  fa: آن غالیه‌خط گر سوی ما نامه نوشتی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن غالیه‌خط گر سوی ما نامه نوشتی
+      - گردون ورق هستی ما درننوشتی
+    - - هر چند که هجران ثمر وصل برآرد
+      - دهقان جهان! کاش که این تخم نکِشتی
+    - - آمرزش نقد است کسی را که در این جا
+      - یاری‌ست چو حوری و سرایی چو بهشتی
+    - - در مصطبهٔ عشق تنعم نتوان کرد
+      - چون بالش زر نیست، بسازیم به خشتی
+    - - مفروش به باغ ارم و نخوت شداد
+      - یک شیشه می و نوش‌لبی و لبِ کِشتی
+    - - تا کی غم دنیای دنی ای دل دانا؟
+      - حیف است ز خوبی که شود عاشق زشتی
+    - - آلودگی خرقه، خرابی جهان است
+      - کو راهروی، اهلِ دلی، پاک‌سرشتی؟
+    - - از دست چرا هِشت سرِ زلف تو حافظ؟
+      - تقدیر چنین بود، چه کردی که نهِشتی؟
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 436
+    url: https://ganjoor.net/hafez/ghazal/sh436
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 436
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

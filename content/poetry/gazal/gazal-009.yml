@@ -1,0 +1,197 @@
+id: gazal-009
+category: gazal
+number: 9
+firstLine:
+  fa: رونق عهد شباب است دگر بُستان را
+  pt: O jardim tem de novo o brilho da juventude
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - رونق عهد شباب است دگر بُستان را
+      - می‌رسد مژدهٔ گل بلبل خوش‌الحان را
+    - - ای صبا گر به جوانان چمن باز رَسی
+      - خدمت ما برسان سرو و گل و ریحان را
+    - - گر چنین جلوه کند مغبچهٔ باده‌فروش
+      - خاک‌روبِ درِ میخانه کنم مژگان را
+    - - ای که بر مه کشی از عَنبرِ سارا چوگان
+      - مضطرب‌حال مگردان، من سرگردان را
+    - - ترسم این قوم که بر دُردکشان می‌خندند
+      - در سر کار خرابات کنند ایمان را
+    - - یار مردان خدا باش که در کشتی نوح
+      - هست خاکی که به آبی نخرد طوفان را
+    - - برو از خانهٔ گردون به در و نان مطلب
+      - کآن سیه‌کاسه در آخر بِکُشد مهمان را
+    - - هر که را خوابگه آخر مشتی خاک است
+      - گو چه حاجت که به افلاک کشی ایوان را
+    - - ماه کنعانی من! مسند مصر آنِ تو شد
+      - وقت آن است که بدرود کنی زندان را
+    - - حافظا می خور و رندی کن و خوش باش ولی
+      - دام تزویر مکن چون دگران قرآن را
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 9
+    url: https://ganjoor.net/hafez/ghazal/sh9
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - 'O jardim tem de novo o brilho da juventude:'
+      - chega ao rouxinol de canto doce a boa-nova da rosa.
+    - - Ó brisa, se voltares a encontrar os jovens do prado,
+      - leva nossos cumprimentos ao cipreste, à rosa e ao manjericão.
+    - - Se o jovem dos magos, vendedor de vinho, se mostrar assim tão belo,
+      - farei de meus cílios a vassoura da porta da taverna.
+    - - Ó tu que traças sobre a lua um taco de polo de âmbar puro,
+      - não deixes ainda mais aflito a mim, que já ando rodando sem rumo.
+    - - Temo que essa gente que ri dos que bebem a borra do vinho
+      - acabe perdendo a própria fé pela causa da taverna.
+    - - Sê amigo dos homens de Deus, pois na arca de Noé
+      - há um pó que não dá um gole d’água pelo dilúvio.
+    - - Sai da casa do céu e não lhe peças pão,
+      - pois esse avarento de tigela negra acaba matando o hóspede.
+    - - Para quem terá como último leito um punhado de terra,
+      - 'dize: que necessidade há de erguer palácios até o céu?'
+    - - 'Minha lua de Canaã! O trono do Egito agora é teu:'
+      - é hora de dizeres adeus à prisão.
+    - - Hafez, bebe vinho, sê rend e sê feliz, mas
+      - não faças do Alcorão, como os outros, uma armadilha de fraude.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 9
+themes:
+  - A primavera voltou
+  - Cuidado com quem zomba
+  - A vida é breve
+  - Não usar a religião para enganar
+introduction:
+  - 'Começa com a chegada da primavera — no Irã, a estação mais celebrada, quando começa o Ano Novo
+    persa — e vai passando por conselhos: não zombe dos que bebem, fique perto das pessoas de Deus,
+    não se iluda com riquezas, porque no fim todos voltam ao pó.'
+  - 'O último verso é um dos mais citados de Hafez: pode beber, ser rend e ser feliz — mas nunca use
+    o Alcorão para enganar os outros, como fazem os hipócritas.'
+stanzaNotes:
+  - stanza: 1
+    plain: A primavera chegou! O jardim parece jovem de novo, e o rouxinol já sabe que a rosa vai
+      florescer.
+    meaning:
+      'A primavera é o grande símbolo de renovação na cultura persa: o Ano Novo iraniano (Nowruz)
+      começa no primeiro dia da primavera. O rouxinol, apaixonado pela rosa, recebe a notícia de que
+      ela vai abrir.'
+    choices: '"Rownaq-e ''ahd-e shabāb" é "o esplendor da época da juventude"; "o brilho da
+      juventude" é mais leve em português.'
+  - stanza: 2
+    plain: Vento, se passar pelo jardim, mande um abraço meu para as árvores e as flores.
+    meaning:
+      As plantas são tratadas como "jovens do prado", gente bonita do jardim. O cipreste, a rosa
+      e o manjericão (rayhān, uma erva perfumada) eram presença obrigatória nos jardins persas.
+    choices: '"Khedmat-e mā be-rasān" é "leva o nosso serviço/respeito" — fórmula de cortesia; "leva
+      nossos cumprimentos" é o equivalente natural.'
+  - stanza: 3
+    plain:
+      Se o rapaz bonito que vende vinho aparecer desse jeito, eu varro a porta da taverna com meus
+      próprios cílios.
+    meaning: 'O "moghbache", o jovem filho dos magos, servia vinho nas tavernas (mantidas pelos
+      zoroastrianos). Varrer a porta com os cílios é a maior demonstração de devoção: o poeta se
+      humilharia por amor.'
+    choices: Mantivemos "jovem dos magos" para conservar a ligação com o "velho dos magos" do glossário.
+  - stanza: 4
+    plain:
+      Seus cachos escuros caem sobre seu rosto como um taco de polo. Não me faça girar ainda mais —
+      eu já estou perdido.
+    meaning:
+      'O polo nasceu na Pérsia. O cacho de cabelo, curvo e escuro ("de âmbar", perfumado), parece
+      o taco (chowgān) sobre o rosto claro ("a lua"). O poeta é a bola: golpeado, rolando sem
+      direção.'
+    literal:
+      Ó tu que sobre a lua puxas, de âmbar puro, um taco de polo, / não tornes de estado agitado
+      a mim, (que estou) girando sem rumo.
+    choices:
+      '"Sargardān" quer dizer "perdido, sem rumo" e, literalmente, "de cabeça girando" — como a
+      bola. "Rodando sem rumo" mantém os dois sentidos.'
+  - stanza: 5
+    plain:
+      'Cuidado com quem zomba dos bêbados: essas pessoas podem acabar elas mesmas na taverna, sem
+      fé nenhuma.'
+    meaning: '"Dord-kesh", quem bebe até a borra, é o bebedor pobre e sem pudor. Hafez avisa os
+      moralistas: quem julga demais costuma cair justamente naquilo que condena.'
+    choices:
+      O segundo verso é idiomático ("dar sar-e kār... kardan", gastar algo numa causa). Optamos
+      por "perdendo a própria fé pela causa da taverna", que é a leitura mais aceita.
+  - stanza: 6
+    plain:
+      'Ande com pessoas boas e humildes. Elas são como quem estava na arca de Noé: não têm medo de
+      nenhum dilúvio.'
+    meaning:
+      Os "homens de Deus" são as pessoas espiritualmente maduras. Humildes como o pó, elas estão
+      protegidas como os que estavam na arca. "Não dar um gole d’água" por algo é uma expressão
+      persa para "não ligar nem um pouco".
+    choices: Mantivemos a expressão literal com água porque cria um jogo bonito com o dilúvio; a
+      paráfrase explica o sentido.
+  - stanza: 7
+    plain:
+      Não espere nada da vida neste mundo. Ela é como um anfitrião mão-de-vaca que, no fim, mata
+      quem ele recebe.
+    meaning: 'O céu (gardun), na poesia persa, é o destino que gira e decide tudo. Ele é chamado de
+      "tigela negra" (siyah-kāse): o céu noturno parece uma tigela virada, e "tigela negra" é gíria
+      para avarento. Somos hóspedes do mundo, e o anfitrião nos dá a morte.'
+    choices:
+      '"Siyah-kāse" foi traduzido como "avarento de tigela negra" para manter a imagem visual e o
+      sentido de mesquinhez.'
+  - stanza: 8
+    plain: Se todo mundo vai acabar enterrado, para que construir palácios enormes?
+    meaning:
+      'Um lembrete da morte, muito presente na poesia persa: o poder e a riqueza não valem nada
+      diante do túmulo.'
+    choices: Tradução direta.
+  - stanza: 9
+    plain:
+      Você, bonito como José, saiu da prisão e virou rei. Chegou a hora de deixar o sofrimento para
+      trás.
+    meaning:
+      'Alusão a José, nascido em Canaã: vendido como escravo, preso injustamente no Egito, depois
+      se tornou governador do país. Alguns comentadores acham que Hafez se refere a alguém real que
+      saiu da prisão e chegou ao poder; não se sabe com certeza quem.'
+    choices:
+      '"Māh-e Kan''āni" (lua de Canaã) é José; mantivemos a expressão porque é bela e a nota a
+      explica.'
+  - stanza: 10
+    plain:
+      Hafez, beba, viva livre e seja feliz — mas nunca use a religião para enganar as pessoas, como
+      tanta gente faz.
+    meaning:
+      'Um dos versos mais famosos de Hafez. Ele mostra a sua "ética": é melhor ser abertamente um
+      pecador sincero do que usar o livro sagrado para manipular os outros. Lembre que Hafez sabia o
+      Alcorão de cor — não é um ataque à religião, mas aos hipócritas.'
+    choices: '"Dām-e tazvir" é "armadilha de fraude"; mantivemos a força da expressão.'
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - rosa-rouxinol
+  - saba
+  - pir-e-moghan
+  - alcorao
+  - jose-zuleica
+  - rend
+  - takhallos
+  - vinho
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

@@ -1,0 +1,38 @@
+id: diversos-063
+category: diversos
+number: 63
+firstLine:
+  fa: دل شوق لبت مدام دارد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - دل شوق لبت مدام دارد
+      - یا رب ز لبت چه کام دارد
+    - - جان عشرت مهر و باده شوق‌
+      - در ساغر دل مدام دارد
+    - - شوریدهٔ زلف یار دایم‌
+      - در دام بلا مقام دارد
+    - - آخر نرسد که باز پرسیم‌
+      - کآن دلبر ما چه نام دارد
+    - - با یار کجا نشیند آن کاو
+      - اندیشه خاص و عام دارد
+    - - خرّم دل آن کسی که صحبت‌
+      - با یار علی‌الدّوام دارد
+    - - تا صید کند دلی بشوخی‌
+      - بر گل ز بنفشه دام دارد
+    - - حافظ چو دمی خوش است مجلس‌
+      - اسباب طرب تمام دارد
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 63
+    url: https://ganjoor.net/hafez/montasab/sh63
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 63
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

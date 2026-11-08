@@ -1,0 +1,26 @@
+id: diversos-087
+category: diversos
+number: 87
+firstLine:
+  fa: ای دل مجوی منصب دنیا که هیچ نیست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای دل مجوی منصب دنیا که هیچ نیست
+      - نقصان بود ز عزل کمالت نه از عمل
+    - - چیزی مگو که از تو پریشان شود دلی
+      - کاری مکن که از تو به نفسی رسد خلل
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 87
+    url: https://ganjoor.net/hafez/montasab/sh87
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 87
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

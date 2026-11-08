@@ -1,0 +1,36 @@
+id: gazal-112
+category: gazal
+number: 112
+firstLine:
+  fa: آن که رخسارِ تو را رنگِ گل و نسرین داد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن که رخسارِ تو را رنگِ گل و نسرین داد
+      - صبر و آرام توانَد به منِ مسکین داد
+    - - وان که گیسویِ تو را رسمِ تَطاول آموخت
+      - هم تواند کَرَمَش دادِ منِ غمگین داد
+    - - من همان روز ز فرهاد طمع بُبریدم
+      - که عنانِ دلِ شیدا به لبِ شیرین داد
+    - - گنجِ زر گر نَبُوَد، کُنجِ قناعت باقیست
+      - آن که آن داد به شاهان، به گدایان این داد
+    - - خوش عروسیست جهان از رهِ صورت لیکن
+      - هر که پیوست بدو، عمرِ خودش کاوین داد
+    - - بعد از این دستِ من و دامنِ سرو و لبِ جوی
+      - خاصه اکنون که صبا مژده فروردین داد
+    - - در کفِ غصه دوران، دلِ حافظ خون شد
+      - از فراقِ رُخَت ای خواجه قوامُ الدین، داد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 112
+    url: https://ganjoor.net/hafez/ghazal/sh112
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 112
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

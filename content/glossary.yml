@@ -1,0 +1,703 @@
+# Glossário do Jardim de Hafez — termos explicados para quem nunca leu poesia persa.
+# short: frase simples mostrada no balão; definition: explicação completa (página /glossario);
+# aliases: formas em que a palavra aparece nos textos, para ser destacada automaticamente.
+
+- id: hafez
+  term: Hafez
+  termFa: حافظ
+  transliteration: Hāfez
+  short: Poeta persa que viveu em Shiraz, no atual Irã, no século XIV (mais ou menos de 1315 a 1390). É o poeta mais amado do Irã até hoje.
+  definition: >-
+    Khajeh Shamseddin Mohammad, conhecido como Hafez, viveu em Shiraz no século XIV. "Hafez" era um
+    apelido: quer dizer "aquele que sabe de cor", porque ele sabia o Alcorão inteiro de memória. Seus
+    poemas são lidos, cantados e citados no Irã como os de Camões ou Drummond entre nós — e muito mais.
+  aliases: []
+
+- id: divan
+  term: Divã
+  termFa: دیوان
+  transliteration: divān
+  short: O livro que reúne todos os poemas de um poeta persa. "O Divã de Hafez" é a coletânea completa dos poemas dele.
+  definition: >-
+    Na tradição persa, "divã" é a coletânea dos poemas de um autor. O Divã de Hafez foi reunido depois
+    da morte dele e tem cerca de 500 gazéis, além de poemas de outras formas. É um livro presente em
+    muitas casas iranianas, ao lado do Alcorão.
+  aliases: [Divã, divã]
+
+- id: gazel
+  term: Gazel
+  termFa: غزل
+  transliteration: ghazal
+  short: Um tipo de poema curto e musical, com 5 a 15 pares de versos, todos terminando com o mesmo som. É a forma preferida de Hafez para falar de amor.
+  definition: >-
+    O gazel é um poema lírico curto (em geral de 5 a 15 pares de versos) com uma única rima do começo
+    ao fim. Cada par de versos é quase independente, como as contas de um colar: o que une o poema é a
+    rima, o tom e as imagens, não uma história contada do início ao fim. No último par, o poeta costuma
+    dizer o próprio nome. Gazéis eram feitos para ser cantados.
+  aliases: [gazel, gazéis, Gazel, Gazéis]
+
+- id: disticos
+  term: Dístico
+  termFa: بیت
+  transliteration: beyt
+  short: Um par de versos que forma uma ideia completa. Os poemas persas são construídos de dístico em dístico.
+  definition: >-
+    Na poesia persa, a unidade básica não é o verso, mas o par de versos (beyt). Cada metade se chama
+    hemistíquio. Neste site, cada dístico persa aparece ao lado da tradução, e cada um tem sua
+    explicação.
+  aliases: [dístico, dísticos, Dístico, bayt, beyt]
+
+- id: hemistiquio
+  term: Hemistíquio
+  termFa: مصراع
+  transliteration: mesrā'
+  short: Cada uma das duas metades de um dístico — ou seja, cada um dos dois versos do par.
+  definition: >-
+    O dístico persa se divide em duas metades, os hemistíquios (mesra'). Na página impressa persa, eles
+    costumam aparecer lado a lado, na mesma linha; aqui aparecem um embaixo do outro.
+  aliases: [hemistíquio, hemistíquios]
+
+- id: radif
+  term: Radif
+  termFa: ردیف
+  transliteration: radif
+  short: Uma palavra que se repete no fim de todos os pares de versos do poema, como um refrão.
+  definition: >-
+    Em muitos gazéis, depois da rima vem sempre a mesma palavra, repetida em todos os dísticos. Essa
+    palavra é o radif. No gazel 2, o radif é "kojā" (onde?) — e o poema inteiro soa como uma pergunta
+    insistente.
+  aliases: [radif]
+
+- id: takhallos
+  term: Assinatura (takhallos)
+  termFa: تخلص
+  transliteration: takhallos
+  short: O poeta coloca o próprio nome ("Hafez") no último par de versos, como uma assinatura. Muitas vezes ele fala consigo mesmo ali.
+  definition: >-
+    O nome poético do autor, colocado no último dístico do gazel. "Hafez" é o nome poético de
+    Shamseddin Mohammad. Muitas vezes, nesse dístico final, o poeta dá um conselho a si mesmo ou elogia
+    o próprio poema.
+  aliases: [takhallos, assinatura]
+
+- id: alcorao
+  term: Alcorão
+  termFa: قرآن
+  transliteration: Qor'ān
+  short: O livro sagrado do Islã, escrito em árabe. Para os muçulmanos, é a palavra de Deus revelada ao profeta Maomé.
+  definition: >-
+    O Alcorão (ou Corão) é o livro sagrado dos muçulmanos. É escrito em árabe e dividido em capítulos
+    chamados suras. Conta também histórias que aparecem na Bíblia, como a de José do Egito. Hafez
+    sabia o Alcorão de cor — daí o seu apelido.
+  aliases: [Alcorão, Corão, corânica, corânicas]
+
+- id: islam
+  term: Islã
+  termFa: اسلام
+  transliteration: eslām
+  short: A religião dos muçulmanos, que chegou à Pérsia (atual Irã) no século VII. Na época de Hafez, o Irã era muçulmano havia sete séculos.
+  definition: >-
+    O Islã é a religião fundada pelo profeta Maomé na Arábia, no século VII. A Pérsia foi conquistada
+    pelos árabes e se tornou muçulmana; a língua árabe passou a ser a língua da religião e do estudo,
+    enquanto o persa continuou a língua da poesia. A lei religiosa islâmica proíbe o vinho — e é por
+    isso que o vinho de Hafez é tão provocador.
+  aliases: [Islã, islâmica, islâmico, islâmicos, muçulmanos, muçulmano]
+
+- id: arabe
+  term: Versos em árabe
+  termFa: عربی
+  transliteration: 'arabi'
+  short: O árabe era a língua da religião e dos estudos no Irã. Quando Hafez escreve um verso em árabe no meio do persa, soa solene, quase como uma oração.
+  definition: >-
+    O árabe e o persa são línguas muito diferentes (como português e alemão), mas usam o mesmo
+    alfabeto. No tempo de Hafez, todo homem culto lia árabe, a língua do Alcorão. Misturar versos árabes
+    num poema persa era uma demonstração de habilidade e dava um tom elevado ao poema.
+  aliases: [árabe]
+
+- id: saqi
+  term: Copeiro (saqi)
+  termFa: ساقی
+  transliteration: sāqi
+  short: Quem serve o vinho numa festa. Nos poemas, é ao mesmo tempo um jovem bonito que serve a bebida e uma figura espiritual que "serve" o amor de Deus.
+  definition: >-
+    O saqi é quem enche as taças nas reuniões. Na poesia de Hafez, é uma figura concreta (um jovem
+    belo que serve o vinho) e também espiritual: aquele que oferece a "embriaguez" do amor e do
+    conhecimento. Os leitores persas mantêm os dois sentidos vivos ao mesmo tempo.
+  aliases: [copeiro, copeiros, saqi, Copeiro]
+
+- id: vinho
+  term: Vinho
+  termFa: می
+  transliteration: mey
+  short: Nos poemas de Hafez, o vinho é o vinho de verdade (proibido pela religião) e também o símbolo da alegria e do amor que fazem a pessoa "sair de si".
+  definition: >-
+    Um dos símbolos centrais de Hafez. Pode ser o vinho real — proibido pela lei islâmica, o que o
+    torna símbolo de liberdade contra a hipocrisia — e também o êxtase do amor divino, que tira a
+    pessoa de si mesma. Os leitores discutem há séculos qual sentido vale mais; o poema quase sempre
+    sustenta os dois, e a tradução não decide por você.
+  aliases: [vinho]
+
+- id: pir-e-moghan
+  term: Velho dos magos
+  termFa: پیر مغان
+  transliteration: pir-e moghān
+  short: O dono da taverna. Hafez o transforma no seu verdadeiro mestre espiritual — mais sábio que os pregadores da mesquita.
+  definition: >-
+    Os "magos" eram os seguidores da religião antiga do Irã, o zoroastrismo. Como o vinho era proibido
+    aos muçulmanos, as tavernas eram mantidas por zoroastrianos e cristãos. O "velho dos magos" é o
+    dono da taverna — e, em Hafez, um mestre sincero, oposto ao religioso hipócrita.
+  aliases: [velho dos magos, magos, pir-e moghan]
+
+- id: rend
+  term: Rend
+  termFa: رند
+  transliteration: rend
+  short: Alguém que não liga para a opinião dos outros, frequenta a taverna e tem má fama — mas é mais sincero que os falsos devotos. É o "herói" de Hafez.
+  definition: >-
+    Palavra sem tradução em português. Originalmente queria dizer "vagabundo, malandro". Em Hafez, o
+    rend é o livre de espírito: despreza a religiosidade de fachada, assume a má fama e, por isso, é mais
+    puro que os devotos de aparência. Mantivemos a palavra original porque "boêmio" ou "libertino"
+    perderiam esse lado moral e espiritual.
+  aliases: [rend, rends]
+
+- id: sufi
+  term: Sufi, sufismo
+  termFa: صوفی
+  transliteration: sufi
+  short: O sufismo é o lado místico do Islã — pessoas que buscam se unir a Deus pelo amor. Hafez usa a linguagem deles, mas zomba dos sufis que só fingem ser santos.
+  definition: >-
+    O sufismo é a dimensão mística do Islã: busca a união com Deus pelo amor, pela música, pela
+    meditação e pela purificação interior. Os sufis viviam em comunidades com um mestre e usavam um
+    manto remendado. Hafez usa muitos símbolos sufis, mas critica o sufi que exibe uma devoção vazia.
+    Se Hafez pertencia a alguma ordem sufi é algo que os estudiosos discutem.
+  aliases: [sufi, sufis, sufismo, Sufi]
+
+- id: kherqe
+  term: Manto (kherqe)
+  termFa: خرقه
+  transliteration: kherqe
+  short: O manto remendado que os sufis usavam para mostrar que eram religiosos. Para Hafez, muitas vezes é um símbolo de fingimento.
+  definition: >-
+    O manto remendado de lã que identificava o sufi e era recebido de um mestre. Em Hafez, é muitas
+    vezes símbolo de hipocrisia — o poeta fala em trocá-lo por vinho ou em manchá-lo de vinho.
+  aliases: [manto, kherqe]
+
+- id: dervixe
+  term: Dervixe
+  termFa: درویش
+  transliteration: darvish
+  short: Quer dizer "pobre". É a pessoa que abriu mão dos bens materiais para se dedicar à vida espiritual.
+  definition: >-
+    Literalmente "pobre". Designa o místico que renunciou aos bens do mundo; por extensão, qualquer
+    pessoa humilde. Hafez muitas vezes se apresenta como um dervixe diante de um amado poderoso.
+  aliases: [dervixe, dervixes]
+
+- id: xeque
+  term: Xeque
+  termFa: شیخ
+  transliteration: sheykh
+  short: Um líder religioso respeitado. Nos poemas, costuma ser o moralista sério que reprova o vinho e o amor.
+  definition: >-
+    "Sheykh" é o ancião, o mestre religioso ou o pregador. Em Hafez, o xeque é quase sempre o alvo da
+    ironia: o homem de aparência impecável que condena os outros.
+  aliases: [xeque]
+
+- id: saba
+  term: Brisa da manhã (saba)
+  termFa: صبا
+  transliteration: sabā
+  short: O vento suave do amanhecer. Nos poemas, funciona como um "carteiro" que leva recados entre quem ama e quem é amado.
+  definition: >-
+    O vento leve que sopra do leste ao amanhecer. Na poesia persa, é o mensageiro dos amantes: leva
+    recados ao amado e traz de volta o perfume dos seus cabelos.
+  aliases: [brisa da manhã, saba]
+
+- id: rosa-rouxinol
+  term: A rosa e o rouxinol
+  termFa: گل و بلبل
+  transliteration: gol o bolbol
+  short: O casal mais famoso da poesia persa. O rouxinol (o apaixonado) canta para a rosa (a amada), que é linda, dura pouco e não liga para ele.
+  definition: >-
+    O rouxinol canta a noite inteira, apaixonado pela rosa, que é bela, efêmera e indiferente. O
+    rouxinol é o amante (e o poeta); a rosa, o amado. Quase todo poema persa de amor brinca com esse par.
+  aliases: [rouxinol]
+
+- id: amado
+  term: O amado
+  termFa: یار
+  transliteration: yār
+  short: A pessoa amada no poema. Em persa não existe "ele" ou "ela" — é a mesma palavra —, então o amado pode ser homem, mulher ou até Deus.
+  definition: >-
+    O persa não tem gênero gramatical: "ele" e "ela" são a mesma palavra (u). Por isso o amado de
+    Hafez pode ser lido como mulher, como homem jovem (convenção poética da época) ou como Deus. Nas
+    traduções, evitamos fixar o gênero quando o original não fixa.
+  aliases: [amado, amada]
+
+- id: almiscar
+  term: Almíscar
+  termFa: مشک
+  transliteration: moshk
+  short: Um perfume muito caro e forte, tirado de um tipo de cervo da Ásia. Nos poemas, cabelos "de almíscar" são negros e perfumados.
+  definition: >-
+    Substância perfumada extraída de uma glândula do cervo-almiscareiro. Era um dos perfumes mais
+    caros do mundo medieval. Como é escura, "almiscarado" descreve cabelos ao mesmo tempo negros e
+    cheirosos.
+  aliases: [almíscar, almiscarado, almiscarados]
+
+- id: huri
+  term: Huri
+  termFa: حوری
+  transliteration: huri
+  short: Segundo a tradição islâmica, as belas moças que recebem os justos no paraíso.
+  definition: >-
+    Na tradição islâmica, as huris são donzelas de beleza perfeita que habitam o paraíso. Na poesia
+    persa, aparecem como medida máxima de beleza e de recompensa celeste.
+  aliases: [huris, huri]
+
+- id: jose-zuleica
+  term: José e Zuleica
+  termFa: یوسف و زلیخا
+  transliteration: Yusof o Zoleykhā
+  short: Uma história de amor que está na Bíblia e no Alcorão. José era o homem mais bonito do mundo, e Zuleica se apaixonou perdidamente por ele.
+  definition: >-
+    José (Yusuf) foi vendido como escravo pelos irmãos, que antes o jogaram num poço, e acabou no
+    Egito. A esposa do seu senhor — chamada Zuleica na tradição persa — apaixonou-se por ele. Na poesia
+    persa, José é o símbolo máximo da beleza, e Zuleica, da paixão que vence todas as regras.
+  aliases: [José, Zuleica]
+
+- id: majnun
+  term: Majnun
+  termFa: مجنون
+  transliteration: Majnun
+  short: Personagem de uma lenda de amor (como Romeu e Julieta). Ele ficou tão louco de amor por Layla que foi viver no deserto, entre os animais.
+  definition: >-
+    "Majnun" quer dizer "louco". Na lenda árabe, recontada por poetas persas como Nezami, o jovem Qays
+    ama Layla, é impedido de casar com ela e enlouquece, vagando pelo deserto. É o modelo do amante que
+    perde tudo por amor.
+  aliases: [Majnun]
+
+- id: shiraz
+  term: Shiraz
+  termFa: شیراز
+  transliteration: Shirāz
+  short: A cidade de Hafez, no sul do Irã. Era famosa pelos jardins, pelos riachos e pelos poetas — e continua sendo.
+  definition: >-
+    Cidade do sudoeste do Irã, onde Hafez nasceu, viveu quase toda a vida e foi enterrado. Famosa por
+    seus jardins, pelo riacho de Roknabad e pelos túmulos dos poetas Saadi e Hafez. No século XIV,
+    passou pelas mãos de várias dinastias e foi conquistada por Tamerlão em 1387.
+  aliases: [Shiraz]
+
+- id: fal
+  term: Fal-e Hafez
+  termFa: فال حافظ
+  transliteration: fāl-e Hāfez
+  short: Costume iraniano de abrir o livro de Hafez ao acaso, pensando numa pergunta, e ler o poema que aparecer como um conselho.
+  definition: >-
+    "Fal" é uma consulta ao acaso. O Fal-e Hafez — abrir o Divã com uma intenção no coração — é um
+    costume vivo no Irã, especialmente na noite de Yalda (a mais longa do ano) e no Ano Novo persa.
+  aliases: [Fal-e Hafez]
+
+- id: gazela
+  term: Gazela
+  termFa: غزال
+  transliteration: ghazāl
+  short: Um animal do deserto, parecido com um pequeno cervo, elegante e arisco. Nos poemas, a pessoa amada é comparada a uma gazela — linda, de olhos grandes e difícil de alcançar.
+  definition: >-
+    A gazela é um antílope pequeno e veloz dos desertos e estepes da Ásia e da África. Na poesia
+    persa e árabe, é a imagem clássica da pessoa amada: olhos grandes e escuros, andar gracioso e o
+    costume de fugir de quem se aproxima. O amante que corre atrás dela pelos montes lembra Majnun, que
+    enlouqueceu de amor. Atenção: apesar do som parecido, "gazela" (ghazāl, o animal) e "gazel"
+    (ghazal, o poema) são palavras diferentes em persa — mas os poetas adoravam brincar com essa
+    semelhança.
+  aliases: [gazela, gazelas]
+
+- id: cipreste
+  term: Cipreste
+  termFa: سرو
+  transliteration: sarv
+  short: Uma árvore alta, fina e sempre verde, muito comum nos jardins persas. Nos poemas, é o símbolo do corpo esbelto e elegante da pessoa amada.
+  definition: >-
+    O cipreste é presença obrigatória nos jardins do Irã, inclusive em volta do túmulo de Hafez.
+    Por ser alto, reto e nunca perder as folhas, virou símbolo de elegância, liberdade e vida eterna.
+    Quando Hafez fala de um "cipreste que caminha", está falando da pessoa amada.
+  aliases: [cipreste, ciprestes]
+
+- id: narciso
+  term: Narciso
+  termFa: نرگس
+  transliteration: narges
+  short: Uma flor. Na poesia persa, o narciso representa o olho da pessoa amada — um olhar lânguido, meio fechado, como de quem está sonolento ou embriagado.
+  definition: >-
+    O narciso tem um miolo escuro cercado de pétalas claras, que lembra um olho. Como a flor fica
+    levemente inclinada, os poetas a comparavam a um olhar sonolento ou embriagado — o ideal de
+    beleza dos olhos na poesia persa.
+  aliases: [narciso]
+
+- id: jamshid
+  term: Jamshid e sua taça
+  termFa: جمشید
+  transliteration: Jamshid (Jam)
+  short: Um rei lendário do Irã antigo. Dizia-se que ele tinha uma taça mágica em que podia ver o mundo inteiro.
+  definition: >-
+    Jamshid (ou Jam) é um dos reis lendários da antiga Pérsia, celebrado no Shahnameh de Ferdowsi.
+    Era associado ao Nowruz e a uma taça mágica (jām-e Jam) que mostrava tudo o que acontecia no
+    mundo. Em Hafez, a taça de Jamshid vira símbolo do coração iluminado — e da taça de vinho.
+  aliases: [Jamshid]
+
+# ── História: Shiraz no século XIV ──
+
+- id: mongois
+  term: Mongóis
+  termFa: مغول
+  transliteration: moghol
+  short: Povo da Ásia Central que, no século XIII, conquistou um império enorme, incluindo o Irã. Governaram o Irã por cerca de oitenta anos antes do tempo de Hafez.
+  definition: >-
+    Depois das conquistas de Gengis Khan, um neto dele, Hulagu, fundou no Irã a dinastia dos
+    Ilkhanidas (meados do século XIII). Muitas cidades foram arrasadas, mas Shiraz escapou porque os
+    governantes locais se submeteram. Os soberanos mongóis do Irã acabaram adotando o islã e a cultura
+    persa. Quando o último grande deles morreu, em 1335, o império se partiu em reinos rivais — o
+    mundo em que Hafez viveu.
+  aliases: [mongol, mongóis, Mongol, Mongóis]
+
+- id: abu-said
+  term: Abu Sa‘id
+  termFa: ابوسعید بهادرخان
+  transliteration: Abu Sa‘id Bahādor Khān
+  short: O último grande soberano mongol do Irã. Quando ele morreu, em 1335, sem deixar herdeiro, o país se dividiu em pequenos reinos.
+  definition: >-
+    Abu Sa‘id governou o Irã mongol de 1316 a 1335. Sua morte sem herdeiro abriu uma longa disputa
+    entre generais e dinastias locais. Em Shiraz, isso significou décadas de governantes que subiam e
+    caíam — o pano de fundo de toda a vida de Hafez.
+  aliases: [Abu Sa‘id, Abu Sa'id]
+
+- id: abu-eshaq
+  term: Abu Eshaq Inju
+  termFa: ابواسحاق اینجو
+  transliteration: Abu Eshāq Inju
+  short: Príncipe que governou Shiraz por volta de 1343 a 1353. Amava poesia e festas; Hafez o admirava e lamentou sua queda.
+  definition: >-
+    Último governante da família Inju em Shiraz. Sua corte era alegre e cheia de poetas, e Hafez
+    parece ter vivido ali seus anos mais felizes. Em 1353 perdeu a cidade para Mobarez al-Din e,
+    em 1357, foi executado. Num verso famoso, Hafez compara o reinado dele a um anel de turquesa que
+    brilhou lindamente — mas durou pouco.
+  aliases: [Abu Eshaq Inju, Abu Eshaq, Injuidas, Inju]
+
+- id: vizir
+  term: Vizir
+  termFa: وزیر
+  transliteration: vazir
+  short: O principal ministro de um rei ou príncipe — quem cuidava de fato do governo, das finanças e da administração.
+  definition: >-
+    Nas cortes do mundo islâmico, o vizir era o braço direito do soberano. Muitos vizires eram
+    homens cultos e protetores de poetas e sábios; alguns tinham tanto poder quanto o próprio rei.
+  aliases: [vizir, vizires]
+
+- id: haji-qavam
+  term: Haji Qavam
+  termFa: حاجی قوام
+  transliteration: Hāji Qavām od-Din Hasan
+  short: Vizir do príncipe Abu Eshaq, em Shiraz, e um dos protetores de Hafez. Morreu em 1353, e Hafez o cita pelo nome nos poemas.
+  definition: >-
+    Haji Qavam al-Din Hasan foi um ministro rico e generoso, conhecido por apoiar poetas. Hafez o
+    elogia em mais de um poema — sinal de que o jovem poeta circulava pela corte e dependia, como
+    quase todos os poetas da época, da proteção de homens poderosos.
+  aliases: [Haji Qavam]
+
+- id: mobarez
+  term: Mobarez al-Din
+  termFa: مبارزالدین محمد
+  transliteration: Mobārez od-Din Mohammad
+  short: Governante severo que tomou Shiraz em 1353. Fechou as tavernas, proibiu o vinho e impôs rigor religioso — o oposto do clima de festa anterior.
+  definition: >-
+    Fundador do poder da dinastia Mozaffarida, Mobarez al-Din era conhecido pela devoção rígida e pela
+    violência. Conta-se que o povo de Shiraz o apelidou de "mohtaseb", o fiscal dos costumes. Em
+    1358, foi derrubado e cegado pelos próprios filhos. Muitos leitores veem nas ironias de Hafez
+    contra os falsos devotos uma resposta a esse período.
+  aliases: [Mobarez al-Din, Mobarez]
+
+- id: mozaffaridas
+  term: Mozaffaridas
+  termFa: آل مظفر
+  transliteration: Āl-e Mozaffar
+  short: A dinastia que governou Shiraz e outras cidades do sul do Irã de 1353 até 1393, quando Tamerlão acabou com ela. Hafez viveu boa parte da vida sob seu domínio.
+  definition: >-
+    Família de origem árabe que ganhou poder no sul do Irã depois da queda dos mongóis. Seus príncipes
+    viviam brigando entre si — pai contra filho, irmão contra irmão. Em 1393, Tamerlão mandou executar
+    os príncipes da família, encerrando a dinastia.
+  aliases: [Mozaffaridas, Mozaffarida, mozaffaridas]
+
+- id: shah-shoja
+  term: Shah Shoja
+  termFa: شاه شجاع
+  transliteration: Shāh Shojā‘
+  short: Filho de Mobarez al-Din. Tomou o poder do pai em 1358 e governou Shiraz até 1384. Ele próprio escrevia poesia, e a relação com Hafez teve altos e baixos.
+  definition: >-
+    Shah Shoja foi um governante culto, mais tolerante que o pai, e Hafez o elogia em vários poemas.
+    Mesmo assim, há indícios de desentendimentos e de um período em que o poeta ficou longe da corte.
+    Os detalhes dessa relação são debatidos pelos estudiosos.
+  aliases: [Shah Shoja]
+
+- id: timur
+  term: Timur (Tamerlão)
+  termFa: تیمور
+  transliteration: Timur
+  short: Conquistador turco-mongol da Ásia Central (1336–1405), famoso pelas campanhas devastadoras. Tomou Shiraz em 1387, quando Hafez ainda estava vivo.
+  definition: >-
+    Timur, chamado no Ocidente de Tamerlão, construiu um império da Ásia Central até a Anatólia, com
+    capital em Samarcanda. Suas conquistas foram famosas pela violência. Tomou Shiraz em 1387 e
+    voltou em 1393 para eliminar os Mozaffaridas. Uma lenda conta um encontro dele com Hafez, mas
+    não há prova histórica disso.
+  aliases: [Timur, Tamerlão]
+
+- id: mosalla
+  term: Mosalla
+  termFa: مصلی
+  transliteration: Mosallā
+  short: Um bairro de jardins em Shiraz, que Hafez elogia nos poemas. É onde ele foi enterrado e onde fica seu túmulo até hoje.
+  definition: >-
+    No tempo de Hafez, o Mosalla era uma área aberta e arborizada no norte de Shiraz, perto do riacho
+    de Roknabad — lugar de passeio. Hafez fala dos "passeios do Mosalla" no gazel 3. Ali fica hoje o
+    Hafezieh, o jardim com o túmulo do poeta.
+  aliases: [Mosalla]
+
+- id: golandam
+  term: Mohammad Golandam
+  termFa: محمد گلندام
+  transliteration: Mohammad Golandām
+  short: Contemporâneo de Hafez a quem se atribui o prefácio mais antigo do Divã. Segundo esse texto, os poemas foram reunidos só depois da morte do poeta.
+  definition: >-
+    O prefácio que abre muitos manuscritos do Divã é tradicionalmente atribuído a Mohammad Golandam,
+    que teria conhecido Hafez. É a principal fonte antiga sobre a vida do poeta, mas os estudiosos
+    discutem quem de fato o escreveu e quanto dele é confiável.
+  aliases: [Mohammad Golandam, Golandam]
+
+- id: sultao
+  term: Sultão
+  termFa: سلطان
+  transliteration: soltān
+  short: Título de um governante no mundo islâmico — algo como "rei" ou "soberano".
+  definition: >-
+    A palavra vem do árabe e quer dizer "poder, autoridade". Na época de Hafez, era usada por reis e
+    príncipes do Irã, da Ásia Central e da Índia. Na poesia, o amado muitas vezes é chamado de sultão:
+    quem manda no coração do amante.
+  aliases: [sultão, sultões, Sultão]
+
+- id: shakh-e-nabat
+  term: Shakh-e Nabat
+  termFa: شاخ نبات
+  transliteration: shākh-e nabāt
+  short: '"Ramo de açúcar" — o nome da moça por quem, segundo a lenda, Hafez se apaixonou. Nabat é o açúcar cristalizado num graveto, doce comum no Irã.'
+  definition: >-
+    A história de uma amada chamada Shakh-e Nabat é uma lenda popular, sem base nas fontes antigas.
+    Muitos estudiosos acham que ela nasceu de um verso em que o próprio Hafez fala do "ramo de açúcar"
+    que lhe foi dado como prêmio pela paciência — uma imagem da doçura da poesia, não necessariamente
+    de uma mulher real.
+  aliases: [Shakh-e Nabat]
+
+- id: samarcanda
+  term: Samarcanda
+  termFa: سمرقند
+  transliteration: Samarqand
+  short: Grande cidade da Ásia Central, hoje no Uzbequistão. Era uma joia da Rota da Seda e virou a capital de Tamerlão.
+  definition: >-
+    Samarcanda foi por séculos um centro de comércio, ciência e arte. Tamerlão a escolheu como capital
+    e a encheu de mesquitas e palácios com cúpulas azuis. Por isso, quando Hafez diz que daria
+    Samarcanda por uma pinta no rosto do amado, a lenda imagina o conquistador ofendido.
+  aliases: [Samarcanda]
+
+- id: bucara
+  term: Bucara
+  termFa: بخارا
+  transliteration: Bokhārā
+  short: Cidade histórica da Ásia Central, hoje no Uzbequistão, famosa por suas escolas, mesquitas e sábios.
+  definition: >-
+    Bucara foi um dos grandes centros de estudo do mundo islâmico e um berço da poesia em persa, séculos
+    antes de Hafez. Junto com Samarcanda, representa nos versos dele as cidades mais ricas e preciosas
+    que alguém poderia oferecer.
+  aliases: [Bucara]
+
+- id: dowlatshah
+  term: Dowlatshah e o Memorial dos Poetas
+  termFa: تذکرة الشعرا
+  transliteration: Dowlatshāh Samarqandi, Tazkirat osh-Sho‘arā
+  short: Livro de biografias de poetas persas escrito por Dowlatshah em 1487, quase cem anos depois da morte de Hafez. Mistura fatos com muitas anedotas.
+  definition: >-
+    Dowlatshah Samarqandi escreveu em Herat, no atual Afeganistão, um "memorial" com histórias de cerca
+    de 150 poetas. É uma fonte preciosa, mas cheia de anedotas que ninguém pode confirmar — como o
+    encontro de Hafez com Tamerlão. Os historiadores usam o livro com cuidado.
+  aliases: [Memorial dos Poetas de Dowlatshah, Memorial dos Poetas, Dowlatshah]
+
+- id: yalda
+  term: Noite de Yalda
+  termFa: شب یلدا
+  transliteration: shab-e yaldā
+  short: A noite mais longa do ano (por volta de 20 de dezembro), quando as famílias iranianas se reúnem até tarde, comem romã e melancia e leem Hafez.
+  definition: >-
+    Yalda é uma festa muito antiga, anterior ao islã, que celebra a vitória da luz: depois da noite mais
+    longa, os dias voltam a crescer. A família passa a noite acordada, com frutas vermelhas, histórias e
+    poesia. Abrir o Divã e fazer o Fal-e Hafez é parte central da noite.
+  aliases: [Noite de Yalda, Yalda]
+
+# ── Poetas, lugares e artistas citados na página do poeta ──
+
+- id: saadi
+  term: Saadi
+  termFa: سعدی
+  transliteration: Sa‘di
+  short: Grande poeta persa do século XIII, também de Shiraz. Mestre do gazel antes de Hafez e autor do Golestan ("Jardim de Rosas").
+  definition: >-
+    Saadi (c. 1210–1291) viajou muito e voltou a Shiraz, onde escreveu o Bustan e o Golestan, livros de
+    histórias e conselhos em prosa e verso que todo iraniano conhece. Seus gazéis abriram caminho para
+    os de Hafez. Os dois estão enterrados em Shiraz, em túmulos-jardim muito visitados.
+  aliases: [Saadi]
+
+- id: rumi
+  term: Rumi
+  termFa: مولوی
+  transliteration: Mowlavi (Jalāl od-Din Rumi)
+  short: Poeta místico persa do século XIII (1207–1273), autor do Masnavi. Viveu em Konya, na atual Turquia. No Irã é chamado de Mowlana ou Mowlavi.
+  definition: >-
+    Jalal al-Din Rumi é o poeta sufi mais conhecido do mundo. Seus seguidores fundaram a ordem dos
+    dervixes giradores. Morreu cerca de cinquenta anos antes do nascimento de Hafez.
+  aliases: [Rumi]
+
+- id: nezami
+  term: Nezami
+  termFa: نظامی گنجوی
+  transliteration: Nezāmi Ganjavi
+  short: Poeta persa do século XII, mestre das grandes histórias em verso — entre elas a de Leyli e Majnun.
+  definition: >-
+    Nezami (c. 1141–1209) viveu em Ganja, no atual Azerbaijão. Suas cinco epopeias românticas, a
+    Khamseh, inspiraram séculos de poetas e pintores de miniaturas.
+  aliases: [Nezami]
+
+- id: attar
+  term: Attar de Nishapur
+  termFa: عطار نیشابوری
+  transliteration: Farid od-Din ‘Attār
+  short: Poeta místico persa (morto por volta de 1221), autor da "Conferência dos Pássaros". Não confundir com outros homens chamados Attar ("perfumista").
+  definition: >-
+    Farid al-Din Attar escreveu A Conferência dos Pássaros, em que trinta pássaros partem em busca do
+    rei das aves e descobrem que ele são eles mesmos — uma das grandes alegorias da mística sufi.
+  aliases: [Attar de Nishapur]
+
+- id: jami
+  term: Jami
+  termFa: جامی
+  transliteration: ‘Abd or-Rahmān Jāmi
+  short: Poeta e sábio persa do século XV (1414–1492), de Herat. Escreveu biografias de místicos que estão entre as fontes antigas sobre Hafez.
+  definition: >-
+    Jami é considerado o último grande poeta clássico persa. No seu livro de biografias de sufis, ele
+    registra a morte de Hafez em 1390 — uma das bases para essa data.
+  aliases: [Jami]
+
+- id: yazd
+  term: Yazd
+  termFa: یزد
+  transliteration: Yazd
+  short: Cidade antiga no deserto do centro do Irã, famosa pelas torres de vento e pela tradição zoroastriana.
+  definition: >-
+    Yazd fica a cerca de 400 km de Shiraz. Hafez manda um recado aos moradores da cidade no gazel 12,
+    e alguns estudiosos acham que ele passou um tempo ali.
+  aliases: [Yazd]
+
+- id: isfahan
+  term: Isfahan
+  termFa: اصفهان
+  transliteration: Esfahān
+  short: Grande cidade do centro do Irã. Séculos depois de Hafez virou capital do país, famosa por suas praças e mesquitas de azulejos azuis.
+  definition: >-
+    No tempo de Hafez, Isfahan era uma das cidades disputadas pelos Injuidas e Mozaffaridas. Alguns
+    relatos dizem que o poeta passou um período ali, longe de Shiraz.
+  aliases: [Isfahan]
+
+- id: shajarian
+  term: Shajarian
+  termFa: محمدرضا شجریان
+  transliteration: Mohammad-Rezā Shajariān
+  short: O mais célebre cantor da música tradicional persa (1940–2020). Gravou muitos poemas de Hafez.
+  definition: >-
+    Mohammad-Reza Shajarian foi a grande voz da música clássica iraniana no século XX. Para muitos
+    iranianos, ouvir Hafez cantado por Shajarian é a forma mais natural de conhecer os poemas.
+  aliases: [Shajarian]
+
+- id: nowruz
+  term: Nowruz
+  termFa: نوروز
+  transliteration: nowruz
+  short: O Ano Novo persa, celebrado no início da primavera (20 ou 21 de março). É a maior festa do calendário iraniano.
+  definition: >-
+    Nowruz quer dizer "dia novo". A festa, muito anterior ao islã, marca o equinócio da primavera e é
+    celebrada no Irã, no Afeganistão, na Ásia Central e em outros lugares. As famílias montam a mesa
+    do haft-sin, com sete objetos simbólicos, e muitas incluem o Divã de Hafez.
+  aliases: [Nowruz, Ano Novo persa]
+
+- id: chahar-bagh
+  term: Chahar bagh
+  termFa: چهارباغ
+  transliteration: chahār bāgh
+  short: '"Quatro jardins": o jardim persa clássico, um quadrado murado dividido em quatro canteiros por canais de água que se cruzam no centro.'
+  definition: >-
+    O chahar bagh é o modelo do jardim persa há mais de dois mil anos: muros que protegem do deserto,
+    água correndo em canais, árvores frutíferas, flores e um espelho d'água no centro. Era visto como
+    uma imagem do paraíso. Vários jardins históricos do Irã, como o Jardim de Eram, em Shiraz, são
+    Patrimônio Mundial da UNESCO.
+  aliases: [chahar bagh, Chahar bagh]
+
+- id: rubai
+  term: Rubai
+  termFa: رباعی
+  transliteration: robā'i
+  short: Uma quadra — poema de quatro versos que diz tudo de uma vez, como um bilhete ou um aforismo. O plural é rubaiyat.
+  definition: >-
+    O rubai é a forma mais curta da poesia persa: quatro versos, em geral com o primeiro, o segundo e
+    o quarto rimando entre si. Os dois primeiros versos preparam, o último dá a virada, como numa
+    piada bem contada ou num provérbio. O poeta mais famoso por rubaiyat é Omar Khayyam. Hafez
+    escreveu poucos, e os estudiosos têm menos certeza sobre a autoria deles do que sobre os gazéis.
+  aliases: [rubai, rubaiyat, Rubai, Rubaiyat]
+
+- id: qete
+  term: Qet‘e
+  termFa: قطعه
+  transliteration: qet'e
+  short: '"Pedaço": poema curto de ocasião — um conselho, um elogio, um lamento pela morte de alguém.'
+  definition: >-
+    A qet'e é um poema curto em que todos os pares de versos rimam no final, mas o primeiro par não
+    precisa rimar entre si, como no gazel. Por isso parece um "pedaço" de um poema maior. Era usada
+    para assuntos do dia a dia: pedir um favor, dar um conselho, lamentar a morte de um amigo ou
+    marcar a data de um acontecimento.
+  aliases: [qet‘e, qet'e, qet‘es, qet'es, Qet‘e, Qet'e]
+
+- id: qaside
+  term: Qaside
+  termFa: قصیده
+  transliteration: qasida
+  short: Uma ode longa e solene, quase sempre escrita para elogiar um rei ou um ministro.
+  definition: >-
+    A qaside é um poema longo, com uma só rima do começo ao fim, como o gazel, mas bem mais extenso e
+    cerimonioso. Os poetas da corte a usavam para elogiar governantes, de quem dependiam para viver.
+    Hafez deixou apenas três, dedicadas a protetores de Shiraz.
+  aliases: [qaside, qasides, Qaside, Qasides]
+
+- id: masnavi
+  term: Masnavi
+  termFa: مثنوی
+  transliteration: masnavi
+  short: Poema longo em que cada par de versos tem a sua própria rima. É a forma das grandes narrativas persas.
+  definition: >-
+    No masnavi, os dois versos de cada dístico rimam entre si, e a rima muda a cada dístico. Isso
+    permite contar histórias muito longas, por isso foi a forma das epopeias e dos grandes poemas
+    místicos, como o Masnavi de Rumi. Na obra de Hafez, o Saqi-Nameh e "A gazela selvagem" são
+    masnavis.
+  aliases: [masnavi, masnavis, Masnavi]
+
+- id: madde-tarikh
+  term: Data em letras
+  termFa: ماده تاریخ
+  transliteration: mādde-ye tārikh
+  short: Truque poético em que as letras de um verso, somadas como números, dão o ano de um acontecimento.
+  definition: >-
+    No alfabeto persa e árabe, cada letra também vale um número (o sistema abjad). Os poetas
+    escreviam um verso cujas letras, somadas, davam o ano de uma morte ou de uma construção, no
+    calendário islâmico. Era uma forma elegante de gravar uma data na memória. Vários qet'es de Hafez
+    terminam assim.
+  aliases: [data em letras, abjad]

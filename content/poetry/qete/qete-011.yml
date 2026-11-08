@@ -1,0 +1,28 @@
+id: qete-011
+category: qete
+number: 11
+firstLine:
+  fa: به سمع خواجه رسان ای ندیم وقت‌شناس
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - به سمع خواجه رسان ای ندیم وقت‌شناس
+      - به خلوتی که در او اجنبی صبا باشد
+    - - لطیفه‌ای به میان آر و خوش بخندانش
+      - به نکته‌ای که دلش را بدان رضا باشد
+    - - پس آنگهش ز کرم این قدر به لطف بپرس
+      - که گر وظیفه تقاضا کنم روا باشد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Qet‘e 11
+    url: https://ganjoor.net/hafez/ghete/sh11
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Qet‘e 11
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

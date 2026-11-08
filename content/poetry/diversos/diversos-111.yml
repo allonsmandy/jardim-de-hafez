@@ -1,0 +1,26 @@
+id: diversos-111
+category: diversos
+number: 111
+firstLine:
+  fa: ای رای تو صحرای امل پیمودن
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای رای تو صحرای امل پیمودن
+      - تا چند بر آفتاب گل اندودن
+    - - گر در دهن شیر شوی بهر طمع
+      - آخر نه شکار کور خواهی بودن
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 111
+    url: https://ganjoor.net/hafez/montasab/sh111
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 111
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

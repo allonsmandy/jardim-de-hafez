@@ -1,0 +1,34 @@
+id: gazal-261
+category: gazal
+number: 261
+firstLine:
+  fa: درآ که در دلِ خسته، توان درآید باز
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - درآ که در دلِ خسته، توان درآید باز
+      - بیا که در تنِ مُرده، رَوان درآید باز
+    - - بیا که فُرقَتِ تو، چشمِ من چنان در بست
+      - که فتحِ بابِ وصالت مگر گشاید باز
+    - - غمی که چون سپهِ زنگ، مُلکِ دل بگرفت
+      - ز خیلِ شادیِ رومِ رُخَت زُدایَد باز
+    - - به پیشِ آینهٔ دل هر آن چه می‌دارم
+      - به جز خیالِ جمالت، نمی‌نماید باز
+    - - بدان مَثَل که شب آبستن است روز از تو
+      - ستاره می‌شِمُرَم تا که شب چه زاید باز
+    - - بیا که بلبلِ مطبوعِ خاطرِ حافظ
+      - به بویِ گُلبُنِ وصلِ تو می‌سُراید باز
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 261
+    url: https://ganjoor.net/hafez/ghazal/sh261
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 261
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

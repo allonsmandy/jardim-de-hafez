@@ -1,0 +1,159 @@
+id: gazal-014
+category: gazal
+number: 14
+firstLine:
+  fa: گفتم ای سلطانِ خوبان رحم کن بر این غریب
+  pt: 'Eu disse: ó sultão dos belos, tem piedade deste estrangeiro.'
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گفتم ای سلطانِ خوبان رحم کن بر این غریب
+      - گفت در دنبالِ دل، رَه گُم کُنَد مسکین غریب
+    - - گفتمش مَگذر زمانی، گفت معذورم بدار
+      - خانه پروردی چه تاب آرد غم چندین غریب
+    - - خفته بر سنجابِ شاهی نازنینی را چه غم؟
+      - گر ز خار و خاره سازد بستر و بالین غریب
+    - - ای که در زنجیرِ زلفت جایِ چندین آشناست
+      - خوش فتاد آن خالِ مشکین بر رخِ رنگین غریب
+    - - می‌نماید عکسِ مِی، در رنگِ روی مَه‌وَشت
+      - همچو برگِ ارغوان بر صفحهٔ نسرین، غریب
+    - - بس غریب افتاده است آن مور خَط، گِردِ رُخَت
+      - گرچه نَبوَد در نگارستان، خطِ مشکین غریب
+    - - گفتم ای شامِ غریبان طُرِّهٔ شبرنگِ تو
+      - در سحرگاهان حذر کن چون بنالد این غریب
+    - - گفت حافظ آشنایان در مقامِ حیرتند
+      - دور نَبوَد گر نشیند خسته و مسکین غریب
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 14
+    url: https://ganjoor.net/hafez/ghazal/sh14
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - 'Eu disse: ó sultão dos belos, tem piedade deste estrangeiro.'
+      - 'Disse: correndo atrás do coração, perde-se o pobre estrangeiro.'
+    - - 'Pedi: fica um instante. Disse: perdoa-me;'
+      - quem foi criado em casa não aguenta tanta tristeza de estrangeiro.
+    - - Que importa ao delicado que dorme sobre peles reais
+      - se o estrangeiro faz de espinhos e pedras a sua cama e o seu travesseiro?
+    - - Ó tu, em cujos cachos acorrentados há lugar para tantos conhecidos,
+      - que estranha fica a pinta de almíscar sobre esse rosto colorido!
+    - - O reflexo do vinho aparece no teu rosto de lua
+      - como pétala de olaia sobre a rosa-branca — que estranho!
+    - - Que estranha caiu aquela fila de formigas da penugem em volta do teu rosto —
+      - embora, numa galeria de pinturas, uma linha de almíscar não seja estranha.
+    - - 'Eu disse: teus cachos cor de noite são a noite dos estrangeiros;'
+      - cuidado com a madrugada, quando este estrangeiro chorar.
+    - - 'Disse: Hafez, até os íntimos vivem perplexos;'
+      - não admira que se sente cansado e desvalido o estrangeiro.
+  translators:
+    - Claude (IA, Anthropic)
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-07
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
+references:
+  - source: qazvini-ghani
+    locator: Gazel 14
+themes:
+  - Um diálogo com o amado
+  - Sentir-se estrangeiro
+  - A beleza que é estranha e maravilhosa
+introduction:
+  - 'Um diálogo: o poeta pede, o amado responde. Todos os pares de versos terminam com a mesma
+    palavra persa, "gharib", que quer dizer "estrangeiro" (alguém longe de casa, sozinho) e também
+    "estranho" (curioso, maravilhoso). Hafez joga com os dois sentidos o poema inteiro.'
+  - Para manter esse refrão, terminamos cada verso par com "estrangeiro" ou "estranho", conforme o
+    sentido.
+stanzaNotes:
+  - stanza: 1
+    plain:
+      'Pedi: "Você, a pessoa mais linda de todas, tenha pena de mim, que estou sozinho." Respondeu:
+      "Quem segue o coração acaba se perdendo."'
+    meaning:
+      'O amante se apresenta como estrangeiro, sem casa nem apoio. A resposta do amado é fria,
+      mas também sábia: quem se deixa guiar só pela paixão se perde.'
+    choices: Para manter o refrão, terminamos os dois versos com "estrangeiro".
+  - stanza: 2
+    plain:
+      'Pedi: "Fique um pouco." Respondeu: "Desculpe, eu sempre vivi no conforto — não aguento tanta
+      tristeza."'
+    meaning:
+      O amado, mimado ("criado em casa"), não suporta a dor do amante sem lar. É um retrato da
+      distância entre quem ama e quem é amado.
+    choices:
+      '"Khāne-parvard" (criado em casa) é quem cresceu protegido, mimado; mantivemos a expressão
+      literal.'
+  - stanza: 3
+    plain: Quem dorme em lençóis de luxo não se importa com quem dorme no chão, sobre espinhos e pedras.
+    meaning:
+      '"Sanjāb" é a pele de esquilo cinza, forro de luxo dos reis. O contraste social é forte: o
+      amado vive no conforto; o amante, na intempérie.'
+    choices: '"Peles reais" simplifica "pele de esquilo real", que soaria estranho em português.'
+  - stanza: 4
+    plain: Muita gente está presa nos seus cabelos. Mas a pinta escura no seu rosto rosado é que é
+      surpreendente!
+    meaning:
+      'Os "conhecidos" (āshnā) presos nos cachos se opõem ao "estranho" (gharib): a pinta é uma
+      estrangeira solitária no rosto, e também uma maravilha. O jogo com o refrão fica claro aqui.'
+    choices: Aqui "gharib" tem o sentido de "estranho, admirável"; por isso usamos "estranha".
+  - stanza: 5
+    plain: O vinho deixa seu rosto claro levemente avermelhado, como uma pétala roxa sobre uma flor
+      branca. Que lindo e que curioso!
+    meaning: A olaia (arghavān, a "árvore-de-judas") tem flores vermelho-arroxeadas; a rosa-branca
+      (nasrin), pétalas muito claras. O rosto claro com o rubor do vinho seria essa combinação.
+    choices:
+      '"Olaia" é o nome português da árvore (Cercis siliquastrum); "rosa-branca" traduz "nasrin",
+      uma roseira de flores brancas.'
+  - stanza: 6
+    plain:
+      A penugem escura que nasce em volta do seu rosto parece uma fila de formigas — curioso! Mas,
+      num rosto que é uma obra de arte, um traço escuro até combina.
+    meaning:
+      '"Khatt" é a penugem de um rosto jovem e também "linha", "escrita". A penugem é comparada a
+      uma fila de formigas e a um traço de tinta (almíscar, escuro) numa pintura. O rosto é uma
+      "galeria de pinturas" (negārestān).'
+    choices: 'Um dos versos mais difíceis de traduzir: o jogo entre penugem, traço de pintura e
+      caligrafia só funciona com nota.'
+  - stanza: 7
+    plain: 'Falei: "Seus cabelos escuros são como uma noite triste para quem está longe de casa.
+      Cuidado: de madrugada, quando eu chorar, minhas preces podem ter efeito."'
+    meaning:
+      '"A noite dos estrangeiros" (shām-e gharibān) é a noite triste de quem está longe de casa.
+      As preces e lamentos feitos de madrugada eram considerados especialmente poderosos — por isso
+      o aviso.'
+    choices: Mantivemos "noite dos estrangeiros" como expressão, explicada aqui.
+  - stanza: 8
+    plain:
+      'Respondeu: "Hafez, até quem está perto de mim vive confuso. Não é de estranhar que você, que
+      está longe, se sinta cansado e perdido."'
+    meaning:
+      '"Maqām-e heyrat", a estação da perplexidade, é uma etapa do caminho sufi: o deslumbramento
+      diante do mistério de Deus. Na leitura espiritual, nem os mais próximos de Deus O compreendem
+      — que dirá o "estrangeiro".'
+    choices: Terminamos com "estrangeiro" para fechar o refrão.
+glossary:
+  - gazel
+  - disticos
+  - divan
+  - radif
+  - amado
+  - almiscar
+  - vinho
+  - sufi
+  - takhallos
+culturalNotes: []
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-07

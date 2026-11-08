@@ -1,0 +1,40 @@
+id: gazal-197
+category: gazal
+number: 197
+firstLine:
+  fa: شاهدان گر دلبری زین سان کنند
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - شاهدان گر دلبری زین سان کنند
+      - زاهدان را رخنه در ایمان کنند
+    - - هر کجا آن شاخِ نرگس بِشْکُفد
+      - گُل‌رُخانَش دیده نرگس‌دان کنند
+    - - ای جوانِ سَروقَد! گویی بِبَر
+      - پیش از آن کز قامتت چوگان کنند
+    - - عاشقان را بر سرِ خود حُکم نیست
+      - هر چه فرمانِ تو باشد آن کنند
+    - - پیشِ چشمم کمتر است از قطره‌ای
+      - این حکایت‌ها که از طوفان کنند
+    - - یارِ ما چون گیرد آغازِ سَماع
+      - قُدسیان بر عرش دست‌افشان کنند
+    - - مردمِ چشمم به خون آغشته شد
+      - در کجا این ظلم بر انسان کنند؟
+    - - خوش برآ با غصه، ای دل! کاَهلِ راز
+      - عیشِ خوش در بوتهٔ هجران کنند
+    - - سر مکش حافظ ز آهِ نیم‌شب
+      - تا چو صبحت، آینه رخشان کنند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 197
+    url: https://ganjoor.net/hafez/ghazal/sh197
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 197
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

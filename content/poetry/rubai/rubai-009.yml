@@ -1,0 +1,26 @@
+id: rubai-009
+category: rubai
+number: 9
+firstLine:
+  fa: امشب ز غمت میان خون خواهم خفت
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - امشب ز غمت میان خون خواهم خفت
+      - وز بستر عافیت برون خواهم خفت
+    - - باور نکنی خیال خود را بفرست
+      - تا دَرنگرد که بی‌ تو چون خواهم خفت
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Rubai 9
+    url: https://ganjoor.net/hafez/robaee2/sh9
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Rubai 9
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

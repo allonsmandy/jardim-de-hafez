@@ -1,0 +1,44 @@
+id: gazal-111
+category: gazal
+number: 111
+firstLine:
+  fa: عکسِ رویِ تو چو در آینهٔ جام افتاد
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - عکسِ رویِ تو چو در آینهٔ جام افتاد
+      - عارف از خندهٔ مِی در طمعِ خام افتاد
+    - - حُسن رویِ تو به یک جلوه که در آینه کرد
+      - این همه نقش در آیینهٔ اوهام افتاد
+    - - این همه عکسِ می و نقشِ نگارین که نمود
+      - یک فروغِ رخِ ساقی‌ست که در جام افتاد
+    - - غیرتِ عشق زبانِ همه خاصان بِبُرید
+      - کز کجا سِرِّ غمش در دهنِ عام افتاد؟
+    - - من ز مسجد به خرابات نه خود افتادم
+      - اینم از عهدِ ازل حاصلِ فرجام افتاد
+    - - چه کند کز پی دوران نرود چون پرگار؟
+      - هر که در دایرهٔ گردشِ ایام افتاد
+    - - در خَمِ زلفِ تو آویخت دل از چاهِ زَنَخ
+      - آه، کز چاه برون آمد و در دام افتاد
+    - - آن شد ای خواجه که در صومعه بازم بینی
+      - کار ما با رخِ ساقیّ و لبِ جام افتاد
+    - - زیرِ شمشیرِ غمش رقص‌کُنان باید رفت
+      - کـ‌آن که شد کشتهٔ او نیک سرانجام افتاد
+    - - هر دَمَش با منِ دل‌سوخته لطفی دگر است
+      - این گدا بین که چه شایستهٔ انعام افتاد
+    - - صوفیان جمله حریفند و نظرباز ولی
+      - زین میان حافظِ دل‌سوخته بدنام افتاد
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 111
+    url: https://ganjoor.net/hafez/ghazal/sh111
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 111
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

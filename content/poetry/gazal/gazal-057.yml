@@ -1,0 +1,36 @@
+id: gazal-057
+category: gazal
+number: 57
+firstLine:
+  fa: آن سیه‌چرده که شیرینیِ عالَم با اوست
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - آن سیه‌چرده که شیرینیِ عالَم با اوست
+      - چشمِ مِیگون، لبِ خندان، دِلِ خرم با اوست
+    - - گر چه شیرین‌‌دهنان پادشهان‌اند ولی
+      - او سلیمانِ زمان است که خاتَم با اوست
+    - - روی خوب است و کمالِ هنر و دامن پاک
+      - لاجَرَم، همتِ پاکانِ دو عالَم با اوست
+    - - خالِ مشکین که بدان عارِضِ گندمگون است
+      - سِرِّ آن دانه که شد رهزنِ آدم با اوست
+    - - دلبرم، عزمِ سفر کرد، خدا را یاران
+      - چه کنم با دِلِ مجروح؟ که مرهم با اوست
+    - - با که این نکته توان گفت که آن سنگین‌‌دِل
+      - کُشت ما را و دَمِ عیسیِ مریم با اوست
+    - - حافظ از معتقدان است گرامی دارش
+      - زآن که بخشایشِ بس روحِ مکرم با اوست
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 57
+    url: https://ganjoor.net/hafez/ghazal/sh57
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 57
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

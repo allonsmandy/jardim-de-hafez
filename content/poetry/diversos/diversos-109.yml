@@ -1,0 +1,26 @@
+id: diversos-109
+category: diversos
+number: 109
+firstLine:
+  fa: ای آن که نهند مهر و ماه از تمکین
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای آن که نهند مهر و ماه از تمکین
+      - بر خاک جناب تو شب و روز جبین
+    - - با دست زبان و دل تنگم منشان
+      - بر آتش انتظار و فارغ منشین
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 109
+    url: https://ganjoor.net/hafez/montasab/sh109
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 109
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,36 @@
+id: diversos-075
+category: diversos
+number: 75
+firstLine:
+  fa: نصیبِ من چو خرابات کرده است اِله
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - نصیبِ من چو خرابات کرده است اِله
+      - در این میانه بگو، زاهدا! مرا چه گناه‌؟
+    - - کسی که در ازلش، جام مِیْ نصیب افتاد
+      - چرا به حشر کنند، این گناه از او در خواه‌؟
+    - - 'بگو به زاهدِ سالوسِ خرقهْ پوشِ دو رُوی:'
+      - که دستِ زرق دراز است و آستین کوتاه
+    - - تو خرقه را، ز برای ریا همی پوشی
+      - که تا به زرق بری، بندگانِ حق از راه
+    - - غلامِ همّتِ رندانِ بی‌سروپایم!
+      - که هر دو کَوْن نیارزد به پیششان یک کاه
+    - - مراد من ز خرابات، چون که حاصل شد
+      - دلم ز مدرسه و خانقاه گشت سیاه
+    - - برو گدای دَرِ هر گدای شو حافظ!
+      - تو این مراد نیابی، مگر به شیءِ اللّٰه
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 75
+    url: https://ganjoor.net/hafez/montasab/sh75
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 75
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

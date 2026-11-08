@@ -1,0 +1,26 @@
+id: diversos-103
+category: diversos
+number: 103
+firstLine:
+  fa: ای هر نفسی نهاده بر کف ساغر
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - ای هر نفسی نهاده بر کف ساغر
+      - عیبی نبود ز دوستان یاد آور
+    - - ما را می لعل نیست جز در دیده
+      - می را که تو در پیاله داری می‌خور
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 103
+    url: https://ganjoor.net/hafez/montasab/sh103
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 103
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

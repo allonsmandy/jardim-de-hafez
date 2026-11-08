@@ -1,0 +1,52 @@
+id: gazal-185
+category: gazal
+number: 185
+firstLine:
+  fa: |-
+    نقدها را بُوَد آیا
+    که عیاری گیرند؟
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - |-
+        نقدها را بُوَد آیا
+        که عیاری گیرند؟
+      - تا همه صومعه‌داران، پی کاری گیرند
+    - - |-
+        مصلحت‌دید من، آن است
+        که یاران، همه کار
+      - بگذارند و خم طُرّهٔ یاری گیرند
+    - - |-
+        خوش گرفتند حریفان، سر
+        زلف ساقی
+      - گر فلکْشان بگذارد که قراری گیرند
+    - - |-
+        قُوَّتِ بازوی پرهیز
+        به خوبان مفروش!
+      - که در این خیل، حصاری به سواری گیرند
+    - - |-
+        یا‌ رب! این بچهٔ
+        تُرکان چه دلیرند به خون
+      - که به تیر مُژه، هر لحظه، شکاری گیرند
+    - - |-
+        رقص بر شعر تر و نالهٔ
+        نی خوش باشد
+      - خاصه، رقصی که در آن، دست نگاری گیرند
+    - - |-
+        «حافظ»!
+        ابنایِ زمان را غم مسکینان نیست
+      - زین میان گر بتوان؛ بِهْ که کناری گیرند
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 185
+    url: https://ganjoor.net/hafez/ghazal/sh185
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 185
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

@@ -1,0 +1,26 @@
+id: diversos-116
+category: diversos
+number: 116
+firstLine:
+  fa: گل گفت اگر دستگهی داشتمی
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - گل گفت اگر دستگهی داشتمی
+      - بگریختمی اگر رهی داشتمی
+    - - با بی گنهی مرا چنین می‌سوزند
+      - ای وای به من گر گنهی داشتمی
+  edition: ganjoor
+  transcription:
+    source: ganjoor
+    locator: Poema atribuído 116
+    url: https://ganjoor.net/hafez/montasab/sh116
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: ganjoor
+    locator: Poema atribuído 116
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08

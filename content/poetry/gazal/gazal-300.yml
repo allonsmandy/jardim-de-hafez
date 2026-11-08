@@ -1,0 +1,40 @@
+id: gazal-300
+category: gazal
+number: 300
+firstLine:
+  fa: هزار دشمنم اَر می‌کنند قصدِ هلاک
+originalLanguage: fa
+original:
+  language: fa
+  stanzas:
+    - - هزار دشمنم اَر می‌کنند قصدِ هلاک
+      - گَرَم تو دوستی از دشمنان ندارم باک
+    - - مرا امیدِ وصالِ تو زنده می‌دارد
+      - و گر نه هر دَمم از هجرِ توست بیمِ هلاک
+    - - نفَس‌نفَس اگر از باد نَشنوم بویش
+      - زمان‌زمان چو گل از غم کُنم گریبان چاک
+    - - رَوَد به خواب، دو چشم از خیالِ تو؟ هیهات
+      - بُوَد صبور، دل اندر فراقِ تو؟ حاشاک
+    - - اگر تو زخم زَنی، بِهْ که دیگری مَرهم
+      - و گر تو زهر دهی، بِهْ که دیگری تریاک
+    - - بِضَربِ سَیْفِکَ قَتْلی حَیاتُنا اَبدا
+      - لِأنَّ روحیَ قَدْ طابَ اَن یَکونَ فِداک
+    - - عنان مَپیچ که گر می‌زنی به شمشیرم
+      - سپر کُنم سر و دستت ندارم از فِتراک
+    - - تو را چنان که تویی هر نظر کجا بیند؟
+      - به قدرِ دانشِ خود هر کسی کند ادراک
+    - - به چشمِ خَلق، عزیزِ جهان شود حافظ
+      - که بر درِ تو نَهد رویِ مَسکَنَت بر خاک
+  edition: qazvini-ghani
+  transcription:
+    source: ganjoor
+    locator: Gazel 300
+    url: https://ganjoor.net/hafez/ghazal/sh300
+translationStatus: pending
+publicationAuthorized: false
+references:
+  - source: qazvini-ghani
+    locator: Gazel 300
+editorialNotes:
+  - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
+updatedAt: 2026-11-08
