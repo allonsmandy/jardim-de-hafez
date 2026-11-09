@@ -3,6 +3,7 @@ category: gazal
 number: 18
 firstLine:
   fa: ساقیا آمدنِ عید مبارک بادت
+  pt: Copeiro, que a chegada da festa te seja auspiciosa
 originalLanguage: fa
 original:
   language: fa
@@ -26,11 +27,110 @@ original:
     source: ganjoor
     locator: Gazel 18
     url: https://ganjoor.net/hafez/ghazal/sh18
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Copeiro, que a chegada da festa te traga alegria;
+      - e não te esqueças do que nos prometeste.
+    - - Espanta-me que, durante tantos dias longe de nós,
+      - tenhas evitado os amigos, mesmo querendo voltar.
+    - - 'Leva nossa saudação à filha da videira e diz que ela pode sair:'
+      - nossas preces e nossa vontade a libertaram das amarras.
+    - - A alegria de todos começa com teus passos e tua chegada;
+      - que a tristeza caiba ao coração que não te quiser alegre.
+    - - Graças a Deus, os ataques do outono não feriram
+      - teu jardim de jasmins, ciprestes, rosas e buxos.
+    - - Longe o mau-olhado! Daquela separação te trouxeram de volta
+      - tua estrela ilustre e a fortuna que nasceu contigo.
+    - - Hafez, não abandones a segurança desta arca de Noé,
+      - ou a tempestade da vida levará tudo o que te sustenta.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-08
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
 references:
   - source: qazvini-ghani
     locator: Gazel 18
+themes:
+  [
+    O reencontro depois da separação,
+    A festa e o vinho,
+    A sorte que retorna,
+    Abrigo em tempos difíceis,
+  ]
+introduction:
+  - Hafez recebe o copeiro de volta no dia da festa, depois de um período de separação. Com ele
+    voltam o vinho, a companhia e a alegria prometida. O poema soa como uma saudação calorosa e
+    também como uma cobrança afetuosa.
+  - A "filha da videira" é o vinho, imaginado como alguém preso durante a abstinência. O fim do
+    período permite que ela saia outra vez. A festa pode ser o fim do Ramadã, embora o poema não a nomeie.
+  - No último dístico, a reunião feliz vira uma arca de Noé. Hafez aconselha a agarrar esse abrigo,
+    porque a vida fora dele continua sujeita a tempestades.
+stanzaNotes:
+  - stanza: 1
+    plain: A festa chegou, copeiro; lembra do que prometeste e volta a servir-nos.
+    meaning: O copeiro serve o vinho na festa. Também pode representar o amado ou alguém que ajuda
+      o poeta a se aproximar de Deus. Aqui, sua volta marca o fim da espera.
+    literal: Ó copeiro, seja bendita para ti a chegada da festa / e aquelas promessas que fizeste não saiam de tua memória.
+    choices: '"Eid" é uma festa religiosa; como o poema não especifica qual, mantivemos "festa".'
+  - stanza: 2
+    plain: Não entendo como conseguiste ficar tanto tempo longe dos amigos, mesmo sentindo vontade de voltar.
+    meaning: >-
+      Hafez reclama com carinho: se o copeiro também sentia saudade dos amigos, por que ficou tanto
+      tempo longe? O verso mostra ao mesmo tempo mágoa e alegria pelo retorno.
+    literal: Espanto-me que neste período dos dias de separação / retiraste o coração dos companheiros e o coração te dava.
+    choices: O jogo repetido com "del" não cabe inteiro em português; preservamos a tensão entre afastamento e desejo.
+  - stanza: 3
+    plain: Chama o vinho de volta. O tempo em que ele precisava ficar escondido terminou.
+    meaning: >-
+      "Filha da videira" é um apelido poético para o vinho. Durante o período de jejum, ela estava
+      como uma pessoa presa; agora as preces dos amigos ajudam a soltá-la.
+    literal: Leva a servidão [saudação] à filha da videira, diz que saia / pois nosso sopro e empenho te fizeram livre da amarra.
+    choices: '"Bandegi رسان" é transmitir respeito ou serviço; traduzimos como "leva nossa saudação".'
+  - stanza: 4
+    plain: Todo mundo ficará feliz com tua chegada; triste seja apenas quem não deseja tua felicidade.
+    meaning: A chegada do copeiro alegra a festa inteira. Depois, Hafez deseja tristeza apenas a
+      quem não suporta ver essa pessoa feliz.
+    literal: A alegria dos reunidos está em teu pé e tua chegada / lugar de tristeza seja o coração que não te queira alegre.
+    choices: '"Qadam o moqdam" repete chegada e passo auspicioso; usamos "passos e chegada".'
+  - stanza: 5
+    plain: Graças a Deus, o tempo ruim não destruiu tua beleza nem tua juventude.
+    meaning: O corpo e a beleza do amado viram um jardim. O outono representa os tempos difíceis
+      que poderiam ter destruído esse jardim, mas ele voltou são e belo.
+    literal: Graças a Deus que da pilhagem do outono não recebeu brecha / teu jardim de jasmim, cipreste, rosa e buxo.
+    choices: Mantivemos a lista de plantas porque ela constrói o retrato do amado como jardim.
+  - stanza: 6
+    plain: Que nenhum mal te alcance; tua boa estrela e tua sorte natural te trouxeram de volta.
+    meaning: Dizer "longe o mau-olhado" é uma forma de proteger alguém da inveja. Hafez agradece à
+      boa sorte que acompanharia o copeiro desde o nascimento.
+    literal: Longe o mau-olhado, pois daquela dispersão te trouxe de volta / o astro célebre e a fortuna nascida contigo.
+    choices: '"Tafreqe" pode ser dispersão ou separação; escolhemos a segunda pela situação do poema.'
+  - stanza: 7
+    plain: Hafez, fica perto de quem te protege, porque a vida pode virar uma tempestade de repente.
+    meaning: Na história de Noé, a arca salva as pessoas do dilúvio. Aqui, ela pode ser a companhia
+      dos amigos, o amor, a proteção de alguém poderoso ou a ajuda de Deus.
+    literal: Hafez, não percas das mãos a fortuna desta arca de Noé / senão o dilúvio dos acontecimentos levará teu fundamento.
+    choices: Mantivemos "arca de Noé", imagem familiar também presente no Alcorão.
+glossary: [gazel, saqi, vinho, cipreste, alcorao, takhallos]
+culturalNotes:
+  - title: A filha da videira
+    body: Poetas persas chamam o vinho de "filha da videira", como se a bebida nascesse da planta e
+      pudesse ser presa, libertada e convidada para uma festa.
+  - title: Festa sem nome
+    body:
+      '"Eid" significa festa religiosa. O contexto de abstinência e retorno do vinho permite pensar
+      no fim do Ramadã, mas o texto não identifica a celebração de modo explícito.
+      '
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

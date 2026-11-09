@@ -3,6 +3,7 @@ category: gazal
 number: 21
 firstLine:
   fa: دل و دینم شد و دلبر به ملامت برخاست
+  pt: Perdi o coração e a fé, e o amado começou a me censurar
 originalLanguage: fa
 original:
   language: fa
@@ -26,11 +27,77 @@ original:
     source: ganjoor
     locator: Gazel 21
     url: https://ganjoor.net/hafez/ghazal/sh21
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Perdi o coração e a fé, e o amado começou a me censurar;
+      - "disse: 'Não te sentes conosco, pois perdeste o juízo.'"
+    - - Quem já passou um momento feliz nesta festa
+      - sem se levantar, no fim do encontro, cheio de arrependimento?
+    - - Se a vela se gabou, falando daqueles lábios sorridentes,
+      - passou noites pagando por isso diante de teus amantes.
+    - - No jardim, o vento da primavera deixou a rosa e o cipreste
+      - para defender a beleza de teu rosto e de teu corpo.
+    - - Passaste embriagado, e entre os anjos recolhidos
+      - levantou-se um tumulto de fim do mundo para te ver.
+    - - Diante de teu modo de andar, o cipreste orgulhoso
+      - ficou com tanta vergonha que não conseguiu dar um passo.
+    - - 'Hafez, joga fora este manto, talvez assim salves a vida:'
+      - o fogo nasceu do manto da hipocrisia e da santidade exibida.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    [
+      Tradução preliminar feita por IA a partir do texto persa,
+      sem rima,
+      priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.,
+    ]
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-08
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
 references:
   - source: qazvini-ghani
     locator: Gazel 21
+themes:
+  [Perder-se por amor, A beleza que causa tumulto, A alegria que termina, Abandonar a hipocrisia]
+introduction:
+  - Hafez perdeu o coração, a calma e a boa reputação por amor. Até o amado o censura. O poema pergunta
+    se alguém consegue sair ileso de uma experiência tão intensa.
+  - Depois, flores, anjos e a própria vela ficam abalados pela beleza do amado. No fim, Hafez conclui
+    que seu maior perigo não é o amor, mas o manto religioso usado para parecer santo.
+stanzaNotes:
+  - stanza: 1
+    plain: Apaixonei-me, perdi o controle e até a pessoa que amo acha melhor eu me afastar.
+    meaning: Perder "coração e fé" significa abandonar a calma e a vida respeitável. O amado percebe que Hafez já não está em seu estado normal.
+  - stanza: 2
+    plain: Toda alegria acaba trazendo alguma tristeza ou arrependimento quando o encontro termina.
+    meaning: A festa pode ser uma reunião com vinho ou a própria vida. Nada agradável dura para sempre, e a despedida sempre chega.
+  - stanza: 3
+    plain: A vela tentou competir com teu sorriso e passou noites sofrendo por sua ousadia.
+    meaning: A chama parece uma língua. Por ter falado com orgulho dos lábios do amado, a vela é castigada e precisa queimar noite após noite.
+  - stanza: 4
+    plain: Até o vento deixou as flores de lado para elogiar teu rosto e teu corpo.
+    meaning: A rosa representa o rosto; o cipreste, o corpo alto e elegante. O amado supera os dois modelos de beleza do jardim.
+  - stanza: 5
+    plain: Quando passaste bêbado, até os anjos saíram de seu silêncio para olhar.
+    meaning: A beleza causa um tumulto comparado ao Dia do Juízo. Nem os seres celestes conseguem permanecer indiferentes.
+  - stanza: 6
+    plain: O cipreste se achava elegante, mas teve vergonha quando viu teu jeito de andar.
+    meaning: O cipreste é alto e reto, comparação tradicional para o amado. Aqui ele perde a confiança e fica imóvel.
+  - stanza: 7
+    plain: Hafez, abandona a roupa de homem santo; fingir pureza pode te destruir.
+    meaning: O manto identificava o religioso sufi. Hafez critica quem o usa para exibir santidade e chama essa falsidade de fogo.
+glossary: [gazel, amado, cipreste, kherqe, sufi, takhallos]
+culturalNotes:
+  - title: O manto perigoso
+    body: Em Hafez, o manto religioso nem sempre prova devoção. Quando serve para conquistar respeito, torna-se sinal de hipocrisia.
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

@@ -3,6 +3,7 @@ category: gazal
 number: 19
 firstLine:
   fa: ای نسیمِ سحر آرامگَهِ یار کجاست؟
+  pt: Ó brisa da manhã, onde fica o repouso do amado?
 originalLanguage: fa
 original:
   language: fa
@@ -30,11 +31,123 @@ original:
     source: ganjoor
     locator: Gazel 19
     url: https://ganjoor.net/hafez/ghazal/sh19
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Ó brisa da manhã, onde fica o repouso do amado?
+      - Onde mora aquela pessoa bela como a lua, que faz os amantes sofrerem?
+    - - 'A noite está escura, e adiante fica o caminho do vale de Ayman:'
+      - onde está o fogo do Sinai, onde o encontro marcado?
+    - - Todo aquele que vem ao mundo acaba conhecendo a ruína;
+      - 'perguntai na taverna: existe alguém realmente sóbrio?'
+    - - Só recebe a boa notícia quem sabe reconhecer os sinais;
+      - há tantos segredos — onde está alguém capaz de entendê-los?
+    - - Cada fio de meu cabelo tem mil coisas para tratar contigo;
+      - que distância existe entre nós e esse crítico que nada tem para fazer!
+    - - 'Perguntai de novo a seus cabelos, dobra sobre dobra:'
+      - onde está este coração aflito, perdido e prisioneiro?
+    - - 'Minha razão enlouqueceu: onde estão aqueles cachos perfumados?'
+      - 'Meu coração me abandonou: onde está a sobrancelha do amado?'
+    - - Copeiro, músico e vinho estão todos prontos, mas
+      - 'sem o amado a alegria não se prepara: onde está o amado?'
+    - - Hafez, não te aflijas com o vento do outono no jardim do mundo;
+      - 'pensa com sensatez: onde existe rosa sem espinho?'
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-08
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
 references:
   - source: qazvini-ghani
     locator: Gazel 19
+themes:
+  [
+    Procurar quem está ausente,
+    Caminhar no escuro,
+    O amor que vence a razão,
+    Nenhuma rosa sem espinho,
+  ]
+introduction:
+  - Quase todos os dísticos deste gazel terminam com a pergunta "onde está?". Hafez procura o amado,
+    o sinal que orienta no escuro, o confidente capaz de entendê-lo e até o próprio coração, perdido
+    nos cabelos de quem ama.
+  - O caminho atravessa imagens da história de Moisés. No vale sagrado, o fogo do monte Sinai revelou
+    a presença divina; aqui, o amante também anda de noite esperando uma luz e um encontro.
+  - 'O poema não encontra uma resposta simples. No final, Hafez reconhece que o jardim do mundo tem
+    outono e que toda rosa tem espinhos: amar inclui aceitar ausência, mudança e dor.'
+stanzaNotes:
+  - stanza: 1
+    plain: Brisa da manhã, mostra onde está a pessoa que amo e como posso chegar até ela.
+    meaning: Na poesia persa, a brisa da manhã leva mensagens entre pessoas separadas. Hafez pede
+      que ela encontre o amado, belo como a lua e cruel porque deixa quem ama sofrendo.
+    literal: Ó brisa da aurora, onde é o lugar de repouso do amigo? / onde a morada daquela lua matadora de amantes, malandra?
+    choices: '"Ayyar" é astuto, sedutor e fora das regras; usamos "sedutora" sem transformar a ambiguidade de gênero.'
+  - stanza: 2
+    plain: Estou perdido numa noite escura; preciso de uma luz que mostre onde acontecerá o encontro.
+    meaning: Segundo a história de Moisés, ele viu um fogo perto do monte Sinai e ali ouviu Deus.
+      Hafez também está no escuro e procura uma luz que o leve ao encontro desejado.
+    literal: A noite é escura e o caminho do vale de Ayman está adiante / onde o fogo do Sinai, onde o lugar prometido do encontro?
+    choices: '"Tur" é o Sinai; explicitamos o nome conhecido em português.'
+  - stanza: 3
+    plain: Ninguém passa pela vida sem se perder um pouco. Na taverna, então, não há ninguém sóbrio.
+    meaning: A "ruína" pode ser o sofrimento comum da vida e também a perda de controle causada pelo
+      vinho ou pelo amor. Hafez brinca dizendo que ninguém está completamente seguro e lúcido.
+    literal: Quem veio ao mundo tem desenho de ruína / dizei na taverna onde está o consciente.
+    choices: '"Kharabi" reúne ruína, embriaguez e desordem; a nota preserva os sentidos.'
+  - stanza: 4
+    plain: Há muitos sinais e segredos, mas quase ninguém sabe entendê-los de verdade.
+    meaning: Algumas coisas não são ditas diretamente. Quem conhece o amor percebe pequenos sinais;
+      numa leitura espiritual, percebe também os sinais de Deus e sabe guardar o que aprendeu.
+    literal: É gente da boa-nova quem conhece a indicação / há muitos pontos sutis; onde o íntimo dos segredos?
+    choices: '"Nokte" é ponto sutil, observação espirituosa ou segredo; usamos "pontos sutis".'
+  - stanza: 5
+    plain: Minha relação com o amado já ocupa todo o meu ser. Não vou dar atenção a quem só sabe criticar.
+    meaning:
+      Hafez exagera dizendo que cada fio de seu cabelo tem mil assuntos com o amado. O crítico
+      está de fora dessa experiência e, por isso, sua opinião não importa.
+    literal: Cada ponta de meu cabelo tem contigo milhares de trabalhos / onde estamos nós e onde o censurador sem trabalho?
+    choices: A fórmula "nós onde, ele onde" marca distância absoluta, não uma pergunta geográfica.
+  - stanza: 6
+    plain: Pergunta aos teus cabelos onde ficou meu coração, pois ele se perdeu e está preso ali.
+    meaning: Os cabelos cheios de curvas parecem um labirinto ou uma armadilha. O poeta imagina que
+      seu coração saiu do peito, entrou nesses cachos e não consegue mais voltar.
+    literal: Perguntai outra vez de seu cabelo dobra em dobra / onde está este coração triste, errante e preso?
+    choices: Mantivemos a pergunta dirigida aos cabelos para preservar a personificação.
+  - stanza: 7
+    plain: Teus cabelos enlouqueceram minha razão e tua sobrancelha fez meu coração abandonar-me.
+    meaning: Os cachos formam uma corrente que prende o amante. São perfumados como almíscar. Diante
+      deles, Hafez diz que perdeu tanto a razão quanto o coração.
+    literal: A razão ficou louca; onde aquela corrente almiscarada? / o coração tomou um canto longe de nós; onde a sobrancelha do amado?
+    choices: '"Selsele" é corrente e série de cachos; traduzimos "corrente" para guardar os dois.'
+  - stanza: 8
+    plain: Temos bebida, música e quem sirva, mas nada disso traz alegria se quem amamos não está aqui.
+    meaning: Há vinho, música e alguém para servir as taças. Mesmo assim, a festa não tem graça,
+      porque falta justamente a pessoa com quem Hafez queria estar.
+    literal: Copeiro e músico e vinho, tudo está preparado, porém / o prazer sem o amigo não se prepara; onde o amigo?
+    choices: Repetimos "amado" como no persa para fazer a ausência dominar o fecho.
+  - stanza: 9
+    plain: Hafez, não se revolte quando vierem tempos ruins; nenhuma coisa bonita existe sem alguma dor.
+    meaning: Todo jardim enfrenta o outono e toda rosa tem espinhos. Hafez usa essas imagens para
+      lembrar a si mesmo que beleza e sofrimento costumam vir juntos.
+    literal: 'Hafez, do vento do outono no jardim do tempo não te aflijas / faz pensamento razoável: onde a rosa sem espinho?'
+    choices: '"Dahr" é o tempo ou mundo; "jardim do mundo" mantém as duas dimensões.'
+glossary: [gazel, saba, amado, almiscar, saqi, vinho, takhallos]
+culturalNotes:
+  - title: Moisés no vale
+    body: O vale de Ayman e o fogo do Sinai lembram a narrativa corânica em que Moisés vê um fogo,
+      aproxima-se e recebe o chamado divino. No poema, essa luz orientaria o encontro.
+    sources: [{ source: alcorao, locator: '20:9–14' }]
+  - title: A pergunta como refrão
+    body: A expressão persa "kojāst?" — "onde está?" — fecha os dísticos e transforma o poema numa busca insistente.
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

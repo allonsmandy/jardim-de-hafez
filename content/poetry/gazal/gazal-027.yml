@@ -3,6 +3,7 @@ category: gazal
 number: 27
 firstLine:
   fa: در دیرِ مغان آمد، یارم قدحی در دست
+  pt: Meu amado entrou no templo dos magos com uma taça na mão
 originalLanguage: fa
 original:
   language: fa
@@ -24,11 +25,88 @@ original:
     source: ganjoor
     locator: Gazel 27
     url: https://ganjoor.net/hafez/ghazal/sh27
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Meu amado entrou no templo dos magos com uma taça na mão,
+      - embriagado de vinho, e os bebedores embriagados por seus olhos.
+    - - Na ferradura de seu cavalo apareceu a lua nova;
+      - diante de seu corpo alto, o pinheiro pareceu pequeno.
+    - - Como posso dizer que ainda sei de mim, se já não sei?
+      - E como dizer que não o vejo, se meus olhos só veem a ele?
+    - - A vela de meu coração apagou quando ele se levantou;
+      - e o clamor dos admiradores se levantou quando ele se sentou.
+    - - Se o perfume ficou agradável, foi por se prender em seus cabelos;
+      - se a tinta virou arco, foi por se unir a suas sobrancelhas.
+    - - Volta, para que a vida perdida de Hafez volte também,
+      - embora a flecha lançada pelo arco jamais retorne.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    [
+      Tradução preliminar feita por IA a partir do texto persa,
+      sem rima,
+      priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.,
+    ]
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  {
+    level: preliminary,
+    by: Proprietária do projeto,
+    at: 2026-11-08,
+    basis: 'Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.',
+  }
 references:
   - source: qazvini-ghani
     locator: Gazel 27
+themes: [A chegada do amado, Perder-se de si, Pedir que alguém volte]
+introduction:
+  - >-
+    O amado entra na taverna e todos ficam embriagados antes mesmo de beber: basta olhar para seus
+    olhos. A beleza altera tudo ao redor, do perfume às árvores.
+  - Hafez termina pedindo que ele volte. Sabe que o tempo perdido não retorna, mas ainda espera que a
+    presença do amado devolva vida ao que restou.
+stanzaNotes:
+  - {
+      stanza: 1,
+      plain: 'O amado chegou com vinho, e seu olhar deixou todos tão tontos quanto a bebida.',
+      meaning: 'A taverna é concreta e também lugar de liberdade espiritual fora da religião de aparência.',
+    }
+  - {
+      stanza: 2,
+      plain: 'Até a lua e uma árvore alta parecem menores diante da beleza do amado.',
+      meaning: 'A ferradura curva lembra a lua nova; o pinheiro alto perde a comparação com o corpo elegante.',
+    }
+  - {
+      stanza: 3,
+      plain: 'Perdi a noção de mim mesmo, mas continuo vendo o amado em toda parte.',
+      meaning: 'O amor apaga a consciência do próprio eu e, ao mesmo tempo, concentra toda a atenção numa pessoa.',
+    }
+  - {
+      stanza: 4,
+      plain: 'Quando ele saiu, meu coração perdeu a luz; quando se sentou, todos gritaram de admiração.',
+      meaning: 'Levantar e sentar criam movimentos opostos: a partida apaga o poeta, a presença anima os outros.',
+    }
+  - {
+      stanza: 5,
+      plain: 'O perfume e a tinta só ganharam beleza por tocar seus cabelos e sobrancelhas.',
+      meaning: 'A tinta cosmética desenha sobrancelhas; Hafez diz que os enfeites recebem beleza do amado, não o contrário.',
+    }
+  - {
+      stanza: 6,
+      plain: 'Volta e talvez eu recupere a vida, embora saiba que o tempo perdido não volta.',
+      meaning: 'A flecha lançada não retorna ao arco. O verso mantém juntas esperança e consciência da perda.',
+    }
+glossary: [gazel, amado, vinho, pir-e-moghan, takhallos]
+culturalNotes:
+  - {
+      title: 'A flecha que não volta',
+      body: 'A imagem da flecha lembra que o passado não pode ser recuperado. Mesmo assim, Hafez ainda pede o retorno do amado.',
+    }
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

@@ -3,6 +3,7 @@ category: gazal
 number: 25
 firstLine:
   fa: شکفته شد گل حَمرا و گشت بلبل مست
+  pt: A rosa vermelha floresceu e o rouxinol ficou embriagado
 originalLanguage: fa
 original:
   language: fa
@@ -30,11 +31,111 @@ original:
     source: ganjoor
     locator: Gazel 25
     url: https://ganjoor.net/hafez/ghazal/sh25
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - A rosa vermelha floresceu e o rouxinol ficou embriagado;
+      - é um chamado à alegria, ó sufis que amais o vinho.
+    - - A decisão de não beber parecia firme como pedra;
+      - vê como a taça de vidro a quebrou facilmente.
+    - - Traz o vinho, pois diante de quem nada deseja
+      - guarda e sultão, sóbrio e bêbado, valem o mesmo.
+    - - Já que precisamos partir desta hospedaria de duas portas,
+      - pouco importa se o teto de nossa vida é alto ou baixo.
+    - - Não se alcança um lugar de alegria sem sofrimento;
+      - sim, o acordo do princípio foi firmado sob a lei da provação.
+    - - Não atormentes a mente com ter ou não ter; vive contente,
+      - pois tudo o que chega à perfeição acaba desaparecendo.
+    - - A grandeza do ministro, o cavalo de vento e a língua dos pássaros
+      - foram levados pelo vento, e seu senhor nada ganhou.
+    - - 'Não saias do caminho confiando em asas e penas:'
+      - a flecha voa por um tempo, mas termina no chão.
+    - - Como tua pena poderá agradecer, Hafez,
+      - se tuas palavras passam de mão em mão?
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    [
+      Tradução preliminar feita por IA a partir do texto persa,
+      sem rima,
+      priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.,
+    ]
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  {
+    level: preliminary,
+    by: Proprietária do projeto,
+    at: 2026-11-08,
+    basis: 'Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.',
+  }
 references:
   - source: qazvini-ghani
     locator: Gazel 25
+themes: [A alegria da primavera, Tudo passa, Riqueza não salva, Não confiar no orgulho]
+introduction:
+  - >-
+    O poema começa em festa: a rosa abriu, o rouxinol canta e uma simples taça quebra a promessa de
+    não beber. Logo depois, Hafez lembra que posição social, riqueza e poder não duram.
+  - >-
+    A vida é comparada a uma hospedaria com duas portas: entramos por uma e precisamos sair pela
+    outra. Por isso, o poeta aconselha alegria sem orgulho e sem apego ao que possuímos.
+stanzaNotes:
+  - {
+      stanza: 1,
+      plain: 'A primavera chegou; a rosa abriu, o rouxinol canta e é hora de celebrar.',
+      meaning: 'Rosa e rouxinol representam amado e amante. Chamar os sufis para o vinho também provoca os religiosos que pregam abstinência.',
+    }
+  - {
+      stanza: 2,
+      plain: 'Eu jurava que não beberia, mas uma taça frágil quebrou minha promessa tão firme.',
+      meaning: 'A graça está no contraste: a promessa parecia pedra, porém foi vencida por uma taça de vidro.',
+    }
+  - {
+      stanza: 3,
+      plain: 'Para quem não deseja poder nem riqueza, um rei e um guarda não são tão diferentes.',
+      meaning: 'Não precisar de nada torna a pessoa livre das hierarquias. Sóbrio e bêbado também perdem importância.',
+    }
+  - {
+      stanza: 4,
+      plain: 'A vida é uma hospedaria: entramos, ficamos pouco tempo e precisamos sair.',
+      meaning: 'As duas portas são nascimento e morte. Uma casa luxuosa ou humilde não muda o fato de que a estadia termina.',
+    }
+  - {
+      stanza: 5,
+      plain: 'A alegria verdadeira não vem sem dificuldades; sofrer também faz parte da vida.',
+      meaning: "O 'acordo do princípio' lembra o momento anterior à criação. Hafez diz que a existência já nasceu ligada às provações.",
+    }
+  - {
+      stanza: 6,
+      plain: 'Não perca a paz pensando no que possui ou não possui, porque nada dura para sempre.',
+      meaning: 'Até aquilo que chega ao auge começa a desaparecer. O conselho não é desistir da vida, mas não se prender a ela.',
+    }
+  - {
+      stanza: 7,
+      plain: 'Até os maiores poderes do rei Salomão desapareceram e não lhe deram ganho permanente.',
+      meaning: 'O ministro Asaf, o vento e a fala dos pássaros lembram o reino de Salomão. Toda essa grandeza passou.',
+    }
+  - {
+      stanza: 8,
+      plain: 'Não fique orgulhoso de sua força; até aquilo que voa alto acaba caindo.',
+      meaning: 'A flecha tem penas e sobe depressa, mas termina na terra. Talento e sucesso não tornam ninguém invencível.',
+    }
+  - {
+      stanza: 9,
+      plain: 'Hafez, agradece: teus poemas são lidos, copiados e compartilhados por muitas pessoas.',
+      meaning: 'A pena do poeta recebe o presente da fama. A assinatura celebra a circulação de seus versos sem esconder a gratidão.',
+    }
+glossary: [gazel, rosa-rouxinol, sufi, vinho, takhallos]
+culturalNotes:
+  - title: A hospedaria de duas portas
+    body: A vida é uma hospedaria com entrada e saída — nascimento e morte. A imagem torna simples a ideia de que nossa permanência no mundo é breve.
+  - title: O reino de Salomão
+    body: Tradições islâmicas contam que Salomão entendia os pássaros e comandava o vento. Hafez cita esses poderes para lembrar que até a maior glória passa.
+    sources: [{ source: alcorao, locator: '27:16; 21:81' }]
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

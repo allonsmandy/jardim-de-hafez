@@ -3,6 +3,7 @@ category: gazal
 number: 24
 firstLine:
   fa: مطلب طاعت و پیمان و صلاح از من مست
+  pt: Não esperes obediência, promessa ou bom comportamento de mim, que estou bêbado
 originalLanguage: fa
 original:
   language: fa
@@ -26,11 +27,96 @@ original:
     source: ganjoor
     locator: Gazel 24
     url: https://ganjoor.net/hafez/ghazal/sh24
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Não esperes obediência, promessa ou bom comportamento de mim, que estou bêbado;
+      - desde o dia da criação sou conhecido por beber.
+    - - No instante em que me lavei na fonte do amor,
+      - fiz quatro despedidas de tudo o que existe.
+    - - 'Dá-me vinho, e te contarei o segredo do destino:'
+      - por qual rosto me apaixonei e por qual perfume me embriaguei.
+    - - Aqui, a cintura da montanha vale menos que a de uma formiga;
+      - não percas a esperança na misericórdia, ó amante do vinho.
+    - - Tirando aqueles olhos bêbados — que nenhum mal os alcance —,
+      - ninguém viveu feliz sob este teto azul.
+    - - Minha vida seja dada por tua boca, pois no jardim da beleza
+      - o criador do mundo nunca fechou botão mais bonito.
+    - - Pelo poder de teu amor, Hafez tornou-se Salomão;
+      - isto é, de tua união só lhe restou vento nas mãos.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    [
+      Tradução preliminar feita por IA a partir do texto persa,
+      sem rima,
+      priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.,
+    ]
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  {
+    level: preliminary,
+    by: Proprietária do projeto,
+    at: 2026-11-08,
+    basis: 'Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.',
+  }
 references:
   - source: qazvini-ghani
     locator: Gazel 24
+themes: [Abandonar tudo por amor, Não perder a esperança, O poder que vira vento]
+introduction:
+  - >-
+    Hafez avisa que não se comportará como esperam: o amor já o afastou da vida respeitável e de tudo
+    o que antes parecia importante. O vinho pode ser bebida, paixão ou êxtase espiritual.
+  - O poema termina com uma brincadeira amarga sobre Salomão, rei que comandava o vento. Hafez diz
+    que também se tornou Salomão, mas porque ficou apenas com vento nas mãos — ou seja, sem nada.
+stanzaNotes:
+  - {
+      stanza: 1,
+      plain: 'Não espere que eu me comporte como um homem correto; desde sempre meu caminho foi outro.',
+      meaning: "O 'dia da criação' é o momento anterior ao nascimento em que o destino teria sido decidido.",
+    }
+  - {
+      stanza: 2,
+      plain: 'Quando entrei no amor, despedi-me de tudo o que existia antes.',
+      meaning: 'Lavar-se lembra a preparação para a oração. As quatro despedidas lembram a oração feita sobre os mortos: para Hafez, o velho mundo morreu.',
+    }
+  - {
+      stanza: 3,
+      plain: 'Dá-me vinho e eu direi quem me fez apaixonar e perder o controle.',
+      meaning: 'Hafez promete revelar o destino, mas sua resposta volta ao rosto e ao perfume do amado.',
+    }
+  - {
+      stanza: 4,
+      plain: 'Mesmo diante de algo enorme, não desista de receber perdão e ajuda.',
+      meaning: 'Montanha e formiga mostram que tamanhos e forças comuns não valem diante da misericórdia de Deus.',
+    }
+  - {
+      stanza: 5,
+      plain: 'Neste mundo, ninguém foi realmente feliz — talvez apenas teus belos olhos.',
+      meaning: 'O teto azul é o céu. Os olhos do amado são chamados de bêbados porque parecem lânguidos e sedutores.',
+    }
+  - {
+      stanza: 6,
+      plain: 'Tua boca é o botão mais bonito que Deus colocou no jardim do mundo.',
+      meaning: 'A boca pequena e fechada lembra um botão de rosa. Hafez oferece a própria vida em troca dessa beleza.',
+    }
+  - {
+      stanza: 7,
+      plain: 'O amor me fez sentir como um grande rei, mas no fim fiquei de mãos vazias.',
+      meaning: "Salomão comandava o vento. A expressão 'vento nas mãos' também significa terminar sem nada; o verso junta glória e fracasso.",
+    }
+glossary: [gazel, amado, vinho, narciso, takhallos]
+culturalNotes:
+  - title: Salomão e o vento
+    body: >-
+      No Alcorão, Salomão recebe poder sobre o vento. Hafez usa essa história para um jogo de
+      palavras: ter o vento nas mãos pode ser poder imenso ou não ter nada.
+    sources: [{ source: alcorao, locator: '21:81' }]
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

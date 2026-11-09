@@ -3,6 +3,7 @@ category: gazal
 number: 20
 firstLine:
   fa: روزه یک‌سو شد و عید آمد و دل‌ها برخاست
+  pt: O jejum ficou para trás, a festa chegou e os corações se ergueram
 originalLanguage: fa
 original:
   language: fa
@@ -28,11 +29,115 @@ original:
     source: ganjoor
     locator: Gazel 20
     url: https://ganjoor.net/hafez/ghazal/sh20
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - O jejum ficou para trás, a festa chegou e os corações se ergueram;
+      - 'o vinho ferveu na adega: é hora de pedi-lo.'
+    - - Passou a vez dos que exibem devoção e tornam tudo pesado;
+      - chegou o tempo da liberdade e da alegria dos rends.
+    - - Que censura merece quem bebe um vinho assim?
+      - por que chamar isso de tamanho defeito e tamanho erro?
+    - - Beber vinho sem fingimento nem exibição
+      - é melhor que vender devoção cheia de aparência e hipocrisia.
+    - - Não fingimos ser livres nem fazemos amizade com a falsidade;
+      - quem conhece o que está escondido sabe que somos sinceros.
+    - - Cumprimos o dever dado por Deus e não fazemos mal a ninguém;
+      - e não dizemos que é permitido aquilo que dizem não ser.
+    - - Que mal há se eu e tu bebermos algumas taças?
+      - O vinho é sangue das videiras, não é sangue de vocês.
+    - - Que defeito é esse, para causar tamanho mal?
+      - E, mesmo que seja um defeito, quem neste mundo não tem nenhum?
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-08
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
 references:
   - source: qazvini-ghani
     locator: Gazel 20
+themes:
+  [
+    A festa depois do jejum,
+    Sinceridade contra aparência,
+    Viver sem ferir ninguém,
+    Ninguém é perfeito,
+  ]
+introduction:
+  - O jejum terminou e a festa começou. Hafez anuncia a volta do vinho e dos rends, pessoas de má
+    fama que ele considera mais sinceras que os devotos preocupados em parecer santos.
+  - O alvo principal não é a religião, mas a hipocrisia. O poeta afirma cumprir seus deveres e não
+    fazer mal a ninguém; o que recusa é transformar devoção em espetáculo e usar a regra para julgar os outros.
+  - 'O tom é de defesa bem-humorada. Se o vinho vem da uva e não do sangue humano, pergunta Hafez,
+    quem foi ferido? O último dístico amplia a provocação: ninguém atravessa a vida sem defeitos.'
+stanzaNotes:
+  - stanza: 1
+    plain: O período de jejum acabou; agora os corações despertam e todos querem vinho para celebrar.
+    meaning: A festa é o Eid que vem depois do mês de jejum do Ramadã. Hafez imagina o vinho
+      "fervendo" dentro da adega, ansioso para voltar às taças.
+    literal: O jejum foi para um lado, a festa veio e os corações levantaram / o vinho da casa dos tonéis ferveu e vinho se deve pedir.
+    choices: Traduzimos "eid" como "festa"; o contexto deixa claro que se trata do fim do jejum.
+  - stanza: 2
+    plain: Acabou o momento dos falsos devotos; chegou a hora de gente livre e alegre.
+    meaning: O rend não tenta parecer santo. Já o "vendedor de devoção" mostra sua religião para
+      receber elogios. Hafez prefere a pessoa malvista, mas sincera.
+    literal: A vez dos vendedores de ascetismo de alma pesada passou / o tempo da rendice e de os rends fazerem alegria apareceu.
+    choices: Mantivemos "rends" porque o glossário explica essa figura sem equivalente exato.
+  - stanza: 3
+    plain: Por que condenar tanto quem bebe? Chamar isso de grande crime é uma falta de bom senso.
+    meaning: Os críticos chamam o vinho de grande pecado. Hafez responde que condenar alguém com
+      tanta dureza pode ser menos sensato que o próprio ato de beber.
+    literal: Que censura há para aquele que bebe tal vinho? / que defeito é este com tal falta de razão, e que erro?
+    choices: A pergunta é deliberadamente desafiadora; não a suavizamos como pedido de desculpas.
+  - stanza: 4
+    plain: Beber honestamente é melhor que fingir ser santo para impressionar os outros.
+    meaning: Para Hafez, admitir que bebe é melhor que fingir ser santo. O problema maior não é
+      quebrar uma regra, mas usar a religião como espetáculo para enganar os outros.
+    literal: Beber vinho em que não haja face nem ostentação / é melhor que vender ascetismo em que há face e hipocrisia.
+    choices: Reproduzimos o paralelismo para manter a força do argumento.
+  - stanza: 5
+    plain: Nossa fama de gente livre também não é teatro. Deus sabe o que realmente existe dentro de nós.
+    meaning: Até a rebeldia pode virar uma pose. Hafez diz que não finge ser devoto, mas também não
+      finge ser boêmio. Deus conhece sua intenção verdadeira.
+    literal: Não somos rends da ostentação nem companheiros da hipocrisia / aquele que conhece o segredo é testemunha deste estado.
+    choices: '"Conhecedor do segredo" pode ser Deus; deixamos a expressão aberta e explicamos a leitura aqui.'
+  - stanza: 6
+    plain: Fazemos o que devemos, não machucamos ninguém e não fingimos que o proibido deixou de ser proibido.
+    meaning: >-
+      Hafez não diz que o vinho passou a ser permitido pela religião. Sua defesa é outra: ele cumpre
+      seus deveres e não machuca ninguém.
+    literal: Cumprimos a obrigação de Deus e a ninguém fazemos mal / e aquilo que dizem não ser permitido não dizemos que é permitido.
+    choices: '"Farz" é obrigação religiosa; "dever dado por Deus" torna o sentido claro sem jargão jurídico.'
+  - stanza: 7
+    plain: Se bebermos algumas taças, não estaremos derramando o sangue de ninguém.
+    meaning: Por ser vermelho, o vinho é chamado de "sangue da videira". Hafez lembra aos críticos
+      que beber vinho não significa derramar o sangue de uma pessoa.
+    literal: Que acontece se eu e tu bebermos algumas taças de vinho? / o vinho é do sangue das videiras, não de vosso sangue.
+    choices: Mantivemos a mudança de "eu e tu" para "vocês", pela qual Hafez confronta diretamente os críticos.
+  - stanza: 8
+    plain: Mesmo que beber seja um defeito, ninguém é perfeito; por que tratá-lo como se destruísse tudo?
+    meaning: Hafez admite que beber pode ser um defeito, mas pede que os outros não o tratem como o
+      fim do mundo. Afinal, quem critica também tem seus próprios defeitos.
+    literal: Que defeito é este, de que virá prejuízo? / e se houver, que aconteceu? Onde está a pessoa sem defeito?
+    choices: '"Mardom-e bi-eyb" é literalmente "gente sem defeito"; mantivemos a pergunta universal.'
+glossary: [gazel, vinho, rend, islam]
+culturalNotes:
+  - title: O fim do jejum
+    body: O Eid al-Fitr encerra o mês de jejum do Ramadã. Hafez usa a passagem da abstinência para a
+      festa como ocasião para atacar a devoção exibida e celebrar a alegria.
+  - title: O sangue da videira
+    body:
+      'Chamar o vinho tinto de sangue da uva ou da videira é uma imagem antiga. Aqui ela sustenta
+      um argumento simples: beber não equivale a derramar sangue humano.'
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

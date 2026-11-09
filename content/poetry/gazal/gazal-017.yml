@@ -3,6 +3,7 @@ category: gazal
 number: 17
 firstLine:
   fa: سینه از آتش دل، در غمِ جانانه بسوخت
+  pt: O peito ardeu no fogo do coração, de saudade do amado
 originalLanguage: fa
 original:
   language: fa
@@ -28,11 +29,94 @@ original:
     source: ganjoor
     locator: Gazel 17
     url: https://ganjoor.net/hafez/ghazal/sh17
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Meu peito ardeu com a dor de estar longe do amado;
+      - o fogo começou no coração e queimou a casa inteira.
+    - - Meu corpo se desfez por estar longe do amado;
+      - minha alma ardeu no fogo do amor por seu rosto.
+    - - Vê quanto sofre meu coração; diante do fogo de minhas lágrimas,
+      - até a vela teve pena de mim e ardeu como uma mariposa.
+    - - 'Não espanta que um conhecido se compadeça de mim:'
+      - quando saí de mim, até o coração do estranho ardeu.
+    - - O vinho da taverna levou embora meu manto religioso;
+      - o fogo da taberna queimou a morada da razão.
+    - - Quando prometi abandonar o vinho, meu coração quebrou como uma taça;
+      - longe do vinho e da adega, queimei por dentro como a tulipa.
+    - - 'Deixa a disputa e volta: a pupila de meus olhos'
+      - tirou o manto pela cabeça e o queimou em agradecimento.
+    - - 'Abandona as histórias, Hafez, e bebe vinho por um instante:'
+      - não dormimos esta noite, e a vela se consumiu com a história.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-08
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
 references:
   - source: qazvini-ghani
     locator: Gazel 17
+themes: [A dor da separação, Arder de amor, A razão vencida, Voltar antes que a noite acabe]
+introduction:
+  - Este é um poema de fogo. Peito, corpo, alma, vela, taverna e até a razão queimam enquanto o
+    amado permanece longe. A repetição transforma a separação numa experiência que consome tudo.
+  - Hafez mistura imagens delicadas e violentas. A vela se compadece do amante, a tulipa traz no
+    centro uma mancha escura como um coração queimado, e o vinho destrói a falsa segurança da razão.
+  - No final, ele pede que o amado volte e que as discussões acabem. A noite é curta, a vela já está
+    terminando e continuar apenas contando histórias não substitui o encontro.
+stanzaNotes:
+  - stanza: 1
+    plain: A dor de ficar longe de quem amo começou no coração e tomou conta de mim por inteiro.
+    meaning: Hafez imagina o corpo como uma casa e o coração como o lugar onde o incêndio começou.
+      A dor se espalhou até tomar conta dele inteiro.
+  - stanza: 2
+    plain: A distância destruiu meu corpo, e o amor pelo teu rosto queimou minha alma.
+    meaning: A separação atinge o corpo e a alma. A palavra persa para o amor também lembra o sol,
+      por isso o rosto do amado parece ao mesmo tempo belo, luminoso e ardente.
+  - stanza: 3
+    plain: Sofri tanto que até a vela, acostumada a queimar, pareceu ter pena de mim.
+    meaning: >-
+      Normalmente, a mariposa se apaixona pela vela e morre em sua chama. Aqui acontece o contrário:
+      a vela vê o sofrimento de Hafez e passa a queimar de pena dele.
+  - stanza: 4
+    plain: Minha dor ficou tão evidente que não só amigos, mas até desconhecidos se comoveram.
+    meaning: >-
+      "Sair de si" pode significar perder os sentidos de tanta dor. Numa leitura espiritual, também
+      pode ser esquecer o próprio ego. A cena mostra que até estranhos se comovem.
+  - stanza: 5
+    plain: O vinho acabou com minha aparência de homem religioso, e a taverna venceu minha razão.
+    meaning:
+      O "manto" mostrava devoção. Hafez diz que o vinho o levou embora e que a taverna queimou
+      sua confiança no controle e no bom senso.
+  - stanza: 6
+    plain: Arrependi-me de beber, mas esse arrependimento partiu meu coração; sem vinho, fiquei ainda pior.
+    meaning: Ao prometer que não beberia mais, ele se sentiu pior. Seu coração virou uma taça
+      quebrada. A mancha escura no centro da tulipa parece uma queimadura escondida.
+  - stanza: 7
+    plain: Para de brigar comigo e volta. Meus olhos estão prontos para festejar tua chegada.
+    meaning: Em persa, a pupila é chamada de "pessoa do olho". Hafez imagina essa pequena pessoa
+      tirando e queimando o manto religioso para agradecer a volta do amado.
+  - stanza: 8
+    plain: 'Hafez, chega de conversa: bebe agora, porque a noite passou e a vela está acabando.'
+    meaning: >-
+      Hafez fala consigo mesmo no último dístico. A vela queimou durante toda a noite e está quase no
+      fim: o tempo passou em conversa, mas o encontro não aconteceu.
+glossary: [gazel, amado, vinho, kherqe, sufi, takhallos]
+culturalNotes:
+  - title: A vela e a mariposa
+    body: Na poesia persa, a mariposa se lança à chama e representa o amante que aceita desaparecer
+      no amado. Hafez troca os papéis e faz a própria vela arder de compaixão.
+  - title: A mancha da tulipa
+    body: A tulipa vermelha tem um centro escuro que os poetas persas imaginam como coração ou fígado queimado pela dor.
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

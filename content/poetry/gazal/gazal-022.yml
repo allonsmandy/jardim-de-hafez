@@ -3,6 +3,7 @@ category: gazal
 number: 22
 firstLine:
   fa: چو بشنوی سخنِ اهلِ دل، مگو که خطاست
+  pt: Quando ouvires as palavras de quem conhece o coração, não digas que estão erradas
 originalLanguage: fa
 original:
   language: fa
@@ -32,11 +33,94 @@ original:
     source: ganjoor
     locator: Gazel 22
     url: https://ganjoor.net/hafez/ghazal/sh22
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Quando ouvires as palavras de quem conhece o coração, não digas que estão erradas;
+      - tu não sabes reconhecer tais palavras, meu bem — o erro está aí.
+    - - Minha cabeça não se curva nem a este mundo nem ao outro;
+      - bendito Deus, quantos tumultos carrego dentro dela!
+    - - 'Não sei quem vive dentro de mim, cansado de sofrer:'
+      - eu estou calado, mas ele grita e faz alvoroço.
+    - - Meu coração saiu de trás da cortina; onde estás, músico?
+      - toca e lamenta, pois é dessa música que nossa vida ganha voz.
+    - - Nunca dei importância aos negócios do mundo;
+      - foi teu rosto que os tornou tão belos aos meus olhos.
+    - - Não dormi por causa de um desejo que meu coração prepara;
+      - tenho a ressaca de cem noites — onde está a casa do vinho?
+    - - Meu sangue manchou tanto este convento
+      - que, se me lavardes com vinho, tereis razão.
+    - - Sou estimado no templo dos magos
+      - porque há em meu coração um fogo que nunca morre.
+    - - Que música tocava escondido aquele músico?
+      - A vida passou, mas minha cabeça ainda está cheia de desejo.
+    - - Ontem à noite, anunciaram teu amor dentro de mim;
+      - o peito de Hafez ainda está cheio do eco.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    [
+      Tradução preliminar feita por IA a partir do texto persa,
+      sem rima,
+      priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.,
+    ]
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-08
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
 references:
   - source: qazvini-ghani
     locator: Gazel 22
+themes:
+  [Uma voz dentro de nós, O amor que não deixa dormir, Música e desejo, Um fogo que não se apaga]
+introduction:
+  - Este gazel fala de uma voz interior que Hafez não consegue silenciar. Por fora ele está quieto;
+    por dentro, alguém grita, deseja, canta e o mantém acordado.
+  - Música, vinho e fogo dão forma a essa inquietação. Eles podem representar uma paixão humana, mas
+    também uma busca por Deus que não cabe nas regras e na vida comum.
+stanzaNotes:
+  - stanza: 1
+    plain: Não rejeite logo o que uma pessoa experiente diz; talvez você ainda não saiba entendê-la.
+    meaning: '"Gente do coração" são pessoas que conhecem o amor por experiência. Hafez diz que o ouvinte pode estar errado, não elas.'
+  - stanza: 2
+    plain: Não abaixo a cabeça por recompensa neste mundo nem depois da morte; minha mente está cheia de outras preocupações.
+    meaning: Hafez recusa tanto vantagens materiais quanto a promessa do paraíso. O amor ocupa sua cabeça e não o deixa obedecer por interesse.
+  - stanza: 3
+    plain: Por fora estou em silêncio, mas existe dentro de mim uma voz que não para de gritar.
+    meaning: Essa presença pode ser o desejo, o coração ou a voz do amor divino. Hafez não decide quem é, apenas mostra sua força.
+  - stanza: 4
+    plain: Meu coração já não consegue se esconder. Músico, toca algo que expresse o que estou sentindo.
+    meaning: '"Cortina" também pode significar um modo musical em persa. O verso brinca com esconder-se e tocar música.'
+  - stanza: 5
+    plain: Eu não ligava para o mundo, mas passei a vê-lo com beleza porque teu rosto está nele.
+    meaning: O amor muda o modo de olhar. Não é o mundo que se transforma; a presença do amado faz tudo parecer diferente.
+  - stanza: 6
+    plain: Um desejo não me deixa dormir. Sinto como se carregasse a ressaca de cem noites.
+    meaning: 'A ressaca aparece antes da bebida: Hafez sofre de falta do vinho, do amado ou da experiência espiritual que procura.'
+  - stanza: 7
+    plain: Sofri tanto neste lugar religioso que agora até lavar-me com vinho parece justo.
+    meaning: O sangue representa dor. O vinho, proibido, vira uma água de limpeza mais sincera que o convento manchado pelo sofrimento.
+  - stanza: 8
+    plain: Na taverna me recebem bem porque reconhecem em mim uma paixão que nunca se apaga.
+    meaning: O templo dos magos está ligado aos zoroastrianos e ao vinho. Seu fogo também lembra o fogo sagrado dessa religião.
+  - stanza: 9
+    plain: A música acabou há muito tempo, mas ainda sinto dentro de mim o desejo que ela despertou.
+    meaning: A vida passou como uma canção. Mesmo velho, o poeta continua marcado pelo amor e pelo impulso de viver.
+  - stanza: 10
+    plain: Ouvi o chamado do teu amor dentro de mim, e o som ainda não parou de ecoar.
+    meaning: Hafez assina o poema descrevendo o peito como uma sala cheia de som. O amor chega como anúncio que ocupa todo o corpo.
+glossary: [gazel, amado, vinho, pir-e-moghan, takhallos]
+culturalNotes:
+  - title: A cortina e a música
+    body: A palavra persa "parde" significa cortina, mas também pode indicar um modo musical. Hafez usa os dois sentidos no mesmo verso.
+  - title: O fogo dos magos
+    body: Os zoroastrianos mantinham o fogo aceso em seus templos. Hafez aproxima esse fogo da paixão que nunca se apaga em seu coração.
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

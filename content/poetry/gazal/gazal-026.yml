@@ -3,6 +3,7 @@ category: gazal
 number: 26
 firstLine:
   fa: زلف‌آشفته و خِوی‌کرده و خندان‌لب و مست
+  pt: Cabelos revoltos, rosto suado, lábios sorridentes e embriagado
 originalLanguage: fa
 original:
   language: fa
@@ -26,11 +27,95 @@ original:
     source: ganjoor
     locator: Gazel 26
     url: https://ganjoor.net/hafez/ghazal/sh26
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Cabelos revoltos, rosto suado, lábios sorridentes e embriagado,
+      - camisa aberta, cantando um gazel e com a jarra na mão;
+    - - olhos provocadores e lábios que zombavam,
+      - veio ontem à meia-noite, sentou-se junto à minha cama;
+    - - inclinou a cabeça até meu ouvido e, com voz triste,
+      - "perguntou: 'Meu antigo amante, estás dormindo?'"
+    - - Se um amante recebe de madrugada um vinho como esse
+      - e não passa a amar o vinho, então é infiel ao amor.
+    - - Vai embora, devoto, e não critiques quem bebe o resto do vinho;
+      - no primeiro dia da criação, não recebemos outro presente.
+    - - Bebemos tudo o que ele derramou em nossa taça,
+      - fosse o vinho do paraíso ou o vinho que embriaga.
+    - - O sorriso da taça e os cabelos do amado, cheios de nós,
+      - quebraram muitas promessas, inclusive a de Hafez.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    [
+      Tradução preliminar feita por IA a partir do texto persa,
+      sem rima,
+      priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.,
+    ]
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  {
+    level: preliminary,
+    by: Proprietária do projeto,
+    at: 2026-11-08,
+    basis: 'Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.',
+  }
 references:
   - source: qazvini-ghani
     locator: Gazel 26
+themes: [Uma visita à meia-noite, Render-se ao amor, Não julgar quem bebe]
+introduction:
+  - >-
+    O amado chega de surpresa à meia-noite, embriagado, sorrindo e cantando. A cena é íntima e viva:
+    Hafez mal acredita que alguém ainda pudesse dormir diante de tal visita.
+  - Depois, ele defende sua entrega. Se o amor oferece essa taça, recusá-la seria trair o próprio amor.
+    O vinho continua aberto aos sentidos de bebida real, paixão e êxtase espiritual.
+stanzaNotes:
+  - {
+      stanza: 1,
+      plain: 'O amado apareceu de madrugada, desarrumado, bêbado, cantando e com vinho na mão.',
+      meaning: 'A aparência sem cerimônia cria uma cena de intimidade e liberdade.',
+    }
+  - {
+      stanza: 2,
+      plain: 'Ele veio até minha cama com um olhar provocador e um sorriso que parecia zombar de mim.',
+      meaning: 'O narciso representa os olhos belos; aqui eles procuram uma pequena briga amorosa.',
+    }
+  - {
+      stanza: 3,
+      plain: 'Ele chegou bem perto e perguntou se eu conseguia dormir apesar de sua presença.',
+      meaning: 'A voz triste mistura carinho e censura: um amante verdadeiro deveria estar acordado esperando.',
+    }
+  - {
+      stanza: 4,
+      plain: 'Quem recebe um amor tão intenso e não se entrega não entendeu o que é amar.',
+      meaning: 'O vinho da madrugada é bebida e também o amor oferecido diretamente pelo amado.',
+    }
+  - {
+      stanza: 5,
+      plain: 'Não nos critique por beber; sentimos que esse caminho nos foi dado desde o começo.',
+      meaning: 'Hafez responde ao moralista dizendo que seu destino foi decidido antes do nascimento.',
+    }
+  - {
+      stanza: 6,
+      plain: 'Aceitamos o que foi colocado em nossa taça, sem perguntar que tipo de vinho era.',
+      meaning: 'O importante é quem serve, não a origem da bebida. Isso sugere confiança no amado ou em Deus.',
+    }
+  - {
+      stanza: 7,
+      plain: 'A taça e os cabelos do amado fizeram Hafez quebrar sua promessa de não beber.',
+      meaning: 'Os cachos são armadilhas; o sorriso da taça convida. Juntos vencem qualquer tentativa de autocontrole.',
+    }
+glossary: [gazel, amado, vinho, narciso, takhallos]
+culturalNotes:
+  - {
+      title: 'O resto da taça',
+      body: 'Beber até o sedimento era sinal de entrega total e também de baixa reputação. Hafez transforma essa vergonha em fidelidade ao amor.',
+    }
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

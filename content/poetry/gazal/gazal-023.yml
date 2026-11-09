@@ -3,6 +3,7 @@ category: gazal
 number: 23
 firstLine:
   fa: خیالِ رویِ تو در هر طریق همرهِ ماست
+  pt: A lembrança de teu rosto me acompanha por todos os caminhos
 originalLanguage: fa
 original:
   language: fa
@@ -26,11 +27,94 @@ original:
     source: ganjoor
     locator: Gazel 23
     url: https://ganjoor.net/hafez/ghazal/sh23
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - A lembrança de teu rosto me acompanha por todos os caminhos;
+      - a brisa de teus cabelos mantém unida minha alma desperta.
+    - - Apesar dos que nos proíbem de amar,
+      - a beleza de teu rosto é razão suficiente para nós.
+    - - 'Escuta o que diz a covinha de teu queixo:'
+      - mil Josés do Egito caíram em nosso poço.
+    - - Se minha mão não alcança teus longos cabelos,
+      - a culpa é de minha sorte confusa e de meu braço curto.
+    - - Diz ao guarda da porta de teus aposentos
+      - que este desconhecido vive humilde junto à tua entrada.
+    - - Embora teu rosto esteja escondido de meus olhos,
+      - ele está sempre presente em minha lembrança tranquila.
+    - - 'Se Hafez bater à porta uma vez por ano, abre:'
+      - há anos ele deseja ver teu rosto de lua.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    [
+      Tradução preliminar feita por IA a partir do texto persa,
+      sem rima,
+      priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.,
+    ]
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  {
+    level: preliminary,
+    by: Proprietária do projeto,
+    at: 2026-11-08,
+    basis: 'Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.',
+  }
 references:
   - source: qazvini-ghani
     locator: Gazel 23
+themes: [Levar o amado na lembrança, Amar apesar das críticas, Esperar junto à porta]
+introduction:
+  - O amado está longe e talvez seja impossível alcançá-lo. Mesmo assim, sua lembrança acompanha
+    Hafez por toda parte e torna a ausência um tipo de presença.
+  - >-
+    O poeta pede apenas que a porta seja aberta de vez em quando. O tom mistura humildade, desejo e
+    humor: ele culpa a má sorte e até o próprio braço curto por não alcançar os cabelos do amado.
+stanzaNotes:
+  - {
+      stanza: 1,
+      plain: 'Mesmo longe, lembro de ti em todo lugar; essa lembrança me mantém vivo.',
+      meaning: 'O perfume dos cabelos chega como uma brisa. Para Hafez, recordar o amado alimenta a alma.',
+    }
+  - {
+      stanza: 2,
+      plain: 'Os outros podem proibir nosso amor; tua beleza já é motivo suficiente para continuar.',
+      meaning: 'Hafez não responde aos críticos com uma regra. Responde dizendo que basta olhar o amado para entender por que ama.',
+    }
+  - {
+      stanza: 3,
+      plain: 'Tua covinha é como um poço capaz de prender até os homens mais belos.',
+      meaning: "José, conhecido por sua beleza, foi lançado num poço. A covinha do queixo vira outro poço onde muitos 'Josés' caem de amor.",
+    }
+  - {
+      stanza: 4,
+      plain: 'Se não consigo te alcançar, a culpa é da minha má sorte e de minhas limitações.',
+      meaning: "Os cabelos são algo desejado, mas distante. 'Mão curta' também significa ter pouco poder para conseguir o que se quer.",
+    }
+  - {
+      stanza: 5,
+      plain: 'Pede ao guarda que me deixe esperar humildemente junto à tua porta.',
+      meaning: 'O amado vive como alguém importante, protegido por um porteiro. Hafez aceita o lugar mais baixo apenas para permanecer perto.',
+    }
+  - {
+      stanza: 6,
+      plain: 'Não consigo te ver com os olhos, mas te vejo o tempo todo em minha mente.',
+      meaning: 'A distância física não apaga o amado. A memória cria uma presença interior que ninguém pode impedir.',
+    }
+  - {
+      stanza: 7,
+      plain: 'Se eu aparecer raramente, ainda assim abre a porta; espero por esse encontro há anos.',
+      meaning: 'Hafez usa sua assinatura para pedir acolhimento. O rosto comparado à lua é belo, luminoso e distante.',
+    }
+glossary: [gazel, amado, jose-zuleica, takhallos]
+culturalNotes:
+  - title: José no poço
+    body: José aparece no Alcorão como homem de beleza extraordinária lançado num poço. Hafez transforma a covinha do amado em um poço ainda mais irresistível.
+    sources: [{ source: alcorao, locator: '12:10–19' }]
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08

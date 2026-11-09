@@ -3,6 +3,7 @@ category: gazal
 number: 16
 firstLine:
   fa: خَمی که ابرویِ شوخِ تو در کمان انداخت
+  pt: A curva que tua sobrancelha travessa lançou no arco
 originalLanguage: fa
 original:
   language: fa
@@ -34,11 +35,111 @@ original:
     source: ganjoor
     locator: Gazel 16
     url: https://ganjoor.net/hafez/ghazal/sh16
-translationStatus: pending
-publicationAuthorized: false
+translation:
+  language: pt-BR
+  kind: translation
+  stanzas:
+    - - Tua sobrancelha travessa curvou-se como um arco
+      - e apontou para a vida deste pobre amante indefeso.
+    - - 'Antes mesmo de existirem este mundo e o outro, nosso amor já existia:'
+      - não foi agora que o tempo começou essa história.
+    - - Com um só gesto de sedução, o narciso se exibiu;
+      - teus olhos, muito mais sedutores, espalharam cem tumultos pelo mundo.
+    - - Depois de beber, caminhas pelo jardim com o rosto suado;
+      - diante do seu brilho, as flores vermelhas parecem pegar fogo.
+    - - Ontem à noite, passei embriagado pela festa do jardim;
+      - o botão de rosa me fez pensar em tua boca.
+    - - A violeta ajeitava sua mecha enrolada;
+      - então a brisa da manhã começou a falar de teus cabelos.
+    - - Envergonhado por eu o ter comparado ao teu rosto,
+      - o jasmim, pela mão da brisa, cobriu a boca de terra.
+    - - Antes, por querer ser devoto, eu evitava o vinho e a música;
+      - depois, o desejo pelos jovens da taverna me arrastou para outra vida.
+    - - 'Agora lavo meu manto religioso com vinho vermelho:'
+      - ninguém consegue fugir do destino que recebeu antes de nascer.
+    - - Talvez Hafez só pudesse se libertar perdendo a boa fama,
+      - pois uma graça antiga o conduziu ao vinho dos magos.
+    - - Agora o mundo seguirá meu desejo, pois a roda do tempo
+      - me lançou ao serviço do senhor do mundo.
+  translators: [Codex (IA, OpenAI)]
+  reviewers: []
+  notes:
+    - Tradução preliminar feita por IA a partir do texto persa, sem rima, priorizando sentido,
+      imagens e ambiguidades. Ver /como-traduzimos.
+  machineAssisted: true
+translationStatus: draft
+publicationAuthorized: true
+authorization:
+  level: preliminary
+  by: Proprietária do projeto
+  at: 2026-11-08
+  basis: Publicação como tradução preliminar por IA, aberta a correções, autorizada pela proprietária.
 references:
   - source: qazvini-ghani
     locator: Gazel 16
+themes: [A beleza que fere, Um amor anterior ao mundo, Da devoção à taverna, O destino]
+introduction:
+  - Neste gazel, a beleza do amado põe tudo em movimento. A sobrancelha vira arco, o olhar provoca
+    tumultos e o rosto deixa as flores envergonhadas. O jardim inteiro tenta imitar uma beleza que
+    sempre o supera.
+  - Depois, Hafez conta que deixou a vida religiosa e foi para a taverna. Ele apresenta essa mudança
+    como algo que já fazia parte de seu destino. Para ele, perder a fama de homem santo talvez seja
+    justamente o que permite viver com sinceridade.
+  - O verbo persa que significa "lançar" fecha todos os dísticos e une a flecha do olhar às voltas do destino.
+stanzaNotes:
+  - stanza: 1
+    plain: A curva da tua sobrancelha parece um arco apontado para mim, e eu não tenho como me defender.
+    meaning: Na poesia persa, a sobrancelha curva parece um arco. O olhar é a flecha. Hafez diz que
+      a beleza do amado o atingiu e que ele não consegue resistir.
+  - stanza: 2
+    plain: Nosso amor não começou agora; ele já existia antes mesmo de o mundo tomar forma.
+    meaning: Os "dois mundos" são a vida aqui e a vida depois da morte. Hafez diz que esse amor é
+      mais antigo que ambos. Pode ser amor por uma pessoa ou o amor da alma por Deus.
+  - stanza: 3
+    plain: Até a flor que se acha bonita perde para os teus olhos, capazes de agitar o mundo inteiro.
+    meaning:
+      O centro do narciso lembra um olho. A flor parece olhar para si mesma e se achar bonita,
+      mas os olhos do amado são muito mais poderosos e deixam todos apaixonados.
+  - stanza: 4
+    plain: Tu atravessas o jardim depois de beber, e o teu rosto faz a flor vermelha parecer em chamas.
+    meaning:
+      O erguvan é uma árvore coberta de flores vermelhas. Hafez imagina que elas ficaram ainda
+      mais vermelhas, como fogo, quando o amado passou pelo jardim.
+  - stanza: 5
+    plain: Passei bêbado pelo jardim e, ao ver um botão de rosa, lembrei imediatamente da tua boca.
+    meaning: Pequeno, fechado e vermelho, o botão de rosa é uma comparação tradicional para a boca do amado.
+  - stanza: 6
+    plain: A violeta arrumava os próprios cachos quando a brisa começou a falar dos teus cabelos.
+    meaning: A violeta é escura e curvada, por isso parece uma mecha de cabelo. Quando a brisa fala
+      dos cabelos do amado, porém, a flor perde qualquer chance de comparação.
+  - stanza: 7
+    plain: Comparei o jasmim ao teu rosto, mas a flor ficou envergonhada porque não é tão bonita.
+    meaning: >-
+      "Pôr terra na boca" significa calar-se de vergonha. Hafez brinca dizendo que o jasmim se
+      humilhou porque compará-lo ao rosto do amado foi elogio demais para a flor.
+  - stanza: 8
+    plain: Eu tentava viver como um homem religioso, longe do vinho e da música, mas a taverna me atraiu.
+    meaning: Os jovens que serviam nas tavernas eram figuras de beleza e tentação. Hafez pode estar
+      falando de desejo amoroso, mas também de uma busca espiritual fora da religião de aparência.
+  - stanza: 9
+    plain: Agora lavo com vinho o manto da antiga devoção, porque não consigo fugir do meu destino.
+    meaning: O manto mostrava que alguém era religioso. Lavá-lo com vinho parece absurdo, porque o
+      vinho mancha e era proibido. Hafez diz que abandonar essa aparência já estava em seu destino.
+  - stanza: 10
+    plain: Talvez justamente aquilo que parece minha ruína seja o caminho da minha liberdade.
+    meaning: Para os moralistas, a taverna é lugar de perdição. Para Hafez, ela também pode destruir
+      o orgulho e a falsidade. Por isso, o que parece uma queda pode ser sua liberdade.
+  - stanza: 11
+    plain: A sorte virou a meu favor, pois fui colocado a serviço de um senhor poderoso.
+    meaning: Aqui Hafez parece agradecer a um homem poderoso que o acolheu ou protegeu. O poema não
+      diz quem ele era, por isso não é seguro dar um nome.
+glossary: [gazel, amado, narciso, saba, vinho, kherqe, pir-e-moghan, sufi, takhallos]
+culturalNotes:
+  - title: Um refrão feito de movimento
+    body: Cada dístico termina com uma forma de "andākht", lançar. O verbo liga a flecha do olhar,
+      as agitações do amor e as voltas do destino.
+  - title: Flores como espelhos
+    body: Narciso, erguvan, botão de rosa, violeta e jasmim imitam partes do amado — e todos fracassam na comparação.
 editorialNotes:
   - Texto persa importado automaticamente do Ganjoor em 2026-11-08; conferir com a edição impressa.
 updatedAt: 2026-11-08
